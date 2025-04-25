@@ -3,7 +3,7 @@
     "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.",
     "homepage": "https://kops.sigs.k8s.io",
     "license": "Apache-2.0",
-    "depends": "scoop-cn/kubectl",
+    "depends": "main/kubectl",
     "architecture": {
         "64bit": {
             "url": "https://ghproxy.cc/https://github.com/kubernetes/kops/releases/download/v1.31.0/kops-windows-amd64#/kops.exe",

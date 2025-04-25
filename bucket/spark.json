@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "notes": "Spark now comes with Hadoop 3. For the version with Hadoop 2, please install spark-hadoop2 from the Versions bucket.",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://dlcdn.apache.org/spark/spark-3.5.5/spark-3.5.5-bin-hadoop3.tgz",
     "hash": "sha512:ec5ff678136b1ff981e396d1f7b5dfbf399439c5cb853917e8c954723194857607494a89b7e205fce988ec48b1590b5caeae3b18e1b5db1370c0522b256ff376",

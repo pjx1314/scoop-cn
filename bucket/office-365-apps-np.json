@@ -1,16 +1,16 @@
 {
-    "version": "3.9.1",
+    "version": "18.9.0",
     "description": "Family of client software, server software and services developed by Microsoft.",
     "homepage": "https://www.office.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.microsoft.com/licensing/terms/productoffering/OfficeDesktopApplicationsWindows/MCA"
     },
-    "depends": "scoop-cn/7zip19.00-helper",
+    "depends": "main/7zip19.00-helper",
     "url": "https://download.microsoft.com/download/#/dl.7z_",
-    "hash": "4f87a5188f8b1d1eab8e9433571f16ce22f8433ff13edc777ee600bf7a25a924",
+    "hash": "0a25264ab4dcce8afe36b8ecf5447cb4707a2dcb513a4303bf50cb1c228bc3be",
     "pre_install": [
-        "$scriptdir = \"$bucketsdir\\scoop-cn\\scripts\"",
+        "$scriptdir = \"$bucketsdir\\main\\scripts\"",
         "if ($architecture -eq '64bit') {",
         "     Copy-Item \"$scriptdir\\install-office-365-apps.xml\" \"$dir\\\"",
         "}",

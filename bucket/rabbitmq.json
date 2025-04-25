@@ -3,7 +3,7 @@
     "description": "Message-broker",
     "homepage": "https://www.rabbitmq.com",
     "license": "MPL-2.0",
-    "depends": "scoop-cn/erlang",
+    "depends": "main/erlang",
     "url": "https://ghproxy.cc/https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.1.0/rabbitmq-server-windows-4.1.0.zip",
     "hash": "44362ba551b55b219c28ce30e3dbcd6894950f596ebae07256e93264bafb8f1d",
     "extract_dir": "rabbitmq_server-4.1.0",

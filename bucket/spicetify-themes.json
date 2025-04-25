@@ -5,7 +5,7 @@
     "license": "MIT",
     "suggest": {
         "spicetify": "spicetify-cli",
-        "spotify": "scoop-cn/spotify"
+        "spotify": "main/spotify"
     },
     "url": "https://ghproxy.cc/https://github.com/spicetify/spicetify-themes/archive/master.zip",
     "hash": "d447a423e3c01243323743cb1609d31c4398ff999f101bb5de7f29b6bb0731e9",

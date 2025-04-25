@@ -11,7 +11,7 @@
         "Also note that this installation overrides GEM_HOME and GEM_PATH from any previous Ruby or JRuby installation."
     ],
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://s3.amazonaws.com/jruby.org/downloads/10.0.0.0/jruby-bin-10.0.0.0.zip",
     "hash": "2d65d414c22393309e45e8a6afec2c5c5714e75b218860ba849a41fb680b4291",

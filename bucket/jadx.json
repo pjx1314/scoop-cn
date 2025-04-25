@@ -4,7 +4,7 @@
     "homepage": "https://github.com/skylot/jadx",
     "license": "Apache-2.0",
     "suggest": {
-        "JRE": "scoop-cn/openjdk"
+        "JRE": "main/openjdk"
     },
     "url": "https://ghproxy.cc/https://github.com/skylot/jadx/releases/download/v1.5.1/jadx-1.5.1.zip",
     "hash": "12fd966431903b8e15c36e5007f19343475be7d8f2a55f082e7a929eeabc937e",

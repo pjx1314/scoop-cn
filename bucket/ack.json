@@ -3,7 +3,7 @@
     "description": "A tool like grep, optimized for programmers",
     "homepage": "https://beyondgrep.com/",
     "license": "Artistic-2.0",
-    "depends": "scoop-cn/perl",
+    "depends": "main/perl",
     "url": "https://beyondgrep.com/ack-v3.8.1#/ack-single-file",
     "hash": "ab0fe23f02bb602088a1ce41c0ed728bf4b00d57eb3e1b4e5d51e320cab253d3",
     "bin": "ack.bat",

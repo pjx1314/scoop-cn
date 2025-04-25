@@ -4,7 +4,7 @@
     "homepage": "https://halo.run",
     "license": "GPL-3.0-or-later",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://ghproxy.cc/https://github.com/halo-dev/halo/releases/download/v2.20.18/halo-2.20.18.jar#/halo.jar",
     "hash": "37785b88afe9999df4c0903c54923d7edea8ed529010cdbe7af6a493410e6f1e",

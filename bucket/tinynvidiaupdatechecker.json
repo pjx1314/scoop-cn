@@ -7,7 +7,7 @@
     "hash": "6ed0220a11a7beaf8a5943164715b4c51933f03d97f4dfd1752751fe791490d4",
     "bin": "TinyNvidiaUpdateChecker.exe",
     "suggest": {
-        ".NET Desktop Runtime": "scoop-cn/windowsdesktop-runtime"
+        ".NET Desktop Runtime": "main/windowsdesktop-runtime"
     },
     "shortcuts": [
         [

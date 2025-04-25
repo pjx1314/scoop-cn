@@ -8,7 +8,7 @@
         "Or follow the migration guide: https://docs.scala-lang.org/scala3/guides/migration/compatibility-intro.html"
     ],
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://ghproxy.cc/https://github.com/scala/scala3/releases/download/3.6.4/scala3-3.6.4.msi",
     "hash": "85b208bcda82a5a50b6b3f2f9ae25194acf35756f058d06472639b47214b577a",

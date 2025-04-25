@@ -3,7 +3,7 @@
     "description": "Pandoc filter for cross-references",
     "homepage": "https://hackage.haskell.org/package/pandoc-crossref",
     "license": "GPL-2.0-or-later",
-    "depends": "scoop-cn/pandoc",
+    "depends": "main/pandoc",
     "architecture": {
         "64bit": {
             "url": "https://ghproxy.cc/https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.18.2/pandoc-crossref-Windows-X64.7z",

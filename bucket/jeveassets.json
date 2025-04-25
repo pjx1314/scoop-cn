@@ -6,7 +6,7 @@
     "url": "https://ghproxy.cc/https://github.com/GoldenGnu/jeveassets/releases/download/jeveassets-8.0.0/jeveassets-8.0.0.zip",
     "hash": "3e91d7179c88612fb859f624a0a2dc32d8cb1f138d581173e058d3ab8ddf0357",
     "suggest": {
-        "JRE": "scoop-cn/temurin-jre"
+        "JRE": "main/temurin-jre"
     },
     "extract_dir": "jEveAssets",
     "persist": "data",

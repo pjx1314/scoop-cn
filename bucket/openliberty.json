@@ -5,7 +5,7 @@
     "license": "EPL-1.0",
     "notes": "server.bat is aliased to wlp, client.bat is aliased to wlp-client",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://public.dhe.ibm.com/ibmdl/export/pub/software/openliberty/runtime/release/25.0.0.4/openliberty-25.0.0.4.zip",
     "hash": "fb69ba5643594d82d3a67f3d70293bb5fad1492880151c8ae832dde266bd4965",

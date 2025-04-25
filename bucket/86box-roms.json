@@ -8,7 +8,7 @@
     },
     "url": "https://ghproxy.cc/https://github.com/86Box/roms/archive/refs/tags/v4.2.1.zip",
     "hash": "1724e1a7bfcb7add7cb50fdff547ab60e0e7df6734624cd3841b4e94b07f8dfb",
-    "depends": "scoop-cn/86box",
+    "depends": "main/main/86box",
     "extract_dir": "roms-4.2.1",
     "installer": {
         "script": "New-Item -Path \"$(appdir 86box $global)\\current\\roms\" -ItemType Junction -Value \"$dir\" | Out-Null"

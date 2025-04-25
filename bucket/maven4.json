@@ -4,7 +4,7 @@
     "homepage": "https://maven.apache.org/",
     "license": "Apache-2.0",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-rc-3/binaries/apache-maven-4.0.0-rc-3-bin.zip",
     "hash": "sha512:637c8b72d5888519a3aef6cb36d843ee9d56de488252bcd386e22189e111c3c922426a8c53966e0a10a352802de9d77e5f73ed69d846123226717e4473cfe469",

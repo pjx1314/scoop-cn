@@ -8,8 +8,8 @@
     },
     "suggest": {
         "JDK": [
-            "scoop-cn/oraclejdk",
-            "scoop-cn/openjdk"
+            "main/oraclejdk",
+            "main/openjdk"
         ]
     },
     "url": "https://artifacts.elastic.co/downloads/logstash/logstash-6.8.23.zip",

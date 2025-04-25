@@ -5,8 +5,8 @@
     "license": "MIT",
     "suggest": {
         "JDK": [
-            "scoop-cn/oraclejdk",
-            "scoop-cn/openjdk"
+            "main/oraclejdk",
+            "main/openjdk"
         ]
     },
     "url": "https://ghproxy.cc/https://github.com/pinterest/ktlint/releases/download/1.5.0/ktlint#/ktlint.jar",

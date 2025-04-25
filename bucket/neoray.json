@@ -6,7 +6,7 @@
     "suggest": {
         "Neovim": [
             "neovim",
-            "scoop-cn/neovim-nightly"
+            "main/neovim-nightly"
         ]
     },
     "architecture": {

@@ -4,7 +4,7 @@
     "homepage": "https://spotbugs.github.io/",
     "license": "LGPL-2.1-only",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://repo.maven.apache.org/maven2/com/github/spotbugs/spotbugs/4.9.3/spotbugs-4.9.3.zip",
     "hash": "3b2dcf86f97d701700121cee4bd22305d4b54fd9ed7666fa0f53933a4ab92251",

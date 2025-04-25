@@ -3,7 +3,7 @@
     "description": "EXIF metadata viewing tool",
     "homepage": "https://github.com/d2phap/ExifGlass",
     "license": "GPL-3.0-or-later",
-    "depends": "scoop-cn/exiftool",
+    "depends": "main/main/exiftool",
     "architecture": {
         "64bit": {
             "url": "https://ghproxy.cc/https://github.com/d2phap/ExifGlass/releases/download/1.7.0.0/ExifGlass_1.7.0.0_net8_x64.zip",

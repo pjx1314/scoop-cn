@@ -7,8 +7,8 @@
         "url": "https://github.com/Reloaded-Project/Reloaded-II/blob/master/LICENSE.md"
     },
     "suggest": {
-        "Microsoft .NET 9.0 Desktop Runtime": "scoop-cn/windowsdesktop-runtime",
-        "Microsoft .NET 9.0 Desktop Runtime (x86)": "scoop-cn/windowsdesktop-runtime -a 32bit"
+        "Microsoft .NET 9.0 Desktop Runtime": "main/windowsdesktop-runtime",
+        "Microsoft .NET 9.0 Desktop Runtime (x86)": "main/windowsdesktop-runtime -a 32bit"
     },
     "url": "https://ghproxy.cc/https://github.com/Reloaded-Project/Reloaded-II/releases/download/1.29.0/Release.zip",
     "hash": "2a2a20092dd632e7b234089019000a5f5523ced7d08c97c1ac55d52dd9595781",

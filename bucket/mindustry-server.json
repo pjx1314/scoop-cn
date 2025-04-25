@@ -4,8 +4,8 @@
     "homepage": "https://mindustrygame.github.io/",
     "license": "GPL-3.0-only",
     "suggest": {
-        "Java Runtime Environment": "scoop-cn/adoptopenjdk-hotspot-jre",
-        "Mindustry": "scoop-cn/mindustry"
+        "Java Runtime Environment": "main/adoptopenjdk-hotspot-jre",
+        "Mindustry": "main/mindustry"
     },
     "url": "https://ghproxy.cc/https://github.com/Anuken/Mindustry/releases/download/v148/server-release.jar#/Mindustry-Server.jar",
     "hash": "3712073010deae3beeda9f9c18d21f78f6e21d58d45cb51ca92aebe1fd87ec91",

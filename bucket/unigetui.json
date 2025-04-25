@@ -4,7 +4,7 @@
     "homepage": "https://github.com/marticliment/UniGetUI",
     "license": "MIT",
     "suggest": {
-        "scoop-search": "scoop-cn/scoop-search"
+        "scoop-search": "main/scoop-search"
     },
     "url": "https://ghproxy.cc/https://github.com/marticliment/UniGetUI/releases/download/3.1.8/UniGetUI.Installer.exe",
     "hash": "646abe5ba7a0f2cc5fd8dceccfbe6f58036fc542ba921f67eaabc4e488a444c2",

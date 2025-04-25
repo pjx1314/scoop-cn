@@ -12,9 +12,9 @@
     ],
     "suggest": {
         "java": [
-            "scoop-cn/openjdk",
-            "scoop-cn/openjdk17",
-            "scoop-cn/openjdk11"
+            "main/openjdk",
+            "main/openjdk17",
+            "main/openjdk11"
         ]
     },
     "url": "https://ghproxy.cc/https://github.com/gaborbata/jpass/releases/download/v1.0.6/jpass-1.0.6-RELEASE.zip",

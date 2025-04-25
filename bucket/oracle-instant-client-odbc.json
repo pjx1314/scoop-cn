@@ -6,7 +6,7 @@
         "identifier": "Freeware",
         "url": "https://www.oracle.com/downloads/licenses/instant-client-lic.html"
     },
-    "depends": "scoop-cn/oracle-instant-client",
+    "depends": "main/oracle-instant-client",
     "architecture": {
         "64bit": {
             "url": "https://download.oracle.com/otn_software/nt/instantclient/2370000/instantclient-odbc-windows.x64-23.7.0.25.01.zip",

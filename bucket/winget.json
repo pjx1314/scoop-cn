@@ -8,7 +8,7 @@
         "For documentation on settings, see: https://aka.ms/winget-settings."
     ],
     "suggest": {
-        "vcredist": "scoop-cn/vcredist2022"
+        "vcredist": "main/vcredist2022"
     },
     "url": "https://ghproxy.cc/https://github.com/microsoft/winget-cli/releases/download/v1.10.390/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
     "hash": "7f626b4206bc4546086a0a70c901a66ca09d653ae01412a68c1fd9351386ad3b",

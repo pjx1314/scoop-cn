@@ -4,7 +4,7 @@
     "homepage": "https://mill-build.com/",
     "license": "MIT",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://ghproxy.cc/https://github.com/com-lihaoyi/mill/releases/download/0.12.5/0.12.5-assembly#/mill.bat",
     "hash": "0c7b25412feecf06d955d013418de9a9080ce755bedbac7601c9109c33d5a057",

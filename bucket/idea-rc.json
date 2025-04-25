@@ -10,7 +10,7 @@
     "hash": "cc90a81b621efa70c9b3ce40515c6288ac705aac5fa56d5631c2475bbd635996",
     "extract_to": "IDE",
     "installer": {
-        "script": "& \"$bucketsdir\\scoop-cn\\scripts\\jetbrains\\portable.ps1\" $dir $persist_dir"
+        "script": "& \"$bucketsdir\\main\\scripts\\jetbrains\\portable.ps1\" $dir $persist_dir"
     },
     "architecture": {
         "64bit": {
