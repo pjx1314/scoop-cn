@@ -35,7 +35,7 @@ Remove-Item -Path .\scoop-nirsoft      -Recurse -Force
 Remove-Item -Path .\scoop-nerd-fonts   -Recurse -Force
 Remove-Item -Path .\scoop-games        -Recurse -Force
 Remove-Item -Path .\scoop-sysinternals -Recurse -Force
-Remove-Item -Path .\SecuLife -Recurse -Force
+Remove-Item -Path .\SecuLife           -Recurse -Force
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
