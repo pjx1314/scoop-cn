@@ -67,7 +67,7 @@ jobs:
         with:
           repository: "pjx1314/SecuLife"
           fetch-depth: 1
-          path: "scoop-sysinternals"
+          path: "SecuLife"
       - name: Update buckets
         shell: pwsh
         run: |
