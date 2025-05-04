@@ -1,0 +1,35 @@
+{
+    "version": "1.7.1",
+    "description": "Crack legacy zip encryption with Biham and Kocher's known plaintext attack.",
+    "homepage": "https://github.com/kimci86/bkcrack/",
+    "license": "Zlib",
+    "architecture": {
+        "64bit": {
+            "url": "https://ghproxy.cc/https://github.com/kimci86/bkcrack/releases/download/v1.7.1/bkcrack-1.7.1-win64.zip",
+            "extract_dir": "bkcrack-1.7.1-win64",
+            "bin": "bkcrack.exe",
+        },
+        "32bit": {
+            "url": "https://ghproxy.cc/https://github.com/kimci86/bkcrack/releases/download/v1.7.1/bkcrack-1.7.1-win32.zip",
+            "extract_dir": "bkcrack-1.7.1-win32",
+            "bin": "bkcrack.exe",
+        }
+    },
+    "bin": "bkcrack.exe",
+    "checkver": {
+        "url": "https://api.github.com/repos/kimci86/bkcrack/releases/latest",
+        "jsonpath": "$.tag_name"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://ghproxy.cc/https://github.com/kimci86/bkcrack/releases/download/v$version/bkcrack-$version-win64.zip",
+                "extract_dir": "bkcrack-$version-win64"
+            },
+            "32bit": {
+                "url": "https://ghproxy.cc/https://github.com/kimci86/bkcrack/releases/download/v$version/bkcrack-$version-win32.zip",
+                "extract_dir": "bkcrack-$version-win32"
+            }
+        }
+    }
+}
