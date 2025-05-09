@@ -42,13 +42,34 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_amd64_v$version.zip"
+                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_amd64_v$version.zip",
+                "extract_dir": "TscanClient_windows_amd64_v$version",
+                "bin": [
+                    [
+                        "TscanClient_windows_amd64_v$version.exe",
+                        "tscanclient"
+                    ]
+                ]
             },
             "32bit": {
-                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_386_v$version.zip"
+                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_386_v$version.zip",
+                "extract_dir": "TscanClient_windows_386_v$version",
+                "bin": [
+                    [
+                        "TscanClient_windows_386_v$version.exe",
+                        "tscanclient"
+                    ]
+                ]
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_arm64_v$version.zip"
+                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_arm64_v$version.zip",
+                "extract_dir": "TscanClient_windows_arm64_v$version",
+                "bin": [
+                    [
+                        "TscanClient_windows_arm64_v$version.exe",
+                        "tscanclient"
+                    ]
+                ]
             }
         }
     }
