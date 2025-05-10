@@ -1,0 +1,29 @@
+{
+  "version": "1.1",
+  "description": "简单的取证工具",
+  "homepage": "https://github.com/WXjzcccc/ForensicsTool",
+  "license": "GPL-3.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://ghproxy.cc/https://github.com/WXjzcccc/ForensicsTool/releases/download/v1.1/ForensicsTool.Windows.zip",
+      "hash": "506b15dfa77fdd4d0be5ce4e7bdb7a699dbbbb8b1ba75395ea32bb2b0d855eac",
+      "extract_dir": "ForensicsTool",
+      "shortcuts": [
+        [
+          "ForensicsTool.exe",
+          "Forensics Tool",
+          "",
+          "icon.ico"
+        ]
+      ]
+    }
+  },
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://ghproxy.cc/https://github.com/WXjzcccc/ForensicsTool/releases/download/v$version/ForensicsTool.Windows.zip",
+      }
+    }
+  }
+}
