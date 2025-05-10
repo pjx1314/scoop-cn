@@ -1,0 +1,13 @@
+{
+    "version": "3.25.2",
+    "description": "AdNauseam: Fight back against advertising surveillance",
+    "homepage": "https://github.com/dhowe/AdNauseam",
+    "license": "GPL-3.0",
+    "url": "https://ghproxy.cc/https://github.com/dhowe/AdNauseam/releases/download/v3.25.2/adnauseam-3.25.2.chromium.zip",
+    "hash": "0113da4640b976bbf1df17f21366d950557b4dc8244e4715f6e18da0a537e5d9",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://ghproxy.cc/https://github.com/dhowe/AdNauseam/releases/download/v$version/adnauseam-$version.chromium.zip"
+    },
+    "notes": "Install this extension manually via Chrome's extensions page in developer mode."
+}
