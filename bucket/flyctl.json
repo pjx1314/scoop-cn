@@ -5,11 +5,11 @@
     "license": " Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/superfly/flyctl/releases/download/v0.3.134/flyctl_0.3.134_Windows_x86_64.zip",
+            "url": "https://gh-proxy.net/https://github.com/superfly/flyctl/releases/download/v0.3.134/flyctl_0.3.134_Windows_x86_64.zip",
             "hash": "506f52ce30ceaa99c13754e5366413ded3f9a742124f72bde1bc8088ada628a2"
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/superfly/flyctl/releases/download/v0.3.134/flyctl_0.3.134_Windows_arm64.zip",
+            "url": "https://gh-proxy.net/https://github.com/superfly/flyctl/releases/download/v0.3.134/flyctl_0.3.134_Windows_arm64.zip",
             "hash": "8c212dd6ed18e1154fff2a00806c34612ec7cc966a31c58e94bac09ed3f2c185"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.net/https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.net/https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_arm64.zip"
             }
         },
         "hash": {

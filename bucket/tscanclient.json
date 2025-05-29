@@ -5,7 +5,7 @@
     "license": "unknown",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_amd64_v2.8.0.zip",
+            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_amd64_v2.8.0.zip",
             "hash": "c472890292510b1c6a303a60096b1d688be735a91809ad02d2eb102813440108",
             "extract_dir": "TscanClient_windows_amd64_v2.8.0",
             "bin": [
@@ -16,7 +16,7 @@
             ]
         },
         "32bit": {
-            "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_386_v2.8.0.zip",
+            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_386_v2.8.0.zip",
             "hash": "c03c10aff2b89163c5300816cefc0756077c866778d45e713137b8edfb7914af",
             "extract_dir": "TscanClient_windows_386_v2.8.0",
             "bin": [
@@ -27,7 +27,7 @@
             ]
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_arm64_v2.8.0.zip",
+            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_arm64_v2.8.0.zip",
             "hash": "4b25a5f46046d0f55e6aaf329c54a56d987557e5b2391289225b804ce547831c",
             "extract_dir": "TscanClient_windows_arm64_v2.8.0",
             "bin": [
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_amd64_v$version.zip",
+                "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_amd64_v$version.zip",
                 "extract_dir": "TscanClient_windows_amd64_v$version",
                 "bin": [
                     [
@@ -52,7 +52,7 @@
                 ]
             },
             "32bit": {
-                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_386_v$version.zip",
+                "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_386_v$version.zip",
                 "extract_dir": "TscanClient_windows_386_v$version",
                 "bin": [
                     [
@@ -62,7 +62,7 @@
                 ]
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_arm64_v$version.zip",
+                "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanClient_windows_arm64_v$version.zip",
                 "extract_dir": "TscanClient_windows_arm64_v$version",
                 "bin": [
                     [

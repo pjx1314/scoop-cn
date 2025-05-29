@@ -5,7 +5,7 @@
   "license": "GPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.cc/https://github.com/WXjzcccc/ForensicsTool/releases/download/v1.1/ForensicsTool.Windows.zip",
+      "url": "https://gh-proxy.net/https://github.com/WXjzcccc/ForensicsTool/releases/download/v1.1/ForensicsTool.Windows.zip",
       "hash": "506b15dfa77fdd4d0be5ce4e7bdb7a699dbbbb8b1ba75395ea32bb2b0d855eac",
       "extract_dir": "ForensicsTool",
       "shortcuts": [
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.cc/https://github.com/WXjzcccc/ForensicsTool/releases/download/v$version/ForensicsTool.Windows.zip",
+        "url": "https://gh-proxy.net/https://github.com/WXjzcccc/ForensicsTool/releases/download/v$version/ForensicsTool.Windows.zip",
       }
     }
   }

@@ -5,7 +5,7 @@
     "version": "1.54.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/dolthub/dolt/releases/download/v1.54.0/dolt-windows-amd64.zip",
+            "url": "https://gh-proxy.net/https://github.com/dolthub/dolt/releases/download/v1.54.0/dolt-windows-amd64.zip",
             "hash": "4c1932c112b7d3faa368af3ef916a5a39674e715e2c5ca0f3c8f1cb9aeeed80d"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/dolthub/dolt/releases/download/v$version/dolt-windows-amd64.zip"
+                "url": "https://gh-proxy.net/https://github.com/dolthub/dolt/releases/download/v$version/dolt-windows-amd64.zip"
             }
         }
     }

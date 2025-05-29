@@ -3,7 +3,7 @@
     "description": "一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。",
     "homepage": "https://github.com/Sle2p/AniCh/",
     "license": "Unknown",
-    "url": "https://ghproxy.cc/https://github.com/Sle2p/AniCh/releases/download/1.4.0/anich-windows-1.4.0.zip/",
+    "url": "https://gh-proxy.net/https://github.com/Sle2p/AniCh/releases/download/1.4.0/anich-windows-1.4.0.zip/",
     "hash": "dda0c8cf2903f79e7ea10653b41a06c0847b810d280dda0893a21ba260674922",
     "shortcuts": [
         [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/Sle2p/AniCh/releases/download/$version/anich-windows-$version.zip/"
+        "url": "https://gh-proxy.net/https://github.com/Sle2p/AniCh/releases/download/$version/anich-windows-$version.zip/"
     }
 }

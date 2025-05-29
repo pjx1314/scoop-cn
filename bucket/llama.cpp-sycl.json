@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/ggml-org/llama.cpp/releases/download/b5527/llama-b5527-bin-win-sycl-x64.zip",
+            "url": "https://gh-proxy.net/https://github.com/ggml-org/llama.cpp/releases/download/b5527/llama-b5527-bin-win-sycl-x64.zip",
             "hash": "e5ad2f0e1c883575d40976c95da1936a19a03426f574c5d22a124e5ad43db48f"
         }
     },
@@ -35,7 +35,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-sycl-x64.zip"
+                "url": "https://gh-proxy.net/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-sycl-x64.zip"
             }
         }
     }

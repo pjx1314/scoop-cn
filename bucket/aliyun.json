@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/aliyun/aliyun-cli/releases/download/v3.0.279/aliyun-cli-windows-3.0.279-amd64.zip",
+            "url": "https://gh-proxy.net/https://github.com/aliyun/aliyun-cli/releases/download/v3.0.279/aliyun-cli-windows-3.0.279-amd64.zip",
             "hash": "363d7e607bc7fa92ad6efaee39de5c8a812fe867615f61e8dd28339601b82e86"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/aliyun/aliyun-cli/releases/download/v$version/aliyun-cli-windows-$version-amd64.zip"
+                "url": "https://gh-proxy.net/https://github.com/aliyun/aliyun-cli/releases/download/v$version/aliyun-cli-windows-$version-amd64.zip"
             }
         }
     }

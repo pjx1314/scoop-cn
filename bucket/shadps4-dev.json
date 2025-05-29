@@ -6,7 +6,7 @@
         "identifier": "GPL-2.0-only",
         "url": "https://github.com/shadps4-emu/shadPS4/blob/main/LICENSE"
     },
-    "url": "https://ghproxy.cc/https://github.com/shadps4-emu/shadPS4/releases/download/Pre-release-shadPS4-2025-05-28-95f04b7/shadps4-win64-qt-2025-05-28-95f04b7.zip",
+    "url": "https://gh-proxy.net/https://github.com/shadps4-emu/shadPS4/releases/download/Pre-release-shadPS4-2025-05-28-95f04b7/shadps4-win64-qt-2025-05-28-95f04b7.zip",
     "hash": "e2972998e43982b0d4f60100793e884c9f25226434c4b5d8cd269f78215eeb64",
     "bin": "shadPS4.exe",
     "shortcuts": [
@@ -22,6 +22,6 @@
         "regex": "((\\d+-){3}[a-f0-9]{7})"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/shadps4-emu/shadPS4/releases/download/Pre-release-shadPS4-$version/shadps4-win64-qt-$version.zip"
+        "url": "https://gh-proxy.net/https://github.com/shadps4-emu/shadPS4/releases/download/Pre-release-shadPS4-$version/shadps4-win64-qt-$version.zip"
     }
 }

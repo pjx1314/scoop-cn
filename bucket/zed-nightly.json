@@ -5,7 +5,7 @@
     "license": "AGPL-3.0, Apache-2.0, GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/deevus/zed-windows-builds/releases/download/05-29-2025/zed.zip",
+            "url": "https://gh-proxy.net/https://github.com/deevus/zed-windows-builds/releases/download/05-29-2025/zed.zip",
             "hash": "bf7cc0c17d2807c659a91baa8d60726d32c8956f7005d9b1b875811e30a9ac30"
         }
     },
@@ -22,9 +22,9 @@
         "replace": "${year}-${month}-${day}"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/deevus/zed-windows-builds/releases/download/$matchVersion/zed.zip",
+        "url": "https://gh-proxy.net/https://github.com/deevus/zed-windows-builds/releases/download/$matchVersion/zed.zip",
         "hash": {
-            "url": "https://ghproxy.cc/https://github.com/deevus/zed-windows-builds/releases/download/$matchVersion/sha256sums.txt"
+            "url": "https://gh-proxy.net/https://github.com/deevus/zed-windows-builds/releases/download/$matchVersion/sha256sums.txt"
         }
     }
 }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/uazo/cromite/releases/download/v137.0.7151.44-1abdac0aff0916b1e4a4bd52f1896eec00834262/chrome-win.zip",
+            "url": "https://gh-proxy.net/https://github.com/uazo/cromite/releases/download/v137.0.7151.44-1abdac0aff0916b1e4a4bd52f1896eec00834262/chrome-win.zip",
             "hash": "c502efc05c04b9849eaceddf95f432d6b35531e1aefe62b156340f2320e92cc7"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/uazo/cromite/releases/download/v$version-$matchSha/chrome-win.zip"
+                "url": "https://gh-proxy.net/https://github.com/uazo/cromite/releases/download/v$version-$matchSha/chrome-win.zip"
             }
         }
     }

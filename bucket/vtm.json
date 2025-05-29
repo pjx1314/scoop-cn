@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/directvt/vtm/releases/download/v2025.05.28/vtm_windows_x86_64.zip",
+            "url": "https://gh-proxy.net/https://github.com/directvt/vtm/releases/download/v2025.05.28/vtm_windows_x86_64.zip",
             "hash": "dca297fbcb3322538a825aa55859e41cdb693ba8ca412276f1ab0b06cb280f5c"
         },
         "32bit": {
-            "url": "https://ghproxy.cc/https://github.com/directvt/vtm/releases/download/v2025.05.28/vtm_windows_x86.zip",
+            "url": "https://gh-proxy.net/https://github.com/directvt/vtm/releases/download/v2025.05.28/vtm_windows_x86.zip",
             "hash": "0174d354f959ab29a07c757eaa81c3df0a85f4054576c2b2e6d3ab5f22aaa381"
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/directvt/vtm/releases/download/v2025.05.28/vtm_windows_arm64.zip",
+            "url": "https://gh-proxy.net/https://github.com/directvt/vtm/releases/download/v2025.05.28/vtm_windows_arm64.zip",
             "hash": "e1166eae5cb3f7990ffc84efbbe0de90deeabd9ee78d10e2f5145ea5bd402c55"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86_64.zip"
+                "url": "https://gh-proxy.net/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.cc/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86.zip"
+                "url": "https://gh-proxy.net/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_arm64.zip"
+                "url": "https://gh-proxy.net/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_arm64.zip"
             }
         }
     }

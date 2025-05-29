@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows-portable.zip",
+            "url": "https://gh-proxy.net/https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows-portable.zip",
             "hash": "4b5f94df189188f85b4251df4f54429c6642abf67b425bc49460252eaba582f1"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows-portable.zip"
+                "url": "https://gh-proxy.net/https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows-portable.zip"
             }
         }
     }
