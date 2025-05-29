@@ -1,38 +1,38 @@
 {
-    "version": "2.8.0",
+    "version": "2.8.2",
     "description": "一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
     "homepage": "https://github.com/TideSec/TscanPlus",
     "license": "unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_amd64_v2.8.0.zip",
-            "hash": "c472890292510b1c6a303a60096b1d688be735a91809ad02d2eb102813440108",
-            "extract_dir": "TscanClient_windows_amd64_v2.8.0",
+            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.2/TscanClient_windows_amd64_v2.8.2.zip",
+            "hash": "8b5633728596c658be9224678e1c8b26090b19974ce80406c947c67913bb4cba",
+            "extract_dir": "TscanClient_windows_amd64_v2.8.2",
             "bin": [
                 [
-                    "TscanClient_windows_amd64_v2.8.0.exe",
+                    "TscanClient_windows_amd64_v2.8.2.exe",
                     "tscanclient"
                 ]
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_386_v2.8.0.zip",
-            "hash": "c03c10aff2b89163c5300816cefc0756077c866778d45e713137b8edfb7914af",
-            "extract_dir": "TscanClient_windows_386_v2.8.0",
+            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.2/TscanClient_windows_386_v2.8.2.zip",
+            "hash": "7961da825ceb52539525b1532b78c1601b3bc66d6fdbb571b8cbe107a2d1887c",
+            "extract_dir": "TscanClient_windows_386_v2.8.2",
             "bin": [
                 [
-                    "TscanClient_windows_386_v2.8.0.exe",
+                    "TscanClient_windows_386_v2.8.2.exe",
                     "tscanclient"
                 ]
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.0/TscanClient_windows_arm64_v2.8.0.zip",
-            "hash": "4b25a5f46046d0f55e6aaf329c54a56d987557e5b2391289225b804ce547831c",
-            "extract_dir": "TscanClient_windows_arm64_v2.8.0",
+            "url": "https://gh-proxy.net/https://github.com/TideSec/TscanPlus/releases/download/v2.8.2/TscanClient_windows_arm64_v2.8.2.zip",
+            "hash": "ceb5ebf58e9de155d7714ddda08bbfa037009c674bd86731ba38d0ae93ee5f41",
+            "extract_dir": "TscanClient_windows_arm64_v2.8.2",
             "bin": [
                 [
-                    "TscanClient_windows_arm64_v2.8.0.exe",
+                    "TscanClient_windows_arm64_v2.8.2.exe",
                     "tscanclient"
                 ]
             ]
