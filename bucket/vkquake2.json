@@ -38,7 +38,7 @@
         ""
     ],
     "suggest": {
-        "vcredist": "main/vcredist2019"
+        "vcredist": "main/vcredist2022"
     },
     "architecture": {
         "32bit": {
