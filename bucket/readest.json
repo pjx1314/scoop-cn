@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/readest/readest/releases/download/v0.9.72/Readest_0.9.72_x64-portable.exe#/Readest.exe",
+            "url": "https://gh-proxy.com/https://github.com/readest/readest/releases/download/v0.9.72/Readest_0.9.72_x64-portable.exe#/Readest.exe",
             "hash": "381044d9e108487fee50b7cdc590931df5f2dc24c6ae157ce80382e7415b55fb"
         },
         "arm64": {
-            "url": "https://gh-proxy.net/https://github.com/readest/readest/releases/download/v0.9.72/Readest_0.9.72_arm64-portable.exe#/Readest.exe",
+            "url": "https://gh-proxy.com/https://github.com/readest/readest/releases/download/v0.9.72/Readest_0.9.72_arm64-portable.exe#/Readest.exe",
             "hash": "41ae95036abbd0482cba90f5ddae11c58fdd810e4bd438f8a62b2f104fcf11a0"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/readest/readest/releases/download/v$version/Readest_$version_x64-portable.exe#/Readest.exe"
+                "url": "https://gh-proxy.com/https://github.com/readest/readest/releases/download/v$version/Readest_$version_x64-portable.exe#/Readest.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.net/https://github.com/readest/readest/releases/download/v$version/Readest_$version_arm64-portable.exe#/Readest.exe"
+                "url": "https://gh-proxy.com/https://github.com/readest/readest/releases/download/v$version/Readest_$version_arm64-portable.exe#/Readest.exe"
             }
         }
     }

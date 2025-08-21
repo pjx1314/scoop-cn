@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/gruntwork-io/terragrunt/releases/download/v0.85.1/terragrunt_windows_amd64.exe#/terragrunt.exe",
+            "url": "https://gh-proxy.com/https://github.com/gruntwork-io/terragrunt/releases/download/v0.85.1/terragrunt_windows_amd64.exe#/terragrunt.exe",
             "hash": "12f42628460e7b82d6597601ccdd95b5ba1b8171925ad2beb8b7de6b91dd3ca4"
         },
         "32bit": {
-            "url": "https://gh-proxy.net/https://github.com/gruntwork-io/terragrunt/releases/download/v0.85.1/terragrunt_windows_386.exe#/terragrunt.exe",
+            "url": "https://gh-proxy.com/https://github.com/gruntwork-io/terragrunt/releases/download/v0.85.1/terragrunt_windows_386.exe#/terragrunt.exe",
             "hash": "a288ec5cc58d7eefd53659e7acc35459db9869029970328afecdd9d74c550714"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/gruntwork-io/terragrunt/releases/download/v$version/terragrunt_windows_amd64.exe#/terragrunt.exe"
+                "url": "https://gh-proxy.com/https://github.com/gruntwork-io/terragrunt/releases/download/v$version/terragrunt_windows_amd64.exe#/terragrunt.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.net/https://github.com/gruntwork-io/terragrunt/releases/download/v$version/terragrunt_windows_386.exe#/terragrunt.exe"
+                "url": "https://gh-proxy.com/https://github.com/gruntwork-io/terragrunt/releases/download/v$version/terragrunt_windows_386.exe#/terragrunt.exe"
             }
         },
         "hash": {

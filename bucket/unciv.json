@@ -6,7 +6,7 @@
     "suggest": {
         "Java Runtime Environment": "main/temurin-jre"
     },
-    "url": "https://gh-proxy.net/https://github.com/yairm210/Unciv/releases/download/4.17.15/Unciv-Windows64.zip",
+    "url": "https://gh-proxy.com/https://github.com/yairm210/Unciv/releases/download/4.17.15/Unciv-Windows64.zip",
     "hash": "654b2ae716ffcf4f625d2d9696def380ca72dca81c6acd74ce1f6c46e8e35fba",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\GameSettings.json\")) {",
@@ -29,6 +29,6 @@
         "jsonpath": "$[?(@.prerelease == false && @.assets[?(@.name == 'Unciv-Windows64.zip')])].tag_name"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.net/https://github.com/yairm210/Unciv/releases/download/$version/Unciv-Windows64.zip"
+        "url": "https://gh-proxy.com/https://github.com/yairm210/Unciv/releases/download/$version/Unciv-Windows64.zip"
     }
 }

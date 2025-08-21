@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/gyroflow/gyroflow/releases/download/v1.6.2/Gyroflow-windows64.zip",
+            "url": "https://gh-proxy.com/https://github.com/gyroflow/gyroflow/releases/download/v1.6.2/Gyroflow-windows64.zip",
             "hash": "785e5593e37f30a7b4ffb8722c88c642b9109cf106a552326cfdbafe22474666"
         },
         "arm64": {
-            "url": "https://gh-proxy.net/https://github.com/gyroflow/gyroflow/releases/download/v1.6.2/Gyroflow-windows-arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/gyroflow/gyroflow/releases/download/v1.6.2/Gyroflow-windows-arm64.zip",
             "hash": "21fa94289225e208f9f6c9ecfdbdc9c254928b2edef0300430e68f1b8f364e3d"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/gyroflow/gyroflow/releases/download/v$version/Gyroflow-windows64.zip"
+                "url": "https://gh-proxy.com/https://github.com/gyroflow/gyroflow/releases/download/v$version/Gyroflow-windows64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.net/https://github.com/gyroflow/gyroflow/releases/download/v$version/Gyroflow-windows-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/gyroflow/gyroflow/releases/download/v$version/Gyroflow-windows-arm64.zip"
             }
         }
     }

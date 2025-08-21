@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/vrcx-team/VRCX/releases/download/v2025.08.17/VRCX_20250817.zip",
+            "url": "https://gh-proxy.com/https://github.com/vrcx-team/VRCX/releases/download/v2025.08.17/VRCX_20250817.zip",
             "hash": "63c9d0ae7de7df15d5392df5555cc9b7ec2aae740bd3b0ddfda5bedf89c6b59d"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/vrcx-team/VRCX/releases/download/v$version/VRCX_$cleanVersion.zip"
+                "url": "https://gh-proxy.com/https://github.com/vrcx-team/VRCX/releases/download/v$version/VRCX_$cleanVersion.zip"
             }
         }
     }

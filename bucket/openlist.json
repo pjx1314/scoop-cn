@@ -5,15 +5,15 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/OpenListTeam/OpenList/releases/download/v4.1.1/openlist-windows-amd64.zip",
+            "url": "https://gh-proxy.com/https://github.com/OpenListTeam/OpenList/releases/download/v4.1.1/openlist-windows-amd64.zip",
             "hash": "md5:8bc9806a0d90a7452020cd7497c15f66"
         },
         "32bit": {
-            "url": "https://gh-proxy.net/https://github.com/OpenListTeam/OpenList/releases/download/v4.1.1/openlist-windows-386.zip",
+            "url": "https://gh-proxy.com/https://github.com/OpenListTeam/OpenList/releases/download/v4.1.1/openlist-windows-386.zip",
             "hash": "md5:74eab0fac0844fb20f527f2452e78341"
         },
         "arm64": {
-            "url": "https://gh-proxy.net/https://github.com/OpenListTeam/OpenList/releases/download/v4.1.1/openlist-windows-arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/OpenListTeam/OpenList/releases/download/v4.1.1/openlist-windows-arm64.zip",
             "hash": "md5:0d3d9f3af4dac5b069de2f768cd95a74"
         }
     },
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/OpenListTeam/OpenList/releases/download/v$version/openlist-windows-amd64.zip"
+                "url": "https://gh-proxy.com/https://github.com/OpenListTeam/OpenList/releases/download/v$version/openlist-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.net/https://github.com/OpenListTeam/OpenList/releases/download/v$version/openlist-windows-386.zip"
+                "url": "https://gh-proxy.com/https://github.com/OpenListTeam/OpenList/releases/download/v$version/openlist-windows-386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.net/https://github.com/OpenListTeam/OpenList/releases/download/v$version/openlist-windows-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/OpenListTeam/OpenList/releases/download/v$version/openlist-windows-arm64.zip"
             }
         },
         "hash": {

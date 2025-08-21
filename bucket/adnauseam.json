@@ -3,11 +3,11 @@
     "description": "AdNauseam: Fight back against advertising surveillance",
     "homepage": "https://github.com/dhowe/AdNauseam",
     "license": "GPL-3.0",
-    "url": "https://gh-proxy.net/https://github.com/dhowe/AdNauseam/releases/download/v3.25.4/adnauseam-3.25.4.chromium.zip",
+    "url": "https://gh-proxy.com/https://github.com/dhowe/AdNauseam/releases/download/v3.25.4/adnauseam-3.25.4.chromium.zip",
     "hash": "3335c4d8b77a659b4ad316d25a600ca8ff0a864c3c440f7eb53cc8be27b7ba45",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.net/https://github.com/dhowe/AdNauseam/releases/download/v$version/adnauseam-$version.chromium.zip"
+        "url": "https://gh-proxy.com/https://github.com/dhowe/AdNauseam/releases/download/v$version/adnauseam-$version.chromium.zip"
     },
     "notes": "Install this extension manually via Chrome's extensions page in developer mode."
 }

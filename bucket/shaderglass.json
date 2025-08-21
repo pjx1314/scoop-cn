@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/mausimus/ShaderGlass/releases/download/v1.2.1/ShaderGlass-1.2.1-win-x64.zip",
+            "url": "https://gh-proxy.com/https://github.com/mausimus/ShaderGlass/releases/download/v1.2.1/ShaderGlass-1.2.1-win-x64.zip",
             "hash": "8b064c56ebe5c99a76bae35d4874c25e82ffbbf8e2d7efa18a82b1abfcfa094e"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/mausimus/ShaderGlass/releases/download/v$version/ShaderGlass-$version-win-x64.zip"
+                "url": "https://gh-proxy.com/https://github.com/mausimus/ShaderGlass/releases/download/v$version/ShaderGlass-$version-win-x64.zip"
             }
         }
     }

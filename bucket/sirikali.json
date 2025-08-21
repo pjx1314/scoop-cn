@@ -5,12 +5,12 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/mhogomchungu/sirikali/releases/download/1.8.3/SiriKaliQt6-1.8.3.zip",
+            "url": "https://gh-proxy.com/https://github.com/mhogomchungu/sirikali/releases/download/1.8.3/SiriKaliQt6-1.8.3.zip",
             "hash": "3364f9c036695c91432b2975d198e9426e9cb9f3d77cd3ec8b84c4dbd30e79c4",
             "extract_dir": "SiriKaliQt6-1.8.3"
         },
         "32bit": {
-            "url": "https://gh-proxy.net/https://github.com/mhogomchungu/sirikali/releases/download/1.8.3/SiriKaliQt5-1.8.3.zip",
+            "url": "https://gh-proxy.com/https://github.com/mhogomchungu/sirikali/releases/download/1.8.3/SiriKaliQt5-1.8.3.zip",
             "hash": "98d89cd44a7814d4f0a9254c1c069e011ad3a9baa5e31e10d177e4eb71a3e510",
             "extract_dir": "SiriKaliQt5-1.8.3"
         }
@@ -31,11 +31,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/mhogomchungu/sirikali/releases/download/$version/SiriKaliQt6-$version.zip",
+                "url": "https://gh-proxy.com/https://github.com/mhogomchungu/sirikali/releases/download/$version/SiriKaliQt6-$version.zip",
                 "extract_dir": "SiriKaliQt6-$version"
             },
             "32bit": {
-                "url": "https://gh-proxy.net/https://github.com/mhogomchungu/sirikali/releases/download/$version/SiriKaliQt5-$version.zip",
+                "url": "https://gh-proxy.com/https://github.com/mhogomchungu/sirikali/releases/download/$version/SiriKaliQt5-$version.zip",
                 "extract_dir": "SiriKaliQt5-$version"
             }
         }

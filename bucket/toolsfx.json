@@ -5,7 +5,7 @@
   "license": "ISC",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.net/https://github.com/Leon406/ToolsFx/releases/download/v1.18.0/ToolsFx-1.18.0-withjre-win-x64.zip",
+      "url": "https://gh-proxy.com/https://github.com/Leon406/ToolsFx/releases/download/v1.18.0/ToolsFx-1.18.0-withjre-win-x64.zip",
       "hash": "13e2b27fb2631104216857478bc60c30657734aa0182a944cca55f1726306528",
       "extract_dir": "ToolsFx-1.18.0-withjre-win-x64"
     }
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.net/https://github.com/Leon406/ToolsFx/releases/download/v$version/ToolsFx-$version-withjre-win-x64.zip",
+        "url": "https://gh-proxy.com/https://github.com/Leon406/ToolsFx/releases/download/v$version/ToolsFx-$version-withjre-win-x64.zip",
         "extract_dir": "ToolsFx-$version-withjre-win-x64"
       }
     }

@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.1/Zelda64Recompiled-v1.2.1-Windows.zip",
+            "url": "https://gh-proxy.com/https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.1/Zelda64Recompiled-v1.2.1-Windows.zip",
             "hash": "49a35c1c648e24a58164ae25808622d182bc5f7cf311bfd72f01832fcc955717"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v$version/Zelda64Recompiled-v$version-Windows.zip"
+                "url": "https://gh-proxy.com/https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v$version/Zelda64Recompiled-v$version-Windows.zip"
             }
         }
     }

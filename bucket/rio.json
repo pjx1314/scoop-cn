@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.net/https://github.com/raphamorim/rio/releases/download/v0.2.29/Rio-portable-x86_64.exe#/rio.exe",
-                "https://gh-proxy.net/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                "https://gh-proxy.com/https://github.com/raphamorim/rio/releases/download/v0.2.29/Rio-portable-x86_64.exe#/rio.exe",
+                "https://gh-proxy.com/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
             ],
             "hash": [
                 "85563b279681dc47a839213572856079af7d0ccb848860c6a424521754384091",
@@ -16,8 +16,8 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.net/https://github.com/raphamorim/rio/releases/download/v0.2.29/Rio-portable-aarch64.exe#/rio.exe",
-                "https://gh-proxy.net/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                "https://gh-proxy.com/https://github.com/raphamorim/rio/releases/download/v0.2.29/Rio-portable-aarch64.exe#/rio.exe",
+                "https://gh-proxy.com/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
             ],
             "hash": [
                 "2b4908f2ce97298405c7d1312adfde26b2ba5215902f3becbae510c35ebbe1a4",
@@ -39,14 +39,14 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.net/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-x86_64.exe#/rio.exe",
-                    "https://gh-proxy.net/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                    "https://gh-proxy.com/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-x86_64.exe#/rio.exe",
+                    "https://gh-proxy.com/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.net/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-aarch64.exe#/rio.exe",
-                    "https://gh-proxy.net/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                    "https://gh-proxy.com/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-aarch64.exe#/rio.exe",
+                    "https://gh-proxy.com/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
                 ]
             }
         }

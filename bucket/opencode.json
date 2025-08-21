@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.net/https://github.com/sst/opencode/releases/download/v0.5.13/opencode-windows-x64.zip",
+            "url": "https://gh-proxy.com/https://github.com/sst/opencode/releases/download/v0.5.13/opencode-windows-x64.zip",
             "hash": "fda2a6ac6c95d41e2ed676b35b66c77b15371c2fa07893cb5cf10f66d497306d"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.net/https://github.com/sst/opencode/releases/download/v$version/opencode-windows-x64.zip"
+                "url": "https://gh-proxy.com/https://github.com/sst/opencode/releases/download/v$version/opencode-windows-x64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "arm64": {
-            "url": "https://gh-proxy.net/https://github.com/ggml-org/llama.cpp/releases/download/b6236/llama-b6236-bin-win-opencl-adreno-arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b6236/llama-b6236-bin-win-opencl-adreno-arm64.zip",
             "hash": "0e9aebc4882ac9b71fc612f1ad248131c9f99b2b07f3bdc44645f9d4dbc4757c"
         }
     },
@@ -35,7 +35,7 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://gh-proxy.net/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-opencl-adreno-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-opencl-adreno-arm64.zip"
             }
         }
     }
