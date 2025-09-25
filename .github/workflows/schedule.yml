@@ -67,6 +67,7 @@ jobs:
         with:
           repository: "pjx1314/SecuLife"
           fetch-depth: 1
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: "SecuLife"
       - uses: actions/checkout@v3
         with:
