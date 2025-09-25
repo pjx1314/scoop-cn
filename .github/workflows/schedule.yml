@@ -68,6 +68,11 @@ jobs:
           repository: "pjx1314/SecuLife"
           fetch-depth: 1
           path: "SecuLife"
+      - uses: actions/checkout@v3
+        with:
+          repository: "chawyehsu/dorado"
+          fetch-depth: 1
+          path: "dorado"
       - name: Update buckets
         shell: pwsh
         run: |
