@@ -12,8 +12,6 @@
                 [
                     "ForensicsTool.exe",
                     "Forensics Tool",
-                    "",
-                    "icon.ico"
                 ]
             ]
         }
@@ -22,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/WXjzcccc/ForensicsTool/releases/download/v$version/ForensicsTool.Windows.zip"
+                "url": "https://gh-proxy.com/https://github.com/WXjzcccc/ForensicsTool/releases/download/v$version/ForensicsTool.exe"
             }
         }
     }
