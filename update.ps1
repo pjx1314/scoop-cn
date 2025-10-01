@@ -17,7 +17,7 @@ Copy-Item -Path .\scoop-nirsoft\bucket\*      -Destination .\bucket  -Recurse -F
 Copy-Item -Path .\scoop-nerd-fonts\bucket\*   -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-games\bucket\*        -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\SecuLife\bucket\*           -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\dorado\bucket\*             -Destination .\scripts -Recurse -Force
+Copy-Item -Path .\dorado\bucket\*             -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-sysinternals\bucket\* -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\Main\scripts\*              -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Extras\scripts\*            -Destination .\scripts -Recurse -Force
@@ -38,7 +38,7 @@ Remove-Item -Path .\scoop-nerd-fonts   -Recurse -Force
 Remove-Item -Path .\scoop-games        -Recurse -Force
 Remove-Item -Path .\scoop-sysinternals -Recurse -Force
 Remove-Item -Path .\SecuLife           -Recurse -Force
-Remove-Item -Path .\dorado           -Recurse -Force
+Remove-Item -Path .\dorado             -Recurse -Force
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
