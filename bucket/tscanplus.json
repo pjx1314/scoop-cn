@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.0.2/TscanPlus_Win_Amd64_v3.0.2.zip",
-            "hash": "457fd311ce9df850a7349a34ae9df0962649927b29859c0ffff6074773425146",
+            "hash": "4ca1053afecb2cd03c4eb1a2c475eb45dd3cf0ecce33d7dbc30abebebb545720",
             "shortcuts": [
                 [
                     "TscanPlus_Win_Amd64.exe",
@@ -16,7 +16,7 @@
         },
         "arm64": {
             "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.0.2/TscanPlus_Win_Arm64_v3.0.2.zip",
-            "hash": "03c2c12a93b6a509b0303120280bc082c470f30653ab9be60f0ba4f0ba8226ba",
+            "hash": "cd39fe7ea6b2ee16f8945b3829048a2873c7f3e3662ffe2cd04bf78ee433eeae",
             "shortcuts": [
                 [
                     "TscanPlus_Win_Arm64.exe",
