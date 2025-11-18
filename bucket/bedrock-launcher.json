@@ -9,7 +9,7 @@
     ],
     "suggest": {
         "VCRedist": "main/vcredist2022",
-        ".NET 8.0 Desktop Runtime": "main/windowsdesktop-runtime-lts"
+        ".NET Desktop Runtime 8.0": "main/windowsdesktop-runtime-8.0"
     },
     "architecture": {
         "64bit": {

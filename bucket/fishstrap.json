@@ -5,7 +5,7 @@
     "homepage": "https://www.fishstrap.app/",
     "license": "MIT",
     "suggest": {
-        ".NET 6.0 Desktop Runtime": "main/windowsdesktop-runtime-6.0"
+        ".NET Desktop Runtime 6.0": "main/windowsdesktop-runtime-6.0"
     },
     "architecture": {
         "64bit": {
