@@ -74,6 +74,11 @@ jobs:
           repository: "chawyehsu/dorado"
           fetch-depth: 1
           path: "dorado"
+      - uses: actions/checkout@v3
+        with:
+          repository: "Scoopforge/Extras-CN"
+          fetch-depth: 1
+          path: "Extras-CN"
       - name: Update buckets
         shell: pwsh
         run: |
