@@ -1,12 +1,12 @@
 {
-    "version": "2.3",
+    "version": "2.4",
     "description": "简单的取证工具",
     "homepage": "https://github.com/WXjzcccc/ForensicsTool",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/WXjzcccc/ForensicsTool/releases/download/v2.3/ForensicsTool.exe",
-            "hash": "e14cb1829a04fd3845dfff2e77bd808014f78a28508362daa66a3bc6678c8719",
+            "url": "https://gh-proxy.com/https://github.com/WXjzcccc/ForensicsTool/releases/download/v2.4/ForensicsTool.exe",
+            "hash": "91fbe7e26dd0026634fab13fb3581538b0b520d38acfcb97f7d42237a4e5714d",
             "extract_dir": "ForensicsTool",
             "shortcuts": [
                 [
