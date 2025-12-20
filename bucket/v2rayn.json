@@ -10,7 +10,7 @@
     ],
     "suggest": {
         "v2fly-core": "v2ray",
-        ".NET Desktop Runtime": "main/windowsdesktop-runtime-lts",
+        ".NET Desktop Runtime 8.0": "main/windowsdesktop-runtime-8.0",
         "v2rayN-desktop": "main/v2rayn-desktop",
         "v2rayN-selfcontained": "main/v2rayn-selfcontained"
     },

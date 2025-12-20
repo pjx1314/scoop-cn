@@ -4,7 +4,9 @@
     "homepage": "https://roslynpad.net",
     "license": "Apache-2.0",
     "suggest": {
-        ".NET Desktop Runtime": "main/windowsdesktop-runtime"
+        ".NET SDK 8": "main/dotnet8-sdk",
+        ".NET SDK 9": "main/dotnet9-sdk",
+        ".NET SDK 10": "main/dotnet10-sdk"
     },
     "architecture": {
         "64bit": {
