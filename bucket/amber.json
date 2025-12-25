@@ -1,26 +1,20 @@
 {
-    "version": "0.6.0",
-    "description": "Recursively searches/replaces directories for a regex pattern.",
-    "homepage": "https://github.com/dalance/amber",
+    "version": "0.1.7",
+    "description": "Manage secret values in-repo via public key cryptography.",
+    "homepage": "https://github.com/fpco/amber",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dalance/amber/releases/download/v0.6.0/amber-v0.6.0-x86_64-win.zip",
-            "hash": "df3dd61b80d62d582776f3ff31aeeda7031a675935204246505b0d7f2e5cf50e"
+            "url": "https://gh-proxy.com/https://github.com/fpco/amber/releases/download/v0.1.7/amber-x86_64-pc-windows-gnu.exe#/amber.exe",
+            "hash": "71dff0ed8c7509769ccf02e0d18e12c45b899e1466e70097bd4efc85eb7bbe1d"
         }
     },
-    "bin": [
-        "ambs.exe",
-        "ambr.exe"
-    ],
-    "extract_dir": "target/x86_64-pc-windows-msvc/release",
-    "checkver": {
-        "github": "https://github.com/dalance/amber"
-    },
+    "bin": "amber.exe",
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dalance/amber/releases/download/v$version/amber-v$version-x86_64-win.zip"
+                "url": "https://gh-proxy.com/https://github.com/fpco/amber/releases/download/v$version/amber-x86_64-pc-windows-gnu.exe#/amber.exe"
             }
         }
     }

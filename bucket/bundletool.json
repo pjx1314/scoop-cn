@@ -1,0 +1,21 @@
+{
+    "version": "1.18.3",
+    "description": "A command-line tool to manipulate Android App Bundles.",
+    "homepage": "https://github.com/google/bundletool",
+    "license": "Apache-2.0",
+    "url": "https://gh-proxy.com/https://github.com/google/bundletool/releases/download/1.18.3/bundletool-all-1.18.3.jar#/bundletool.jar",
+    "hash": "a099cfa1543f55593bc2ed16a70a7c67fe54b1747bb7301f37fdfd6d91028e29",
+    "bin": "bundletool.jar",
+    "suggest": {
+        "JDK 11+": [
+            "main/temurin17-jdk",
+            "main/temurin11-jdk",
+            "main/zulu17-jdk",
+            "main/zulu11-jdk"
+        ]
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/google/bundletool/releases/download/$version/bundletool-all-$version.jar#/bundletool.jar"
+    }
+}

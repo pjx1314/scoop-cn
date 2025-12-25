@@ -1,0 +1,38 @@
+{
+    "version": "0.10.3",
+    "description": "A simple tool to encrypt, decrypt data with Public-key cryptography.",
+    "homepage": "https://github.com/ysmood/whisper",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/ysmood/whisper/releases/download/v0.10.3/whisper_0.10.3_windows_amd64.tar.gz",
+            "hash": "2cff8d2379e8135d9c7ba7555708f186b414b46492db291347057dc2984d8f82"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/ysmood/whisper/releases/download/v0.10.3/whisper_0.10.3_windows_386.tar.gz",
+            "hash": "b258bbdde05368abec84c12b3f73bccbe3b674154e0f49b0d57bc62641725556"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/ysmood/whisper/releases/download/v0.10.3/whisper_0.10.3_windows_arm64.tar.gz",
+            "hash": "d2e120aa49ff34cb3b0e38eb310e508f8b5b9d80a607aee4147064a4af85675b"
+        }
+    },
+    "bin": "whisper.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/ysmood/whisper/releases/download/v$version/whisper_$version_windows_amd64.tar.gz"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/ysmood/whisper/releases/download/v$version/whisper_$version_windows_386.tar.gz"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/ysmood/whisper/releases/download/v$version/whisper_$version_windows_arm64.tar.gz"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/whisper_$version_checksums.txt"
+        }
+    }
+}

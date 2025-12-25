@@ -1,0 +1,21 @@
+{
+    "version": "1.8.2",
+    "description": "Lightweight 5MB Ollama alternative with native SafeTensors support.",
+    "homepage": "https://github.com/Michael-A-Kuykendall/shimmy",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/Michael-A-Kuykendall/shimmy/releases/download/v1.8.2/shimmy-windows-x86_64.exe#/shimmy.exe",
+            "hash": "858b934ca60c430b5ee786cd1e3380f3a38f330ffaf418c51a8aeeb6d6765989"
+        }
+    },
+    "bin": "shimmy.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/Michael-A-Kuykendall/shimmy/releases/download/v$version/shimmy-windows-x86_64.exe#/shimmy.exe"
+            }
+        }
+    }
+}

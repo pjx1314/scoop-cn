@@ -1,0 +1,24 @@
+{
+    "version": "20251222",
+    "description": "A tool for transforming and moving code between repositories.",
+    "homepage": "https://github.com/google/copybara",
+    "license": "Apache-2.0",
+    "url": "https://gh-proxy.com/https://github.com/google/copybara/releases/download/v20251222/copybara_deploy.jar#/copybara.jar",
+    "hash": "411affdcc701c5ff3c4f678ed031fe29afe2ea3e3f1d5eb0812f9f2e4c34eec1",
+    "bin": "copybara.jar",
+    "suggest": {
+        "JDK": [
+            "main/openjdk",
+            "main/temurin-jdk",
+            "main/oraclejdk",
+            "main/zulu-jdk"
+        ]
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/google/copybara/releases/download/v$version/copybara_deploy.jar#/copybara.jar",
+        "hash": {
+            "url": "$baseurl/copybara_deploy.jar.sha256"
+        }
+    }
+}

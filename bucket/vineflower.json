@@ -1,0 +1,24 @@
+{
+    "version": "1.11.2",
+    "description": "A modern, general purpose JVM language decompiler focused on providing the best quality, speed, and usability.",
+    "homepage": "https://vineflower.org/",
+    "license": "Apache-2.0",
+    "url": "https://gh-proxy.com/https://github.com/Vineflower/vineflower/releases/download/1.11.2/vineflower-1.11.2.jar#/vineflower.jar",
+    "hash": "e1e2415e7f78b34960402c4beddfc88e033d7842a23ecd132a8ec2eadd54f6bf",
+    "bin": "vineflower.jar",
+    "suggest": {
+        "JDK 11+": [
+            "main/temurin17-jdk",
+            "main/temurin11-jdk",
+            "main/zulu17-jdk",
+            "main/zulu11-jdk"
+        ]
+    },
+    "notes": "You need to have JRE 11 installed on your computer to use Vineflower.",
+    "checkver": {
+        "github": "https://github.com/Vineflower/vineflower"
+    },
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/Vineflower/vineflower/releases/download/$version/vineflower-$version.jar#/vineflower.jar"
+    }
+}

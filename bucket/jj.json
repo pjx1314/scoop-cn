@@ -1,12 +1,13 @@
 {
-    "version": "0.36.0",
-    "description": "Jujutsu is a Git-compatible DVCS that is both simple and powerful",
-    "homepage": "https://github.com/jj-vcs/jj",
-    "license": "Apache-2.0",
+    "version": "1.9.2",
+    "description": "A command line utility that provides a fast and simple way to retrieve or update values from JSON documents.",
+    "homepage": "https://github.com/tidwall/jj",
+    "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jj-vcs/jj/releases/download/v0.36.0/jj-v0.36.0-x86_64-pc-windows-msvc.zip",
-            "hash": "f173e51b54617b91de2a61f6e83a43220a91ec5025fa5d002a07668780074f61"
+            "url": "https://gh-proxy.com/https://github.com/tidwall/jj/releases/download/v1.9.2/jj-1.9.2-windows-amd64.zip",
+            "hash": "0f047f37386c3eded8a1b893cf00c07156a43663caef1f6f17ec069692568ca9",
+            "extract_dir": "jj-1.9.2-windows-amd64"
         }
     },
     "bin": "jj.exe",
@@ -14,7 +15,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jj-vcs/jj/releases/download/v$version/jj-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.com/https://github.com/tidwall/jj/releases/download/v$version/jj-$version-windows-amd64.zip",
+                "extract_dir": "jj-$version-windows-amd64"
             }
         }
     }

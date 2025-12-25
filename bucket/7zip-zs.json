@@ -1,0 +1,42 @@
+{
+    "version": "25.01-v1.5.7-R3",
+    "description": "7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard.",
+    "homepage": "https://github.com/mcmilk/7-Zip-zstd",
+    "license": "LGPL-2.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R3/7z25.01-zstd-x64.exe#/dl.7z",
+            "hash": "cb68843e7fca0a645d52e4193e8071c8fc0741a2fe3121a11e4452e31607af7f"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R3/7z25.01-zstd-x32.exe#/dl.7z",
+            "hash": "e6de9e03016311665319614c3b831351c582a4c99b9035852dbf3398addf5e14"
+        }
+    },
+    "bin": [
+        [
+            "7z.exe",
+            "7z-zs"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "7zFM.exe",
+            "7-Zip ZS"
+        ]
+    ],
+    "checkver": {
+        "url": "https://github.com/mcmilk/7-Zip-zstd/releases/latest",
+        "regex": "/releases/tag/v([\\d.]+-v[\\d.]+-R\\d+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/mcmilk/7-Zip-zstd/releases/download/v$version/7z$matchHead-zstd-x64.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/mcmilk/7-Zip-zstd/releases/download/v$version/7z$matchHead-zstd-x32.exe#/dl.7z"
+            }
+        }
+    }
+}

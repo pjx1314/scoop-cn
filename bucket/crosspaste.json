@@ -1,0 +1,32 @@
+{
+    "version": "1.2.5.1787",
+    "description": "A universal pasteboard across devices.",
+    "homepage": "https://crosspaste.com/",
+    "license": "AGPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/CrossPaste/crosspaste-desktop/releases/download/1.2.5.1787/crosspaste-1.2.5-1787-windows-amd64.zip",
+            "hash": "77dc6cc8346a576fe7f84edbc3861fad24bce1b0aac5ee95337653f4d11c4498"
+        }
+    },
+    "shortcuts": [
+        [
+            "bin\\CrossPaste.exe",
+            "CrossPaste"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/CrossPaste/crosspaste-desktop"
+    },
+    "notes": "CrossPaste is NOT portable.",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/CrossPaste/crosspaste-desktop/releases/download/$version/crosspaste-$matchHead-$buildVersion-windows-amd64.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksum.txt"
+        }
+    }
+}

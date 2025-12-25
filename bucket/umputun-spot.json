@@ -1,0 +1,29 @@
+{
+    "version": "1.19.2",
+    "description": "A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.",
+    "homepage": "https://spot.umputun.dev/",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/umputun/spot/releases/download/v1.19.2/spot_v1.19.2_win_x86_64.zip",
+            "hash": "5f548e75b912642bbec5b39d523c3a4572a87babf6935871ba35abc73ebd2d48"
+        }
+    },
+    "bin": [
+        "spot.exe",
+        "spot-secrets.exe"
+    ],
+    "checkver": {
+        "github": "https://github.com/umputun/spot"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/umputun/spot/releases/download/v$version/spot_v$version_win_x86_64.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/spot_$version_checksums.txt"
+        }
+    }
+}

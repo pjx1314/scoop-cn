@@ -1,0 +1,28 @@
+{
+    "version": "0.7.0",
+    "description": "一个用于哔咔漫画的多线程下载器",
+    "homepage": "https://github.com/lanyeeee/picacomic-downloader",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/lanyeeee/picacomic-downloader/releases/download/v0.7.0/picacomic-downloader_0.7.0_windows_x64_portable.zip",
+            "hash": "ebff61c9e2a51d63ed9b28a4fcde116ca775108778ef0a26a2df55f1581cedd8"
+        }
+    },
+    "shortcuts": [
+        [
+            "picacomic-downloader.exe",
+            "哔咔漫画下载器"
+        ]
+    ],
+    "post_uninstall": "if ($purge) { Remove-Item \"$env:APPDATA\\com.lanyeeee.picacomic-downloader\", \"$env:LOCALAPPDATA\\com.lanyeeee.picacomic-downloader\" -Force -Recurse -ErrorAction SilentlyContinue }",
+    "notes": "picacomic-downloader is NOT portable. Settings are stored in '%APPDATA%\\com.lanyeeee.picacomic-downloader', and will be purged during uninstallation.",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/lanyeeee/picacomic-downloader/releases/download/v$version/picacomic-downloader_$version_windows_x64_portable.zip"
+            }
+        }
+    }
+}

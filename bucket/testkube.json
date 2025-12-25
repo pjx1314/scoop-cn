@@ -1,0 +1,49 @@
+{
+    "version": "2.5.3",
+    "description": "Kubernetes-native testing framework for test execution and orchestration.",
+    "homepage": "https://testkube.io/",
+    "license": {
+        "identifier": "MIT",
+        "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/raw/refs/heads/main/LICENSE"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/releases/download/2.5.3/testkube_2.5.3_Windows_x86_64.tar.gz",
+            "hash": "064a6e14aefdf7bcb6f6f6d653ca9c0339fa09bddf5d7c67b3672d92604479c4"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/releases/download/2.5.3/testkube_2.5.3_Windows_i386.tar.gz",
+            "hash": "1bf0c54059c18b69226b6e4abab87f0aeab289ddc26b590e8df9296554a8075a"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/releases/download/2.5.3/testkube_2.5.3_Windows_arm64.tar.gz",
+            "hash": "0c15a82a1c646fbcb1cc2ad8315a68c3fd34e6a50ef2143b9af061b086a3e342"
+        }
+    },
+    "bin": [
+        "kubectl-testkube.exe",
+        [
+            "kubectl-testkube.exe",
+            "testkube"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/kubeshop/testkube/"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/releases/download/$version/testkube_$version_Windows_x86_64.tar.gz"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/releases/download/$version/testkube_$version_Windows_i386.tar.gz"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/kubeshop/testkube/releases/download/$version/testkube_$version_Windows_arm64.tar.gz"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
+        }
+    }
+}

@@ -1,17 +1,17 @@
 {
     "version": "2.1.0",
-    "description": "Command-line Registry tool for searching, multi-hive support, plugins, and more.",
-    "homepage": "https://ericzimmerman.github.io",
+    "description": "A powerful command line Registry tool searching, multi-hive support, plugins and more.",
+    "homepage": "https://github.com/EricZimmerman/RECmd",
     "license": "MIT",
-    "url": "https://download.ericzimmermanstools.com/net9/RECmd.zip",
-    "hash": "c5d9612369133079f6319741b81c6372da241255d80a8115b0ff3591d871da7d",
+    "url": "https://download.ericzimmermanstools.com/RECmd.zip",
+    "hash": "b71985b9dce5713274e34154e88548286007b53f7c377b51b24c1bc59b28d8c2",
     "extract_dir": "RECmd",
     "bin": "RECmd.exe",
     "checkver": {
         "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
-        "regex": "RECmd \\| \\[([\\d.]+)\\]"
+        "regex": "RECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {
-        "url": "https://download.ericzimmermanstools.com/net9/RECmd.zip"
+        "url": "https://download.ericzimmermanstools.com/RECmd.zip"
     }
 }

@@ -13,8 +13,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download-cdn.resilio.com/stable/windows/64/0/Resilio-Sync_x64.exe#/setup.exe",
-            "hash": "471e44dea9e6dc6eb71ba4a800b9943eba146c07d5349b7a908acfe456ab8609"
+            "url": "https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe#/setup.exe",
+            "hash": "6b78a98202bdf72572b8f5590422cfae7b24b8775499406fec7ed1b68b98011d"
         },
         "32bit": {
             "url": "https://download-cdn.resilio.com/stable/windows/Resilio-Sync.exe#/setup.exe",

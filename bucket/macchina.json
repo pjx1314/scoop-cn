@@ -1,6 +1,6 @@
 {
     "version": "6.4.0",
-    "description": "A system information fetcher, with an emphasis on performance and minimalism",
+    "description": "A system information frontend with an emphasis on performance.",
     "homepage": "https://github.com/Macchina-CLI/macchina",
     "license": "MIT",
     "architecture": {

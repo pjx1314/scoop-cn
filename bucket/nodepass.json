@@ -1,0 +1,38 @@
+{
+    "version": "1.13.0",
+    "description": "A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.",
+    "homepage": "https://github.com/yosebyte/nodepass",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/yosebyte/nodepass/releases/download/v1.13.0/nodepass_1.13.0_windows_amd64.tar.gz",
+            "hash": "59a43b1d53ea758c15b852add052d36f32693d931e30e82c5523a1319fe42d4d"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/yosebyte/nodepass/releases/download/v1.13.0/nodepass_1.13.0_windows_386.tar.gz",
+            "hash": "01ab52df0862b5b1448ef6d100b92a53ce686224b044e82b1b89f940571f351b"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/yosebyte/nodepass/releases/download/v1.13.0/nodepass_1.13.0_windows_arm64.tar.gz",
+            "hash": "c3f441107e131d7f4d988ddb07afeb302fd579bf365d760cb758b7435caaca7e"
+        }
+    },
+    "bin": "nodepass.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/yosebyte/nodepass/releases/download/v$version/nodepass_$version_windows_amd64.tar.gz"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/yosebyte/nodepass/releases/download/v$version/nodepass_$version_windows_386.tar.gz"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/yosebyte/nodepass/releases/download/v$version/nodepass_$version_windows_arm64.tar.gz"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/nodepass_$version_checksums.txt"
+        }
+    }
+}

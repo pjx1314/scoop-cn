@@ -1,0 +1,23 @@
+{
+    "version": "74.0.0",
+    "description": "A CLI helper for ort, a suite of tools to automate software compliance checks.",
+    "homepage": "https://oss-review-toolkit.org/",
+    "license": "Apache-2.0",
+    "url": "https://gh-proxy.com/https://github.com/oss-review-toolkit/ort/releases/download/74.0.0/orth-74.0.0.zip",
+    "hash": "d2ac5fd038dc624c29d80e543f6d6a453a860cf48cfd7fa922bf5c1cb88f3869",
+    "extract_dir": "orth-74.0.0",
+    "bin": "bin\\orth.bat",
+    "suggest": {
+        "JDK 21+": [
+            "main/temurin-jdk",
+            "main/zulu-jdk"
+        ]
+    },
+    "checkver": {
+        "github": "https://github.com/oss-review-toolkit/ort"
+    },
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/oss-review-toolkit/ort/releases/download/$version/orth-$version.zip",
+        "extract_dir": "orth-$version"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "version": "20251224-85d6c76",
+    "description": "Geosite rule set for sing-box.",
+    "homepage": "https://sing-box.sagernet.org/configuration/rule-set/",
+    "license": "GPL-3.0-or-later",
+    "url": "https://gh-proxy.com/https://github.com/SagerNet/sing-geosite/archive/85d6c76c9aaefa7df6043bf3fae2a95a40dda667.zip",
+    "hash": "32ac787b7dda39c6e11b41fe46d46971be7520b45b016999626e594eb81fd7cc",
+    "extract_dir": "sing-geosite-85d6c76c9aaefa7df6043bf3fae2a95a40dda667",
+    "checkver": {
+        "script": [
+            "$branch = Invoke-RestMethod 'https://api.github.com/repos/SagerNet/sing-geosite/branches/rule-set'",
+            "return ([DateTime][String]$branch.commit.commit.committer.date).ToUniversalTime().ToString(\"yyyyMMdd\") + ' ' + $branch.commit.sha"
+        ],
+        "regex": "(?<date>\\d+) (?<full>(?<short>[a-f0-9]{7})[a-f0-9]+)",
+        "replace": "${date}-${short}"
+    },
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/SagerNet/sing-geosite/archive/$matchFull.zip",
+        "extract_dir": "sing-geosite-$matchFull"
+    }
+}

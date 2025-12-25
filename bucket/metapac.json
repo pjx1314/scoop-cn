@@ -1,0 +1,31 @@
+{
+    "version": "0.7.0",
+    "description": "Multi-backend declarative package manager.",
+    "homepage": "https://github.com/ripytide/metapac",
+    "license": "GPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-0.7.0/metapac-0.7.0-x86_64-pc-windows-msvc.tar.gz",
+            "hash": "0478b86c45bd6656f13421d29f3c5225c9f75e5dcaebbd73ecf843680271cb5f"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-0.7.0/metapac-0.7.0-aarch64-pc-windows-msvc.tar.gz",
+            "hash": "5c628ca79213af38634da1968ab7be3233017462f40f53e56711594104e9df3d"
+        }
+    },
+    "bin": "metapac.exe",
+    "checkver": {
+        "url": "https://crates.io/api/v1/crates/metapac?include=default_version",
+        "jsonpath": "$.crate.default_version"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-$version/metapac-$version-x86_64-pc-windows-msvc.tar.gz"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-$version/metapac-$version-aarch64-pc-windows-msvc.tar.gz"
+            }
+        }
+    }
+}
