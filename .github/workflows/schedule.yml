@@ -83,7 +83,7 @@ jobs:
         with:
           repository: "hoilc/scoop-lemon"
           fetch-depth: 1
-          path: "Extras-CN"
+          path: "scoop-lemon"
       - name: Update buckets
         shell: pwsh
         run: |
