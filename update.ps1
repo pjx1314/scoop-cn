@@ -19,7 +19,8 @@ Copy-Item -Path .\scoop-games\bucket\*        -Destination .\bucket  -Recurse -F
 Copy-Item -Path .\SecuLife\bucket\*           -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\dorado\bucket\*             -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-sysinternals\bucket\* -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Extras-CN\bucket\*          -Destination .\scripts -Recurse -Force
+Copy-Item -Path .\Extras-CN\bucket\*          -Destination .\bucket -Recurse -Force
+Copy-Item -Path .\scoop-lemon\bucket\*        -Destination .\bucket -Recurse -Force
 Copy-Item -Path .\Main\scripts\*              -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Extras\scripts\*            -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Versions\scripts\*          -Destination .\scripts -Recurse -Force
@@ -27,6 +28,7 @@ Copy-Item -Path .\Nonportable\scripts\*       -Destination .\scripts -Recurse -F
 Copy-Item -Path .\scoop-games\scripts\*       -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\dorado\scripts\*            -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Extras-CN\scripts\*         -Destination .\scripts -Recurse -Force
+Copy-Item -Path .\scoop-lemon\scripts\*       -Destination .\scripts -Recurse -Force
 
 # 复制完后，删掉克隆的文件夹
 Remove-Item -Path .\Main               -Recurse -Force
@@ -42,6 +44,7 @@ Remove-Item -Path .\scoop-sysinternals -Recurse -Force
 Remove-Item -Path .\SecuLife           -Recurse -Force
 Remove-Item -Path .\dorado             -Recurse -Force
 Remove-Item -Path .\Extras-CN          -Recurse -Force
+Remove-Item -Path .\scoop-lemon        -Recurse -Force
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName

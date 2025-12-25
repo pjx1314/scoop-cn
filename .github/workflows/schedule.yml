@@ -3,7 +3,7 @@ on:
     branches:
       - "master"
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   excavate:
@@ -77,6 +77,11 @@ jobs:
       - uses: actions/checkout@v3
         with:
           repository: "Scoopforge/Extras-CN"
+          fetch-depth: 1
+          path: "Extras-CN"
+      - uses: actions/checkout@v3
+        with:
+          repository: "hoilc/scoop-lemon"
           fetch-depth: 1
           path: "Extras-CN"
       - name: Update buckets
