@@ -13,7 +13,7 @@
             "hash": "2b18df7d5915d6a223f9d0142524e7ca4696cf3a52040c22859e225c45e40602"
         }
     },
-    "depends": "main/main/wixtoolset",
+    "depends": "main/wixtoolset",
     "suggest": {
         "python39": "main/python39",
         "vcredist": "main/vcredist2022"

@@ -3,7 +3,7 @@
     "description": "A plugin that adds OTP support (two factor authentication) to KeePass.",
     "homepage": "https://github.com/Rookiestyle/KeePassOTP",
     "license": "GPL-3.0-only",
-    "depends": "main/main/keepass",
+    "depends": "main/keepass",
     "url": "https://gh-proxy.com/https://github.com/Rookiestyle/KeePassOTP/releases/download/v1.11/KeePassOTP.plgx",
     "hash": "8ef272c8695d7cb215d94889d9640e9dbe16d7737dbdddd54f1310c50faf2f83",
     "checkver": "github",

@@ -3,7 +3,7 @@
     "description": "KPEnhancedEntryView extends the entry view in the KeePass main window.",
     "homepage": "https://sourceforge.net/projects/kpenhentryview/",
     "license": "GPL-3.0-only",
-    "depends": "main/main/keepass",
+    "depends": "main/keepass",
     "url": "https://sourceforge.net/projects/kpenhentryview/files/v2.7.1/KPEnhancedEntryView-v2.7.1.zip",
     "hash": "sha1:1899056a09d05d4475ad2df9673d8d094ce83493",
     "checkver": {
