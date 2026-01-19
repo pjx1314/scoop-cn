@@ -19,8 +19,8 @@ Copy-Item -Path .\scoop-games\bucket\*        -Destination .\bucket  -Recurse -F
 Copy-Item -Path .\SecuLife\bucket\*           -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\dorado\bucket\*             -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-sysinternals\bucket\* -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Extras-CN\bucket\*          -Destination .\bucket -Recurse -Force
-Copy-Item -Path .\scoop-lemon\bucket\*        -Destination .\bucket -Recurse -Force
+Copy-Item -Path .\Extras-CN\bucket\*          -Destination .\bucket  -Recurse -Force
+Copy-Item -Path .\scoop-lemon\bucket\*        -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\Main\scripts\*              -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Extras\scripts\*            -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Versions\scripts\*          -Destination .\scripts -Recurse -Force
@@ -139,13 +139,13 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = $content -replace 'download\.typora\.io', 'downloads.typoraio.cn'
 
     # Scripts
-    $content = $content -replace '(bucketsdir\\\\).+(\\\\scripts)', '$1scoop-cn$2'
+    $content = $content -replace '(bucketsdir\\\\).+(\\\\scripts)', '$1main$2'
 
-    # 将 suggest 路径改为 scoop-cn
-    $content = $content -replace '\"main/|\"extras/|\"versions/|\"nirsoft/|\"sysinternals/|\"php/|\"nerd-fonts/|\"nonportable/|\"java/|\"games/', '"scoop-cn/' 
+    # 将 suggest 路径改为 main
+    $content = $content -replace '\"main/|\"extras/|\"versions/|\"nirsoft/|\"sysinternals/|\"php/|\"nerd-fonts/|\"nonportable/|\"java/|\"games/', '"main/' 
 
-    # 将 depends 路径改为 scoop-cn
-    $content = $content -replace '\"depends\":\s*\"(scoop\-cn/)?', '"depends": "scoop-cn/' 
+    # 将 depends 路径改为 main
+    $content = $content -replace '\"depends\":\s*\"(scoop\-cn/)?', '"depends": "main/' 
     
 		Set-Content -Path $_.FullName -Value $content
 }
