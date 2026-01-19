@@ -15,7 +15,7 @@
     },
     "bin": "rustscan.exe",
     "suggest": {
-        "nmap": "scoop-cn/nmap"
+        "nmap": "main/nmap"
     },
     "checkver": "github",
     "autoupdate": {

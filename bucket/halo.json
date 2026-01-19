@@ -4,7 +4,7 @@
     "homepage": "https://halo.run",
     "license": "GPL-3.0-or-later",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://gh-proxy.com/https://github.com/halo-dev/halo/releases/download/v2.22.10/halo-2.22.10.jar#/halo.jar",
     "hash": "dc5ac04ea50629261fc189839def266d81a03f21bbfaec99b58567e01c7e3e5d",

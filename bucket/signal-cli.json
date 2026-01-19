@@ -4,7 +4,7 @@
     "homepage": "https://github.com/AsamK/signal-cli",
     "license": "GPL-3.0-only",
     "suggest": {
-        "JDK": "scoop-cn/openjdk"
+        "JDK": "main/openjdk"
     },
     "url": "https://gh-proxy.com/https://github.com/AsamK/signal-cli/releases/download/v0.13.22/signal-cli-0.13.22.tar.gz",
     "hash": "1453c2870d30d10a97f19267aa9c314b999fd8e7839555bc410c838d3a33380b",

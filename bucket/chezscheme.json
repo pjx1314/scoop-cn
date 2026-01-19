@@ -3,7 +3,7 @@
     "description": "Chez Scheme is both a programming language and an implementation of that language.",
     "license": "Apache-2.0",
     "version": "10.3.0",
-    "depends": "scoop-cn/dark",
+    "depends": "main/dark",
     "url": "https://gh-proxy.com/https://github.com/cisco/ChezScheme/releases/download/v10.3.0/ChezScheme.exe",
     "hash": "3cbb49061e01bcc7305642dbd3ebc2d10ca923a1ec66359140fafafea60809d1",
     "architecture": {

@@ -10,7 +10,7 @@
         }
     },
     "suggest": {
-        "adb": "scoop-cn/adb"
+        "adb": "main/adb"
     },
     "shortcuts": [
         [

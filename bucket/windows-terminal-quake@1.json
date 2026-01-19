@@ -18,6 +18,6 @@
     ],
     "persist": "windows-terminal-quake.json",
     "suggest": {
-        "terminal": "scoop-cn/windows-terminal"
+        "terminal": "main/windows-terminal"
     }
 }

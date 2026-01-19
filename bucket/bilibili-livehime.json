@@ -9,7 +9,7 @@
             "hash": "md5:c0208c5bffe73208f99cc298140ce0f9"
         }
     },
-    "depends": "scoop-cn/innounp",
+    "depends": "main/innounp",
     "installer": {
         "script": "Expand-InnoArchive -Path \"$dir\\$fname\" -Removal"
     },

@@ -12,7 +12,7 @@
             "deno",
             "nodejs",
             "nodejs-lts",
-            "scoop-cn/nodejs22",
+            "main/nodejs22",
             "bun",
             "quickjs"
         ],

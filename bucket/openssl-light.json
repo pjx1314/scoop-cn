@@ -17,7 +17,7 @@
             "hash": "27d16896d67e2cd0afa72ba60c23b5c649b2af9c615f274d89eee2b704d73009"
         }
     },
-    "depends": "scoop-cn/innounp",
+    "depends": "main/innounp",
     "installer": {
         "script": [
             "Expand-InnoArchive -Path \"$dir\\$fname\"",

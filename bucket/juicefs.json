@@ -11,7 +11,7 @@
     },
     "bin": "juicefs.exe",
     "suggest": {
-        "winfsp": "scoop-cn/winfsp-np"
+        "winfsp": "main/winfsp-np"
     },
     "checkver": "github",
     "autoupdate": {

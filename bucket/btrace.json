@@ -12,10 +12,10 @@
     ],
     "suggest": {
         "JDK": [
-            "scoop-cn/oraclejdk",
-            "scoop-cn/openjdk",
-            "scoop-cn/adoptopenjdk-hotspot",
-            "scoop-cn/zulu"
+            "main/oraclejdk",
+            "main/openjdk",
+            "main/adoptopenjdk-hotspot",
+            "main/zulu"
         ]
     },
     "checkver": "github",

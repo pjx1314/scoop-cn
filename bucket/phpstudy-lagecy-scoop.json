@@ -12,7 +12,7 @@
         "php-nts"
     ],
     "suggest": {
-        "vcruntime": "scoop-cn/vcredist2019"
+        "vcruntime": "main/vcredist2019"
     },
     "installer": {
         "script": [

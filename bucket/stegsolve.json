@@ -14,10 +14,10 @@
     ],
     "suggest": {
         "JDK": [
-            "scoop-cn/oraclejdk",
-            "scoop-cn/openjdk",
-            "scoop-cn/temurin-jdk",
-            "scoop-cn/zulu-jdk"
+            "main/oraclejdk",
+            "main/openjdk",
+            "main/temurin-jdk",
+            "main/zulu-jdk"
         ]
     }
 }

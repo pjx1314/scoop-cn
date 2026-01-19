@@ -4,7 +4,7 @@
     "version": "2.6.0",
     "license": "BSD-3-Clause",
     "suggest": {
-        "sudo": "scoop-cn/gsudo"
+        "sudo": "main/gsudo"
     },
     "architecture": {
         "64bit": {

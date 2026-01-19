@@ -19,8 +19,8 @@
     },
     "bin": "cargo-zigbuild.exe",
     "suggest": {
-        "zig": "scoop-cn/zig",
-        "zig-dev": "scoop-cn/zig-dev"
+        "zig": "main/zig",
+        "zig-dev": "main/zig-dev"
     },
     "checkver": "github",
     "autoupdate": {

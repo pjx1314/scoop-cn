@@ -8,7 +8,7 @@
             "ffmpeg",
             "ffmpeg-nightly"
         ],
-        "vcredist": "scoop-cn/vcredist2010"
+        "vcredist": "main/vcredist2010"
     },
     "architecture": {
         "64bit": {

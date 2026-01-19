@@ -20,7 +20,7 @@
         ]
     ],
     "suggest": {
-        "MiKTeX": "scoop-cn/miktex"
+        "MiKTeX": "main/miktex"
     },
     "notes": [
         "EqualX use a TeXLive distribution system.",

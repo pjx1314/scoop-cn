@@ -8,12 +8,12 @@
     "bin": "morphe-cli.jar",
     "suggest": {
         "JDK 11+": [
-            "scoop-cn/temurin17-jdk",
-            "scoop-cn/temurin11-jdk",
-            "scoop-cn/zulu17-jdk",
-            "scoop-cn/zulu11-jdk"
+            "main/temurin17-jdk",
+            "main/temurin11-jdk",
+            "main/zulu17-jdk",
+            "main/zulu11-jdk"
         ],
-        "Android Debug Bridge": "scoop-cn/adb"
+        "Android Debug Bridge": "main/adb"
     },
     "notes": "You need to have JRE 11 installed on your computer to use Morphe CLI.",
     "checkver": "github",

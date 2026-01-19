@@ -9,10 +9,10 @@
     "bin": "sqlline.bat",
     "suggest": {
         "JDK": [
-            "scoop-cn/temurin-jdk",
-            "scoop-cn/openjdk",
-            "scoop-cn/zulu-jdk",
-            "scoop-cn/oraclejdk"
+            "main/temurin-jdk",
+            "main/openjdk",
+            "main/zulu-jdk",
+            "main/oraclejdk"
         ]
     },
     "persist": "drivers",
