@@ -9,8 +9,8 @@
     "bin": "bin\\orth.bat",
     "suggest": {
         "JDK 21+": [
-            "main/temurin-jdk",
-            "main/zulu-jdk"
+            "scoop-cn/temurin-jdk",
+            "scoop-cn/zulu-jdk"
         ]
     },
     "checkver": {

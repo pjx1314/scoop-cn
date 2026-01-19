@@ -11,9 +11,9 @@
         "https://docs.camunda.io/docs/guides/update-guide/130-to-800/"
     ],
     "suggest": {
-        "JDK": "main/openjdk",
+        "JDK": "scoop-cn/openjdk",
         "Zeebe": "zeebe",
-        "ElasticSearch": "main/elasticsearch"
+        "ElasticSearch": "scoop-cn/elasticsearch"
     },
     "architecture": {
         "64bit": {

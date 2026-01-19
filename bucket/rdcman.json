@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "RDCMan.exe",
-            "main/RDCMan"
+            "scoop-cn/RDCMan"
         ]
     ],
     "checkver": {

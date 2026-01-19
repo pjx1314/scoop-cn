@@ -30,7 +30,7 @@
             "sudo $dir\\wind.exe action:uninstall"
         ]
     },
-    "depends": "main/sudo",
+    "depends": "scoop-cn/sudo",
     "suggest": {
         "windctl": "windctl"
     },

@@ -8,10 +8,10 @@
     "bin": "s3proxy.jar",
     "suggest": {
         "JDK": [
-            "main/oraclejdk",
-            "main/openjdk",
-            "main/adoptopenjdk-hotspot",
-            "main/zulu"
+            "scoop-cn/oraclejdk",
+            "scoop-cn/openjdk",
+            "scoop-cn/adoptopenjdk-hotspot",
+            "scoop-cn/zulu"
         ]
     },
     "notes": "You need to have JRE 11 installed on your computer to use S3Proxy.",

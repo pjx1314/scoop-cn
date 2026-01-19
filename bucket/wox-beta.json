@@ -5,7 +5,7 @@
     "license": "MIT",
     "suggest": {
         "Python3": "python",
-        "Everything": "main/everything"
+        "Everything": "scoop-cn/everything"
     },
     "architecture": {
         "64bit": {

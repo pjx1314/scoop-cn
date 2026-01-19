@@ -6,7 +6,7 @@
     "suggest": {
         "transmission": [
             "transmission-cli",
-            "main/transmission"
+            "scoop-cn/transmission"
         ]
     },
     "architecture": {

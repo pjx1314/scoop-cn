@@ -23,7 +23,7 @@
             "shortcuts": [
                 [
                     "LoadOrd64.exe",
-                    "main/LoadOrder",
+                    "scoop-cn/LoadOrder",
                     "/accepteula"
                 ]
             ]
@@ -36,7 +36,7 @@
             "shortcuts": [
                 [
                     "LoadOrd.exe",
-                    "main/LoadOrder",
+                    "scoop-cn/LoadOrder",
                     "/accepteula"
                 ]
             ]
@@ -55,7 +55,7 @@
             "shortcuts": [
                 [
                     "LoadOrd64a.exe",
-                    "main/LoadOrder",
+                    "scoop-cn/LoadOrder",
                     "/accepteula"
                 ]
             ]

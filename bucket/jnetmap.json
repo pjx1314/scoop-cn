@@ -16,10 +16,10 @@
     "post_install": "Remove-Item \"$dir\\uninstall*\" -Force -ErrorAction SilentlyContinue",
     "suggest": {
         "JDK": [
-            "main/temurin-jdk",
-            "main/openjdk",
-            "main/zulu-jdk",
-            "main/oraclejdk"
+            "scoop-cn/temurin-jdk",
+            "scoop-cn/openjdk",
+            "scoop-cn/zulu-jdk",
+            "scoop-cn/oraclejdk"
         ]
     },
     "checkver": {

@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "tcpview64.exe",
-                    "main/TCPView",
+                    "scoop-cn/TCPView",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "tcpview.exe",
-                    "main/TCPView",
+                    "scoop-cn/TCPView",
                     "/accepteula"
                 ]
             ]
@@ -44,7 +44,7 @@
             "shortcuts": [
                 [
                     "tcpview64a.exe",
-                    "main/TCPView",
+                    "scoop-cn/TCPView",
                     "/accepteula"
                 ]
             ]

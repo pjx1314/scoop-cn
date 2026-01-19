@@ -16,7 +16,7 @@
         ]
     ],
     "suggest": {
-        "alist": "main/alist"
+        "alist": "scoop-cn/alist"
     },
     "notes": "Show alist working directory by 'scoop prefix alist'",
     "checkver": "github",

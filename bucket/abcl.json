@@ -12,10 +12,10 @@
     "bin": "abcl.jar",
     "suggest": {
         "JDK": [
-            "main/oraclejdk",
-            "main/openjdk",
-            "main/temurin-jdk",
-            "main/zulu-jdk"
+            "scoop-cn/oraclejdk",
+            "scoop-cn/openjdk",
+            "scoop-cn/temurin-jdk",
+            "scoop-cn/zulu-jdk"
         ]
     },
     "checkver": {

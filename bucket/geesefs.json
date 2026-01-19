@@ -11,7 +11,7 @@
     },
     "bin": "geesefs.exe",
     "suggest": {
-        "winfsp": "main/winfsp-np"
+        "winfsp": "scoop-cn/winfsp-np"
     },
     "checkver": "github",
     "autoupdate": {

@@ -3,7 +3,7 @@
     "description": "Extend the function of ASF (ArchiSteamFarm), add several practical commands",
     "homepage": "https://github.com/chr233/ASFEnhance",
     "license": "AGPL-3.0-only",
-    "depends": "main/lemon/archisteamfarm",
+    "depends": "scoop-cn/lemon/archisteamfarm",
     "architecture": {
         "64bit": {
             "url": "https://gh-proxy.com/https://github.com/chr233/ASFEnhance/releases/download/2.3.17.0/ASFEnhance.zip",

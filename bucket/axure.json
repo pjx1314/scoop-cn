@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "url": "https://axure.cachefly.net/versions/10-0/AxureRP-Setup-3924.exe#/installer.exe",
     "hash": "92606deeb6752629139d2c01682a48a07b04c60c28066112542bb8db195e273f",
-    "depends": "main/dark",
+    "depends": "scoop-cn/dark",
     "installer": {
         "script": [
             "Expand-DarkArchive \"$dir\\installer.exe\" \"$dir\\extracted\" -Removal",

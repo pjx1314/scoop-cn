@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "ShellRunas.exe",
-            "main/ShellRunas",
+            "scoop-cn/ShellRunas",
             "/accepteula"
         ]
     ],

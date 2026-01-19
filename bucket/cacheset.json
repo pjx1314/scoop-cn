@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "Cacheset64.exe",
-                    "main/CacheSet",
+                    "scoop-cn/CacheSet",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "Cacheset.exe",
-                    "main/CacheSet",
+                    "scoop-cn/CacheSet",
                     "/accepteula"
                 ]
             ]

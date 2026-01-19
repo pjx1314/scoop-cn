@@ -32,7 +32,7 @@
         ]
     ],
     "suggest": {
-        "ffmpeg": "main/ffmpeg"
+        "ffmpeg": "scoop-cn/ffmpeg"
     },
     "checkver": {
         "github": "https://github.com/lbryio/lbry-desktop"

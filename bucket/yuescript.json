@@ -15,9 +15,9 @@
     ],
     "suggest": {
         "Lua": [
-            "main/lua",
-            "main/lua51",
-            "main/lua53"
+            "scoop-cn/lua",
+            "scoop-cn/lua51",
+            "scoop-cn/lua53"
         ]
     },
     "architecture": {

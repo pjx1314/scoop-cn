@@ -8,10 +8,10 @@
     "bin": "metabase.jar",
     "suggest": {
         "JDK": [
-            "main/oraclejdk",
-            "main/openjdk",
-            "main/adoptopenjdk-hotspot",
-            "main/zulu"
+            "scoop-cn/oraclejdk",
+            "scoop-cn/openjdk",
+            "scoop-cn/adoptopenjdk-hotspot",
+            "scoop-cn/zulu"
         ]
     },
     "env_set": {

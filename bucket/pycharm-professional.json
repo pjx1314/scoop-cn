@@ -13,7 +13,7 @@
         "The unified `extras/pycharm` manifest now replaces all PyCharm variants. Please use `extras/pycharm` instead."
     ],
     "suggest": {
-        "PyCharm": "main/pycharm"
+        "PyCharm": "scoop-cn/pycharm"
     },
     "url": "https://download.jetbrains.com/python/pycharm-professional-2025.3.1.1.win.zip",
     "hash": "241d14e46c22ec3e37e5cbf0c5335e671c4f15f3a1312710ad33d1cb93773a9a",
@@ -24,7 +24,7 @@
     ],
     "installer": {
         "script": [
-            "& \"$bucketsdir\\main\\scripts\\jetbrains\\portable.ps1\" \"$dir\" \"$persist_dir\"",
+            "& \"$bucketsdir\\scoop-cn\\scripts\\jetbrains\\portable.ps1\" \"$dir\" \"$persist_dir\"",
             "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
             "Set-Content \"$dir\\run_pycharm.bat\" \"start `\"`\" `\"$dir\\IDE\\bin\\pycharm64.exe`\"\" -Encoding ascii | Out-Null"
         ]

@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "Desktops64.exe",
-                    "main/Desktops",
+                    "scoop-cn/Desktops",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "Desktops.exe",
-                    "main/Desktops",
+                    "scoop-cn/Desktops",
                     "/accepteula"
                 ]
             ]

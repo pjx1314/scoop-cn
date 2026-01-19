@@ -5,8 +5,8 @@
     "license": "Freeware",
     "suggest": {
         "ffmpeg": [
-            "main/ffmpeg-yt-dlp-nightly",
-            "main/ffmpeg-shared-yt-dlp-nightly"
+            "scoop-cn/ffmpeg-yt-dlp-nightly",
+            "scoop-cn/ffmpeg-shared-yt-dlp-nightly"
         ]
     },
     "architecture": {

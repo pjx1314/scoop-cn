@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "AccessEnum.exe",
-            "main/AccessEnum",
+            "scoop-cn/AccessEnum",
             "/accepteula"
         ]
     ],

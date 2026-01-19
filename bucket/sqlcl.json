@@ -7,7 +7,7 @@
         "url": "https://www.oracle.com/downloads/licenses/oracle-free-license.html"
     },
     "suggest": {
-        "JRE": "main/oraclejdk"
+        "JRE": "scoop-cn/oraclejdk"
     },
     "url": "https://download.oracle.com/otn_software/java/sqldeveloper/sqlcl-latest.zip",
     "hash": "62e97f6d994b12e3693e156ec50291c29c801bbfae141fbb2f2aa2f178416001",

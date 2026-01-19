@@ -5,7 +5,7 @@
     "license": "MIT",
     "notes": "Open from CMD or PowerShell with `gsudo winutil`.",
     "suggest": {
-        "gsudo": "main/gsudo"
+        "gsudo": "scoop-cn/gsudo"
     },
     "url": "https://gh-proxy.com/https://github.com/ChrisTitusTech/winutil/releases/download/26.01.08/winutil.ps1",
     "hash": "d8352831afbe1bf2f447aedf8f1e53bb5c4a445624592dcf0355b802ae6de2c3",

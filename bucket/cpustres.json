@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "CPUSTRES64.exe",
-                    "main/CPU Stress",
+                    "scoop-cn/CPU Stress",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "CPUSTRES.exe",
-                    "main/CPU Stress",
+                    "scoop-cn/CPU Stress",
                     "/accepteula"
                 ]
             ]

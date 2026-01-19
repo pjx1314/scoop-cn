@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "Diskmon64.exe",
-                    "main/DiskMon",
+                    "scoop-cn/DiskMon",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "Diskmon.exe",
-                    "main/DiskMon",
+                    "scoop-cn/DiskMon",
                     "/accepteula"
                 ]
             ]

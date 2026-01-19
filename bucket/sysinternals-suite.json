@@ -298,130 +298,130 @@
             "shortcuts": [
                 [
                     "AccessEnum.exe",
-                    "main/AccessEnum - View accesses to directories, files and registry keys",
+                    "scoop-cn/AccessEnum - View accesses to directories, files and registry keys",
                     "/accepteula"
                 ],
                 [
                     "AdExplorer64.exe",
-                    "main/ADExplorer - Active Directory viewer and editor",
+                    "scoop-cn/ADExplorer - Active Directory viewer and editor",
                     "/accepteula"
                 ],
                 [
                     "AdInsight64.exe",
-                    "main/ADInsight - An LDAP real-time monitoring tool",
+                    "scoop-cn/ADInsight - An LDAP real-time monitoring tool",
                     "/accepteula"
                 ],
                 [
                     "Autologon64.exe",
-                    "main/Autologon - Bypass password screen during logon",
+                    "scoop-cn/Autologon - Bypass password screen during logon",
                     "/accepteula"
                 ],
                 [
                     "autoruns64.exe",
-                    "main/Autoruns - View startup programs and processes"
+                    "scoop-cn/Autoruns - View startup programs and processes"
                 ],
                 [
                     "Bginfo64.exe",
-                    "main/BGInfo - Wallpaper text configurator",
+                    "scoop-cn/BGInfo - Wallpaper text configurator",
                     "/accepteula"
                 ],
                 [
                     "Cacheset64.exe",
-                    "main/CacheSet - Control the Cache Manager's working set size",
+                    "scoop-cn/CacheSet - Control the Cache Manager's working set size",
                     "/accepteula"
                 ],
                 [
                     "CPUSTRES64.EXE",
-                    "main/CPU Stress - Simulate CPU activity by running up to 64 threads in a tight loop",
+                    "scoop-cn/CPU Stress - Simulate CPU activity by running up to 64 threads in a tight loop",
                     "/accepteula"
                 ],
                 [
                     "Dbgview64.exe",
-                    "main/DebugView - View OutputDebugString and DbgPrint output",
+                    "scoop-cn/DebugView - View OutputDebugString and DbgPrint output",
                     "/accepteula"
                 ],
                 [
                     "Desktops64.exe",
-                    "main/Desktops - Create up to four virtual desktops",
+                    "scoop-cn/Desktops - Create up to four virtual desktops",
                     "/accepteula"
                 ],
                 [
                     "Disk2vhd64.exe",
-                    "main/Disk2vhd - Create VHD files from online disk",
+                    "scoop-cn/Disk2vhd - Create VHD files from online disk",
                     "/accepteula"
                 ],
                 [
                     "Diskmon64.exe",
-                    "main/DiskMon - Disk activity monitor",
+                    "scoop-cn/DiskMon - Disk activity monitor",
                     "/accepteula"
                 ],
                 [
                     "DiskView64.exe",
-                    "main/DiskView - Graphical disk sector utility",
+                    "scoop-cn/DiskView - Graphical disk sector utility",
                     "/accepteula"
                 ],
                 [
                     "LoadOrd64.exe",
-                    "main/LoadOrder - See the order in which devices are loaded",
+                    "scoop-cn/LoadOrder - See the order in which devices are loaded",
                     "/accepteula"
                 ],
                 [
                     "NotMyFault64.exe",
-                    "main/NotMyFault - Crash, hang, and cause kernel memory leaks",
+                    "scoop-cn/NotMyFault - Crash, hang, and cause kernel memory leaks",
                     "/accepteula"
                 ],
                 [
                     "portmon.exe",
-                    "main/PortMon - Serial and parallel port activity monitor",
+                    "scoop-cn/PortMon - Serial and parallel port activity monitor",
                     "/accepteula"
                 ],
                 [
                     "procexp64.exe",
-                    "main/ProcessExplorer - Enhanced Task Manager",
+                    "scoop-cn/ProcessExplorer - Enhanced Task Manager",
                     "/accepteula"
                 ],
                 [
                     "Procmon64.exe",
-                    "main/ProcessMonitor - Monitor file system, registry, process, thread and DLL activity",
+                    "scoop-cn/ProcessMonitor - Monitor file system, registry, process, thread and DLL activity",
                     "/accepteula"
                 ],
                 [
                     "RAMMap64.exe",
-                    "main/RamMap - Graphical display of memory usage",
+                    "scoop-cn/RamMap - Graphical display of memory usage",
                     "/accepteula"
                 ],
                 [
                     "RDCMan.exe",
-                    "main/RDCMan - Remote Desktop Connection Manager"
+                    "scoop-cn/RDCMan - Remote Desktop Connection Manager"
                 ],
                 [
                     "ShareEnum64.exe",
-                    "main/ShareEnum - View network shares",
+                    "scoop-cn/ShareEnum - View network shares",
                     "/accepteula"
                 ],
                 [
                     "ShellRunas.exe",
-                    "main/ShellRunas - Launching programs under different accounts",
+                    "scoop-cn/ShellRunas - Launching programs under different accounts",
                     "/accepteula"
                 ],
                 [
                     "tcpview64.exe",
-                    "main/TCPView - List TCP UDP endpoints",
+                    "scoop-cn/TCPView - List TCP UDP endpoints",
                     "/accepteula"
                 ],
                 [
                     "vmmap64.exe",
-                    "main/VMMap - View Virtual and Physical Memory",
+                    "scoop-cn/VMMap - View Virtual and Physical Memory",
                     "/accepteula"
                 ],
                 [
                     "Winobj64.exe",
-                    "main/WinObj - Object Manager namespace viewer",
+                    "scoop-cn/WinObj - Object Manager namespace viewer",
                     "/accepteula"
                 ],
                 [
                     "ZoomIt64.exe",
-                    "main/ZoomIt - Screen magnifier for zooming and drawing on the screen",
+                    "scoop-cn/ZoomIt - Screen magnifier for zooming and drawing on the screen",
                     "/accepteula"
                 ]
             ]
@@ -510,130 +510,130 @@
             "shortcuts": [
                 [
                     "AccessEnum.exe",
-                    "main/AccessEnum - View accesses to directories, files and registry keys",
+                    "scoop-cn/AccessEnum - View accesses to directories, files and registry keys",
                     "/accepteula"
                 ],
                 [
                     "AdExplorer.exe",
-                    "main/ADExplorer - Active Directory viewer and editor",
+                    "scoop-cn/ADExplorer - Active Directory viewer and editor",
                     "/accepteula"
                 ],
                 [
                     "AdInsight.exe",
-                    "main/ADInsight - An LDAP real-time monitoring tool",
+                    "scoop-cn/ADInsight - An LDAP real-time monitoring tool",
                     "/accepteula"
                 ],
                 [
                     "Autologon.exe",
-                    "main/Autologon - Bypass password screen during logon",
+                    "scoop-cn/Autologon - Bypass password screen during logon",
                     "/accepteula"
                 ],
                 [
                     "autoruns.exe",
-                    "main/Autoruns - View startup programs and processes"
+                    "scoop-cn/Autoruns - View startup programs and processes"
                 ],
                 [
                     "Bginfo.exe",
-                    "main/BGInfo - Wallpaper text configurator",
+                    "scoop-cn/BGInfo - Wallpaper text configurator",
                     "/accepteula"
                 ],
                 [
                     "Cacheset.exe",
-                    "main/CacheSet - Control the Cache Manager's working set size",
+                    "scoop-cn/CacheSet - Control the Cache Manager's working set size",
                     "/accepteula"
                 ],
                 [
                     "CPUSTRES.EXE",
-                    "main/CPU Stress - Simulate CPU activity by running up to 64 threads in a tight loop",
+                    "scoop-cn/CPU Stress - Simulate CPU activity by running up to 64 threads in a tight loop",
                     "/accepteula"
                 ],
                 [
                     "Dbgview.exe",
-                    "main/DebugView - View OutputDebugString and DbgPrint output",
+                    "scoop-cn/DebugView - View OutputDebugString and DbgPrint output",
                     "/accepteula"
                 ],
                 [
                     "Desktops.exe",
-                    "main/Desktops - Create up to four virtual desktops",
+                    "scoop-cn/Desktops - Create up to four virtual desktops",
                     "/accepteula"
                 ],
                 [
                     "Disk2vhd.exe",
-                    "main/Disk2vhd - Create VHD files from online disk",
+                    "scoop-cn/Disk2vhd - Create VHD files from online disk",
                     "/accepteula"
                 ],
                 [
                     "Diskmon.exe",
-                    "main/DiskMon - Disk activity monitor",
+                    "scoop-cn/DiskMon - Disk activity monitor",
                     "/accepteula"
                 ],
                 [
                     "DiskView.exe",
-                    "main/DiskView - Graphical disk sector utility",
+                    "scoop-cn/DiskView - Graphical disk sector utility",
                     "/accepteula"
                 ],
                 [
                     "LoadOrd.exe",
-                    "main/LoadOrder - See the order in which devices are loaded",
+                    "scoop-cn/LoadOrder - See the order in which devices are loaded",
                     "/accepteula"
                 ],
                 [
                     "NotMyFault.exe",
-                    "main/NotMyFault - Crash, hang, and cause kernel memory leaks",
+                    "scoop-cn/NotMyFault - Crash, hang, and cause kernel memory leaks",
                     "/accepteula"
                 ],
                 [
                     "portmon.exe",
-                    "main/PortMon - Serial and parallel port activity monitor",
+                    "scoop-cn/PortMon - Serial and parallel port activity monitor",
                     "/accepteula"
                 ],
                 [
                     "procexp.exe",
-                    "main/ProcessExplorer - Enhanced Task Manager",
+                    "scoop-cn/ProcessExplorer - Enhanced Task Manager",
                     "/accepteula"
                 ],
                 [
                     "Procmon.exe",
-                    "main/ProcessMonitor - Monitor file system, registry, process, thread and DLL activity",
+                    "scoop-cn/ProcessMonitor - Monitor file system, registry, process, thread and DLL activity",
                     "/accepteula"
                 ],
                 [
                     "RAMMap.exe",
-                    "main/RamMap - Graphical display of memory usage",
+                    "scoop-cn/RamMap - Graphical display of memory usage",
                     "/accepteula"
                 ],
                 [
                     "RDCMan.exe",
-                    "main/RDCMan - Remote Desktop Connection Manager"
+                    "scoop-cn/RDCMan - Remote Desktop Connection Manager"
                 ],
                 [
                     "ShareEnum.exe",
-                    "main/ShareEnum - View network shares",
+                    "scoop-cn/ShareEnum - View network shares",
                     "/accepteula"
                 ],
                 [
                     "ShellRunas.exe",
-                    "main/ShellRunas - Launching programs under different accounts",
+                    "scoop-cn/ShellRunas - Launching programs under different accounts",
                     "/accepteula"
                 ],
                 [
                     "tcpview.exe",
-                    "main/TCPView - List TCP UDP endpoints",
+                    "scoop-cn/TCPView - List TCP UDP endpoints",
                     "/accepteula"
                 ],
                 [
                     "vmmap.exe",
-                    "main/VMMap - View Virtual and Physical Memory",
+                    "scoop-cn/VMMap - View Virtual and Physical Memory",
                     "/accepteula"
                 ],
                 [
                     "Winobj.exe",
-                    "main/WinObj - Object Manager namespace viewer",
+                    "scoop-cn/WinObj - Object Manager namespace viewer",
                     "/accepteula"
                 ],
                 [
                     "ZoomIt.exe",
-                    "main/ZoomIt - Screen magnifier for zooming and drawing on the screen",
+                    "scoop-cn/ZoomIt - Screen magnifier for zooming and drawing on the screen",
                     "/accepteula"
                 ]
             ]
@@ -870,81 +870,81 @@
             "shortcuts": [
                 [
                     "AdExplorer64a.exe",
-                    "main/AdExplorer - Active Directory viewer and editor",
+                    "scoop-cn/AdExplorer - Active Directory viewer and editor",
                     "/accepteula"
                 ],
                 [
                     "AdInsight64a.exe",
-                    "main/AdInsight - An LDAP real-time monitoring tool",
+                    "scoop-cn/AdInsight - An LDAP real-time monitoring tool",
                     "/accepteula"
                 ],
                 [
                     "Autologon64a.exe",
-                    "main/Autologon - Bypass password screen during logon",
+                    "scoop-cn/Autologon - Bypass password screen during logon",
                     "/accepteula"
                 ],
                 [
                     "Autoruns64a.exe",
-                    "main/Autoruns - View startup programs and processes"
+                    "scoop-cn/Autoruns - View startup programs and processes"
                 ],
                 [
                     "Dbgview64a.exe",
-                    "main/DebugView - View OutputDebugString and DbgPrint output",
+                    "scoop-cn/DebugView - View OutputDebugString and DbgPrint output",
                     "/accepteula"
                 ],
                 [
                     "Disk2vhd64a.exe",
-                    "main/Disk2vhd - Create VHD files from online disk",
+                    "scoop-cn/Disk2vhd - Create VHD files from online disk",
                     "/accepteula"
                 ],
                 [
                     "DiskView64a.exe",
-                    "main/DiskView - Graphical disk sector utility",
+                    "scoop-cn/DiskView - Graphical disk sector utility",
                     "/accepteula"
                 ],
                 [
                     "LoadOrd64a.EXE",
-                    "main/LoadOrder - See the order in which devices are loaded",
+                    "scoop-cn/LoadOrder - See the order in which devices are loaded",
                     "/accepteula"
                 ],
                 [
                     "NotMyFault64a.exe",
-                    "main/NotMyFault - Crash, hang, and cause kernel memory leaks",
+                    "scoop-cn/NotMyFault - Crash, hang, and cause kernel memory leaks",
                     "/accepteula"
                 ],
                 [
                     "procexp64a.exe",
-                    "main/Process Explorer - Enhanced Task Manager",
+                    "scoop-cn/Process Explorer - Enhanced Task Manager",
                     "/accepteula"
                 ],
                 [
                     "ProcMon64a.exe",
-                    "main/Process Monitor - Monitor file system, registry, process, thread and DLL activity",
+                    "scoop-cn/Process Monitor - Monitor file system, registry, process, thread and DLL activity",
                     "/accepteula"
                 ],
                 [
                     "RAMMap64a.exe",
-                    "main/RamMap - Graphical display of memory usage",
+                    "scoop-cn/RamMap - Graphical display of memory usage",
                     "/accepteula"
                 ],
                 [
                     "tcpview64a.exe",
-                    "main/TCPView - List TCP UDP endpoints",
+                    "scoop-cn/TCPView - List TCP UDP endpoints",
                     "/accepteula"
                 ],
                 [
                     "vmmap64a.exe",
-                    "main/VMMap - View Virtual and Physical Memory",
+                    "scoop-cn/VMMap - View Virtual and Physical Memory",
                     "/accepteula"
                 ],
                 [
                     "Winobj64a.exe",
-                    "main/WinObj - Object Manager namespace viewer",
+                    "scoop-cn/WinObj - Object Manager namespace viewer",
                     "/accepteula"
                 ],
                 [
                     "ZoomIt64a.exe",
-                    "main/ZoomIt - Screen magnifier for zooming and drawing on the screen",
+                    "scoop-cn/ZoomIt - Screen magnifier for zooming and drawing on the screen",
                     "/accepteula"
                 ]
             ]

@@ -5,8 +5,8 @@
     "license": "EPL-2.0",
     "suggest": {
         "JDK": [
-            "main/openjdk17",
-            "main/openjdk"
+            "scoop-cn/openjdk17",
+            "scoop-cn/openjdk"
         ]
     },
     "architecture": {

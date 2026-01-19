@@ -13,10 +13,10 @@
             "hash": "42e1dbfdae613a67d99b62e84aa6503620760d35391f409f5ac64862fe70f747"
         }
     },
-    "depends": "main/main/wixtoolset",
+    "depends": "scoop-cn/wixtoolset",
     "suggest": {
-        "python39": "main/python39",
-        "vcredist": "main/vcredist2022"
+        "python39": "scoop-cn/python39",
+        "vcredist": "scoop-cn/vcredist2022"
     },
     "installer": {
         "script": [

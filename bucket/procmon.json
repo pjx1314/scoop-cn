@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "Procmon64.exe",
-                    "main/Process Monitor",
+                    "scoop-cn/Process Monitor",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "Procmon.exe",
-                    "main/Process Monitor",
+                    "scoop-cn/Process Monitor",
                     "/accepteula"
                 ]
             ]
@@ -44,7 +44,7 @@
             "shortcuts": [
                 [
                     "Procmon64a.exe",
-                    "main/Process Monitor",
+                    "scoop-cn/Process Monitor",
                     "/accepteula"
                 ]
             ]

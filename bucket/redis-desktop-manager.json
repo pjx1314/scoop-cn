@@ -21,7 +21,7 @@
         ]
     ],
     "suggest": {
-        "Visual C++ Redistributable": "main/vcredist2019"
+        "Visual C++ Redistributable": "scoop-cn/vcredist2019"
     },
     "checkver": {
         "github": "https://github.com/lework/RedisDesktopManager-Windows"

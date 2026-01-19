@@ -42,6 +42,6 @@
         }
     },
     "suggest": {
-        "vcredist": "main/vcredist2022"
+        "vcredist": "scoop-cn/vcredist2022"
     }
 }

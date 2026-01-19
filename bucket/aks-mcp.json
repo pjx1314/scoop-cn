@@ -15,7 +15,7 @@
     },
     "bin": "aks-mcp.exe",
     "suggest": {
-        "azure-cli": "main/azure-cli"
+        "azure-cli": "scoop-cn/azure-cli"
     },
     "checkver": "github",
     "autoupdate": {

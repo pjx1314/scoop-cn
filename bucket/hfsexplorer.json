@@ -14,10 +14,10 @@
     "bin": "bin\\unhfs.bat",
     "suggest": {
         "JDK": [
-            "main/openjdk",
-            "main/temurin-jdk",
-            "main/oraclejdk",
-            "main/zulu-jdk"
+            "scoop-cn/openjdk",
+            "scoop-cn/temurin-jdk",
+            "scoop-cn/oraclejdk",
+            "scoop-cn/zulu-jdk"
         ]
     },
     "checkver": {

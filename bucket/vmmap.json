@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "vmmap64.exe",
-                    "main/VMMap",
+                    "scoop-cn/VMMap",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "vmmap.exe",
-                    "main/VMMap",
+                    "scoop-cn/VMMap",
                     "/accepteula"
                 ]
             ]
@@ -44,7 +44,7 @@
             "shortcuts": [
                 [
                     "vmmap64a.exe",
-                    "main/VMMap",
+                    "scoop-cn/VMMap",
                     "/accepteula"
                 ]
             ]

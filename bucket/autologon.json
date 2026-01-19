@@ -19,7 +19,7 @@
             "shortcuts": [
                 [
                     "Autologon64.exe",
-                    "main/Autologon",
+                    "scoop-cn/Autologon",
                     "/accepteula"
                 ]
             ]
@@ -29,7 +29,7 @@
             "shortcuts": [
                 [
                     "Autologon.exe",
-                    "main/Autologon",
+                    "scoop-cn/Autologon",
                     "/accepteula"
                 ]
             ]
@@ -44,7 +44,7 @@
             "shortcuts": [
                 [
                     "Autologon64a.exe",
-                    "main/Autologon",
+                    "scoop-cn/Autologon",
                     "/accepteula"
                 ]
             ]

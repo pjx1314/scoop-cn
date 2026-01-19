@@ -4,7 +4,7 @@
     "homepage": "https://micronaut.io",
     "license": "Apache-2.0",
     "suggest": {
-        "JDK": "main/openjdk"
+        "JDK": "scoop-cn/openjdk"
     },
     "url": "https://gh-proxy.com/https://github.com/micronaut-projects/micronaut-starter/releases/download/v4.10.7/micronaut-cli-4.10.7.zip",
     "hash": "1cb393c0d3fdfb8a4c4b336e4e6e83d9141db2466207ac93105d899e1e5d6ecf",
