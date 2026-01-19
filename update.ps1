@@ -145,7 +145,7 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = $content -replace '\"main/|\"extras/|\"versions/|\"nirsoft/|\"sysinternals/|\"php/|\"nerd-fonts/|\"nonportable/|\"java/|\"games/', '"main/' 
 
     # 将 depends 路径改为 main
-    $content = $content -replace '\"depends\":\s*\"(scoop\-cn/)?', '"depends": "main/' 
+    $content = $content -replace '\"depends\":\s*\"(main/)?', '"depends": "main/' 
     
 		Set-Content -Path $_.FullName -Value $content
 }
