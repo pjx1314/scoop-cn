@@ -81,7 +81,7 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     # $content = $content -replace 'download\.kde\.org', 'mirrors.nju.edu.cn/kde'
 
     # 7-Zip
-    $content = $content -replace 'www\.7-zip\.org/a', 'mirrors.nju.edu.cn/7-zip'
+    $content = $content -replace 'https?://www\.7-zip\.org/a/7z(\d{2})(\d{2})', 'https://gh-proxy.com/https://github.com/ip7z/7zip/releases/download/$1.$2/7z$1$2'
 
     # Blender
     $content = $content -replace 'download\.blender\.org', 'mirrors.tuna.tsinghua.edu.cn/blender'
@@ -93,13 +93,16 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = $content -replace 'download\.gimp\.org/mirror/pub', 'mirrors.nju.edu.cn/gimp'
     
     # Go
-    $content = $content -replace 'dl\.google\.com/go', 'mirrors.nju.edu.cn/golang'
+    $content = $content -replace 'dl\.google\.com/go', 'mirrors.aliyun.com/golang'
 
     # Gradle
     $content = $content -replace 'services\.gradle\.org/distributions', 'mirror.nju.edu.cn/gradle'
 
     # Inkscape
-    $content = $content -replace 'media\.inkscape\.org/dl/resources/file', 'mirrors.nju.edu.cn/inkscape'
+    # $content = $content -replace 'media\.inkscape\.org/dl/resources/file', 'mirrors.nju.edu.cn/inkscape'
+
+    # ffmpeg
+    $content = $content -replace 'www.gyan.dev/ffmpeg/builds/packages/ffmpeg-(.*)-', 'gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/$1/ffmpeg-$1-'
 
     # Kodi
     $content = $content -replace 'mirrors\.kodi\.tv', 'mirrors.tuna.tsinghua.edu.cn/kodi'
@@ -108,7 +111,7 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = $content -replace '(miktex\.org/download/ctan)|(mirrors.+/CTAN)', 'mirrors.tuna.tsinghua.edu.cn/CTAN'
 
     # Node
-    $content = $content -replace 'nodejs\.org/dist', 'mirrors.tuna.tsinghua.edu.cn/nodejs-release'
+    $content = $content -replace 'nodejs\.org/dist', 'mirrors.ustc.edu.cn/node'
     
     # Python
     $content = $content -replace 'www\.python\.org/ftp/python', 'mirrors.nju.edu.cn/python'
@@ -133,17 +136,16 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = $content -replace 'archive\.torproject\.org/tor-package-archive', 'tor.calyxinstitute.org/dist'
 
     # Typora
-    $content = $content -replace 'download\.typora\.io', 'download2.typoraio.cn'
+    $content = $content -replace 'download\.typora\.io', 'downloads.typoraio.cn'
 
     # Scripts
-    $content = $content -replace '(bucketsdir\\\\).+(\\\\scripts)', '$1main$2'
+    $content = $content -replace '(bucketsdir\\\\).+(\\\\scripts)', '$1scoop-cn$2'
 
-    # 将 suggest 路径改为 main
-    $content = $content -replace '\"main/|\"extras/|\"versions/|\"nirsoft/|\"sysinternals/|\"php/|\"nerd-fonts/|\"nonportable/|\"java/|\"games/', '"main/' 
+    # 将 suggest 路径改为 scoop-cn
+    $content = $content -replace '\"main/|\"extras/|\"versions/|\"nirsoft/|\"sysinternals/|\"php/|\"nerd-fonts/|\"nonportable/|\"java/|\"games/', '"scoop-cn/' 
 
-    # 将 depends 路径改为 main
-    $content = $content -replace '\"depends\":\s*\"(scoop\-cn/)?', '"depends": "main/' 
+    # 将 depends 路径改为 scoop-cn
+    $content = $content -replace '\"depends\":\s*\"(scoop\-cn/)?', '"depends": "scoop-cn/' 
     
 		Set-Content -Path $_.FullName -Value $content
 }
-
