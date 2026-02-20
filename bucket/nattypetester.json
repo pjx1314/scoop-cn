@@ -1,36 +1,30 @@
 {
+    "version": "10.0.1",
+    "description": "A tool that tests out what your NAT type is. / 测试当前网络的 NAT 类型（STUN）",
     "homepage": "https://github.com/HMBSbige/NatTypeTester",
-    "description": "Test tool for testing Nat network type",
-    "version": "8.0.4",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/HMBSbige/NatTypeTester/releases/download/8.0.4/NatTypeTester-8.0.4.7z",
-    "hash": "e585d5a1d6fcf0ef01b662d4e0e27a33ab367de1497232278aa9596d6c9827d3",
-    "extract_dir": "NatTypeTester",
     "architecture": {
         "64bit": {
-            "shortcuts": [
-                [
-                    "NatTypeTester-x64.exe",
-                    "NatTypeTester"
-                ]
-            ]
-        },
-        "32bit": {
-            "shortcuts": [
-                [
-                    "NatTypeTester-x86.exe",
-                    "NatTypeTester"
-                ]
-            ]
+            "url": "https://gh-proxy.com/https://github.com/HMBSbige/NatTypeTester/releases/download/10.0.1/NatTypeTester-10.0.1-win-x64.7z",
+            "extract_dir": "NatTypeTester-win-x64",
+            "hash": "3cf1d4f787e1f75aef1002774ab8944c3522be70ab0ac1e71bf43a82aab3e267"
         }
+    },
+    "shortcuts": [
+        [
+            "NatTypeTester.exe",
+            "NatTypeTester"
+        ]
+    ],
+    "suggest": {
+        "dotnet-runtime": "windowsdesktop-runtime"
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version.7z",
-        "hash": {
-            "url": "https://github.com/HMBSbige/NatTypeTester/releases/tag/$version",
-            "mode": "extract",
-            "regex": "(?sm)$version.7z.*?$sha256"
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version-win-x64.7z"
+            }
         }
     }
 }
