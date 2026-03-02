@@ -7,44 +7,15 @@ New-Item -ItemType Directory -Path .\bucket
 New-Item -ItemType Directory -Path .\scripts
 
 # Scoop 官方的十个库及额外添加的SecuLife、dorado、Extras-CN
-Copy-Item -Path .\Main\bucket\*               -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Extras\bucket\*             -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Versions\bucket\*           -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Nonportable\bucket\*        -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Java\bucket\*               -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\PHP\bucket\*                -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\scoop-nirsoft\bucket\*      -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\scoop-nerd-fonts\bucket\*   -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\scoop-games\bucket\*        -Destination .\bucket  -Recurse -Force
+Copy-Item -Path .\scoop-apps\bucket\*         -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\SecuLife\bucket\*           -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\dorado\bucket\*             -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\scoop-sysinternals\bucket\* -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Extras-CN\bucket\*          -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-lemon\bucket\*        -Destination .\bucket  -Recurse -Force
-Copy-Item -Path .\Main\scripts\*              -Destination .\scripts -Recurse -Force
-Copy-Item -Path .\Extras\scripts\*            -Destination .\scripts -Recurse -Force
-Copy-Item -Path .\Versions\scripts\*          -Destination .\scripts -Recurse -Force
-Copy-Item -Path .\Nonportable\scripts\*       -Destination .\scripts -Recurse -Force
-Copy-Item -Path .\scoop-games\scripts\*       -Destination .\scripts -Recurse -Force
-Copy-Item -Path .\dorado\scripts\*            -Destination .\scripts -Recurse -Force
-Copy-Item -Path .\Extras-CN\scripts\*         -Destination .\scripts -Recurse -Force
+Copy-Item -Path .\scoop-apps\scripts\*        -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\scoop-lemon\scripts\*       -Destination .\scripts -Recurse -Force
 
 # 复制完后，删掉克隆的文件夹
-Remove-Item -Path .\Main               -Recurse -Force
-Remove-Item -Path .\Extras             -Recurse -Force
-Remove-Item -Path .\Versions           -Recurse -Force
-Remove-Item -Path .\Nonportable        -Recurse -Force
-Remove-Item -Path .\Java               -Recurse -Force
-Remove-Item -Path .\PHP                -Recurse -Force
-Remove-Item -Path .\scoop-nirsoft      -Recurse -Force
-Remove-Item -Path .\scoop-nerd-fonts   -Recurse -Force
-Remove-Item -Path .\scoop-games        -Recurse -Force
-Remove-Item -Path .\scoop-sysinternals -Recurse -Force
-Remove-Item -Path .\SecuLife           -Recurse -Force
-Remove-Item -Path .\dorado             -Recurse -Force
-Remove-Item -Path .\Extras-CN          -Recurse -Force
 Remove-Item -Path .\scoop-lemon        -Recurse -Force
+Remove-Item -Path .\scoop-apps         -Recurse -Force
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
