@@ -16,75 +16,20 @@ jobs:
           fetch-depth: 1
       - uses: actions/checkout@v3
         with:
-          repository: "ScoopInstaller/Main"
-          fetch-depth: 1
-          path: "Main"
-      - uses: actions/checkout@v3
-        with:
-          repository: "ScoopInstaller/Extras"
-          fetch-depth: 1
-          path: "Extras"
-      - uses: actions/checkout@v3
-        with:
-          repository: "ScoopInstaller/Versions"
-          fetch-depth: 1
-          path: "Versions"
-      - uses: actions/checkout@v3
-        with:
-          repository: "kodybrown/scoop-nirsoft"
-          fetch-depth: 1
-          path: "scoop-nirsoft"
-      - uses: actions/checkout@v3
-        with:
-          repository: "ScoopInstaller/PHP"
-          fetch-depth: 1
-          path: "PHP"
-      - uses: actions/checkout@v3
-        with:
-          repository: "matthewjberger/scoop-nerd-fonts"
-          fetch-depth: 1
-          path: "scoop-nerd-fonts"
-      - uses: actions/checkout@v3
-        with:
-          repository: "ScoopInstaller/Nonportable"
-          fetch-depth: 1
-          path: "Nonportable"
-      - uses: actions/checkout@v3
-        with:
-          repository: "ScoopInstaller/Java"
-          fetch-depth: 1
-          path: "Java"
-      - uses: actions/checkout@v3
-        with:
-          repository: "Calinou/scoop-games"
-          fetch-depth: 1
-          path: "scoop-games"
-      - uses: actions/checkout@v3
-        with:
-          repository: "niheaven/scoop-sysinternals"
-          fetch-depth: 1
-          path: "scoop-sysinternals"
-      - uses: actions/checkout@v3
-        with:
           repository: "pjx1314/SecuLife"
           fetch-depth: 1
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: "SecuLife"
       - uses: actions/checkout@v3
         with:
-          repository: "chawyehsu/dorado"
-          fetch-depth: 1
-          path: "dorado"
-      - uses: actions/checkout@v3
-        with:
-          repository: "Scoopforge/Extras-CN"
-          fetch-depth: 1
-          path: "Extras-CN"
-      - uses: actions/checkout@v3
-        with:
           repository: "hoilc/scoop-lemon"
           fetch-depth: 1
           path: "scoop-lemon"
+      - uses: actions/checkout@v3
+        with:
+          repository: "kkzzhizhou/scoop-apps"
+          fetch-depth: 1
+          path: "scoop-apps"
       - name: Update buckets
         shell: pwsh
         run: |
