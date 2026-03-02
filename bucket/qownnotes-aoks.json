@@ -1,0 +1,25 @@
+{
+    "version": "26.3.0",
+    "description": "Plain-text file markdown note taking with Nextcloud integration",
+    "homepage": "https://www.qownnotes.org/",
+    "license": "GPL-2.0-only",
+    "url": "https://gh-proxy.com/https://github.com/pbek/QOwnNotes/releases/download/v26.3.0/QOwnNotes.zip",
+    "hash": "f8337eecce7926523d523fdd23a5fa0f2fc6d9fcc7627eb72ed1c0b8cd03c6a9",
+    "bin": [
+        "QOwnNotes.exe",
+        "QOwnNotesPortable.bat"
+    ],
+    "shortcuts": [
+        [
+            "QOwnNotes.exe",
+            "QOwnNotes"
+        ]
+    ],
+    "persist": "Data",
+    "checkver": {
+        "github": "https://github.com/pbek/QOwnNotes"
+    },
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "url": "https://gh-proxy.com/https://github.com/wangzq/scoop-files/raw/master/pswhich/which.ps1",
+    "version": "20180203",
+    "depends": "main/psparsing",
+    "bin": "which.ps1"
+}

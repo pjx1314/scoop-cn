@@ -1,0 +1,19 @@
+{
+    "version": "4.1.27",
+    "description": "Antigravity account manager.",
+    "homepage": "https://github.com/lbjlaq/Antigravity-Manager",
+    "license": "CC-BY-NC-SA-4.0",
+    "url": "https://gh-proxy.com/https://github.com/lbjlaq/Antigravity-Manager/releases/download/v4.1.27/Antigravity.Tools_4.1.27_x64-setup.exe#/dl.zip",
+    "hash": "99b699a6149b7338031790ac9e4b60dbbe9a7c0fcf42e42cb1224511ea6a93b6",
+    "shortcuts": [
+        [
+            "antigravity_tools.exe",
+            "Antigravity Manager"
+        ]
+    ],
+    "post_install": "rm -r $dir\\`$PLUGINSDIR",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://gh-proxy.com/https://github.com/lbjlaq/Antigravity-Manager/releases/download/v$version/Antigravity.Tools_$version_x64-setup.exe#/dl.zip"
+    }
+}

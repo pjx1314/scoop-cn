@@ -1,17 +1,13 @@
 {
-    "version": "12.1.0.25225",
-    "description": "WPS Office，让你高效解决办公问题",
-    "homepage": "https://wps.cn/",
+    "version": "16929",
+    "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
+    "homepage": "https://www.wps.cn/",
     "license": {
-        "identifier": "Freeware",
-        "url": "https://wps.cn/privacy/full_account/"
+        "identifier": "Copyright © 2008-2023 Kingsoft Office , All Rights Reserved.",
+        "url": "https://www.wps.cn/privacy/full_account/"
     },
-    "architecture": {
-        "64bit": {
-            "url": "https://official-package.wpscdn.cn/wps/download/WPS_Setup_25225.exe",
-            "hash": "5871cdeee9ba05b8f77b9193481fb007357c93840bb75c741a6bba64d18218c0"
-        }
-    },
+    "url": "https://official-package.wpscdn.cn/wps/download/WPS_Setup_16929.exe",
+    "hash": "2ccd415b368706af05b0fa09a39b794cbe80d18fff30dc78c576bc48cbf20a01",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\$fname\"",
         "Expand-7zipArchive \"$dir\\`$_11_\\`$EXEFILE\" -Switches '-t#'",
@@ -28,10 +24,10 @@
         ]
     ],
     "checkver": {
-        "url": "https://wps.cn/platformUrls",
-        "jsonpath": "$.productDetail.productVcode"
+        "url": "https://ai.wps.cn",
+        "regex": "https://pc-package.wpscdn.cn/wps/download/WPS_Setup_AI_(?<version>[\\d]+).exe"
     },
     "autoupdate": {
-        "url": "https://official-package.wpscdn.cn/wps/download/WPS_Setup_$buildVersion.exe"
+        "url": "https://official-package.wpscdn.cn/wps/download/WPS_Setup_$version.exe"
     }
 }

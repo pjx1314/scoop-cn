@@ -1,44 +1,18 @@
 {
-    "version": "1.5.9331.26720",
-    "description": "Steam Account Manager / Switcher",
-    "homepage": "https://github.com/rex706/SAM",
-    "license": "Unlicense",
+    "version": "7.0.40",
+    "description": "Steam Achievement Manager for game achievements in Steam",
+    "homepage": "https://github.com/gibbed/SteamAchievementManager",
+    "license": "Zlib",
+    "url": "https://gh-proxy.com/https://github.com/gibbed/SteamAchievementManager/releases/download/7.0.40/SteamAchievementManager-7.0.40.zip",
+    "hash": "7cdf71f7ea12e99841509c118626aa0751ef6c6b48f0c70d5a592e36bacc2e00",
     "shortcuts": [
         [
-            "SAM.exe",
-            "SAM"
+            "SAM.Picker.exe",
+            "Steam Achievement Manager"
         ]
-    ],
-    "pre_install": [
-        "if (Test-Path $persist_dir\\settings\\SAMSettings.ini) {",
-        "   Move-item -Path $persist_dir\\settings\\SAMSettings.ini -Destination $dir\\SAMSettings.ini",
-        "}"
-    ],
-    "architecture": {
-        "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rex706/SAM/releases/download/v1.5.9331.26720/SAM.exe",
-            "hash": "8144f3ee314de14a028a816280b66f1ce6e4b4ca0e38a1767032273649ceaf08"
-        },
-        "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rex706/SAM/releases/download/v1.5.9331.26720/SAM.exe",
-            "hash": "8144f3ee314de14a028a816280b66f1ce6e4b4ca0e38a1767032273649ceaf08"
-        }
-    },
-    "persist": "settings",
-    "pre_uninstall": [
-        "if (Test-Path $dir\\SAMSettings.ini) {",
-        "   Move-item -Path $dir\\SAMSettings.ini -Destination $dir\\settings\\SAMSettings.ini",
-        "}"
     ],
     "checkver": "github",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rex706/SAM/releases/download/v$version/SAM.exe"
-            },
-            "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rex706/SAM/releases/download/v$version/SAM.exe"
-            }
-        }
+        "url": "https://gh-proxy.com/https://github.com/gibbed/SteamAchievementManager/releases/download/$version/SteamAchievementManager-$version.zip"
     }
 }
