@@ -1,5 +1,6 @@
 {
     "homepage": "https://github.com/LeonardFiedrowicz/galaxy-integration-citra",
+    "license": "Apache-2.0",
     "version": "fb69f8d",
     "depends": "main/sudo",
     "url": "https://gh-proxy.com/https://github.com/LeonardFiedrowicz/galaxy-integration-citra/archive/master.zip",

@@ -1,5 +1,6 @@
 {
     "homepage": "https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft",
+    "license": "MIT",
     "version": "1.0.3",
     "depends": "main/sudo",
     "url": "https://gh-proxy.com/https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft/releases/download/1.0.3/windows.zip",
