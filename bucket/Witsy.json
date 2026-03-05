@@ -1,18 +1,12 @@
 {
-    "version": "3.5.1",
-    "description": "A desktop AI assistant",
+    "version": "3.5.2",
+    "description": "desktop AI assistant / universal MCP client",
     "homepage": "https://witsyai.com/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nbonamy/witsy/releases/download/v3.5.1/witsy-3.5.1-win32-x64-full.nupkg",
-            "hash": "f262ee97a514ddedede4a0d81c938ba78c8ba7b653c3b8571b8cd0b154dac052",
-            "extract_dir": "lib\\net45"
-        },
-        "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/nbonamy/witsy/releases/download/v3.5.1/witsy-3.5.1-win32-arm64.zip",
-            "hash": "eb944730d94af52540274862670d659b135f83110cf94e7318546bd98c691621",
-            "extract_dir": "Witsy-win32-arm64"
+            "url": "https://gh-proxy.com/https://github.com/nbonamy/witsy/releases/download/v3.5.2/Witsy-3.5.2-win32-x64.zip",
+            "hash": "f0fe47e3eb3a1bf92e64de0352c4706ba804c8ba44141a1a6753e4899ce9a56b"
         }
     },
     "bin": "Witsy.exe",
@@ -28,10 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nbonamy/witsy/releases/download/v$version/witsy-$version-win32-x64-full.nupkg"
-            },
-            "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/nbonamy/witsy/releases/download/v$version/witsy-$version-win32-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/nbonamy/witsy/releases/download/v$version/Witsy-$version-win32-x64.zip"
             }
         }
     }
