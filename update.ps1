@@ -16,6 +16,8 @@ Copy-Item -Path .\scoop-lemon\scripts\*       -Destination .\scripts -Recurse -F
 # 复制完后，删掉克隆的文件夹
 Remove-Item -Path .\scoop-lemon        -Recurse -Force
 Remove-Item -Path .\scoop-apps         -Recurse -Force
+Remove-Item -Path .\SecuLife           -Recurse -Force
+
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
