@@ -1,12 +1,12 @@
 {
-    "version": "0.0.675",
+    "version": "0.0.685",
     "description": "Elegant AI Provider Orchestration",
     "homepage": "https://alma.now/",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yetone/alma-releases/releases/download/v0.0.675/alma-0.0.675-win-x64.exe#/dl.7z",
-            "hash": "e71ad6e9945372e89a3470853cfe76b60fc147d31df59d98e17b0e82536f1619",
+            "url": "https://gh-proxy.com/https://github.com/yetone/alma-releases/releases/download/v0.0.685/alma-0.0.685-win-x64.exe#/dl.7z",
+            "hash": "sha512:85abc22ecc7f6f3a890cd346d4fb988858b0a8c7b7d054e8304dfa1e86198a1d4d175c1113c555d885938aeab5c6fd7861cd3f2d63f37364a727e813644b5f72",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -27,7 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yetone/alma-releases/releases/download/v$version/alma-$version-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.com/https://github.com/yetone/alma-releases/releases/download/v$version/alma-$version-win-x64.exe#/dl.7z",
+                "hash": {
+                    "url": "$baseurl/latest.yml",
+                    "find": "sha512:\\s+(.*)"
+                }
             }
         }
     }
