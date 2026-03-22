@@ -43,7 +43,10 @@
             "Winamp"
         ]
     ],
-    "persist": "Profile",
+    "persist": [
+        "Profile",
+        "paths.ini"
+    ],
     "depends": "main/gsudo",
     "notes": "Requires elevation for now",
     "checkver": {
