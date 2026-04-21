@@ -1,16 +1,16 @@
 {
-    "version": "0.21.0",
+    "version": "0.23.0",
     "description": "ToolHive simplifies the deployment and management of Model Context Protocol (MCP) servers.",
     "homepage": "https://github.com/stacklok/toolhive",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stacklok/toolhive/releases/download/v0.21.0/toolhive_0.21.0_windows_amd64.zip",
-            "hash": "736af6c0eec4ab86b9f8893a146e88590276d459f43399a7aedd01409e3245dd"
+            "url": "https://gh-proxy.com/https://github.com/stacklok/toolhive/releases/download/v0.23.0/toolhive_0.23.0_windows_amd64.zip",
+            "hash": "1513eb26ec84226a5681b484c81841216f658d36aec03cb775f70e1c9171fe8e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/stacklok/toolhive/releases/download/v0.21.0/toolhive_0.21.0_windows_arm64.zip",
-            "hash": "80c6fc91c3ba97c76035c6b6bd66332cf9b1fef713b20afd7af33da2f51ca726"
+            "url": "https://gh-proxy.com/https://github.com/stacklok/toolhive/releases/download/v0.23.0/toolhive_0.23.0_windows_arm64.zip",
+            "hash": "ddf9033fb856576c26972696e3121aecda4895326ad9a28771c2f44b105c73f2"
         }
     },
     "bin": "thv.exe",
