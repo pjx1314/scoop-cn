@@ -1,13 +1,13 @@
 {
-    "homepage": "https://github.com/HIllya51/LunaTranslator",
-    "description": "Galgame translator",
-    "license": "GPL-3.0",
     "version": "10.15.6.30",
+    "description": "A Visual Novel translation tool, with HOOK / OCR / clipboard support",
+    "homepage": "https://github.com/HIllya51/LunaTranslator",
+    "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.6.30/LunaTranslator_x64_win7.zip",
-            "hash": "1294484016260e52e9413370aa6d2c8b5c3d8d02eb7f0837a1d425b194c843e0",
-            "extract_dir": "LunaTranslator_x64_win7"
+            "url": "https://gh-proxy.com/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.6.30/LunaTranslator_x64_win10.zip",
+            "hash": "ab99e40a1c3828a41909412afd5f3d741c30651cca9f89e66b0dc7bc6906300d",
+            "extract_dir": "LunaTranslator_x64_win10"
         },
         "32bit": {
             "url": "https://gh-proxy.com/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.6.30/LunaTranslator_x86_win7.zip",
@@ -19,18 +19,26 @@
         [
             "LunaTranslator.exe",
             "LunaTranslator"
+        ],
+        [
+            "LunaTranslator_admin.exe",
+            "LunaTranslator (admin)"
+        ],
+        [
+            "LunaTranslator_debug.bat",
+            "LunaTranslator (debug)"
         ]
     ],
     "persist": [
         "cache",
-        "translation_record",
-        "userconfig"
+        "userconfig",
+        "translation_record"
     ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64_win7.zip"
+                "url": "https://gh-proxy.com/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64_win10.zip"
             },
             "32bit": {
                 "url": "https://gh-proxy.com/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x86_win7.zip"
