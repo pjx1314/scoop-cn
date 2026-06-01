@@ -1,12 +1,12 @@
 {
-    "version": "3.2.9",
+    "version": "3.3.0",
     "description": "一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
     "homepage": "https://github.com/TideSec/TscanPlus",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.2.9/TscanPlus_Win_Amd64.zip",
-            "hash": "968161721be727e9c86bd638493b000164076efcc511e188639f3eb96e6fe9aa",
+            "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.3.0/TscanPlus_Win_Amd64.zip",
+            "hash": "7643080e26d85ba39c82b27e15f612bbaf6300787821c984d766f40dbb5bd52d",
             "shortcuts": [
                 [
                     "TscanPlus_Win_Amd64.exe",
@@ -15,8 +15,8 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.2.9/TscanPlus_Win_Arm64.zip",
-            "hash": "377949e35020dc6d0ee9155110d142f94b37ff156254432acd18fd6eb139733f",
+            "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.3.0/TscanPlus_Win_Arm64.zip",
+            "hash": "72d62aa2e598323d81ba584c0670adbaa27d88bb73c1ffcfc424ae8b53e52fb3",
             "shortcuts": [
                 [
                     "TscanPlus_Win_Arm64.exe",
