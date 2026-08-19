@@ -1,30 +1,13 @@
 {
-    "version": "3.44",
-    "description": "BitTorrent client with advanced features",
-    "homepage": "https://tixati.com",
-    "license": {
-        "identifier": "Freeware",
-        "url": "https://www.tixati.com/tixati_eula.txt"
-    },
+    "version": "3.44-1",
+    "description": "A peer-to-peer file sharing client.",
+    "homepage": "https://www.tixati.com/",
+    "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://download.tixati.com/tixati-3.44-1.win64-install.exe#/dl.7z",
-            "hash": "7ac05efcc515d564e2c576693fb3110574ed62bbd02521b9621db4703f688c0f"
-        },
-        "32bit": {
-            "url": "https://download.tixati.com/tixati-3.44-1.win32-install.exe#/dl.7z",
-            "hash": "e055d34d16c26fecaa169ef8f55532b98d53140984d1b3dd60297417f6928a3c"
+            "url": "https://download.tixati.com/tixati-3.44-1.portable.zip",
+            "hash": "842b4245d16cf83b839f58873b186a329b632fd65d7e53af8139dd7e85f77626"
         }
-    },
-    "installer": {
-        "script": [
-            "New-Item \"$dir\\tixati_portable_mode.txt\" | Out-Null",
-            "Move-Item \"$dir\\*~\" \"$dir\\tixati.exe\"",
-            "if (Test-Path \"$persist_dir\") { Copy-Item \"$persist_dir\\*\" \"$dir\" -Force }"
-        ]
-    },
-    "uninstaller": {
-        "script": "Copy-Item \"$dir\\*.dat\" \"$persist_dir\" -Force"
     },
     "bin": "tixati.exe",
     "shortcuts": [
@@ -32,23 +15,5 @@
             "tixati.exe",
             "Tixati"
         ]
-    ],
-    "persist": [
-        "downloads",
-        "incomplete-pieces"
-    ],
-    "checkver": {
-        "url": "https://tixati.com/",
-        "regex": "Version ([\\d.]+) Now Available!"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://download.tixati.com/tixati-$version-1.win64-install.exe#/dl.7z"
-            },
-            "32bit": {
-                "url": "https://download.tixati.com/tixati-$version-1.win32-install.exe#/dl.7z"
-            }
-        }
-    }
+    ]
 }
