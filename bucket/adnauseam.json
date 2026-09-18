@@ -1,10 +1,10 @@
 {
-    "version": "3.28.8",
+    "version": "3.29.0",
     "description": "AdNauseam: Fight back against advertising surveillance",
     "homepage": "https://github.com/dhowe/AdNauseam",
     "license": "GPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/dhowe/AdNauseam/releases/download/v3.28.8/adnauseam-3.28.8.chromium.zip",
-    "hash": "09464eb0ebe662d596cfbcf576c708abff13e4dd008e2a8083e9db5d32f7dbe7",
+    "url": "https://gh-proxy.com/https://github.com/dhowe/AdNauseam/releases/download/v3.29.0/adnauseam-3.29.0.chromium.zip",
+    "hash": "02502898d6116d73fca41e92f5331d2e5f35ba3b4c049a90736a8aa2ae54b40f",
     "checkver": "github",
     "autoupdate": {
         "url": "https://gh-proxy.com/https://github.com/dhowe/AdNauseam/releases/download/v$version/adnauseam-$version.chromium.zip"
