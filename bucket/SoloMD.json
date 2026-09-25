@@ -1,16 +1,19 @@
 {
-    "version": "4.14.1",
-    "description": "SoloMD — a lightweight, cross-platform Markdown + plain text editor. One file. One window. Just write.",
-    "homepage": "https://solomd.app/",
+    "version": "4.14.2",
+    "description": "Free, open-source Markdown editor with live preview, math, diagrams and export.",
+    "homepage": "https://solomd.app",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v4.14.1/SoloMD_4.14.1_x64_en-US.msi",
-            "hash": "ece9df65bcb60c3d56ed1767725ba496ac029249008b2d45f0bac6062a428645"
+            "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v4.14.2/SoloMD_4.14.2_x64-portable.zip",
+            "hash": "d048d595c37d5e0bbf450c27c8577e8bd33bd9fd65dfdcf641eacd5cf07ff46d"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v4.14.2/SoloMD_4.14.2_arm64-portable.zip",
+            "hash": "e2ddd706bd98a655e4a86e639e0901e150e16ad107e71ca45678b8ef8121d98d"
         }
     },
-    "extract_dir": "PFiles\\SoloMD",
-    "bin": "SoloMD.exe",
+    "bin": "solomd-mcp.exe",
     "shortcuts": [
         [
             "SoloMD.exe",
@@ -23,8 +26,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v$version/SoloMD_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v$version/SoloMD_$version_x64-portable.zip"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v$version/SoloMD_$version_arm64-portable.zip"
             }
+        },
+        "hash": {
+            "url": "$baseurl/SHA256SUMS.txt"
         }
     }
 }
