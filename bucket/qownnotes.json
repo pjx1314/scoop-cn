@@ -1,14 +1,10 @@
 {
-    "version": "26.9.11",
-    "description": "Plain-text notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration",
     "homepage": "https://www.qownnotes.org/",
+    "version": "26.9.11",
     "license": "GPL-2.0-only",
-    "architecture": {
-        "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pbek/QOwnNotes/releases/download/v26.9.11/QOwnNotes.zip",
-            "hash": "d22534293e8f3d4980d66a7898b949ac11e2a42780dea675d9c4171334676f67"
-        }
-    },
+    "url": "https://gh-proxy.com/https://github.com/pbek/QOwnNotes/releases/download/v26.9.11/QOwnNotes.zip",
+    "hash": "d22534293e8f3d4980d66a7898b949ac11e2a42780dea675d9c4171334676f67",
+    "bin": "QOwnNotes.exe",
     "shortcuts": [
         [
             "QOwnNotes.exe",
@@ -18,16 +14,11 @@
     ],
     "persist": "Data",
     "checkver": {
-        "github": "https://github.com/pbek/QOwnNotes"
+        "url": "https://api.github.com/repos/pbek/QOwnNotes/releases/latest",
+        "jp": "$.name",
+        "regex": "Release v(.*)"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
-            }
-        },
-        "hash": {
-            "url": "$url.sha256"
-        }
+        "url": "https://gh-proxy.com/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
     }
 }
