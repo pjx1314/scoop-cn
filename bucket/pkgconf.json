@@ -1,0 +1,51 @@
+{
+    "version": "3.0.8",
+    "description": "Package compiler and linker metadata toolkit.",
+    "homepage": "https://github.com/pkgconf/pkgconf",
+    "license": "ISC",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/pkgconf/pkgconf/releases/download/pkgconf-3.0.8/pkgconf-x64-3.0.8.msi",
+            "hash": "a236479bbe403b202816745bef19afe2d6240606f28ab1f008ba0f33fbfae43e",
+            "extract_dir": "PFiles64\\pkgconf-3.0.8"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/pkgconf/pkgconf/releases/download/pkgconf-3.0.8/pkgconf-x86-3.0.8.msi",
+            "hash": "619e605414383963de4fc819faffc99d48ef9df9bd54fab77d00882d008be6c6",
+            "extract_dir": "PFiles\\pkgconf-3.0.8"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/pkgconf/pkgconf/releases/download/pkgconf-3.0.8/pkgconf-arm64-3.0.8.msi",
+            "hash": "5f79545c8c341030ca288afe1ea1a9d264ae1ba107035812269c58fc09e9d7f0",
+            "extract_dir": "PFiles64\\pkgconf-3.0.8"
+        }
+    },
+    "bin": [
+        "bomtool.exe",
+        "pccritic.exe",
+        "pkgconf.exe",
+        "pkg-config.exe",
+        "spdxtool.exe"
+    ],
+    "checkver": {
+        "github": "https://github.com/pkgconf/pkgconf",
+        "jsonpath": "$.tag_name",
+        "regex": "pkgconf-(?<version>[\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/pkgconf/pkgconf/releases/download/pkgconf-$version/pkgconf-x64-$version.msi",
+                "extract_dir": "PFiles64\\pkgconf-$version"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/pkgconf/pkgconf/releases/download/pkgconf-$version/pkgconf-x86-$version.msi",
+                "extract_dir": "PFiles\\pkgconf-$version"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/pkgconf/pkgconf/releases/download/pkgconf-$version/pkgconf-arm64-$version.msi",
+                "extract_dir": "PFiles64\\pkgconf-$version"
+            }
+        }
+    }
+}

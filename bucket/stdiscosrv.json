@@ -1,0 +1,63 @@
+{
+    "version": "2.1.6",
+    "description": "The Syncthing global discovery server",
+    "homepage": "https://syncthing.net/",
+    "license": "MPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/syncthing/discosrv/releases/download/v2.1.6/stdiscosrv-windows-amd64-v2.1.6.zip",
+            "hash": "f542b31d1edf003a31d95ff733dd20d610a8be2c1d5545a5fd371a760cb0bfd0",
+            "extract_dir": "stdiscosrv-windows-amd64-v2.1.6"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/syncthing/discosrv/releases/download/v2.1.6/stdiscosrv-windows-386-v2.1.6.zip",
+            "hash": "cb610495cc56cd9dad86b194b20f4d4be421645f4998cd44408b62a90ba0a180",
+            "extract_dir": "stdiscosrv-windows-386-v2.1.6"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/syncthing/discosrv/releases/download/v2.1.6/stdiscosrv-windows-arm64-v2.1.6.zip",
+            "hash": "9692de33e4f75d5727f50ba23c51e458083fa9f815ab0f2959ecb459035a0d8e",
+            "extract_dir": "stdiscosrv-windows-arm64-v2.1.6"
+        }
+    },
+    "bin": [
+        [
+            "stdiscosrv.exe",
+            "stdiscosrv",
+            "-cert \"$dir\\cert.pem\"",
+            "-db-dir \"$dir\\discovery.db\"",
+            "-key \"$dir\\key.pem\""
+        ]
+    ],
+    "persist": [
+        "discovery.db",
+        "cert.pem",
+        "key.pem"
+    ],
+    "pre_install": [
+        "foreach ($name in @('cert.pem', 'key.pem')) {",
+        "    if (!(Test-Path \"$persist_dir\\$name\")) {",
+        "        New-Item -Force -Path \"$dir\" -Name $name | Out-Null",
+        "    }",
+        "}"
+    ],
+    "checkver": {
+        "github": "https://github.com/syncthing/discosrv"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-amd64-v$version.zip",
+                "extract_dir": "stdiscosrv-windows-amd64-v$version"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-386-v$version.zip",
+                "extract_dir": "stdiscosrv-windows-386-v$version"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-arm64-v$version.zip",
+                "extract_dir": "stdiscosrv-windows-arm64-v$version"
+            }
+        }
+    }
+}

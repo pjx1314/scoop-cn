@@ -1,0 +1,26 @@
+{
+    "version": "0.41.0",
+    "description": "Fast SQL formatter/linter",
+    "homepage": "https://playground.quary.dev/docs",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/quarylabs/sqruff/releases/download/v0.41.0/sqruff-windows-x86_64.zip",
+            "hash": "cf7ffc77a9ce8fb0eeac62b0b43b2adf7733fa42dc49667ebdd25525decaac18"
+        }
+    },
+    "bin": "sqruff.exe",
+    "checkver": {
+        "github": "https://github.com/quarylabs/sqruff"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/quarylabs/sqruff/releases/download/v$version/sqruff-windows-x86_64.zip"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "version": "0.73.0",
+    "description": "A high-performance formatter for the JavaScript ecosystem.",
+    "homepage": "https://oxc.rs/docs/guide/usage/formatter",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/oxc-project/oxc/releases/download/oxfmt_v0.73.0/oxfmt-x86_64-pc-windows-msvc.zip",
+            "hash": "ecfee940dab7f3cb6be856fdb03a51f71742aa682be243627a926b3f04b598f0"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/oxc-project/oxc/releases/download/oxfmt_v0.73.0/oxfmt-i686-pc-windows-msvc.zip",
+            "hash": "d522db2e845611eb7ac922a0b434dff3e8b257a829524ad7b296033155811fd1"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/oxc-project/oxc/releases/download/oxfmt_v0.73.0/oxfmt-aarch64-pc-windows-msvc.zip",
+            "hash": "f22e69e305d157f6e23f5b9e8355e82baca6ef8facc5b5a80f9ac5b873d7143c"
+        }
+    },
+    "pre_install": "Get-ChildItem -LiteralPath $dir -Filter 'oxfmt-*.exe' -File | Select-Object -First 1 | Rename-Item -NewName 'oxfmt.exe'",
+    "bin": "oxfmt.exe",
+    "checkver": {
+        "github": "https://api.github.com/repos/oxc-project/oxc/releases",
+        "jsonpath": "$[?(@.prerelease == false)].tag_name",
+        "regex": "\"oxfmt_v(\\d+(?:\\.\\d+)+)\""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/oxc-project/oxc/releases/download/oxfmt_v$version/oxfmt-x86_64-pc-windows-msvc.zip"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/oxc-project/oxc/releases/download/oxfmt_v$version/oxfmt-i686-pc-windows-msvc.zip"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/oxc-project/oxc/releases/download/oxfmt_v$version/oxfmt-aarch64-pc-windows-msvc.zip"
+            }
+        }
+    }
+}

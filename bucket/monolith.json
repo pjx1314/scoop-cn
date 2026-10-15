@@ -1,0 +1,27 @@
+{
+    "version": "2.11.5",
+    "description": "Saves complete web pages as a single HTML file.",
+    "homepage": "https://github.com/Y2Z/monolith",
+    "license": "Unlicense",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/Y2Z/monolith/releases/download/v2.11.5/monolith-cli.exe",
+            "hash": "d686e8a99ecc1c939d8ea173b5e725723d4e5bc38eae630b8983bbd8d9889886"
+        }
+    },
+    "bin": [
+        "monolith-cli.exe",
+        [
+            "monolith-cli.exe",
+            "monolith"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/Y2Z/monolith/releases/download/v$version/monolith-cli.exe"
+            }
+        }
+    }
+}

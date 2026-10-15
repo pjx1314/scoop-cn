@@ -1,0 +1,26 @@
+{
+    "version": "0.10.2",
+    "description": "Process manager for dev and prod.",
+    "homepage": "https://dekit.run",
+    "license": "MIT",
+    "suggest": {
+        "vcredist": "main/vcredist2022"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/pvolok/dekit/releases/download/v0.10.2/dekit-x86_64-pc-windows-msvc.zip",
+            "hash": "60c60da3b2e0e273fde15ce31f2ab733989f83278bb71d70f219e0f75b6577d5"
+        }
+    },
+    "bin": "dekit.exe",
+    "checkver": {
+        "github": "https://github.com/pvolok/dekit"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/pvolok/dekit/releases/download/v$version/dekit-x86_64-pc-windows-msvc.zip"
+            }
+        }
+    }
+}

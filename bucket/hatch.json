@@ -1,0 +1,31 @@
+{
+    "version": "1.18.1",
+    "description": "A modern, extensible Python project manager.",
+    "homepage": "https://hatch.pypa.io",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-pc-windows-msvc.zip",
+            "hash": "c4b2a3bd8d01a59e09502f6f1156f56824cfc12b3e49700a1855a02be918089c"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.com/https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-i686-pc-windows-msvc.zip",
+            "hash": "986dd47b00768c8f96c8637116845e660c95778d9de5eeb7f3f786c9ffe0ddaf"
+        }
+    },
+    "bin": "hatch.exe",
+    "checkver": {
+        "github": "https://github.com/pypa/hatch",
+        "regex": "hatch-(?:v|V)?([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/pypa/hatch/releases/download/hatch-v$version/hatch-x86_64-pc-windows-msvc.zip"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.com/https://github.com/pypa/hatch/releases/download/hatch-v$version/hatch-i686-pc-windows-msvc.zip"
+            }
+        }
+    }
+}

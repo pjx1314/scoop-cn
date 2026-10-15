@@ -1,0 +1,21 @@
+{
+    "version": "4.00",
+    "description": "Audio conversion tool",
+    "homepage": "https://www.rationalqm.us/eac3to/",
+    "license": "Freeware",
+    "url": "https://www.videohelp.com/download/eac3to_4.00.rar",
+    "hash": "b0a42b2a7328fe7b45072577bede8df0a4001d040040f04a138e9f03c5226fd4",
+    "bin": "eac3to.exe",
+    "persist": [
+        "eac3to.ini",
+        "error.wav",
+        "success.wav"
+    ],
+    "checkver": {
+        "url": "https://www.videohelp.com/software/eac3to",
+        "regex": "eac3to_([\\d.]+).rar"
+    },
+    "autoupdate": {
+        "url": "https://www.videohelp.com/download/eac3to_$version.rar"
+    }
+}

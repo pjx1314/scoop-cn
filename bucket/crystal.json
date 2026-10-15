@@ -1,0 +1,35 @@
+{
+    "version": "1.22.0",
+    "description": "The Crystal Programming Language",
+    "homepage": "https://www.crystal-lang.org/",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/crystal-lang/crystal/releases/download/1.22.0/crystal-1.22.0-windows-x86_64-msvc-unsupported.zip",
+            "hash": "ce7bc09462fa87ced9f051cc813938ae66c2a84ccfbbe43ef6cb2c610423b7fe"
+        }
+    },
+    "bin": [
+        "crystal.exe",
+        "shards.exe"
+    ],
+    "shortcuts": [
+        [
+            "crystal.exe",
+            "Crystal",
+            "i"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/crystal-lang/crystal",
+        "jsonpath": "$..browser_download_url",
+        "regex": "crystal-(?<version>[\\d.-]+)-windows-x86_64"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/crystal-lang/crystal/releases/download/$matchHead/crystal-$version-windows-x86_64-msvc-unsupported.zip"
+            }
+        }
+    }
+}

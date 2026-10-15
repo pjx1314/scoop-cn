@@ -1,0 +1,27 @@
+{
+    "version": "1.8.0",
+    "description": "Terminal text editor IDE with LSP, git integration, tabs, and multi-cursor editing, in a single zero-config binary.",
+    "homepage": "https://tttedit.dev/",
+    "license": "MIT",
+    "suggest": {
+        "git": "main/git",
+        "ripgrep": "main/ripgrep"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/eugenioenko/ttt/releases/download/v1.8.0/ttt-windows-amd64.exe#/ttt.exe",
+            "hash": "84b5a65f03f3cadc4b32d925d223c9c01c85cafe8f6432f548a4fe4cea250890"
+        }
+    },
+    "bin": "ttt.exe",
+    "checkver": {
+        "github": "https://github.com/eugenioenko/ttt"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/eugenioenko/ttt/releases/download/v$version/ttt-windows-amd64.exe#/ttt.exe"
+            }
+        }
+    }
+}

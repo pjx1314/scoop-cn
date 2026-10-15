@@ -1,0 +1,36 @@
+{
+    "version": "0.56.0",
+    "description": "A Rust-based CommonMark + GFM compatible Markdown parser and renderer.",
+    "homepage": "https://comrak.ee",
+    "license": {
+        "identifier": "BSD-2-Clause,MIT,CC-BY-SA-4.0",
+        "url": "https://github.com/kivikakk/comrak/blob/HEAD/COPYING"
+    },
+    "suggest": {
+        "vcredist": "main/vcredist2022"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-x86_64-pc-windows-msvc.exe#/comrak.exe",
+            "hash": "f40ef8f7d68d89b4804c91835c4c5b88e5b00f6981411219ddcb73aa885940e1"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v0.56.0/comrak-0.56.0-aarch64-pc-windows-msvc.exe#/comrak.exe",
+            "hash": "63298db7f38dd13555bc9242044e6cf34f8a626a509f74817db983e8f8d3c5c6"
+        }
+    },
+    "bin": "comrak.exe",
+    "checkver": {
+        "github": "https://github.com/kivikakk/comrak"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v$version/comrak-$version-x86_64-pc-windows-msvc.exe#/comrak.exe"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v$version/comrak-$version-aarch64-pc-windows-msvc.exe#/comrak.exe"
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "version": "5.0.0-okd-scos.2",
+    "description": "OKD is the community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.",
+    "homepage": "https://okd.io",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/okd-project/okd/releases/download/5.0.0-okd-scos.2/openshift-client-windows-5.0.0-okd-scos.2.zip",
+            "hash": "0cacc9a119d6ea1626a7484d33eb9ed8e8464eecc4e158dd9b37ff85ccb5c7b7"
+        }
+    },
+    "bin": "oc.exe",
+    "checkver": {
+        "github": "https://api.github.com/repos/okd-project/okd/tags",
+        "jsonpath": "$[0].name",
+        "regex": "([\\w.-]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/okd-project/okd/releases/download/$version/openshift-client-windows-$version.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/sha256sum.txt",
+            "regex": "([a-fA-F0-9]{64})\\s+\\./$basename"
+        }
+    }
+}

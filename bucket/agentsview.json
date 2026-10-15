@@ -1,0 +1,34 @@
+{
+    "version": "0.45.0",
+    "description": "Local-first session search, analytics, insights, and token use statistics for coding agents.",
+    "homepage": "https://agentsview.io",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_amd64.zip",
+            "hash": "d977fa9ecae42f5594997be06d48222a5882c41ac0f19ef8a761ae7f47f3e906"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_arm64.zip",
+            "hash": "42febba3f2be013820701dcac757fcf546e063121a7c158a78f8283fef1faf4d"
+        }
+    },
+    "bin": "agentsview.exe",
+    "checkver": {
+        "github": "https://github.com/kenn-io/agentsview"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v$version/agentsview_$version_windows_amd64.zip"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v$version/agentsview_$version_windows_arm64.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/SHA256SUMS",
+            "regex": "$sha256\\s+$basename"
+        }
+    }
+}
