@@ -6,10 +6,15 @@ Remove-Item -Path .\scripts -Recurse -Force
 New-Item -ItemType Directory -Path .\bucket
 New-Item -ItemType Directory -Path .\scripts
 
-# Scoop 官方的十个库及额外添加的SecuLife、dorado、Extras-CN
+# 来源优先级（拷贝顺序即优先级）：ScoopInstaller/Main 打底，后拷贝的同名清单覆盖前者
+# Copy-Item 顺序 = Main → scoop-apps → SecuLife → scoop-lemon
+Copy-Item -Path .\scoop-main\bucket\*         -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-apps\bucket\*         -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\SecuLife\bucket\*           -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-lemon\bucket\*        -Destination .\bucket  -Recurse -Force
+if (Test-Path -LiteralPath '.\scoop-main\scripts') {
+    Copy-Item -Path .\scoop-main\scripts\*    -Destination .\scripts -Recurse -Force
+}
 Copy-Item -Path .\scoop-apps\scripts\*        -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\scoop-lemon\scripts\*       -Destination .\scripts -Recurse -Force
 
@@ -17,6 +22,7 @@ Copy-Item -Path .\scoop-lemon\scripts\*       -Destination .\scripts -Recurse -F
 Remove-Item -Path .\scoop-lemon        -Recurse -Force
 Remove-Item -Path .\scoop-apps         -Recurse -Force
 Remove-Item -Path .\SecuLife           -Recurse -Force
+Remove-Item -Path .\scoop-main         -Recurse -Force
 
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
