@@ -1,0 +1,10 @@
+{
+    "$schema": "https://gh-proxy.com/https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
+    "version": "1.00.000",
+    "url": ["https://gh-proxy.com/https://raw.githubusercontent.com/BenjaminMichaelis/ScoopBucket/master/blank"],
+    "installer": {
+        "script": [
+            "choco install WSL"
+        ]
+    }
+}
