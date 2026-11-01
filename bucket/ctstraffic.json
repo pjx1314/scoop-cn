@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x64/ctsPerf.exe",
-                "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x64/ctsTraffic.exe"
+                "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x64/ctsPerf.exe",
+                "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x64/ctsTraffic.exe"
             ],
             "hash": [
                 "5a02aa3b316c6df7e3d2e91db307ecf20827bcaa451107e0521bf178ae370e75",
@@ -16,8 +16,8 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x86/ctsPerf.exe",
-                "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x86/ctsTraffic.exe"
+                "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x86/ctsPerf.exe",
+                "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/x86/ctsTraffic.exe"
             ],
             "hash": [
                 "134a6cd465f270ecb0e7b1e73f54f60ac3294a8f0c4f1e3d05070c1cd6810d27",
@@ -26,8 +26,8 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/arm64/ctsPerf.exe",
-                "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/arm64/ctsTraffic.exe"
+                "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/arm64/ctsPerf.exe",
+                "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/2.0.4.0/arm64/ctsTraffic.exe"
             ],
             "hash": [
                 "990d5043aa841a164ebaeb8b777e3dd2a4d73c73c66b62f4e2787d83bc7f5b99",
@@ -48,20 +48,20 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x64/ctsPerf.exe",
-                    "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x64/ctsTraffic.exe"
+                    "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x64/ctsPerf.exe",
+                    "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x64/ctsTraffic.exe"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x86/ctsPerf.exe",
-                    "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x86/ctsTraffic.exe"
+                    "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x86/ctsPerf.exe",
+                    "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/x86/ctsTraffic.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/arm64/ctsPerf.exe",
-                    "https://gh-proxy.com/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/arm64/ctsTraffic.exe"
+                    "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/arm64/ctsPerf.exe",
+                    "https://gh-proxy.org/https://github.com/microsoft/ctsTraffic/raw/master/Releases/$version/arm64/ctsTraffic.exe"
                 ]
             }
         }

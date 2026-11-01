@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CodeOne45/vex-tui/releases/download/v2.1.0/vex-tui_2.1.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CodeOne45/vex-tui/releases/download/v2.1.0/vex-tui_2.1.0_windows_amd64.zip",
             "hash": "29c637d6e1aecd73d3c5b150dbbab1fd8cce681e2a12d4fe521cc6a2fb1b3a29"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CodeOne45/vex-tui/releases/download/v$version/vex-tui_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/CodeOne45/vex-tui/releases/download/v$version/vex-tui_$version_windows_amd64.zip"
             }
         },
         "hash": {

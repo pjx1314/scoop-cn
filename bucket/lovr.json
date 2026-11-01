@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bjornbytes/lovr/releases/download/v0.19.0/lovr-v0.19.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bjornbytes/lovr/releases/download/v0.19.0/lovr-v0.19.0-win64.zip",
             "hash": "677990376f3aa48ec791e1415fffba9efc2e3dacb22405087393ed2bf705dcbd"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bjornbytes/lovr/releases/download/v$version/lovr-v$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bjornbytes/lovr/releases/download/v$version/lovr-v$version-win64.zip"
             }
         }
     }

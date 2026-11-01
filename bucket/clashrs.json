@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Watfaq-legacy/clash-rs/releases/download/latest/clash-rs-x86_64-pc-windows-msvc.exe",
+            "url": "https://gh-proxy.org/https://github.com/Watfaq-legacy/clash-rs/releases/download/latest/clash-rs-x86_64-pc-windows-msvc.exe",
             "hash": "6e6bfcb85d1a673b3ca4a4366e6ce4cbf8863bb183f73b38cf0dc5025334fd56"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Watfaq-legacy/clash-rs/releases/download/latest/clash-rs-i686-pc-windows-msvc.exe",
+            "url": "https://gh-proxy.org/https://github.com/Watfaq-legacy/clash-rs/releases/download/latest/clash-rs-i686-pc-windows-msvc.exe",
             "hash": "66f55339280d152acc28c9f3fbc878a38be65346291e344ada8979c34675959c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Watfaq-legacy/clash-rs/releases/download/latest/clash-rs-aarch64-pc-windows-msvc.exe",
+            "url": "https://gh-proxy.org/https://github.com/Watfaq-legacy/clash-rs/releases/download/latest/clash-rs-aarch64-pc-windows-msvc.exe",
             "hash": "41450c1cfdeab4ce3492bf6afa4d6d5faf7a83927481ddb477057c027cb057b0"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Watfaq-legacy/clash-rs/releases/download/$matchTag/clash-rs-x86_64-pc-windows-msvc.exe"
+                "url": "https://gh-proxy.org/https://github.com/Watfaq-legacy/clash-rs/releases/download/$matchTag/clash-rs-x86_64-pc-windows-msvc.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Watfaq-legacy/clash-rs/releases/download/$matchTag/clash-rs-i686-pc-windows-msvc.exe"
+                "url": "https://gh-proxy.org/https://github.com/Watfaq-legacy/clash-rs/releases/download/$matchTag/clash-rs-i686-pc-windows-msvc.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Watfaq-legacy/clash-rs/releases/download/$matchTag/clash-rs-aarch64-pc-windows-msvc.exe"
+                "url": "https://gh-proxy.org/https://github.com/Watfaq-legacy/clash-rs/releases/download/$matchTag/clash-rs-aarch64-pc-windows-msvc.exe"
             }
         }
     }

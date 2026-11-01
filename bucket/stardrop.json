@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Floogen/Stardrop/releases/download/v1.10.4/Stardrop-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Floogen/Stardrop/releases/download/v1.10.4/Stardrop-win-x64.zip",
             "hash": "870c4aaed3f2e132bf959fd99d5a8e6cd5f0496f7cd02470d54e2c35d42d456f"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Floogen/Stardrop/releases/download/v$version/Stardrop-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Floogen/Stardrop/releases/download/v$version/Stardrop-win-x64.zip"
             }
         }
     }

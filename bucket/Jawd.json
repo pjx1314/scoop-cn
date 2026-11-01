@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/AlphabugX/Jawd/releases/download/v1.0/Jawd-1.0-fat.jar#/Jawd.jar",
+    "url": "https://gh-proxy.org/https://github.com/AlphabugX/Jawd/releases/download/v1.0/Jawd-1.0-fat.jar#/Jawd.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\Jawd.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AlphabugX/Jawd/releases/download/v$version/Jawd-$version-fat.jar#/Jawd.jar"
+        "url": "https://gh-proxy.org/https://github.com/AlphabugX/Jawd/releases/download/v$version/Jawd-$version-fat.jar#/Jawd.jar"
     }
 }

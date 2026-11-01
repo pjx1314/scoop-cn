@@ -6,7 +6,7 @@
         "identifier": "Freeware",
         "url": "https://fastcopy.jp/help/fastcopy_eng.htm#license"
     },
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FastCopyLab/FastCopyDist2/main/FastCopy5.12.0_installer.exe",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FastCopyLab/FastCopyDist2/main/FastCopy5.12.0_installer.exe",
     "hash": "14ccc9d2ebbdfbcbcf0c6e4004773d12bb98de197a572959473a2d9d3b000e3d",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\FastCopy2.ini\")) {",
@@ -51,6 +51,6 @@
     "persist": "FastCopy2.ini",
     "checkver": "FastCopy ver ([\\d.]+)",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FastCopyLab/FastCopyDist2/main/FastCopy$version_installer.exe"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FastCopyLab/FastCopyDist2/main/FastCopy$version_installer.exe"
     }
 }

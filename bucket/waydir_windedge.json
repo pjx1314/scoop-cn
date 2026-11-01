@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Waydir/Waydir/releases/download/v0.23.0/waydir-0.23.0%2B30-windows-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/Waydir/Waydir/releases/download/v0.23.0/waydir-0.23.0%2B30-windows-setup.exe",
             "hash": "d3a2701780bc3d29245eee3ca44eef1a2f33b143b2ba0b288edd9ac89608716c"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Waydir/Waydir/releases/download/v$version/waydir-$version%2B$match1-windows-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/Waydir/Waydir/releases/download/v$version/waydir-$version%2B$match1-windows-setup.exe"
             }
         }
     }

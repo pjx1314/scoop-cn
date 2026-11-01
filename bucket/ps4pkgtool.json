@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pearlxcore/PS4PKGTool/releases/download/v1.9.0/PS4-PKG-Tool-v1.9.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/pearlxcore/PS4PKGTool/releases/download/v1.9.0/PS4-PKG-Tool-v1.9.0.zip",
             "hash": "ce3fe789c23ec275cc806926d3264d637cf752756af46ec54d84e1d18d5266ee"
         }
     },
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pearlxcore/PS4PKGTool/releases/download/v$version/PS4-PKG-Tool-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/pearlxcore/PS4PKGTool/releases/download/v$version/PS4-PKG-Tool-v$version.zip"
             }
         }
     }

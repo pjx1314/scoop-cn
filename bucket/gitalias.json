@@ -9,7 +9,7 @@
         "Use gitalias by running: 'git config --global include.path $dir\\.gitalias'",
         "custom usage: <https://github.com/GitAlias/gitalias/blob/main/doc/install/index.md#install-with-custom-usage>"
     ],
-    "url": "https://gh-proxy.com/https://github.com/GitAlias/gitalias/raw/main/gitalias.txt",
+    "url": "https://gh-proxy.org/https://github.com/GitAlias/gitalias/raw/main/gitalias.txt",
     "hash": "4b6cab4cbd82eaca30b4a8fadba37e3cc6ca46ea9a60e929bce018b3faaea5af",
     "pre_install": "Rename-Item -Path \"$dir\\gitalias.txt\" -NewName \".gitalias\" -Force | Out-Null",
     "checkver": {
@@ -17,6 +17,6 @@
         "regex": "\\A(\\d+)\\Z"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/GitAlias/gitalias/raw/main/gitalias.txt"
+        "url": "https://gh-proxy.org/https://github.com/GitAlias/gitalias/raw/main/gitalias.txt"
     }
 }

@@ -5,12 +5,12 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-win64.zip",
             "hash": "d127996c76615e431be810e9c8d2910dbe3dd400600c5c0c50276fc5a17a9705",
             "extract_dir": "upx-5.3.0-win64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-win32.zip",
             "hash": "36a740f077637d66da90a133a2a166e90dd692be5d08b2350fec97ed23809d53",
             "extract_dir": "upx-5.3.0-win32"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/upx/upx/releases/download/v$version/upx-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/upx/upx/releases/download/v$version/upx-$version-win64.zip",
                 "extract_dir": "upx-$version-win64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/upx/upx/releases/download/v$version/upx-$version-win32.zip",
+                "url": "https://gh-proxy.org/https://github.com/upx/upx/releases/download/v$version/upx-$version-win32.zip",
                 "extract_dir": "upx-$version-win32"
             }
         }

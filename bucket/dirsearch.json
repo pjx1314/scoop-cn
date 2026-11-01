@@ -6,7 +6,7 @@
     "suggest": {
         "Python 3.7+": "python"
     },
-    "url": "https://gh-proxy.com/https://github.com/maurosoria/dirsearch/archive/refs/tags/v0.5.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/maurosoria/dirsearch/archive/refs/tags/v0.5.0.zip",
     "hash": "eb0913c964c37674095dda07d85bab65bc36e35fdc9716cc4b8aff691e75af5e",
     "pre_install": [
         "Set-Content \"$dir\\dirsearch.bat\" '@pushd %~dp0",
@@ -21,6 +21,6 @@
     "bin": "dirsearch.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/maurosoria/dirsearch/archive/refs/tags/v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/maurosoria/dirsearch/archive/refs/tags/v$version.zip"
     }
 }

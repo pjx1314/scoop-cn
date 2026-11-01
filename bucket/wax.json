@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ComicSparks/wax/releases/download/v1.3.16/z-of-wax-v1.3.16-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ComicSparks/wax/releases/download/v1.3.16/z-of-wax-v1.3.16-windows-x86_64.zip",
             "hash": "2f8bc6ccca40e9cbeeaea7de1e932efcd8441d770153d28f40c60075b4a2197f"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ComicSparks/wax/releases/download/v$version/$matchPrefix1$matchPrefix2$matchPrefix3-wax-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ComicSparks/wax/releases/download/v$version/$matchPrefix1$matchPrefix2$matchPrefix3-wax-v$version-windows-x86_64.zip"
             }
         }
     }

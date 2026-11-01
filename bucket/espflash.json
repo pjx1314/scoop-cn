@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/esp-rs/espflash/releases/download/v4.7.0/espflash-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/esp-rs/espflash/releases/download/v4.7.0/espflash-x86_64-pc-windows-msvc.zip",
             "hash": "2b10333e4f4f1a26024259b0cc1942ba17f27b3c530621c6111f4c10ac70213e"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/esp-rs/espflash/releases/download/v$version/espflash-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/esp-rs/espflash/releases/download/v$version/espflash-x86_64-pc-windows-msvc.zip"
             }
         }
     }

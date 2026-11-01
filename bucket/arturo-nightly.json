@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/arturo-lang/nightly/releases/download/2026-10-29/arturo-nightly.20261029-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/arturo-lang/nightly/releases/download/2026-10-29/arturo-nightly.20261029-windows-amd64.zip",
             "hash": "bd336d6d29c72b5039da2a77c6229fa004eb6038f2f0a11df6671dc2163adf56"
         }
     },
@@ -16,6 +16,6 @@
         "regex": "download/(?<version>\\d{4}-\\d{2}-\\d{2})/arturo-nightly.(?<date>\\d{8})"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/arturo-lang/nightly/releases/download/$matchVersion/arturo-nightly.$matchDate-windows-amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/arturo-lang/nightly/releases/download/$matchVersion/arturo-nightly.$matchDate-windows-amd64.zip"
     }
 }

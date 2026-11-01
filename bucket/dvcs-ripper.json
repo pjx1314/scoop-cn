@@ -8,7 +8,7 @@
             "perl"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/kost/dvcs-ripper/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/kost/dvcs-ripper/archive/refs/heads/master.zip",
     "hash": "49aebbef47ae3749249fe312767d5cb685b0c878d5954cf9e90080f8eff4fc19",
     "extract_dir": "dvcs-ripper-master",
     "pre_install": [
@@ -45,7 +45,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kost/dvcs-ripper/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/kost/dvcs-ripper/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

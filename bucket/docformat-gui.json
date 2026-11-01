@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KaguraNanaga/docformat-gui/releases/download/v1.8.8.4/docformat_windows.exe#/docformat.exe",
+            "url": "https://gh-proxy.org/https://github.com/KaguraNanaga/docformat-gui/releases/download/v1.8.8.4/docformat_windows.exe#/docformat.exe",
             "hash": "c4ba143e8024b11a2d2733ff5a585ac0681f81b835bb444cfc06a553462cb44a"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KaguraNanaga/docformat-gui/releases/download/v$version/docformat_windows.exe#/docformat.exe"
+                "url": "https://gh-proxy.org/https://github.com/KaguraNanaga/docformat-gui/releases/download/v$version/docformat_windows.exe#/docformat.exe"
             }
         }
     }

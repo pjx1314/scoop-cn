@@ -6,7 +6,7 @@
     "suggest": {
         ".NET Runtime/SDK": "main/dotnet"
     },
-    "url": "https://gh-proxy.com/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-generic.zip#/dl",
+    "url": "https://gh-proxy.org/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-generic.zip#/dl",
     "hash": "118f9bb85d2d8d301536e96d304cbe8e7aa99a6aa1d1bb97a540e78b7c73b1ce",
     "pre_install": [
         "if (Test-Path \"$persist_dir\\plugins\") {",
@@ -34,6 +34,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-generic.zip#/dl"
+        "url": "https://gh-proxy.org/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-generic.zip#/dl"
     }
 }

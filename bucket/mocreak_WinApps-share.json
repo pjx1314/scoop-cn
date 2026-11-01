@@ -5,7 +5,7 @@
     "license": "Free",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OdysseusYuan/Mocreak/releases/download/v3.1.1/Mocreak_Portable_v3.1.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/OdysseusYuan/Mocreak/releases/download/v3.1.1/Mocreak_Portable_v3.1.1.zip",
             "hash": "32419581feeacbdfdcdaf8eefeba662f2711bc25202906c726bb365adfa8b562"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OdysseusYuan/Mocreak/releases/download/v$version/Mocreak_Portable_v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/OdysseusYuan/Mocreak/releases/download/v$version/Mocreak_Portable_v$version.zip"
             }
         }
     }

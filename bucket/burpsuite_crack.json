@@ -13,7 +13,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bright-angel/burpsuite_crack/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/bright-angel/burpsuite_crack/archive/refs/heads/main.zip"
     },
     "shortcuts": [
         [
@@ -21,7 +21,7 @@
             "burpsuite_loader"
         ]
     ],
-    "url": "https://gh-proxy.com/https://github.com/bright-angel/burpsuite_crack/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/bright-angel/burpsuite_crack/archive/refs/heads/main.zip",
     "extract_dir": "burpsuite_crack-main",
     "bin": "burpsuite_loader.bat",
     "notes": [

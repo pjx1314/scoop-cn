@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_x64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_x64_portable.zip",
             "hash": "a69f835c21f2f15b1c834b2b973e68a3ba0c6051bb4cf1d2c04870a1b20cd84b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_arm64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_arm64_portable.zip",
             "hash": "fcd80af626594a4074d3d1eb926e94b52ec693133b5fa9b59b76e7ef1b338af7"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64_portable.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64_portable.zip"
             }
         }
     }

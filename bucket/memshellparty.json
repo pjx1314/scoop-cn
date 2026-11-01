@@ -10,7 +10,7 @@
             "main/openjdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/ReaJason/MemShellParty/releases/download/v2.10.0/boot-2.10.0.jar",
+    "url": "https://gh-proxy.org/https://github.com/ReaJason/MemShellParty/releases/download/v2.10.0/boot-2.10.0.jar",
     "hash": "e2943af510a4460000c209334fb7a63134210d098faaacfe06793611fce757ce",
     "pre_install": [
         "",
@@ -70,6 +70,6 @@
         "github": "https://github.com/ReaJason/MemShellParty"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ReaJason/MemShellParty/releases/download/v$version/boot-$version.jar"
+        "url": "https://gh-proxy.org/https://github.com/ReaJason/MemShellParty/releases/download/v$version/boot-$version.jar"
     }
 }

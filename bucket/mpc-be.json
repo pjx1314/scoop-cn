@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.2/MPC-BE.1.9.2.x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.2/MPC-BE.1.9.2.x64.7z",
             "hash": "sha1:f2f43e60ed9c1d7500e3d00ebc058b960aa68de6",
             "extract_dir": "MPC-BE.1.9.2.x64",
             "bin": [
@@ -23,7 +23,7 @@
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.2/MPC-BE.1.9.2.x86.7z",
+            "url": "https://gh-proxy.org/https://github.com/Aleksoid1978/MPC-BE/releases/download/1.9.2/MPC-BE.1.9.2.x86.7z",
             "hash": "sha1:949109f1f43ee493034692b3d7aab43ed2266bdc",
             "extract_dir": "MPC-BE.1.9.2.x86",
             "bin": "mpc-be.exe",
@@ -53,11 +53,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Aleksoid1978/MPC-BE/releases/download/$version/MPC-BE.$version.x64.7z",
+                "url": "https://gh-proxy.org/https://github.com/Aleksoid1978/MPC-BE/releases/download/$version/MPC-BE.$version.x64.7z",
                 "extract_dir": "MPC-BE.$version.x64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Aleksoid1978/MPC-BE/releases/download/$version/MPC-BE.$version.x86.7z",
+                "url": "https://gh-proxy.org/https://github.com/Aleksoid1978/MPC-BE/releases/download/$version/MPC-BE.$version.x86.7z",
                 "extract_dir": "MPC-BE.$version.x86"
             }
         },

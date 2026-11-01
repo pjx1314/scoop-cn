@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/wmahfoudh/oryx/releases/download/v1.2.2/oryx-1.2.2-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/wmahfoudh/oryx/releases/download/v1.2.2/oryx-1.2.2-windows-x86_64.zip",
             "hash": "29ace74ef53583d3eaa8ee733b28e94b7c822930771e970b8b9cc7a18b195109",
             "extract_dir": "oryx"
         }
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/wmahfoudh/oryx/releases/download/v$version/oryx-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/wmahfoudh/oryx/releases/download/v$version/oryx-$version-windows-x86_64.zip",
                 "extract_dir": "oryx"
             }
         },

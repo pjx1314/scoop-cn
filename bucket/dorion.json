@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SpikeHD/Dorion/releases/download/v7.0.1/Dorion_7.0.1_win64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/SpikeHD/Dorion/releases/download/v7.0.1/Dorion_7.0.1_win64_portable.zip",
             "hash": "01e88072f769f84a7390c92e81e0f3fb74228e1cf1f6404b899f6ecd3d1dc017"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SpikeHD/Dorion/releases/download/v$version/Dorion_$version_win64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/SpikeHD/Dorion/releases/download/v$version/Dorion_$version_win64_portable.zip"
             }
         }
     }

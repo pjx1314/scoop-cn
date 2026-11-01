@@ -3,7 +3,7 @@
     "description": "AntSword-Loader - 蚁剑加载器，用于加载和运行蚁剑核心模块",
     "homepage": "https://github.com/AntSwordProject/AntSword-Loader",
     "license": "GPL-3.0-only",
-    "url": "https://gh-proxy.com/https://github.com/AntSwordProject/AntSword-Loader/releases/download/4.0.3/AntSword-Loader-v4.0.3-win32-x64.zip#/antsword-loader.zip",
+    "url": "https://gh-proxy.org/https://github.com/AntSwordProject/AntSword-Loader/releases/download/4.0.3/AntSword-Loader-v4.0.3-win32-x64.zip#/antsword-loader.zip",
     "hash": "sha256:c471a712a5331325eb86048bc0a2da67aba257544c7c847a6087eb34012a100c",
     "extract_dir": "AntSword-Loader-v4.0.3-win32-x64",
     "shortcuts": [
@@ -14,7 +14,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AntSwordProject/AntSword-Loader/releases/download/$version/AntSword-Loader-v$version-win32-x64.zip#/antsword-loader.zip",
+        "url": "https://gh-proxy.org/https://github.com/AntSwordProject/AntSword-Loader/releases/download/$version/AntSword-Loader-v$version-win32-x64.zip#/antsword-loader.zip",
         "extract_dir": "AntSword-Loader-v$version-win32-x64"
     },
     "notes": [

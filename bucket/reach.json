@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/alexandrosnt/Reach/releases/download/v0.8.8/Reach_0.8.8_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/alexandrosnt/Reach/releases/download/v0.8.8/Reach_0.8.8_x64_en-US.msi",
             "hash": "dc7646ce22a0fae9ce0dabff9ee591656ad67ec2bc9dc7cd8f47a98cf579d719"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/alexandrosnt/Reach/releases/download/v$version/Reach_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/alexandrosnt/Reach/releases/download/v$version/Reach_$version_x64_en-US.msi"
             }
         }
     }

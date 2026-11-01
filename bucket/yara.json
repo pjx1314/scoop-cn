@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/VirusTotal/yara/releases/download/v4.6.0/yara-4.6.0-2443-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/VirusTotal/yara/releases/download/v4.6.0/yara-4.6.0-2443-win64.zip",
             "hash": "5e7124f173ed442458429ac0f79a4db2c024cc183c595737d477a7575d81e6dc",
             "bin": [
                 [
@@ -22,7 +22,7 @@
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/VirusTotal/yara/releases/download/v4.6.0/yara-4.6.0-2443-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/VirusTotal/yara/releases/download/v4.6.0/yara-4.6.0-2443-win32.zip",
             "hash": "aa43639d542ca45c9d0c2f589bdf8ecd1c2399c8b0d052c4631354d198a45c52",
             "bin": [
                 [
@@ -44,10 +44,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/VirusTotal/yara/releases/download/v$version/yara-$version-$matchBuild-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/VirusTotal/yara/releases/download/v$version/yara-$version-$matchBuild-win64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/VirusTotal/yara/releases/download/v$version/yara-$version-$matchBuild-win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/VirusTotal/yara/releases/download/v$version/yara-$version-$matchBuild-win32.zip"
             }
         }
     }

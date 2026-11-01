@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LargeModGames/spotatui/releases/download/v0.47.0/spotatui-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LargeModGames/spotatui/releases/download/v0.47.0/spotatui-windows-x86_64.zip",
             "hash": "d8f2567747240e09646d570f30184b03382762119759656a3e4b60385e2232f4"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LargeModGames/spotatui/releases/download/v$version/spotatui-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LargeModGames/spotatui/releases/download/v$version/spotatui-windows-x86_64.zip"
             }
         },
         "hash": {

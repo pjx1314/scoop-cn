@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3%2B5/bellsoft-jdk25.0.5.0.3%2B5-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3%2B5/bellsoft-jdk25.0.5.0.3%2B5-windows-amd64.zip",
             "hash": "sha1:ccbbbfda2ffc9c4d05188eaccc1573fc77d3fb81"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3%2B5/bellsoft-jdk25.0.5.0.3%2B5-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3%2B5/bellsoft-jdk25.0.5.0.3%2B5-windows-aarch64.zip",
             "hash": "sha1:47a6d79870240ecb8db24056042d97ca9ca06e74"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-aarch64.zip"
             }
         },
         "hash": {

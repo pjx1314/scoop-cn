@@ -3,7 +3,7 @@
     "description": "Pokémon core series save editor",
     "license": "GPL-3.0-only",
     "homepage": "https://projectpokemon.org/pkhex/",
-    "url": "https://gh-proxy.com/https://github.com/kwsch/PKHeX/raw/master/Directory.Build.props",
+    "url": "https://gh-proxy.org/https://github.com/kwsch/PKHeX/raw/master/Directory.Build.props",
     "hash": "2187d97fc9ccb43ad5c253a807ae71072f914fa44198a06eeea8c89edb6a6175",
     "shortcuts": [
         [
@@ -42,6 +42,6 @@
         "regex": "(?<version>[\\d\\.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kwsch/PKHeX/raw/master/Directory.Build.props"
+        "url": "https://gh-proxy.org/https://github.com/kwsch/PKHeX/raw/master/Directory.Build.props"
     }
 }

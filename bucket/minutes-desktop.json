@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/silverstein/minutes/releases/download/v0.31.1/minutes-desktop-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/silverstein/minutes/releases/download/v0.31.1/minutes-desktop-windows-x64.zip",
             "hash": "e0d1d74cb1f9acd131c2e687d05787f39c696cac5afc4cb108e9ec19f54530fc"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/silverstein/minutes/releases/download/v$version/minutes-desktop-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/silverstein/minutes/releases/download/v$version/minutes-desktop-windows-x64.zip"
             }
         }
     }

@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/outlaws-bai/Galaxy",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/outlaws-bai/Galaxy/releases/download/3.3.13/Galaxy-3.3.13-basic.jar#/Galaxy.jar",
+    "url": "https://gh-proxy.org/https://github.com/outlaws-bai/Galaxy/releases/download/3.3.13/Galaxy-3.3.13-basic.jar#/Galaxy.jar",
     "hash": "17aaca1159c39748caa7576a968c1e1f8cbbc94ab8da08e439e9bf36be688d9c",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/outlaws-bai/Galaxy/releases/download/$version/Galaxy-$version-basic.jar#/Galaxy.jar"
+        "url": "https://gh-proxy.org/https://github.com/outlaws-bai/Galaxy/releases/download/$version/Galaxy-$version-basic.jar#/Galaxy.jar"
     }
 }

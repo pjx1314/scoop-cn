@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/grafana/agent/releases/download/v0.44.2/grafana-agent-windows-amd64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/agent/releases/download/v0.44.2/grafana-agent-windows-amd64.exe.zip",
             "hash": "1639d5ee07b3901d17b2e27d4ca607401f2114acba588a3af3aa9719ac32838b"
         }
     },

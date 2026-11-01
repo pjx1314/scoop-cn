@@ -3,7 +3,7 @@
     "description": "Windows内存扫描工具 - 快速扫描进程内存中的恶意域名/IP/特征码",
     "homepage": "https://github.com/maueryz/Memscan",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/maueryz/Memscan/archive/refs/heads/main.zip#/memscan.zip",
+    "url": "https://gh-proxy.org/https://github.com/maueryz/Memscan/archive/refs/heads/main.zip#/memscan.zip",
     "hash": "4d236f1d74287fd2771337ff881779bbcc25c5af4d25c68db767ee18b3604963",
     "suggest": {
         "go": "go"
@@ -19,7 +19,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/maueryz/Memscan/archive/refs/heads/main.zip#/memscan.zip"
+        "url": "https://gh-proxy.org/https://github.com/maueryz/Memscan/archive/refs/heads/main.zip#/memscan.zip"
     },
     "notes": [
         "【工具类型】: 安全工具",

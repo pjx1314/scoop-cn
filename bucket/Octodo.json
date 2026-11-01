@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/invented-pro/octodo/releases/download/v3.0.6/octodo-v3.0.6-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/invented-pro/octodo/releases/download/v3.0.6/octodo-v3.0.6-windows-x64.zip",
             "hash": "3e179c248c0d305d1439268bc6ebfc74c01c624dff234135e8e4b1802ae0ed8e"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/invented-pro/octodo/releases/download/v$version/octodo-v$version-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/invented-pro/octodo/releases/download/v$version/octodo-v$version-windows-x64.zip",
                 "hash": {
                     "mode": "github"
                 }

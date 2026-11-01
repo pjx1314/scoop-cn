@@ -9,12 +9,12 @@
 	"architecture": {
 		"32bit": {
 			"extract_dir": "untrunc_x32",
-			"url": "https://gh-proxy.com/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x32.zip",
+			"url": "https://gh-proxy.org/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x32.zip",
 			"hash": "a9f29df28b6f5758adfe350b90af4fdccf25c1b7862a9a041eeeb6b87b3d3f0f"
 		},
 		"64bit": {
 			"extract_dir": "untrunc_x64",
-			"url": "https://gh-proxy.com/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x64.zip",
+			"url": "https://gh-proxy.org/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x64.zip",
 			"hash": "1862467f9f4e7eeb6a09e4c358cf2afe1720447f67f3e4b137dc14ccc55fccfd"
 		}
 	},
@@ -27,10 +27,10 @@
 	"autoupdate": {
 		"architecture": {
 			"32bit": {
-				"url": "https://gh-proxy.com/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x32.zip"
+				"url": "https://gh-proxy.org/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x32.zip"
 			},
 			"64bit": {
-				"url": "https://gh-proxy.com/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x64.zip"
+				"url": "https://gh-proxy.org/https://github.com/anthwlock/untrunc/releases/download/latest/untrunc_x64.zip"
 			}
 		}
 	}

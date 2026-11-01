@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/dzxs/Xdecrypt/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/dzxs/Xdecrypt/archive/refs/heads/master.zip",
     "hash": "2778586877618200f41d8e87318b2192d9e107d2391c20d832d869d389a0ab10",
     "extract_dir": "Xdecrypt-master",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/dzxs/Xdecrypt/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/dzxs/Xdecrypt/archive/refs/heads/master.zip"
     }
 }

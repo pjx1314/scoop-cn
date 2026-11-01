@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/momentohq/momento-cli/releases/download/v0.46.0/momento-cli-0.46.0.windows_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/momentohq/momento-cli/releases/download/v0.46.0/momento-cli-0.46.0.windows_x64.zip",
             "hash": "8be167c925100cbeb9be892aa05a364828310ab28e4326f04677e5626523e56e"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/momentohq/momento-cli/releases/download/v$version/momento-cli-$version.windows_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/momentohq/momento-cli/releases/download/v$version/momento-cli-$version.windows_x64.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ovh/okms-cli/releases/download/v0.6.0/okms-cli-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ovh/okms-cli/releases/download/v0.6.0/okms-cli-windows-x86_64.zip",
             "hash": "6614cf116cfc8770c3693e993c34eda871a64d0e9b1028098a61d9e7f4460c7f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ovh/okms-cli/releases/download/v0.6.0/okms-cli-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ovh/okms-cli/releases/download/v0.6.0/okms-cli-windows-arm64.zip",
             "hash": "c541b1fa6496929ff2c402e01bb0dd1a1feb7774335f6805e3a7e3656c38701d"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ovh/okms-cli/releases/download/v$version/okms-cli-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ovh/okms-cli/releases/download/v$version/okms-cli-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ovh/okms-cli/releases/download/v$version/okms-cli-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ovh/okms-cli/releases/download/v$version/okms-cli-windows-arm64.zip"
             }
         },
         "hash": {

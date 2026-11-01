@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/sml2h3/ddddocr-fastapi/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/sml2h3/ddddocr-fastapi/archive/refs/heads/main.zip",
     "pre_install": [
         "Set-Content \"$dir\\ddddocr-fastapi.bat\" '@pushd %~dp0",
         "@uvicorn app.main:app",
@@ -24,7 +24,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sml2h3/ddddocr-fastapi/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/sml2h3/ddddocr-fastapi/archive/refs/heads/main.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

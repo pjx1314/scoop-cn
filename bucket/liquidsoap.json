@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/savonet/liquidsoap/releases/download/v2.4.6/liquidsoap-2.4.6-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/savonet/liquidsoap/releases/download/v2.4.6/liquidsoap-2.4.6-win64.zip",
             "hash": "99e690d6c4df48c8b8a5c18eba36aa11a37e3de2bb79da6ae91de59171cb2973",
             "extract_dir": "liquidsoap-2.4.6-win64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/savonet/liquidsoap/releases/download/v$version/liquidsoap-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/savonet/liquidsoap/releases/download/v$version/liquidsoap-$version-win64.zip",
                 "extract_dir": "liquidsoap-$version-win64"
             }
         }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Snawoot/dtlspipe/releases/download/v1.8.14/dtlspipe.windows-amd64.exe#/dtlspipe.exe",
+            "url": "https://gh-proxy.org/https://github.com/Snawoot/dtlspipe/releases/download/v1.8.14/dtlspipe.windows-amd64.exe#/dtlspipe.exe",
             "hash": "81b71f92909ba4263e9a5754bc7df2dabe5169ed5e0e8f1a210f4d45fe007958"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Snawoot/dtlspipe/releases/download/v1.8.14/dtlspipe.windows-386.exe#/dtlspipe.exe",
+            "url": "https://gh-proxy.org/https://github.com/Snawoot/dtlspipe/releases/download/v1.8.14/dtlspipe.windows-386.exe#/dtlspipe.exe",
             "hash": "13ef9bb2095ee73f0166d4d70dda73cb08ff3490af5a2c7142bed44fbb874510"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Snawoot/dtlspipe/releases/download/v$version/dtlspipe.windows-amd64.exe#/dtlspipe.exe"
+                "url": "https://gh-proxy.org/https://github.com/Snawoot/dtlspipe/releases/download/v$version/dtlspipe.windows-amd64.exe#/dtlspipe.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Snawoot/dtlspipe/releases/download/v$version/dtlspipe.windows-386.exe#/dtlspipe.exe"
+                "url": "https://gh-proxy.org/https://github.com/Snawoot/dtlspipe/releases/download/v$version/dtlspipe.windows-386.exe#/dtlspipe.exe"
             }
         }
     }

@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/7wkajk/Frchannel/releases/download/2/FrChannel-v3.jar#/FrChannel.jar",
+    "url": "https://gh-proxy.org/https://github.com/7wkajk/Frchannel/releases/download/2/FrChannel-v3.jar#/FrChannel.jar",
     "hash": "4bfbbcbac22467aa0c3667642cd0555f0c946b96a241cec944005b13921cbc66",
     "pre_install": [
         "Set-Content \"$dir\\FrChannel.bat\" '@pushd %~dp0",
@@ -28,7 +28,7 @@
         "regex": "download/(?<tag>[\\d\\.]+)/FrChannel-v([\\d.]+)\\.jar"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/7wkajk/Frchannel/releases/download/$matchTag/FrChannel-v$version.jar#/FrChannel.jar"
+        "url": "https://gh-proxy.org/https://github.com/7wkajk/Frchannel/releases/download/$matchTag/FrChannel-v$version.jar#/FrChannel.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

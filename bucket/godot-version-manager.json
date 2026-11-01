@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/noidexe/godot-version-manager/releases/download/v1.18/Godot.Version.Manager.v1.18-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/noidexe/godot-version-manager/releases/download/v1.18/Godot.Version.Manager.v1.18-win.zip",
             "hash": "f92244a75bb076dbb9ab2c8d237ad355e6962017171b69c20c0dc0361b5b6844"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/noidexe/godot-version-manager/releases/download/v$version/Godot.Version.Manager.v$version-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/noidexe/godot-version-manager/releases/download/v$version/Godot.Version.Manager.v$version-win.zip"
             }
         }
     }

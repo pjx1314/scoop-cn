@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Macmod/ldapx/releases/download/v1.3.5/ldapx-v1.3.5-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Macmod/ldapx/releases/download/v1.3.5/ldapx-v1.3.5-windows-amd64.zip",
             "hash": "273eb88d4c6976ecfd50f3497482c042b6abc7703153d363c49ebf5a3fcf0c30"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Macmod/ldapx/releases/download/v$version/ldapx-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Macmod/ldapx/releases/download/v$version/ldapx-v$version-windows-amd64.zip"
             }
         },
         "hash": {

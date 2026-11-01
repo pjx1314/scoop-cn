@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27+35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip",
+            "url": "https://gh-proxy.org/https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27+35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip",
             "hash": "e9cf542d5ffe2a894637b18c27a7802853976deaa3abe3e04dfbb8a307a145dd"
         }
     },

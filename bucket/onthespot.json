@@ -3,7 +3,7 @@
     "description": "OnTheSpot is an open-source user-friendly music downloader built with Qt and Python.",
     "homepage": "https://github.com/ots-downloader/onthespot",
     "license": "GPL-2.0",
-    "url": "https://gh-proxy.com/https://github.com/ots-downloader/onthespot/releases/download/v1.8.1/OnTheSpot-x86_64.exe#/OnTheSpot.exe",
+    "url": "https://gh-proxy.org/https://github.com/ots-downloader/onthespot/releases/download/v1.8.1/OnTheSpot-x86_64.exe#/OnTheSpot.exe",
     "hash": "4339ba867ca1918180a9f09608b4d6f3b71411381f38028b4dafae2906415b85",
     "shortcuts": [
         [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ots-downloader/onthespot/releases/download/v$version/OnTheSpot-x86_64.exe#/OnTheSpot.exe"
+        "url": "https://gh-proxy.org/https://github.com/ots-downloader/onthespot/releases/download/v$version/OnTheSpot-x86_64.exe#/OnTheSpot.exe"
     }
 }

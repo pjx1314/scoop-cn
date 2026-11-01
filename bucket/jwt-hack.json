@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hahwul/jwt-hack/releases/download/v2.6.0/jwt-hack-v2.6.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/hahwul/jwt-hack/releases/download/v2.6.0/jwt-hack-v2.6.0-windows-x86_64.zip",
             "extract_dir": "jwt-hack-v2.6.0-windows-x86_64",
             "hash": "8782a15db7131ba0a5e621981ecaf67c7189300c5b2ea98f1c55bb85a76cb610"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hahwul/jwt-hack/releases/download/v$version/jwt-hack-v$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/hahwul/jwt-hack/releases/download/v$version/jwt-hack-v$version-windows-x86_64.zip",
                 "extract_dir": "jwt-hack-v$version-windows-x86_64"
             }
         }

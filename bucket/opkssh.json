@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/openpubkey/opkssh/releases/download/v0.19.2/opkssh-windows-amd64.exe#/opkssh.exe",
+            "url": "https://gh-proxy.org/https://github.com/openpubkey/opkssh/releases/download/v0.19.2/opkssh-windows-amd64.exe#/opkssh.exe",
             "hash": "a409d493957ecee78636f384f869317cda5093c41437ddb8713664d49c357158"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/openpubkey/opkssh/releases/download/v$version/opkssh-windows-amd64.exe#/opkssh.exe"
+                "url": "https://gh-proxy.org/https://github.com/openpubkey/opkssh/releases/download/v$version/opkssh-windows-amd64.exe#/opkssh.exe"
             }
         },
         "hash": {

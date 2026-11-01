@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CGG888/SrcBox/releases/download/v1.1.21/SrcBox-v1.1.21.zip",
+            "url": "https://gh-proxy.org/https://github.com/CGG888/SrcBox/releases/download/v1.1.21/SrcBox-v1.1.21.zip",
             "hash": "b9a37fea210e8cd388dd21c604bb9af9a4c64cc17c966d06eb906083b79dc153"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CGG888/SrcBox/releases/download/v$version/SrcBox-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/CGG888/SrcBox/releases/download/v$version/SrcBox-v$version.zip"
             }
         }
     }

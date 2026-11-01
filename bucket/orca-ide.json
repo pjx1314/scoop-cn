@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stablyai/orca/releases/download/v1.4.245/orca-windows-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/stablyai/orca/releases/download/v1.4.245/orca-windows-setup.exe#/dl.7z",
             "hash": "sha512:611ca6ff6f93755636dd55489ca5e3e2e2ac320f6d4525e03f5e1fd7efc86c167f919e84bc969074367ced6dda13666912059bfd4a9b7f425b6560afb4534d97",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stablyai/orca/releases/download/v$version/orca-windows-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/stablyai/orca/releases/download/v$version/orca-windows-setup.exe#/dl.7z"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "version": "4.16.8",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/emoacht/Monitorian/releases/download/4.16.8-Installer/MonitorianInstaller4168.zip",
+            "url": "https://gh-proxy.org/https://github.com/emoacht/Monitorian/releases/download/4.16.8-Installer/MonitorianInstaller4168.zip",
             "hash": "6f00297ce4493cf777894304b304eb526d969e46c594854edb31520d3970292e"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/emoacht/Monitorian/releases/download/$version-Installer/MonitorianInstaller$cleanVersion.zip"
+                "url": "https://gh-proxy.org/https://github.com/emoacht/Monitorian/releases/download/$version-Installer/MonitorianInstaller$cleanVersion.zip"
             }
         }
     }

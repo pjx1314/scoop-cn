@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/matiasb/unpy2exe/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/matiasb/unpy2exe/archive/refs/heads/master.zip",
     "hash": "4830c3ead08301c3079f2eb39443e00c5839fde813ada86f2e28fd6930a38fc1",
     "extract_dir": "unpy2exe-master",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/matiasb/unpy2exe/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/matiasb/unpy2exe/archive/refs/heads/master.zip"
     }
 }

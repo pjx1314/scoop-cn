@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/PCGen/pcgen/releases/download/v6.09.08.RC1-NIGHTLY.20261101/pcgen-6.09.08.RC1-NIGHTLY.20261101-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/PCGen/pcgen/releases/download/v6.09.08.RC1-NIGHTLY.20261101/pcgen-6.09.08.RC1-NIGHTLY.20261101-windows-x64-portable.zip",
             "hash": "4c14986da7d977b603bd508b8c403f93a0243b12809b867276ce2505a327f60e"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/PCGen/pcgen/releases/download/v$version/pcgen-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/PCGen/pcgen/releases/download/v$version/pcgen-$version-windows-x64-portable.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sergiye/winUpdateMiniTool/releases/download/1.0.9780/winUpdateMiniTool.exe",
+            "url": "https://gh-proxy.org/https://github.com/sergiye/winUpdateMiniTool/releases/download/1.0.9780/winUpdateMiniTool.exe",
             "hash": "e311abb42aae44eb695a547ad5ea00a43a146ee03a4631b550bd9d83e0135a1d"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sergiye/winUpdateMiniTool/releases/download/$version/winUpdateMiniTool.exe"
+                "url": "https://gh-proxy.org/https://github.com/sergiye/winUpdateMiniTool/releases/download/$version/winUpdateMiniTool.exe"
             }
         }
     }

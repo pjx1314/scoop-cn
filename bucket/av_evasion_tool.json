@@ -11,7 +11,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/1y0n/AV_Evasion_Tool/releases/download/20231208/20231208.zip",
+            "url": "https://gh-proxy.org/https://github.com/1y0n/AV_Evasion_Tool/releases/download/20231208/20231208.zip",
             "hash": "03e553f277ccbe4916eefcd15c17178c7690c64d8533073c86c4a60481649239"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/1y0n/AV_Evasion_Tool/releases/download/$version/$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/1y0n/AV_Evasion_Tool/releases/download/$version/$version.zip"
             }
         }
     }

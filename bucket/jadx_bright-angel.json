@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/skylot/jadx",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/skylot/jadx/releases/download/v1.5.6/jadx-gui-1.5.6-with-jre-win.zip",
+    "url": "https://gh-proxy.org/https://github.com/skylot/jadx/releases/download/v1.5.6/jadx-gui-1.5.6-with-jre-win.zip",
     "hash": "56a870460d03d3d6f22eb0908c33e298bc7370c952a6b7fa48c22a187ecd690b",
     "pre_install": "Get-ChildItem \"$dir\" 'jadx-gui-*.exe' | Select-Object -First 1 | Rename-Item -NewName 'jadx-gui.exe'",
     "bin": "jadx-gui.exe",
@@ -21,6 +21,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/skylot/jadx/releases/download/v$version/jadx-gui-$version-with-jre-win.zip"
+        "url": "https://gh-proxy.org/https://github.com/skylot/jadx/releases/download/v$version/jadx-gui-$version-with-jre-win.zip"
     }
 }

@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.1+26.3-26.51/pumpkin-X64-Windows.exe#/pumpkin.exe",
+            "url": "https://gh-proxy.org/https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.1+26.3-26.51/pumpkin-X64-Windows.exe#/pumpkin.exe",
             "hash": "13daca2a4ee351ca4ad91c9ed94ffc8e7d9e3eb41cdc96e107accf9d1f522812"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.1+26.3-26.51/pumpkin-ARM64-Windows.exe#/pumpkin.exe",
+            "url": "https://gh-proxy.org/https://github.com/Pumpkin-MC/Pumpkin/releases/download/0.2.1+26.3-26.51/pumpkin-ARM64-Windows.exe#/pumpkin.exe",
             "hash": "c2cd07234cc4353e94d7f6eeb4c54790212eda472484b03ba615918ebc9de9b7"
         }
     },
@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Pumpkin-MC/Pumpkin/releases/download/$version/pumpkin-X64-Windows.exe#/pumpkin.exe"
+                "url": "https://gh-proxy.org/https://github.com/Pumpkin-MC/Pumpkin/releases/download/$version/pumpkin-X64-Windows.exe#/pumpkin.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Pumpkin-MC/Pumpkin/releases/download/$version/pumpkin-ARM64-Windows.exe#/pumpkin.exe"
+                "url": "https://gh-proxy.org/https://github.com/Pumpkin-MC/Pumpkin/releases/download/$version/pumpkin-ARM64-Windows.exe#/pumpkin.exe"
             }
         },
         "hash": {

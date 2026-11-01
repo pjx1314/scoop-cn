@@ -5,11 +5,11 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip",
             "hash": "a2a8820d5eea32f08ef467ef3b7f66883a9b076d5737a2fc2fbb5f458d1bb50f"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/astral-sh/uv/releases/download/0.13.6/uv-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/0.13.6/uv-i686-pc-windows-msvc.zip",
             "hash": "32ceb64db231cbedfd499f7654c72e4c0b564f2846f9e76c0a4a7b2d03d7e67c"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
             }
         },
         "hash": {

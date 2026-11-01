@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/silentsignal/burp-requests",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/silentsignal/burp-requests/releases/download/v0.2.6/burp-requests.jar",
+    "url": "https://gh-proxy.org/https://github.com/silentsignal/burp-requests/releases/download/v0.2.6/burp-requests.jar",
     "hash": "5c01555632c22ce172be2a1bfa1a4dc64e64f95972ff589617c71d781273c861",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/silentsignal/burp-requests/releases/download/v$version/burp-requests.jar"
+        "url": "https://gh-proxy.org/https://github.com/silentsignal/burp-requests/releases/download/v$version/burp-requests.jar"
     }
 }

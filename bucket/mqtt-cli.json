@@ -3,7 +3,7 @@
     "description": "A useful command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1.",
     "homepage": "https://github.com/hivemq/mqtt-cli",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/hivemq/mqtt-cli/releases/download/v4.56.1/mqtt-cli-4.56.1.jar#/mqtt-cli.jar",
+    "url": "https://gh-proxy.org/https://github.com/hivemq/mqtt-cli/releases/download/v4.56.1/mqtt-cli-4.56.1.jar#/mqtt-cli.jar",
     "hash": "912f53195b0346ce2f5beefe07e86f66c7693aa497b65629b91034af36ab8f73",
     "pre_install": "@($manifest.bin) | ForEach-Object { $n = [IO.Path]::GetFileNameWithoutExtension($_); Set-Content -Encoding ASCII -Path \"$dir\\$n.bat\" -Value \"@java -jar `\"%~dp0$n.jar`\" %*\" }",
     "bin": "mqtt-cli.bat",
@@ -17,6 +17,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/hivemq/mqtt-cli/releases/download/v$version/mqtt-cli-$version.jar#/mqtt-cli.jar"
+        "url": "https://gh-proxy.org/https://github.com/hivemq/mqtt-cli/releases/download/v$version/mqtt-cli-$version.jar#/mqtt-cli.jar"
     }
 }

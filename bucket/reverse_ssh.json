@@ -4,8 +4,8 @@
     "homepage": "https://github.com/NHAS/reverse_ssh",
     "license": "MIT",
     "url": [
-        "https://gh-proxy.com/https://github.com/NHAS/reverse_ssh/releases/download/v2.8.1/server.exe#/reverse_ssh-server.exe",
-        "https://gh-proxy.com/https://github.com/NHAS/reverse_ssh/releases/download/v2.8.1/client.exe#/reverse_ssh-client.exe"
+        "https://gh-proxy.org/https://github.com/NHAS/reverse_ssh/releases/download/v2.8.1/server.exe#/reverse_ssh-server.exe",
+        "https://gh-proxy.org/https://github.com/NHAS/reverse_ssh/releases/download/v2.8.1/client.exe#/reverse_ssh-client.exe"
     ],
     "hash": [
         "169a7eafbaa6c8e1e58b39e8e3778091c1cfadb96708b4d0ecb4191779286eb1",
@@ -24,8 +24,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/NHAS/reverse_ssh/releases/download/v$version/server.exe#/reverse_ssh-server.exe",
-            "https://gh-proxy.com/https://github.com/NHAS/reverse_ssh/releases/download/v$version/client.exe#/reverse_ssh-client.exe"
+            "https://gh-proxy.org/https://github.com/NHAS/reverse_ssh/releases/download/v$version/server.exe#/reverse_ssh-server.exe",
+            "https://gh-proxy.org/https://github.com/NHAS/reverse_ssh/releases/download/v$version/client.exe#/reverse_ssh-client.exe"
         ]
     },
     "notes": [

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/EricLBuehler/mistral.rs/releases/download/v0.9.5/mistralrs-cpu-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/EricLBuehler/mistral.rs/releases/download/v0.9.5/mistralrs-cpu-x86_64-pc-windows-msvc.zip",
             "hash": "64d567c299a5c97ef265aa0362649aafb968af47706810df640f74fe8ea4702a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/EricLBuehler/mistral.rs/releases/download/v$version/mistralrs-cpu-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/EricLBuehler/mistral.rs/releases/download/v$version/mistralrs-cpu-x86_64-pc-windows-msvc.zip"
             }
         }
     }

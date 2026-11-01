@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.2.32/FFmpegFreeUI.x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Lake1059/FFmpegFreeUI/releases/download/6.2.32/FFmpegFreeUI.x64.exe",
             "hash": "29a4d87818c86282b58507cc50d8904835fe0ae7a0bc29a8c7a1590b0c5cfa4c"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Lake1059/FFmpegFreeUI/releases/download/$version/FFmpegFreeUI.x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Lake1059/FFmpegFreeUI/releases/download/$version/FFmpegFreeUI.x64.exe"
             }
         }
     }

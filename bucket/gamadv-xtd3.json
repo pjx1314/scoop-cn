@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/taers232c/GAMADV-XTD3/releases/download/v7.05.08/gamadv-xtd3-7.05.08-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/taers232c/GAMADV-XTD3/releases/download/v7.05.08/gamadv-xtd3-7.05.08-windows-x86_64.zip",
             "hash": "3c2227854724850c52dc60138b9c3bee5aab56c0beaa1228bb0cc823d2bd60ba"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/taers232c/GAMADV-XTD3/releases/download/v$version/gamadv-xtd3-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/taers232c/GAMADV-XTD3/releases/download/v$version/gamadv-xtd3-$version-windows-x86_64.zip"
             }
         }
     }

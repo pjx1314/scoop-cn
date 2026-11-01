@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tw93/Mole/releases/download/V1.40.0-windows/mole-1.40.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tw93/Mole/releases/download/V1.40.0-windows/mole-1.40.0-x64.zip",
             "hash": "4c3db06cf0c3add621640f11b62e6f36e8296bb9b1509b84779d2d67ecc0b3f8"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tw93/Mole/releases/download/V$version-windows/mole-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tw93/Mole/releases/download/V$version-windows/mole-$version-x64.zip"
             }
         },
         "hash": {

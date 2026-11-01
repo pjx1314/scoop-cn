@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aramperes/onetun/releases/download/v0.3.10/onetun.exe",
+            "url": "https://gh-proxy.org/https://github.com/aramperes/onetun/releases/download/v0.3.10/onetun.exe",
             "hash": "4c68be84ab209a8af1eda74849f04050c8009a842c39c9237bf2b7a9568d8ace"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aramperes/onetun/releases/download/v$version/onetun.exe"
+                "url": "https://gh-proxy.org/https://github.com/aramperes/onetun/releases/download/v$version/onetun.exe"
             }
         }
     }

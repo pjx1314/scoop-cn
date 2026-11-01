@@ -3,7 +3,7 @@
     "description": "pyxis can automatically identify http and https requests, and get response headers, status codes, response size, response time, tools for fingerprinting (favicon has, service, CMS, framework, etc.)",
     "homepage": "https://github.com/zan8in/pyxis",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/zan8in/pyxis/releases/download/v1.2.2/pyxis_1.2.2_windows_amd64.zip",
+    "url": "https://gh-proxy.org/https://github.com/zan8in/pyxis/releases/download/v1.2.2/pyxis_1.2.2_windows_amd64.zip",
     "hash": "7f54708e75537dd635ccb03e9a43e97420a218d6dd8a815513aae84bd7b2937f",
     "bin": "pyxis.exe",
     "checkver": {
@@ -11,7 +11,7 @@
         "regex": "download/(?<tag>v[\\d\\.]+)/pyxis_([\\d.]+)_windows_amd64.zip"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/zan8in/pyxis/releases/download/$matchTag/pyxis_$version_windows_amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/zan8in/pyxis/releases/download/$matchTag/pyxis_$version_windows_amd64.zip"
     },
     "notes": [
         "【工具类型】: 信息收集工具",

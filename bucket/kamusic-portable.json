@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Linsxyx/KugouMusic.NET/releases/download/v4.2.2/KugouAvaloniaPlayer-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Linsxyx/KugouMusic.NET/releases/download/v4.2.2/KugouAvaloniaPlayer-win-x64.zip",
             "hash": "1e0de0cd9ee1e3093897b0052984b1c77c45de723524cfdcde92680ef99b4456"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Linsxyx/KugouMusic.NET/releases/download/v$version/KugouAvaloniaPlayer-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Linsxyx/KugouMusic.NET/releases/download/v$version/KugouAvaloniaPlayer-win-x64.zip"
             }
         }
     }

@@ -7,7 +7,7 @@
     "hash": "fa9d7edcae52798d0db30546d4d46509c70e8f011c863ab08ffb97c3cb8ff92f",
     "bin": "SrumECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "SrumECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

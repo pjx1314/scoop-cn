@@ -5,32 +5,32 @@
     "license": "Unlicense|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ScoopInstaller/Shim/releases/download/rust/v0.4.1/shim-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ScoopInstaller/Shim/releases/download/rust/v0.4.1/shim-x64.zip",
             "hash": "14faad4e5f61152478d6933d85211599eb7f59b36b2a34bee64d3c7e82eb8361"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ScoopInstaller/Shim/releases/download/rust/v0.4.1/shim-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/ScoopInstaller/Shim/releases/download/rust/v0.4.1/shim-x86.zip",
             "hash": "ca48ac36962afe34c0b38b779871bfd4e7d65c8565c5bb1bb61a58b2e3b70eff"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ScoopInstaller/Shim/releases/download/rust/v0.4.1/shim-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ScoopInstaller/Shim/releases/download/rust/v0.4.1/shim-arm64.zip",
             "hash": "f799b311775a15bddf6c46c681f550488f5c0f0dc5406bfe67aeaf962f0c6741"
         }
     },
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ScoopInstaller/Shim/refs/heads/main/rust/version",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Shim/refs/heads/main/rust/version",
         "regex": "([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ScoopInstaller/Shim/releases/download/rust/v$version/shim-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ScoopInstaller/Shim/releases/download/rust/v$version/shim-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ScoopInstaller/Shim/releases/download/rust/v$version/shim-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/ScoopInstaller/Shim/releases/download/rust/v$version/shim-x86.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ScoopInstaller/Shim/releases/download/rust/v$version/shim-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ScoopInstaller/Shim/releases/download/rust/v$version/shim-arm64.zip"
             }
         }
     }

@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Jackett/Jackett",
     "license": "GPL-2.0-or-later",
     "changelog": "https://github.com/Jackett/Jackett/releases",
-    "url": "https://gh-proxy.com/https://github.com/Jackett/Jackett/releases/download/v0.24.2981/Jackett.Binaries.Windows.zip",
+    "url": "https://gh-proxy.org/https://github.com/Jackett/Jackett/releases/download/v0.24.2981/Jackett.Binaries.Windows.zip",
     "hash": "711d3fe72b65c6e592235e062c521b5d34ab0ebd6501a6639a71198293860315",
     "shortcuts": [
         [
@@ -14,7 +14,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Jackett/Jackett/releases/download/v$version/Jackett.Binaries.Windows.zip",
+        "url": "https://gh-proxy.org/https://github.com/Jackett/Jackett/releases/download/v$version/Jackett.Binaries.Windows.zip",
         "hash": {
             "url": "https://github.com/Jackett/Jackett/releases",
             "regex": "Jackett\\.Binaries\\.Windows\\.zip.*?sha256:\\s*$sha256"

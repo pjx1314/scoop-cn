@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/yuxianzi/FrchannelPlus/releases/download/1.0/FrChannel.jar",
+    "url": "https://gh-proxy.org/https://github.com/yuxianzi/FrchannelPlus/releases/download/1.0/FrChannel.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\FrchannelPlus_fix_for_yuxianzi.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/yuxianzi/FrchannelPlus/releases/download/$version/FrChannel.jar"
+        "url": "https://gh-proxy.org/https://github.com/yuxianzi/FrchannelPlus/releases/download/$version/FrChannel.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

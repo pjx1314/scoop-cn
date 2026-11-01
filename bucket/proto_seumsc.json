@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/moonrepo/proto/releases/download/v0.63.2/proto_cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/moonrepo/proto/releases/download/v0.63.2/proto_cli-x86_64-pc-windows-msvc.zip",
             "hash": "4f39177289667de29afe062dc982249475f838fb6a8101654b79d1bb086aff93"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/moonrepo/proto/releases/download/v$version/proto_cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/moonrepo/proto/releases/download/v$version/proto_cli-x86_64-pc-windows-msvc.zip"
             }
         }
     }

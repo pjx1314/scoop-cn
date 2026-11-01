@@ -5,7 +5,7 @@
     "license": "GPLv3",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/arition/SubRenamer/releases/download/v5.0.0/SubRenamer-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/arition/SubRenamer/releases/download/v5.0.0/SubRenamer-win-x64.zip",
             "hash": "229a4065079872afedd46c0311e323d024ebe5ed143b2082613bfffa3ec560fc"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/arition/SubRenamer/releases/download/v$version/SubRenamer-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/arition/SubRenamer/releases/download/v$version/SubRenamer-win-x64.zip"
             }
         }
     }

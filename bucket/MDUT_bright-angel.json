@@ -6,7 +6,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/SafeGroceryStore/MDUT/releases/download/v3.3.2/v3.3.2_Multiple_Database_Utilization_Tools_windows_amd64.zip",
+    "url": "https://gh-proxy.org/https://github.com/SafeGroceryStore/MDUT/releases/download/v3.3.2/v3.3.2_Multiple_Database_Utilization_Tools_windows_amd64.zip",
     "hash": "77a49babd113be112ec9203c43eff623392b7c1fa7f2cdc45948f7199f3aa63c",
     "pre_install": [
         "Get-ChildItem \"$dir\" '*_Multiple_Database_Utilization_Tools_*.jar' | Select-Object -First 1 | Rename-Item -NewName 'Multiple.Database.Utilization.Tools.jar'",
@@ -28,7 +28,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/SafeGroceryStore/MDUT/releases/download/v$version/v$version_Multiple_Database_Utilization_Tools_windows_amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/SafeGroceryStore/MDUT/releases/download/v$version/v$version_Multiple_Database_Utilization_Tools_windows_amd64.zip"
     },
     "notes": [
         "【工具类型】: 数据库工具",

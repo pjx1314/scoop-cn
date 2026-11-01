@@ -5,12 +5,12 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-x86_64.zip",
             "hash": "326c826486d46a23cf9d5a1c9ee3a567d427bdd02c4a34071937a2a675cff004",
             "extract_dir": "cmake-4.4.5-windows-x86_64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-i386.zip",
             "hash": "2a1e1af6cf31dcc267b8a8c9a05bc543aef29f305d6eb3f9d13dd4f9fcf4c1f2",
             "extract_dir": "cmake-4.4.5-windows-i386"
         }
@@ -28,11 +28,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kitware/CMake/releases/download/v$version/cmake-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/Kitware/CMake/releases/download/v$version/cmake-$version-windows-x86_64.zip",
                 "extract_dir": "cmake-$version-windows-x86_64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kitware/CMake/releases/download/v$version/cmake-$version-windows-i386.zip",
+                "url": "https://gh-proxy.org/https://github.com/Kitware/CMake/releases/download/v$version/cmake-$version-windows-i386.zip",
                 "extract_dir": "cmake-$version-windows-i386"
             }
         },

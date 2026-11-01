@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zouwei/moraya/releases/download/v0.45.20/Moraya_0.45.20_win_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/zouwei/moraya/releases/download/v0.45.20/Moraya_0.45.20_win_x64-setup.exe#/dl.7z",
             "hash": "d4d240ab0fcd3f8bea2a0047c5eda9ec5109fbbe32726de73c8d9f802d185c86"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zouwei/moraya/releases/download/v0.26.6/Moraya_0.26.6_win_arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/zouwei/moraya/releases/download/v0.26.6/Moraya_0.26.6_win_arm64-setup.exe#/dl.7z",
             "hash": ""
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zouwei/moraya/releases/download/v$version/Moraya_$version_win_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/zouwei/moraya/releases/download/v$version/Moraya_$version_win_x64-setup.exe#/dl.7z"
             }
         }
     }

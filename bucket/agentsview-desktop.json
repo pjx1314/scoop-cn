@@ -3,7 +3,7 @@
     "description": "AgentsView desktop app - local coding agent session viewer with analytics dashboard. (Experimental)",
     "homepage": "https://www.agentsview.io/",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v0.46.1/AgentsView_0.46.1_x64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/kenn-io/agentsview/releases/download/v0.46.1/AgentsView_0.46.1_x64-setup.exe#/dl.7z",
     "hash": "8fc13fead5aed6290546b04ccddcf303499e2f8471d09f30ebd28a9696c08905",
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Force -Recurse",
     "env_set": {
@@ -19,9 +19,9 @@
         "github": "https://github.com/kenn-io/agentsview"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v$version/AgentsView_$version_x64-setup.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/kenn-io/agentsview/releases/download/v$version/AgentsView_$version_x64-setup.exe#/dl.7z",
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/kenn-io/agentsview/releases/download/v$version/SHA256SUMS-desktop"
+            "url": "https://gh-proxy.org/https://github.com/kenn-io/agentsview/releases/download/v$version/SHA256SUMS-desktop"
         }
     },
     "notes": [

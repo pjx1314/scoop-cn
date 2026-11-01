@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.63.0/wit-bindgen-0.63.0-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/bytecodealliance/wit-bindgen/releases/download/v0.63.0/wit-bindgen-0.63.0-x86_64-windows.zip",
             "extract_dir": "wit-bindgen-0.63.0-x86_64-windows",
             "hash": "213393e4a8b4875a3f19856e943e43067d0315141fca5743e4cfb7795bc9af14"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bytecodealliance/wit-bindgen/releases/download/v$version/wit-bindgen-$version-x86_64-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/bytecodealliance/wit-bindgen/releases/download/v$version/wit-bindgen-$version-x86_64-windows.zip",
                 "extract_dir": "wit-bindgen-$version-x86_64-windows"
             }
         }

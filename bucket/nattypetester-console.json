@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HMBSbige/NatTypeTester/releases/download/10.0.10/NatTypeTester.Console-10.0.10-win-x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/HMBSbige/NatTypeTester/releases/download/10.0.10/NatTypeTester.Console-10.0.10-win-x64.7z",
             "extract_dir": "NatTypeTester.Console-win-x64",
             "hash": "a3a7099a6879e23a2c6ff7d70de552fe8db33118feab522a8614b6e4055f57bb"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester.Console-$version-win-x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester.Console-$version-win-x64.7z"
             }
         }
     }

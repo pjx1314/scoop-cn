@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/epinter/tqrespec/releases/download/v1.2.1/TQRespec-1.2.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/epinter/tqrespec/releases/download/v1.2.1/TQRespec-1.2.1.zip",
             "hash": "8153d4e93417c2e539f61b43070bbd89e7754c7f6ebbd095fde7fed36c606a9f"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/epinter/tqrespec/releases/download/v$version/TQRespec-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/epinter/tqrespec/releases/download/v$version/TQRespec-$version.zip"
             }
         }
     }

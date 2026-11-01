@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/ethicalhackingplayground/ssrf-king",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/ethicalhackingplayground/ssrf-king/releases/download/v1.12/ssrf-king.jar",
+    "url": "https://gh-proxy.org/https://github.com/ethicalhackingplayground/ssrf-king/releases/download/v1.12/ssrf-king.jar",
     "hash": "21fc7c73b26b0e12752361b1a77bd2a623bbd5a71d8b8c40ce2a026bf3623712",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ethicalhackingplayground/ssrf-king/releases/download/v$version/ssrf-king.jar"
+        "url": "https://gh-proxy.org/https://github.com/ethicalhackingplayground/ssrf-king/releases/download/v$version/ssrf-king.jar"
     }
 }

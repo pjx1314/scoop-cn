@@ -7,7 +7,7 @@
         "url": "https://github.com/abus-aikorea/voice-pro#MIT-1-ov-file"
     },
     "notes": "See usage: https://github.com/abus-aikorea/voice-pro?tab=readme-ov-file#install-and-run",
-    "url": "https://gh-proxy.com/https://github.com/abus-aikorea/voice-pro/archive/v4.0.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/abus-aikorea/voice-pro/archive/v4.0.0.zip",
     "hash": "0f3e10bdf5826d316abd99daadf8ab63ac605fda9edf677a01da12b12a94a072",
     "extract_dir": "voice-pro-4.0.0",
     "shortcuts": [
@@ -30,7 +30,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abus-aikorea/voice-pro/archive/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/abus-aikorea/voice-pro/archive/v$version.zip",
         "extract_dir": "voice-pro-$version"
     }
 }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/overflowy/make-look-scanned/releases/download/v1.1.0/make-look-scanned_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/overflowy/make-look-scanned/releases/download/v1.1.0/make-look-scanned_windows_amd64.tar.gz",
             "extract_dir": "make-look-scanned_windows_amd64",
             "hash": "484c12d0ca55b023a9834126c76fe51e86da34829990dace53168c7833609b3a"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/overflowy/make-look-scanned/releases/download/v$version/make-look-scanned_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/overflowy/make-look-scanned/releases/download/v$version/make-look-scanned_windows_amd64.tar.gz"
             }
         }
     }

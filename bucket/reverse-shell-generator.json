@@ -3,7 +3,7 @@
     "description": "Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)",
     "homepage": "https://github.com/0dayCTF/reverse-shell-generator",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/0dayCTF/reverse-shell-generator/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/0dayCTF/reverse-shell-generator/archive/refs/heads/master.zip",
     "hash": "c667a13dc3ac75e3256cd1cfffd2b2746dd91ad133cbe4990853f2a2775c268d",
     "extract_dir": "reverse-shell-generator-main",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/0dayCTF/reverse-shell-generator/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/0dayCTF/reverse-shell-generator/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tsduck/tsduck/releases/download/v3.45-4798/TSDuck-Win64-3.45-4798-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/tsduck/tsduck/releases/download/v3.45-4798/TSDuck-Win64-3.45-4798-Portable.zip",
             "hash": "12976d2d3a55beaade5298399c720be26a85f57dc7d6b5399c5c660c4855afbc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/tsduck/tsduck/releases/download/v3.45-4798/TSDuck-Arm64-3.45-4798-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/tsduck/tsduck/releases/download/v3.45-4798/TSDuck-Arm64-3.45-4798-Portable.zip",
             "hash": "fa5662c80a0174c5fd88cfb534d26a9d44427f561bd2d849c5d4c6833329f17f"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tsduck/tsduck/releases/download/v$version/TSDuck-Win64-$version-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/tsduck/tsduck/releases/download/v$version/TSDuck-Win64-$version-Portable.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/tsduck/tsduck/releases/download/v$version/TSDuck-Arm64-$version-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/tsduck/tsduck/releases/download/v$version/TSDuck-Arm64-$version-Portable.zip"
             }
         }
     }

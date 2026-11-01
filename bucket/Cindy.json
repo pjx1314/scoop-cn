@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/makecindy/cindy/releases/download/v0.1.121/cindy-0.1.121-win32-x64-global.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/makecindy/cindy/releases/download/v0.1.121/cindy-0.1.121-win32-x64-global.exe#/dl.7z",
             "hash": "6c8e485e4a200a5d41930dc74c3fbadcf23180bb1d886c3cda3b8a5ff056894b",
             "installer": {
                 "script": [
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/makecindy/cindy/releases/download/v$version/cindy-$version-win32-x64-global.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/makecindy/cindy/releases/download/v$version/cindy-$version-win32-x64-global.exe#/dl.7z"
             }
         }
     }

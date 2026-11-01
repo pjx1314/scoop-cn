@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.13/wpprobe_v0.12.13_windows_amd64.exe#/wpprobe.exe",
+            "url": "https://gh-proxy.org/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.13/wpprobe_v0.12.13_windows_amd64.exe#/wpprobe.exe",
             "hash": "538e8ca9ce767ec93decfa867e35293018da42bae4c40b622e47947c0bb8e581"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.13/wpprobe_v0.12.13_windows_386.exe#/wpprobe.exe",
+            "url": "https://gh-proxy.org/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.13/wpprobe_v0.12.13_windows_386.exe#/wpprobe.exe",
             "hash": "abb74a3d5fb19b724bb77cdf29b2fd10ec42c83d3f5cfa830be9b88b2aca1f4f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.13/wpprobe_v0.12.13_windows_arm64.exe#/wpprobe.exe",
+            "url": "https://gh-proxy.org/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.13/wpprobe_v0.12.13_windows_arm64.exe#/wpprobe.exe",
             "hash": "c482044f300c61afbf2ce42eb66ca802f557100a2604b031e71b258be668b72a"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Chocapikk/wpprobe/releases/download/v$version/wpprobe_v$version_windows_amd64.exe#/wpprobe.exe"
+                "url": "https://gh-proxy.org/https://github.com/Chocapikk/wpprobe/releases/download/v$version/wpprobe_v$version_windows_amd64.exe#/wpprobe.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Chocapikk/wpprobe/releases/download/v$version/wpprobe_v$version_windows_386.exe#/wpprobe.exe"
+                "url": "https://gh-proxy.org/https://github.com/Chocapikk/wpprobe/releases/download/v$version/wpprobe_v$version_windows_386.exe#/wpprobe.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Chocapikk/wpprobe/releases/download/v$version/wpprobe_v$version_windows_arm64.exe#/wpprobe.exe"
+                "url": "https://gh-proxy.org/https://github.com/Chocapikk/wpprobe/releases/download/v$version/wpprobe_v$version_windows_arm64.exe#/wpprobe.exe"
             }
         },
         "hash": {

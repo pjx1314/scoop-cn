@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lanyeeee/copymanga-downloader/releases/download/v0.13.1/copymanga-downloader_0.13.1_windows_x64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/lanyeeee/copymanga-downloader/releases/download/v0.13.1/copymanga-downloader_0.13.1_windows_x64_portable.zip",
             "hash": "26d33052138051bf87fcce30f71c348aa4d41a02e23fd4acb9064f347e4c3fed"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lanyeeee/copymanga-downloader/releases/download/v$version/copymanga-downloader_$version_windows_x64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/lanyeeee/copymanga-downloader/releases/download/v$version/copymanga-downloader_$version_windows_x64_portable.zip"
             }
         }
     }

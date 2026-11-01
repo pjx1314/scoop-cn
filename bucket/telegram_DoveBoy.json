@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.3/td-portable-win-x64-7.3.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.3/td-portable-win-x64-7.3.3.zip",
             "hash": "f6135cfe7303beda0206897a6655ecd31975de48883728709aaa2441376a7944"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.3/td-portable-win-x86-7.3.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.3/td-portable-win-x86-7.3.3.zip",
             "hash": "5fa7557b80e13f03f1a02065208471defcf6edf540c1fa26379795f52bd36653"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.3/td-portable-win-arm-7.3.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/telegramdesktop/tdesktop/releases/download/v7.3.3/td-portable-win-arm-7.3.3.zip",
             "hash": "909023f616efc8e43669f4306c22dd6fe13808ce537fa1dea853d9bd47bdb762"
         }
     },
@@ -35,13 +35,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/telegramdesktop/tdesktop/releases/download/v$version/td-portable-win-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/telegramdesktop/tdesktop/releases/download/v$version/td-portable-win-x64-$version.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/telegramdesktop/tdesktop/releases/download/v$version/td-portable-win-x86-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/telegramdesktop/tdesktop/releases/download/v$version/td-portable-win-x86-$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/telegramdesktop/tdesktop/releases/download/v$version/td-portable-win-arm-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/telegramdesktop/tdesktop/releases/download/v$version/td-portable-win-arm-$version.zip"
             }
         }
     }

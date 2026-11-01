@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/Ataraxy-Labs/weave/releases/download/v0.7.0/weave-cli-x86_64-pc-windows-msvc.zip",
-                "https://gh-proxy.com/https://github.com/Ataraxy-Labs/weave/releases/download/v0.7.0/weave-driver-x86_64-pc-windows-msvc.zip",
-                "https://gh-proxy.com/https://github.com/Ataraxy-Labs/weave/releases/download/v0.7.0/weave-mcp-x86_64-pc-windows-msvc.zip"
+                "https://gh-proxy.org/https://github.com/Ataraxy-Labs/weave/releases/download/v0.7.0/weave-cli-x86_64-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/Ataraxy-Labs/weave/releases/download/v0.7.0/weave-driver-x86_64-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/Ataraxy-Labs/weave/releases/download/v0.7.0/weave-mcp-x86_64-pc-windows-msvc.zip"
             ],
             "hash": [
                 "3ae9c35d8ac06c090509e4cc35b26df7f7364301598e0aef25cd5089bb4a89af",
@@ -27,9 +27,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/Ataraxy-Labs/weave/releases/download/v$version/weave-cli-x86_64-pc-windows-msvc.zip",
-                    "https://gh-proxy.com/https://github.com/Ataraxy-Labs/weave/releases/download/v$version/weave-driver-x86_64-pc-windows-msvc.zip",
-                    "https://gh-proxy.com/https://github.com/Ataraxy-Labs/weave/releases/download/v$version/weave-mcp-x86_64-pc-windows-msvc.zip"
+                    "https://gh-proxy.org/https://github.com/Ataraxy-Labs/weave/releases/download/v$version/weave-cli-x86_64-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/Ataraxy-Labs/weave/releases/download/v$version/weave-driver-x86_64-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/Ataraxy-Labs/weave/releases/download/v$version/weave-mcp-x86_64-pc-windows-msvc.zip"
                 ]
             }
         }

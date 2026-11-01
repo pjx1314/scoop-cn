@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/XiaochangXu/HeartRateMonitor-composeui/releases/download/v4.9.5/HeartRateMonitor-v4.9.5-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/XiaochangXu/HeartRateMonitor-composeui/releases/download/v4.9.5/HeartRateMonitor-v4.9.5-win-x64.zip",
             "hash": "551913d6511c03232b2e9e3aed161db17beb476f4dd96426b70fb1761b0750ad",
             "extract_dir": "HeartRateMonitor-v4.9.5-win-x64"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/XiaochangXu/HeartRateMonitor-composeui/releases/download/v$version/HeartRateMonitor-v$version-win-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/XiaochangXu/HeartRateMonitor-composeui/releases/download/v$version/HeartRateMonitor-v$version-win-x64.zip",
                 "extract_dir": "HeartRateMonitor-v$version-win-x64"
             }
         }

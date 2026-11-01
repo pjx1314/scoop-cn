@@ -5,7 +5,7 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/EllyVR/VRCVideoCacher/releases/download/2026.10.29/VRCVideoCacher.exe",
+            "url": "https://gh-proxy.org/https://github.com/EllyVR/VRCVideoCacher/releases/download/2026.10.29/VRCVideoCacher.exe",
             "hash": "80ec22ac5ec4f399645f91f10fbe00138a8fcddd383e967a2af9a3d255a878d5"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/EllyVR/VRCVideoCacher/releases/download/$version/VRCVideoCacher.exe"
+                "url": "https://gh-proxy.org/https://github.com/EllyVR/VRCVideoCacher/releases/download/$version/VRCVideoCacher.exe"
             }
         }
     }

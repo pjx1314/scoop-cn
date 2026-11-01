@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/harry0703/MangoDisk/releases/download/v1.2.2/MangoDisk-1.2.2-windows-portable.exe#/MangoDisk.exe",
+            "url": "https://gh-proxy.org/https://github.com/harry0703/MangoDisk/releases/download/v1.2.2/MangoDisk-1.2.2-windows-portable.exe#/MangoDisk.exe",
             "hash": "3741a9e7f3e9b5205522484e5b6a482b51cce48b99ff25cef7ec497e9cbf3be1"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/harry0703/MangoDisk/releases/download/v$version/MangoDisk-$version-windows-portable.exe#/MangoDisk.exe"
+                "url": "https://gh-proxy.org/https://github.com/harry0703/MangoDisk/releases/download/v$version/MangoDisk-$version-windows-portable.exe#/MangoDisk.exe"
             }
         }
     }

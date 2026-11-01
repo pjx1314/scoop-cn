@@ -3,7 +3,7 @@
     "description": "（尙古等寬）基於思源的傳承字形（舊字形）字體",
     "homepage": "https://github.com/GuiWonder/Shanggu",
     "license": "OFL-1.1",
-    "url": "https://gh-proxy.com/https://github.com/GuiWonder/Shanggu/releases/download/1.028/ShangguMonoTTFs.7z",
+    "url": "https://gh-proxy.org/https://github.com/GuiWonder/Shanggu/releases/download/1.028/ShangguMonoTTFs.7z",
     "hash": "ff3895ef8209947622eb8d8fb1581b16a1e0a4be0f2135b6abcef1a478e532fc",
     "extract_dir": "ShangguMono",
     "checkver": {
@@ -11,7 +11,7 @@
         "regex": "Repository/\\d+/(.+?)<"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/GuiWonder/Shanggu/releases/download/$version/ShangguMonoTTFs.7z"
+        "url": "https://gh-proxy.org/https://github.com/GuiWonder/Shanggu/releases/download/$version/ShangguMonoTTFs.7z"
     },
     "installer": {
         "script": [

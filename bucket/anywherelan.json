@@ -5,15 +5,15 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/anywherelan/awl/releases/download/v0.20.0/awl-windows-amd64-v0.20.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/anywherelan/awl/releases/download/v0.20.0/awl-windows-amd64-v0.20.0.zip",
             "hash": "7d149668cf45d1aa9439cef88e75c73dc323adfb5d8f099c5fdbebe438e17918"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/anywherelan/awl/releases/download/v0.20.0/awl-windows-386-v0.20.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/anywherelan/awl/releases/download/v0.20.0/awl-windows-386-v0.20.0.zip",
             "hash": "02060df7bf935ccb86b975b7f9c615f7dd4d09430f50c37ed8253f200dcfe724"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/anywherelan/awl/releases/download/v0.20.0/awl-windows-arm64-v0.20.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/anywherelan/awl/releases/download/v0.20.0/awl-windows-arm64-v0.20.0.zip",
             "hash": "2445876054a8e83ee5c7ac365831bf46db71287d752dc33d9bacf9bee14d9dba"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/anywherelan/awl/releases/download/v$version/awl-windows-amd64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/anywherelan/awl/releases/download/v$version/awl-windows-amd64-v$version.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/anywherelan/awl/releases/download/v$version/awl-windows-386-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/anywherelan/awl/releases/download/v$version/awl-windows-386-v$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/anywherelan/awl/releases/download/v$version/awl-windows-arm64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/anywherelan/awl/releases/download/v$version/awl-windows-arm64-v$version.zip"
             }
         }
     }

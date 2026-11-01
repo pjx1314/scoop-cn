@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/sairson/Yasso",
     "license": "unknow",
-    "url": "https://gh-proxy.com/https://github.com/sairson/Yasso/releases/download/v0.06-main/Yasso_win_x64.exe#/Yasso.exe",
+    "url": "https://gh-proxy.org/https://github.com/sairson/Yasso/releases/download/v0.06-main/Yasso_win_x64.exe#/Yasso.exe",
     "hash": "6b37aec6253c336188d9c8035e90818a139e3425c6e590734f309bd45021f980",
     "bin": "Yasso.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sairson/Yasso/releases/download/v$version-main/Yasso_win_x64.exe#/Yasso.exe"
+        "url": "https://gh-proxy.org/https://github.com/sairson/Yasso/releases/download/v$version-main/Yasso_win_x64.exe#/Yasso.exe"
     }
 }

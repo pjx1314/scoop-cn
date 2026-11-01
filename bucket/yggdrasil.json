@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v0.5.15/yggdrasil-0.5.15-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v0.5.15/yggdrasil-0.5.15-x64.msi",
             "hash": "ea92c8af1cb01909363ce0ecc219f4247fa278a9803fb6d4c4d55c30bdcf4c70"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v0.5.15/yggdrasil-0.5.15-x86.msi",
+            "url": "https://gh-proxy.org/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v0.5.15/yggdrasil-0.5.15-x86.msi",
             "hash": "1423d1f08e49ddef8c9fc6c3f7f1a99a1be0c0f7ae90c037dbf4dd750118aa8b"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v$version/yggdrasil-$version-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v$version/yggdrasil-$version-x64.msi"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v$version/yggdrasil-$version-x86.msi"
+                "url": "https://gh-proxy.org/https://github.com/yggdrasil-network/yggdrasil-go/releases/download/v$version/yggdrasil-$version-x86.msi"
             }
         }
     }

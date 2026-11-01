@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-pc-windows-msvc.zip",
             "hash": "802e9c1a834e2bf6c3e18724791a1142a078154e3a58f1e0b75e93a83d804ee0"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chojs23/concord/releases/download/v$version/concord-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/chojs23/concord/releases/download/v$version/concord-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/radareorg/iaito/releases/download/6.2.2/iaito-6.2.2-w64.zip",
+            "url": "https://gh-proxy.org/https://github.com/radareorg/iaito/releases/download/6.2.2/iaito-6.2.2-w64.zip",
             "hash": "b965253f0e62db3ddb6006af545ff1d8a0713b36af9e0878062b7e552d7e6390"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/radareorg/iaito/releases/download/$version/iaito-$version-w64.zip"
+                "url": "https://gh-proxy.org/https://github.com/radareorg/iaito/releases/download/$version/iaito-$version-w64.zip"
             }
         }
     }

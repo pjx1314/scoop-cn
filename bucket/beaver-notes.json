@@ -3,7 +3,7 @@
     "description": "Beaver Notes is an open-source note taking app built for Privacy and Efficiency.",
     "homepage": "https://www.beavernotes.com/",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/Beaver-Notes/Beaver-Notes/releases/download/4.4.0/Beaver-Notes-Setup-4.4.0.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/Beaver-Notes/Beaver-Notes/releases/download/4.4.0/Beaver-Notes-Setup-4.4.0.exe#/dl.7z",
     "hash": "7740ac572802f88a58b88095d8f65a48a7ea7577c175480e835282ef30fa1de5",
     "architecture": {
         "64bit": {
@@ -26,6 +26,6 @@
         "github": "https://github.com/Beaver-Notes/Beaver-Notes"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Beaver-Notes/Beaver-Notes/releases/download/$version/Beaver-Notes-Setup-$version.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/Beaver-Notes/Beaver-Notes/releases/download/$version/Beaver-Notes-Setup-$version.exe#/dl.7z"
     }
 }

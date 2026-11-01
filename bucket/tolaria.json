@@ -4,7 +4,7 @@
     "description": "Desktop app to manage markdown knowledge bases",
     "homepage": "https://github.com/refactoringhq/tolaria",
     "license": "AGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/refactoringhq/tolaria/releases/download/v2026-10-30/Tolaria_2026.10.30_x64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/refactoringhq/tolaria/releases/download/v2026-10-30/Tolaria_2026.10.30_x64-setup.exe#/dl.7z",
     "hash": "66762ce32dc923f74c90f0af3d75e74bb87981a2ee1fc4c9d7ceded1ae100a7d",
     "pre_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
     "shortcuts": [
@@ -28,6 +28,6 @@
         "replace": "$1"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/refactoringhq/tolaria/releases/download/v$match2/Tolaria_$version_x64-setup.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/refactoringhq/tolaria/releases/download/v$match2/Tolaria_$version_x64-setup.exe#/dl.7z"
     }
 }

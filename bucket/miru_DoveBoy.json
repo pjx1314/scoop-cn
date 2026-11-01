@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/miru-project/miru-app/releases/download/v1.8.1/miru-setup-v1.8.1.exe",
+            "url": "https://gh-proxy.org/https://github.com/miru-project/miru-app/releases/download/v1.8.1/miru-setup-v1.8.1.exe",
             "hash": "ffecd22103245e715739429280c7e98deade14b28957dd6413cce938239cd275"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/miru-project/miru-app/releases/download/v$version/miru-setup-v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/miru-project/miru-app/releases/download/v$version/miru-setup-v$version.exe"
             }
         }
     }

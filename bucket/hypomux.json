@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Hypostasis-Cat/HypoMux/releases/download/v2.8.2/HypoMux_Setup_2.8.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Hypostasis-Cat/HypoMux/releases/download/v2.8.2/HypoMux_Setup_2.8.2.exe#/dl.7z",
             "hash": "11a523fa6f13194ff09cc33eb81de7808b04497e1577017924e4a98bab631b6c"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Hypostasis-Cat/HypoMux/releases/download/v$version/HypoMux_Setup_$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Hypostasis-Cat/HypoMux/releases/download/v$version/HypoMux_Setup_$version.exe#/dl.7z"
             }
         }
     }

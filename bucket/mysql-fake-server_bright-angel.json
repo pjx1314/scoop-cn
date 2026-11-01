@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/4ra1n/mysql-fake-server/releases/download/0.0.4/fake-mysql-gui-0.0.4.jar#/fake-mysql-gui.jar",
+    "url": "https://gh-proxy.org/https://github.com/4ra1n/mysql-fake-server/releases/download/0.0.4/fake-mysql-gui-0.0.4.jar#/fake-mysql-gui.jar",
     "hash": "95c29347373c9c85a29667f527093a13599c5fff9a461c8e6a72402f1229570a",
     "pre_install": [
         "Set-Content \"$dir\\mysql-fake-server.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/4ra1n/mysql-fake-server/releases/download/$version/fake-mysql-gui-$version.jar#/fake-mysql-gui.jar"
+        "url": "https://gh-proxy.org/https://github.com/4ra1n/mysql-fake-server/releases/download/$version/fake-mysql-gui-$version.jar#/fake-mysql-gui.jar"
     }
 }

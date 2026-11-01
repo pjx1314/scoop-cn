@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kando-menu/kando/releases/download/v3.0.1/Kando-win32-x64-3.0.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/kando-menu/kando/releases/download/v3.0.1/Kando-win32-x64-3.0.1.zip",
             "hash": "395b46c1a06453df754041197e8fd03a8fe926d9fcfad85dcaf0b738571bea23"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kando-menu/kando/releases/download/v3.0.1/Kando-win32-arm64-3.0.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/kando-menu/kando/releases/download/v3.0.1/Kando-win32-arm64-3.0.1.zip",
             "hash": "f1cf7ede1759ee543bfdafc79cdb17b20211eb7418340eb53fec365c7487800e"
         }
     },
@@ -46,10 +46,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kando-menu/kando/releases/download/v$version/Kando-win32-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/kando-menu/kando/releases/download/v$version/Kando-win32-x64-$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kando-menu/kando/releases/download/v$version/Kando-win32-arm64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/kando-menu/kando/releases/download/v$version/Kando-win32-arm64-$version.zip"
             }
         }
     }

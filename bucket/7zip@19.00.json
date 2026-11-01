@@ -8,11 +8,11 @@
 	"version": "19.00",
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/ip7z/7zip/releases/download/19.00/7z1900-x64.msi",
+			"url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/19.00/7z1900-x64.msi",
 			"hash": "sha256:a7803233eedb6a4b59b3024ccf9292a6fffb94507dc998aa67c5b745d197a5dc"
 		},
 		"32bit": {
-			"url": "https://gh-proxy.com/https://github.com/ip7z/7zip/releases/download/19.00/7z1900.msi",
+			"url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/19.00/7z1900.msi",
 			"hash": "sha256:b49d55a52bc0eab14947c8982c413d9be141c337da1368a24aa0484cbb5e89cd"
 		}
 	},

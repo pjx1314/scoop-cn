@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nashsu/llm_wiki/releases/download/v0.6.13/LLM-Wiki-0.6.13-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/nashsu/llm_wiki/releases/download/v0.6.13/LLM-Wiki-0.6.13-windows-x64-portable.zip",
             "hash": "84700195ce6bb0a683a96a55e670349b47cf235cf8e55c571a1eaf8443a00dc2"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nashsu/llm_wiki/releases/download/v$version/LLM-Wiki-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/nashsu/llm_wiki/releases/download/v$version/LLM-Wiki-$version-windows-x64-portable.zip"
             }
         }
     }

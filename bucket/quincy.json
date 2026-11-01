@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/quincy-rs/quincy/releases/download/3.1.1/quincy-3.1.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/quincy-rs/quincy/releases/download/3.1.1/quincy-3.1.1-windows-x86_64.zip",
             "hash": "5caff1567d081b5d50881b63da024949523d5d9676d1e3b033ca8347d099811b"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/quincy-rs/quincy/releases/download/$version/quincy-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/quincy-rs/quincy/releases/download/$version/quincy-$version-windows-x86_64.zip"
             }
         }
     }

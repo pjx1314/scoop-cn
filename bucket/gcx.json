@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/grafana/gcx/releases/download/v1.7.1/gcx_1.7.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/gcx/releases/download/v1.7.1/gcx_1.7.1_windows_amd64.zip",
             "hash": "a4c3e70261011b6d71fffcd0b44755d0642f91dde4da9f0970b87d9739d0e7ae"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/grafana/gcx/releases/download/v1.7.1/gcx_1.7.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/gcx/releases/download/v1.7.1/gcx_1.7.1_windows_arm64.zip",
             "hash": "cd77ac88cdebdf67fdd05aa5ffa3133027e90424ccdfeccbc03cf9fc1fd5be07"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/grafana/gcx/releases/download/v$version/gcx_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/grafana/gcx/releases/download/v$version/gcx_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/grafana/gcx/releases/download/v$version/gcx_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/grafana/gcx/releases/download/v$version/gcx_$version_windows_arm64.zip"
             }
         },
         "hash": {

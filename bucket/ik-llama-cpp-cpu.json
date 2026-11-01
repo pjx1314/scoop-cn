@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5574-45acbfc/ik_llama-main-b5574-45acbfc-bin-win-cpu-x64-avx2.zip",
+            "url": "https://gh-proxy.org/https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5574-45acbfc/ik_llama-main-b5574-45acbfc-bin-win-cpu-x64-avx2.zip",
             "hash": "0fef40e10d424ee3f92e756cdb4bca4205a036354b098658b9476efe34cb6d1f"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Thireus/ik_llama.cpp/releases/download/main-$version/ik_llama-main-$version-bin-win-cpu-x64-avx2.zip"
+                "url": "https://gh-proxy.org/https://github.com/Thireus/ik_llama.cpp/releases/download/main-$version/ik_llama-main-$version-bin-win-cpu-x64-avx2.zip"
             }
         },
         "hash": {

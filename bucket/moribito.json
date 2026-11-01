@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ericschmar/moribito/releases/download/v0.2.6/moribito_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ericschmar/moribito/releases/download/v0.2.6/moribito_Windows_x86_64.zip",
             "hash": "459dd6446f41390c6b46981ab06599f801040a595d9486ad8e3cdc7c6cbe78a5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ericschmar/moribito/releases/download/v$version/moribito_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ericschmar/moribito/releases/download/v$version/moribito_Windows_x86_64.zip"
             }
         },
         "hash": {

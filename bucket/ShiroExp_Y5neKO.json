@@ -12,7 +12,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/Y5neKO/ShiroEXP/releases/download/v2.1/ShiroEXP-2.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/Y5neKO/ShiroEXP/releases/download/v2.1/ShiroEXP-2.1.zip",
     "hash": "sha256:06106384B9E3159EB6318F5E8186AD23B3DD2F3504458FE0060F45AB03E714D4",
     "pre_install": [
         "Set-Content \"$dir\\ShiroExp_Y5neKO.bat\" '@pushd %~dp0",
@@ -26,6 +26,6 @@
     "bin": "ShiroExp_Y5neKO.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Y5neKO/ShiroEXP/releases/download/v$version/ShiroEXP-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/Y5neKO/ShiroEXP/releases/download/v$version/ShiroEXP-$version.zip"
     }
 }

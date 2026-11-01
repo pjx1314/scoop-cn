@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/XiLitter/Tp_Attack_GUI/releases/download/v2.0/TP_Attack_GUI.jar",
+    "url": "https://gh-proxy.org/https://github.com/XiLitter/Tp_Attack_GUI/releases/download/v2.0/TP_Attack_GUI.jar",
     "hash": "9483966acaeb0eab3dcfff58fa93bda60ee1f6fd2f30e8fd4847b099fff8b36a",
     "pre_install": [
         "Set-Content \"$dir\\TP_Attack_GUI.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/XiLitter/Tp_Attack_GUI/releases/download/v$version/TP_Attack_GUI.jar"
+        "url": "https://gh-proxy.org/https://github.com/XiLitter/Tp_Attack_GUI/releases/download/v$version/TP_Attack_GUI.jar"
     }
 }

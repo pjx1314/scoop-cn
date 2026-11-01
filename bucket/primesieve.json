@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kimwalisch/primesieve/releases/download/v12.16/primesieve-12.16-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kimwalisch/primesieve/releases/download/v12.16/primesieve-12.16-win-x64.zip",
             "hash": "e8a2263790eca6845512d0f474e686f25d23b85d690901ea5149df61d0586425"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kimwalisch/primesieve/releases/download/v12.16/primesieve-12.16-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kimwalisch/primesieve/releases/download/v12.16/primesieve-12.16-win-arm64.zip",
             "hash": "f405cbc7675c833702967fde5c547826a83e102182cb5e308ecb5973fee1bfd0"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kimwalisch/primesieve/releases/download/v$version/primesieve-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kimwalisch/primesieve/releases/download/v$version/primesieve-$version-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kimwalisch/primesieve/releases/download/v$version/primesieve-$version-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kimwalisch/primesieve/releases/download/v$version/primesieve-$version-win-arm64.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tealdeer-rs/tealdeer/releases/download/v1.9.1/tealdeer-windows-x86_64-msvc.exe#/tldr.exe",
+            "url": "https://gh-proxy.org/https://github.com/tealdeer-rs/tealdeer/releases/download/v1.9.1/tealdeer-windows-x86_64-msvc.exe#/tldr.exe",
             "hash": "f75a3e4b43e7b03d30bac88eccf928af90b8993cd354fe207aec1c643910736f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/tealdeer-rs/tealdeer/releases/download/v1.9.1/tealdeer-windows-aarch64-msvc.exe#/tldr.exe",
+            "url": "https://gh-proxy.org/https://github.com/tealdeer-rs/tealdeer/releases/download/v1.9.1/tealdeer-windows-aarch64-msvc.exe#/tldr.exe",
             "hash": "4063474c8bf3d5b2aa97994454cedfce5aaa1a33448f08cc256e6df8700a272a"
         }
     },
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tealdeer-rs/tealdeer/releases/download/v$version/tealdeer-windows-x86_64-msvc.exe#/tldr.exe"
+                "url": "https://gh-proxy.org/https://github.com/tealdeer-rs/tealdeer/releases/download/v$version/tealdeer-windows-x86_64-msvc.exe#/tldr.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/tealdeer-rs/tealdeer/releases/download/v$version/tealdeer-windows-aarch64-msvc.exe#/tldr.exe"
+                "url": "https://gh-proxy.org/https://github.com/tealdeer-rs/tealdeer/releases/download/v$version/tealdeer-windows-aarch64-msvc.exe#/tldr.exe"
             }
         },
         "hash": {

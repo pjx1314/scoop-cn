@@ -3,7 +3,7 @@
     "description": "创建 KeyTab PowerShell 脚本",
     "homepage": "https://github.com/TheRealAdamBurford/Create-KeyTab",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/TheRealAdamBurford/Create-KeyTab/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/TheRealAdamBurford/Create-KeyTab/archive/refs/heads/master.zip",
     "hash": "",
     "extract_dir": "Create-KeyTab-master",
     "bin": "Create-KeyTab.ps1",
@@ -13,7 +13,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/TheRealAdamBurford/Create-KeyTab/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/TheRealAdamBurford/Create-KeyTab/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全工具",

@@ -3,7 +3,7 @@
     "description": "Shiro反序列化漏洞综合利用工具，支持回显执行命令、注入内存马等功能",
     "homepage": "https://github.com/SummerSec/ShiroAttack2",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/SummerSec/ShiroAttack2/releases/download/v5.1.1/shiro_attack-5.1.1-zulu-8-jfx-bundle.zip",
+    "url": "https://gh-proxy.org/https://github.com/SummerSec/ShiroAttack2/releases/download/v5.1.1/shiro_attack-5.1.1-zulu-8-jfx-bundle.zip",
     "hash": "sha256:cfecebc179b8369ded830aa37ed12722b6fbcfce62cb02a7a293ee377f8b7788",
     "suggest": {
         "java": "sec/oraclejdk8"
@@ -21,7 +21,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/SummerSec/ShiroAttack2/releases/download/v$version/shiro_attack-$version-zulu-8-jfx-bundle.zip"
+        "url": "https://gh-proxy.org/https://github.com/SummerSec/ShiroAttack2/releases/download/v$version/shiro_attack-$version-zulu-8-jfx-bundle.zip"
     },
     "notes": [
         "【工具类型】: Java工具",

@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Hibbiki/chromium-win64/releases/download/v156.0.8078.80-r1706539/chrome.7z",
+            "url": "https://gh-proxy.org/https://github.com/Hibbiki/chromium-win64/releases/download/v156.0.8078.80-r1706539/chrome.7z",
             "hash": "sha1:b63615b4b8ca36a9154d5197a7c8bc40a8fa02cb"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Hibbiki/chromium-win64/releases/download/v$version/chrome.7z",
+                "url": "https://gh-proxy.org/https://github.com/Hibbiki/chromium-win64/releases/download/v$version/chrome.7z",
                 "hash": {
                     "url": "https://github.com/Hibbiki/chromium-win64/releases/tag/v$version",
                     "regex": "$sha1 \\.\\./out/x64/chrome.7z"

@@ -10,17 +10,17 @@
     ],
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.73.4/openttd-jgrpp-0.73.4-windows-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.73.4/openttd-jgrpp-0.73.4-windows-win32.zip",
             "hash": "e58590e3bd22309219dc3b232feb2748e11da1ce39ee8b41b9be064e89feb436",
             "extract_dir": "openttd-jgrpp-0.73.4-windows-win32"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.73.4/openttd-jgrpp-0.73.4-windows-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.73.4/openttd-jgrpp-0.73.4-windows-win64.zip",
             "hash": "07a1c41ea46a64fcef0d264a5f228d0275ac664a81eae3631d27b628f7f6da30",
             "extract_dir": "openttd-jgrpp-0.73.4-windows-win64"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.73.4/openttd-jgrpp-0.73.4-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.73.4/openttd-jgrpp-0.73.4-windows-arm64.zip",
             "hash": "dacb98f8495296eebc7de2b295a4ca8500f52eba2a8403ab957acae3f9a783db",
             "extract_dir": "openttd-jgrpp-0.73.4-windows-arm64"
         }
@@ -44,15 +44,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-$version/openttd-jgrpp-$version-windows-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-$version/openttd-jgrpp-$version-windows-win64.zip",
                 "extract_dir": "openttd-jgrpp-$version-windows-win64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-$version/openttd-jgrpp-$version-windows-win32.zip",
+                "url": "https://gh-proxy.org/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-$version/openttd-jgrpp-$version-windows-win32.zip",
                 "extract_dir": "openttd-jgrpp-$version-windows-win32"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-$version/openttd-jgrpp-$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-$version/openttd-jgrpp-$version-windows-arm64.zip",
                 "extract_dir": "openttd-jgrpp-$version-windows-arm64"
             }
         }

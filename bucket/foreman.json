@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Roblox/foreman/releases/download/v1.7.0/foreman-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Roblox/foreman/releases/download/v1.7.0/foreman-win64.zip",
             "hash": "358dfaca2f91b93aaf1c57e76094264c862fcd0f987e651cf35239fdcfddfeb5"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Roblox/foreman/releases/download/v$version/foreman-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Roblox/foreman/releases/download/v$version/foreman-win64.zip"
             }
         }
     }

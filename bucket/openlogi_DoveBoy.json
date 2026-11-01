@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/AprilNEA/OpenLogi/releases/download/v0.8.19/OpenLogi-v0.8.19-windows-x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/AprilNEA/OpenLogi/releases/download/v0.8.19/OpenLogi-v0.8.19-windows-x86_64.msi",
             "hash": "b105d12b54949ef03cf33b7647c30ab309ff2a3bbc02ea0262429d08461bdce7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/AprilNEA/OpenLogi/releases/download/v0.8.19/OpenLogi-v0.8.19-windows-arm64.msi",
+            "url": "https://gh-proxy.org/https://github.com/AprilNEA/OpenLogi/releases/download/v0.8.19/OpenLogi-v0.8.19-windows-arm64.msi",
             "hash": "b9a7f8218b07e393f09b7b585c8ceb72f894febf2dce55222e97581e5ed2298c"
         }
     },
@@ -49,10 +49,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/AprilNEA/OpenLogi/releases/download/v$version/OpenLogi-v$version-windows-x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/AprilNEA/OpenLogi/releases/download/v$version/OpenLogi-v$version-windows-x86_64.msi"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/AprilNEA/OpenLogi/releases/download/v$version/OpenLogi-v$version-windows-arm64.msi"
+                "url": "https://gh-proxy.org/https://github.com/AprilNEA/OpenLogi/releases/download/v$version/OpenLogi-v$version-windows-arm64.msi"
             }
         }
     }

@@ -3,7 +3,7 @@
     "description": "Specially designed GUI for Yixin (弈心), a gomoku/renju engine.",
     "homepage": "https://www.aiexp.info/",
     "license": "BSD-2-Clause",
-    "url": "https://gh-proxy.com/https://github.com/accreator/Yixin-Board/raw/master/release/win32/Yixin2017_May.exe",
+    "url": "https://gh-proxy.org/https://github.com/accreator/Yixin-Board/raw/master/release/win32/Yixin2017_May.exe",
     "hash": "a313153fa2dc79a49a9cfddc0cb8c79ee36c628c68211f76d9d923bc2076151a",
     "innosetup": true,
     "shortcuts": [

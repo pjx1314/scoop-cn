@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Zzz-IT/GoclashZ/releases/download/v1.4.0/GoclashZ_Portable.7z",
+            "url": "https://gh-proxy.org/https://github.com/Zzz-IT/GoclashZ/releases/download/v1.4.0/GoclashZ_Portable.7z",
             "hash": "e24d4846dd003b2e89212f32eb4e26348388f098f016dcdff779efc46ec928b6"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Zzz-IT/GoclashZ/releases/download/v$version/GoclashZ_Portable.7z"
+                "url": "https://gh-proxy.org/https://github.com/Zzz-IT/GoclashZ/releases/download/v$version/GoclashZ_Portable.7z"
             }
         }
     }

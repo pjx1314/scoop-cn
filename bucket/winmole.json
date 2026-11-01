@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iBitBetter/winmole/archive/master.zip",
+            "url": "https://gh-proxy.org/https://github.com/iBitBetter/winmole/archive/master.zip",
             "hash": "83e9f3d5287e7d7b80e9bf263cdc81bc4838ff765a6b6afd0e03a328b33442ed"
         }
     },
@@ -41,7 +41,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iBitBetter/winmole/archive/master.zip"
+                "url": "https://gh-proxy.org/https://github.com/iBitBetter/winmole/archive/master.zip"
             }
         }
     }

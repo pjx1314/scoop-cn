@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LalitMaganti/syntaqlite/releases/download/v0.13.3/syntaqlite-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LalitMaganti/syntaqlite/releases/download/v0.13.3/syntaqlite-windows-x64.zip",
             "hash": "e441f036012718812125c4014e865d0dcc8a3daac6a26b3542640cac47951e23"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/LalitMaganti/syntaqlite/releases/download/v0.13.3/syntaqlite-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LalitMaganti/syntaqlite/releases/download/v0.13.3/syntaqlite-windows-arm64.zip",
             "hash": "70bd450e9980fe4fe46aa44efe840e016b3db41239d1c793aed797b1d561f372"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LalitMaganti/syntaqlite/releases/download/v$version/syntaqlite-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LalitMaganti/syntaqlite/releases/download/v$version/syntaqlite-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/LalitMaganti/syntaqlite/releases/download/v$version/syntaqlite-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LalitMaganti/syntaqlite/releases/download/v$version/syntaqlite-windows-arm64.zip"
             }
         }
     }

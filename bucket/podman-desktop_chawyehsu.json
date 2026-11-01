@@ -6,7 +6,7 @@
     "depends": "main/dorado/podman",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.exe#/podman-desktop.7z",
+            "url": "https://gh-proxy.org/https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.exe#/podman-desktop.7z",
             "hash": "d1e877d5e004bda0c0a7a2f18ea5f7fed7a536efe34a998c4cccb345330f7e2e",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -14,7 +14,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.exe#/podman-desktop.7z",
+            "url": "https://gh-proxy.org/https://github.com/podman-desktop/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.exe#/podman-desktop.7z",
             "hash": "d0c04c6996c45b5896bf45b742f7ba1f9ae19921b35974362d5bf9340a38d0a9",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -48,10 +48,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/podman-desktop/podman-desktop/releases/download/v$version/podman-desktop-$version-x64.exe#/podman-desktop.7z"
+                "url": "https://gh-proxy.org/https://github.com/podman-desktop/podman-desktop/releases/download/v$version/podman-desktop-$version-x64.exe#/podman-desktop.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/podman-desktop/podman-desktop/releases/download/v$version/podman-desktop-$version-arm64.exe#/podman-desktop.7z"
+                "url": "https://gh-proxy.org/https://github.com/podman-desktop/podman-desktop/releases/download/v$version/podman-desktop-$version-arm64.exe#/podman-desktop.7z"
             }
         }
     }

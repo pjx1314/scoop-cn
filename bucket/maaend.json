@@ -15,11 +15,11 @@
     "pre_uninstall": "Start-Process powershell -ArgumentList '-NoProfile -Command Stop-Process -Name \"MaaEnd\" -Force' -Verb RunAs -WindowStyle Hidden",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MaaEnd/MaaEnd/releases/download/v2.36.0/MaaEnd-win-x86_64-v2.36.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/MaaEnd/MaaEnd/releases/download/v2.36.0/MaaEnd-win-x86_64-v2.36.0.zip",
             "hash": "c51f3119f922b022f81b844efdfa1346721fda0479863accb440c3b850aa9570"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/MaaEnd/MaaEnd/releases/download/v2.36.0/MaaEnd-win-aarch64-v2.36.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/MaaEnd/MaaEnd/releases/download/v2.36.0/MaaEnd-win-aarch64-v2.36.0.zip",
             "hash": "2b48b210af3c658ba49eee138d187b2eacd901c3ed5db5fa10f5365fba1811c3"
         }
     },
@@ -39,10 +39,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MaaEnd/MaaEnd/releases/download/v$version/MaaEnd-win-x86_64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/MaaEnd/MaaEnd/releases/download/v$version/MaaEnd-win-x86_64-v$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/MaaEnd/MaaEnd/releases/download/v$version/MaaEnd-win-aarch64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/MaaEnd/MaaEnd/releases/download/v$version/MaaEnd-win-aarch64-v$version.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mcp-router/mcp-router/releases/download/v0.6.3/MCP.Router-win32-x64-0.6.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/mcp-router/mcp-router/releases/download/v0.6.3/MCP.Router-win32-x64-0.6.3.zip",
             "hash": "c49f2d2ce0d0006885d6b57a67480b7f679375ae8252d993b6e69fe63d62bc93"
         }
     },
@@ -39,7 +39,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mcp-router/mcp-router/releases/download/v$version/MCP.Router-win32-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/mcp-router/mcp-router/releases/download/v$version/MCP.Router-win32-x64-$version.zip"
             }
         }
     }

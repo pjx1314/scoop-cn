@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/RealityNet/kobackupdec/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/RealityNet/kobackupdec/archive/refs/heads/master.zip",
     "hash": "98e75ac49b417d00c76316be5d8d3f719ffd6ac6b8ea360c403135517015de2b",
     "extract_dir": "kobackupdec-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/RealityNet/kobackupdec/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/RealityNet/kobackupdec/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

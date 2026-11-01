@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pyinstxtractor/pyinstxtractor-ng/releases/download/2026.07.03/pyinstxtractor-ng.exe",
+            "url": "https://gh-proxy.org/https://github.com/pyinstxtractor/pyinstxtractor-ng/releases/download/2026.07.03/pyinstxtractor-ng.exe",
             "hash": "5edd80c8a2d90ade243a82716faa6952c401226bce1414aa0c0e59d592060a6c"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pyinstxtractor/pyinstxtractor-ng/releases/download/$version/pyinstxtractor-ng.exe"
+                "url": "https://gh-proxy.org/https://github.com/pyinstxtractor/pyinstxtractor-ng/releases/download/$version/pyinstxtractor-ng.exe"
             }
         }
     }

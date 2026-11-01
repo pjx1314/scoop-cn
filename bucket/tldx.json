@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_amd64.zip",
             "hash": "147bf5a7d2dc6b2c3464854892749eedae964b636f38dc1f33a9c58386576436"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_arm64.zip",
             "hash": "81ee180be4fa1c0274ced203051e486b1b95a0824dafd22cce91dfbec18e419a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/brandonyoungdev/tldx/releases/download/v$version/tldx_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/brandonyoungdev/tldx/releases/download/v$version/tldx_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/brandonyoungdev/tldx/releases/download/v$version/tldx_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/brandonyoungdev/tldx/releases/download/v$version/tldx_$version_windows_arm64.zip"
             }
         },
         "hash": {

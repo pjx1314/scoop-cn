@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bmf-san/ggc/releases/download/v8.7.6/ggc_8.7.6_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bmf-san/ggc/releases/download/v8.7.6/ggc_8.7.6_windows_amd64.zip",
             "hash": "40f5c932c7eff2cd9eae91d13f1d1c4cc88c5f8305e21634aee405892d1a7268"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/bmf-san/ggc/releases/download/v8.7.6/ggc_8.7.6_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bmf-san/ggc/releases/download/v8.7.6/ggc_8.7.6_windows_arm64.zip",
             "hash": "34862dbaa08ff6033a38878db4c275403f75e57252a38435912e63087eaedb0c"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bmf-san/ggc/releases/download/v$version/ggc_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bmf-san/ggc/releases/download/v$version/ggc_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/bmf-san/ggc/releases/download/v$version/ggc_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bmf-san/ggc/releases/download/v$version/ggc_$version_windows_arm64.zip"
             }
         },
         "hash": {

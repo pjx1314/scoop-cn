@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Eclipse-Community/r3dfox/releases/download/v153.0.3/r3dfox-v153.0.3.win64.portable.7z",
+            "url": "https://gh-proxy.org/https://github.com/Eclipse-Community/r3dfox/releases/download/v153.0.3/r3dfox-v153.0.3.win64.portable.7z",
             "hash": "2bb87b9f5fdfe8d6d7d05e29a459b15b6ba709364122a432df4afb1be1717882"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Eclipse-Community/r3dfox/releases/download/v153.0.3/r3dfox-v153.0.3.win32.portable.7z",
+            "url": "https://gh-proxy.org/https://github.com/Eclipse-Community/r3dfox/releases/download/v153.0.3/r3dfox-v153.0.3.win32.portable.7z",
             "hash": "b3a56ba2fbd8d7ba36f036bf92ddda3bc8febc57a37b6cff2f96da7a9ab6bf27"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Eclipse-Community/r3dfox/releases/download/v$version/r3dfox-v$matchShort.win64.portable.7z"
+                "url": "https://gh-proxy.org/https://github.com/Eclipse-Community/r3dfox/releases/download/v$version/r3dfox-v$matchShort.win64.portable.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Eclipse-Community/r3dfox/releases/download/v$version/r3dfox-v$matchShort.win32.portable.7z"
+                "url": "https://gh-proxy.org/https://github.com/Eclipse-Community/r3dfox/releases/download/v$version/r3dfox-v$matchShort.win32.portable.7z"
             }
         }
     }

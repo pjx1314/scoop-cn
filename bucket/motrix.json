@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip",
             "hash": "62e419d498646ba913cb71aa97a7a40f5bd84a01f706ebc1537a59882a5d1ddb"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win-arm64.zip",
             "hash": "9a132cb397a502ebcd5a612f5e93bff26e3ed5ddcf3decf87d82e6ccd192385c"
         }
     },
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-$version-win-arm64.zip"
             }
         }
     }

@@ -14,8 +14,8 @@
         "wireshark": "main/wireshark"
     },
     "url": [
-        "https://gh-proxy.com/https://github.com/Martin2877/btab/releases/download/v1.1.0/btab_v1.1.0_windows_amd64.zip#/btab.zip",
-        "https://gh-proxy.com/https://github.com/Martin2877/btab/archive/refs/tags/v1.1.0.zip#/btab-source.zip"
+        "https://gh-proxy.org/https://github.com/Martin2877/btab/releases/download/v1.1.0/btab_v1.1.0_windows_amd64.zip#/btab.zip",
+        "https://gh-proxy.org/https://github.com/Martin2877/btab/archive/refs/tags/v1.1.0.zip#/btab-source.zip"
     ],
     "hash": [
         "sha256:b9da227c20b989a8be57425df9cf4755dfb8e0dac12079795b5120f1ee99eb06",
@@ -25,8 +25,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/Martin2877/btab/releases/download/v$version/btab_v$version_windows_amd64.zip#/btab.zip",
-            "https://gh-proxy.com/https://github.com/Martin2877/btab/archive/refs/tags/v$version.zip#/btab-source.zip"
+            "https://gh-proxy.org/https://github.com/Martin2877/btab/releases/download/v$version/btab_v$version_windows_amd64.zip#/btab.zip",
+            "https://gh-proxy.org/https://github.com/Martin2877/btab/archive/refs/tags/v$version.zip#/btab-source.zip"
         ]
     }
 }

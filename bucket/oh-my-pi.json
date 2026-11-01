@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/can1357/oh-my-pi/releases/download/v18.14.2/omp-windows-x64.exe#/omp.exe",
+            "url": "https://gh-proxy.org/https://github.com/can1357/oh-my-pi/releases/download/v18.14.2/omp-windows-x64.exe#/omp.exe",
             "hash": "aa04e4ff3b2d97d604839edf1bcf5a0085818389d9fc8c1a18875ee7b5e3b0f8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/can1357/oh-my-pi/releases/download/v18.14.2/omp-windows-arm64.exe#/omp.exe",
+            "url": "https://gh-proxy.org/https://github.com/can1357/oh-my-pi/releases/download/v18.14.2/omp-windows-arm64.exe#/omp.exe",
             "hash": "e6ecd0915122d0077e019b8aa4829948c63cd31420781e30f3fe883cf8aa60b3"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe#/omp.exe"
+                "url": "https://gh-proxy.org/https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe#/omp.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-arm64.exe#/omp.exe"
+                "url": "https://gh-proxy.org/https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-arm64.exe#/omp.exe"
             }
         }
     }

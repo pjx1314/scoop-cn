@@ -1,5 +1,5 @@
 {
-    "url": "https://gh-proxy.com/https://github.com/wangzq/scoop-files/raw/master/misc/symchk.zip",
+    "url": "https://gh-proxy.org/https://github.com/wangzq/scoop-files/raw/master/misc/symchk.zip",
     "version": "20180721",
     "bin": ["symchk.exe", "symstore.exe"]
 }

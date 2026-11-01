@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/K9i-0/ccpocket/releases/download/windows%2Fv1.150.0%2B283/CC-Pocket-windows-x64-v1.150.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/K9i-0/ccpocket/releases/download/windows%2Fv1.150.0%2B283/CC-Pocket-windows-x64-v1.150.0.zip",
             "hash": "cb2c3c43884f834448c5b2ed611bdc4be659fea2458857db7fcb5d4314ba3cad"
         }
     },
@@ -23,13 +23,13 @@
             "$response = Invoke-WebRequest -Uri $url -UseBasicParsing -Headers $headers",
             "$response.Content"
         ],
-        "regex": "\"browser_download_url\"\\s*:\\s*\"https://gh-proxy.com/https://github.com/K9i-0/ccpocket/releases/download/windows/v(?<version>[0-9.]+)%2B(?<build>[0-9]+)/CC-Pocket-windows-x64-v[0-9.]+\\.zip\"",
+        "regex": "\"browser_download_url\"\\s*:\\s*\"https://gh-proxy.org/https://github.com/K9i-0/ccpocket/releases/download/windows/v(?<version>[0-9.]+)%2B(?<build>[0-9]+)/CC-Pocket-windows-x64-v[0-9.]+\\.zip\"",
         "replace": "${version}+${build}"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/K9i-0/ccpocket/releases/download/windows%2Fv$matchVersion%2B$matchBuild/CC-Pocket-windows-x64-v$matchVersion.zip"
+                "url": "https://gh-proxy.org/https://github.com/K9i-0/ccpocket/releases/download/windows%2Fv$matchVersion%2B$matchBuild/CC-Pocket-windows-x64-v$matchVersion.zip"
             }
         },
         "extract_dir": "CC-Pocket-windows-x64"

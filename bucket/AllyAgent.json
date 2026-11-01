@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Bronya0/ally-agent/releases/download/v1.27.0/Ally-v1.27.0-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Bronya0/ally-agent/releases/download/v1.27.0/Ally-v1.27.0-windows-x64.zip",
             "hash": "c531c9c6ba991c3a08e2eaea0e880e564f4c3bc4a254aac0c2ce148ccecc7ae1"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Bronya0/ally-agent/releases/download/v$version/Ally-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Bronya0/ally-agent/releases/download/v$version/Ally-v$version-windows-x64.zip"
             }
         }
     }

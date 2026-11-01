@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.2/azd-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.2/azd-windows-amd64.zip",
             "hash": "188887e603d07879e9be951f00e59e4142c7195b090ed97dce2bb08ada592f7f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.2/azd-windows-arm64-alpha.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_1.37.2/azd-windows-arm64-alpha.zip",
             "hash": "03c4f3dedfa14c36a92aa9e8741c54eab3f8f5501fd03e7e9764835dfaba97f9"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_$version/azd-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_$version/azd-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_$version/azd-windows-arm64-alpha.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/azure-dev/releases/download/azure-dev-cli_$version/azd-windows-arm64-alpha.zip"
             }
         }
     }

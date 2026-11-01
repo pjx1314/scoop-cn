@@ -6,7 +6,7 @@
     "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/speedy.json https://github.com/vicrack/scoop-bucket",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/game1024/OpenSpeedy/releases/download/3.3.17/OpenSpeedy-3.3.17-portable-signed.zip",
+            "url": "https://gh-proxy.org/https://github.com/game1024/OpenSpeedy/releases/download/3.3.17/OpenSpeedy-3.3.17-portable-signed.zip",
             "hash": "405b5aede1be27767c62e19a1bea587a25253cf485d54d3d4b1e81fc4a37b658"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/game1024/OpenSpeedy/releases/download/$version/OpenSpeedy-$version-portable-signed.zip"
+                "url": "https://gh-proxy.org/https://github.com/game1024/OpenSpeedy/releases/download/$version/OpenSpeedy-$version-portable-signed.zip"
             }
         }
     }

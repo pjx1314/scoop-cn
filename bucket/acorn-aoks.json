@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/obot-platform/obot/releases/download/v0.27.0/obot_v0.27.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/obot-platform/obot/releases/download/v0.27.0/obot_v0.27.0_windows_amd64.zip",
             "hash": "db94bb363aa1f0d0ca60cf05bfe6a5e92533616fa95b93b27bb875b3f9a2d503"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/obot-platform/obot/releases/download/v$version/obot_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/obot-platform/obot/releases/download/v$version/obot_v$version_windows_amd64.zip"
             }
         },
         "hash": {

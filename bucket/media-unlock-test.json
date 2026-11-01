@@ -5,15 +5,15 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v1.9.10-1788951725/unlock-test_windows_amd64.exe#/unlock-test.exe",
+            "url": "https://gh-proxy.org/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v1.9.10-1788951725/unlock-test_windows_amd64.exe#/unlock-test.exe",
             "hash": "b7340ede39f4634cf8e37546d66cb48232abe257caacbecbb8f82afb0a118400"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v1.9.10-1788951725/unlock-test_windows_386.exe#/unlock-test.exe",
+            "url": "https://gh-proxy.org/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v1.9.10-1788951725/unlock-test_windows_386.exe#/unlock-test.exe",
             "hash": "060837d460f0b33655d7d8c8708c9eeecff3b84a3687337f09400e22d979920b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v1.9.10-1788951725/unlock-test_windows_arm64.exe#/unlock-test.exe",
+            "url": "https://gh-proxy.org/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v1.9.10-1788951725/unlock-test_windows_arm64.exe#/unlock-test.exe",
             "hash": "77cafa64953a53280a965e8251b9e693e8b0018822d51998c98b03c5033cffe1"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v$version/unlock-test_windows_amd64.exe#/unlock-test.exe"
+                "url": "https://gh-proxy.org/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v$version/unlock-test_windows_amd64.exe#/unlock-test.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v$version/unlock-test_windows_386.exe#/unlock-test.exe"
+                "url": "https://gh-proxy.org/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v$version/unlock-test_windows_386.exe#/unlock-test.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v$version/unlock-test_windows_arm64.exe#/unlock-test.exe"
+                "url": "https://gh-proxy.org/https://github.com/HsukqiLee/MediaUnlockTest/releases/download/v$version/unlock-test_windows_arm64.exe#/unlock-test.exe"
             }
         }
     }

@@ -2,7 +2,7 @@
     "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dstotijn/hetty/releases/download/v0.7.0/hetty_0.7.0_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dstotijn/hetty/releases/download/v0.7.0/hetty_0.7.0_Windows_x86_64.zip",
             "bin": [
                 "hetty.exe"
             ],

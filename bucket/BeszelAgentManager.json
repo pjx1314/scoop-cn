@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MiranoVerhoef/BeszelAgentManager/releases/download/4.21.2/BeszelAgentManagerSetup.exe",
+            "url": "https://gh-proxy.org/https://github.com/MiranoVerhoef/BeszelAgentManager/releases/download/4.21.2/BeszelAgentManagerSetup.exe",
             "hash": "1d3636350aa8ebf730896cc9e47e5ba91b5e9dd09c2ae0642dd0849b464c7e84"
         }
     },
@@ -50,11 +50,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MiranoVerhoef/BeszelAgentManager/releases/download/$version/BeszelAgentManagerSetup.exe"
+                "url": "https://gh-proxy.org/https://github.com/MiranoVerhoef/BeszelAgentManager/releases/download/$version/BeszelAgentManagerSetup.exe"
             }
         },
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/MiranoVerhoef/BeszelAgentManager/releases/download/$version/SHA256SUMS.txt"
+            "url": "https://gh-proxy.org/https://github.com/MiranoVerhoef/BeszelAgentManager/releases/download/$version/SHA256SUMS.txt"
         }
     }
 }

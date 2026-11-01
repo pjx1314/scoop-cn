@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.58/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst",
+            "url": "https://gh-proxy.org/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.58/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst",
             "hash": "4903c1f9782d1639c2d02269163eddc21d615f820f9e121c23b4b6948afe72ea"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.58/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst",
+            "url": "https://gh-proxy.org/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v0.0.58/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst",
             "hash": "163f39f2e1557403aa29d7578ec18f1dcbb8d7d819268d9fecd35cb43506c540"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v$version/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst"
+                "url": "https://gh-proxy.org/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v$version/open-interpreter-package-x86_64-pc-windows-msvc.tar.zst"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v$version/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst"
+                "url": "https://gh-proxy.org/https://github.com/openinterpreter/openinterpreter/releases/download/rust-v$version/open-interpreter-package-aarch64-pc-windows-msvc.tar.zst"
             }
         },
         "hash": {

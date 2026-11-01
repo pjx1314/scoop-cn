@@ -13,11 +13,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/20261101.0/installer-amd64.exe#/swiftsetup.exe",
+            "url": "https://gh-proxy.org/https://github.com/thebrowsercompany/swift-build/releases/download/20261101.0/installer-amd64.exe#/swiftsetup.exe",
             "hash": "583b73277e82ad1474091a011bef1a272086903771f7cc6dc3f405184ffb0b9a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/20261101.0/installer-arm64.exe#/swiftsetup.exe",
+            "url": "https://gh-proxy.org/https://github.com/thebrowsercompany/swift-build/releases/download/20261101.0/installer-arm64.exe#/swiftsetup.exe",
             "hash": "572f55dbbdbbc95cea55068f9371bcc5694b0f786e18236b230ae2d915bad0e9"
         }
     },
@@ -57,10 +57,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-amd64.exe#/swiftsetup.exe"
+                "url": "https://gh-proxy.org/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-amd64.exe#/swiftsetup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-arm64.exe#/swiftsetup.exe"
+                "url": "https://gh-proxy.org/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-arm64.exe#/swiftsetup.exe"
             }
         }
     }

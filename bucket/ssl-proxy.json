@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/suyashkumar/ssl-proxy/releases/download/v0.2.8/ssl-proxy-windows-amd64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/suyashkumar/ssl-proxy/releases/download/v0.2.8/ssl-proxy-windows-amd64.exe.zip",
             "hash": "66478d60ba4f75dc2199cc8f39bc2adc971db91ec87fc48068740a69b751bd71"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/suyashkumar/ssl-proxy/releases/download/v$version/ssl-proxy-windows-amd64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/suyashkumar/ssl-proxy/releases/download/v$version/ssl-proxy-windows-amd64.exe.zip"
             }
         }
     }

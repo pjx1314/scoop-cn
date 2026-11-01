@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/reductstore/reduct-cli/releases/download/v0.13.0/reduct-cli.x86_64-pc-windows-gnu.zip",
+            "url": "https://gh-proxy.org/https://github.com/reductstore/reduct-cli/releases/download/v0.13.0/reduct-cli.x86_64-pc-windows-gnu.zip",
             "hash": "ccab5088a5183cd27e9e006475c596bcc208c4e1a891b37725d78cc2290576db"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/reductstore/reduct-cli/releases/download/v$version/reduct-cli.x86_64-pc-windows-gnu.zip"
+                "url": "https://gh-proxy.org/https://github.com/reductstore/reduct-cli/releases/download/v$version/reduct-cli.x86_64-pc-windows-gnu.zip"
             }
         }
     }

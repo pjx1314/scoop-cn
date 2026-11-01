@@ -3,7 +3,7 @@
     "description": "windows命令提权辅助|Living Off The Land 二进制文件和脚本 - （LOLBins 和 LOLScripts）",
     "homepage": "https://github.com/LOLBAS-Project/LOLBAS",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/LOLBAS-Project/LOLBAS/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/LOLBAS-Project/LOLBAS/archive/refs/heads/master.zip",
     "hash": "fefa62cb2c1e35d4e3c57983b3169d4ddb8f6bbf8d50f184691a10977ba8fa6d",
     "extract_dir": "LOLBAS-master",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/LOLBAS-Project/LOLBAS/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/LOLBAS-Project/LOLBAS/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全资料",

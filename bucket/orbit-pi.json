@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/imrj05/orbit/releases/download/v0.2.14/orbit-pi-0.2.14-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/imrj05/orbit/releases/download/v0.2.14/orbit-pi-0.2.14-x86_64-pc-windows-msvc.zip",
             "hash": "3edc9c9f1397b78a0b4e422c0906fa29f27c13e4836390c7721f4a9ef59a88e6"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/imrj05/orbit/releases/download/v$version/orbit-pi-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/imrj05/orbit/releases/download/v$version/orbit-pi-$version-x86_64-pc-windows-msvc.zip"
             }
         }
     },

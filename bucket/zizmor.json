@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zizmorcore/zizmor/releases/download/v1.31.1/zizmor-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/zizmorcore/zizmor/releases/download/v1.31.1/zizmor-x86_64-pc-windows-msvc.zip",
             "hash": "4de30371c8a3b483aecbcf0dec1fd6a2b6aae65051ca226b4f6527baac6a8c7a"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zizmorcore/zizmor/releases/download/v$version/zizmor-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/zizmorcore/zizmor/releases/download/v$version/zizmor-x86_64-pc-windows-msvc.zip"
             }
         }
     }

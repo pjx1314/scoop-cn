@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/ot-jerry-welch/owaspcsrftester/raw/master/main/CSRFTester/dist/OWASP-CSRFTester-1.1.jar#/CSRFTester.jar",
+    "url": "https://gh-proxy.org/https://github.com/ot-jerry-welch/owaspcsrftester/raw/master/main/CSRFTester/dist/OWASP-CSRFTester-1.1.jar#/CSRFTester.jar",
     "hash": "7ee2dbe5f1005ba6b2cfa9a9c850a6da563e319a9427adb6afd5ad8047f78ca4",
     "pre_install": [
         "Set-Content \"$dir\\CSRFTester.bat\" '@pushd %~dp0",

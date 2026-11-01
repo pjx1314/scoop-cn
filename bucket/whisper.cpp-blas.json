@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-blas-bin-Win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-blas-bin-Win32.zip",
             "hash": "d53f98a031ae73f5f4fff8e134c0c0b5eafe3361f69c660d9fb1c85d102db34a"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-blas-bin-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-blas-bin-x64.zip",
             "hash": "b1158bd10edf92c9799149a6fc5d3e58da3f495241d6fb3423088130e88ffbf3"
         }
     },
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-blas-bin-Win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-blas-bin-Win32.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-blas-bin-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-blas-bin-x64.zip"
             }
         }
     }

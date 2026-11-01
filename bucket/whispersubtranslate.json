@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Blue-B/WhisperSubTranslate/releases/download/v2.5.2/WhisperSubTranslate-v2.5.2-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Blue-B/WhisperSubTranslate/releases/download/v2.5.2/WhisperSubTranslate-v2.5.2-win-x64.zip",
             "hash": "f1e59cd45627546d383c89e9034a88fd2c874def9b48d59b976ba6d7baa7d244"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Blue-B/WhisperSubTranslate/releases/download/v$version/WhisperSubTranslate-v$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Blue-B/WhisperSubTranslate/releases/download/v$version/WhisperSubTranslate-v$version-win-x64.zip"
             }
         }
     }

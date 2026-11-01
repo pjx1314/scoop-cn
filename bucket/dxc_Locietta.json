@@ -3,7 +3,7 @@
     "description": "The DirectX Shader Compiler project includes a compiler and related tools used to compile High-Level Shader Language (HLSL) programs into DirectX Intermediate Language (DXIL) representation. Applications that make use of DirectX for graphics, games, and computation can use it to generate shader programs.",
     "homepage": "https://github.com/microsoft/DirectXShaderCompiler",
     "license": "UIUC",
-    "url": "https://gh-proxy.com/https://github.com/microsoft/DirectXShaderCompiler/releases/download/v1.9.2609/dxc_2026_09_29.zip",
+    "url": "https://gh-proxy.org/https://github.com/microsoft/DirectXShaderCompiler/releases/download/v1.9.2609/dxc_2026_09_29.zip",
     "hash": "ad31b1fc8443175d204f77a611fdb3ef2ec42759bdc2f1167368de24a4a7e7f1",
     "extract_dir": "",
     "architecture": {
@@ -24,6 +24,6 @@
         "regex": "v(?<version>[\\d.]+)/dxc_(?<date>[\\d_]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/microsoft/DirectXShaderCompiler/releases/download/v$matchVersion/dxc_$matchDate.zip"
+        "url": "https://gh-proxy.org/https://github.com/microsoft/DirectXShaderCompiler/releases/download/v$matchVersion/dxc_$matchDate.zip"
     }
 }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xuzhougeng/wispterm/releases/download/v1.46.1/wispterm-windows-portable-v1.46.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/xuzhougeng/wispterm/releases/download/v1.46.1/wispterm-windows-portable-v1.46.1.zip",
             "hash": "3ca8dfe92c642a09947480f08cb40171d5f6b80b2a814881b7998726914a55b9"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xuzhougeng/wispterm/releases/download/v$version/wispterm-windows-portable-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/xuzhougeng/wispterm/releases/download/v$version/wispterm-windows-portable-v$version.zip"
             }
         }
     }

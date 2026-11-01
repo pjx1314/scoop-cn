@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Tokeii0/LovelyKodo/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Tokeii0/LovelyKodo/archive/refs/heads/master.zip",
     "hash": "921df26e91320ab470034dd69187779e40438f01f0115ef077b125bcce90b6fc",
     "pre_install": [
         "Set-Content \"$dir\\LovelyKodo.bat\" '@pushd %~dp0",
@@ -31,7 +31,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Tokeii0/LovelyKodo/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Tokeii0/LovelyKodo/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

@@ -7,7 +7,7 @@
         "curl",
         "busybox"
     ],
-    "url": "https://gh-proxy.com/https://github.com/curl/wcurl/releases/download/v2026.10.12/wcurl",
+    "url": "https://gh-proxy.org/https://github.com/curl/wcurl/releases/download/v2026.10.12/wcurl",
     "hash": "7aa2b82925e314578fff272bf6775a6e56f891182b42e11a3ecfd2cac5ea3927",
     "bin": [
         [
@@ -20,6 +20,6 @@
         "github": "https://github.com/curl/wcurl"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/curl/wcurl/releases/download/v$version/wcurl"
+        "url": "https://gh-proxy.org/https://github.com/curl/wcurl/releases/download/v$version/wcurl"
     }
 }

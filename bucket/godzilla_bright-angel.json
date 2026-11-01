@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/BeichenDream/Godzilla/releases/download/v4.0.1-godzilla/godzilla.jar",
+    "url": "https://gh-proxy.org/https://github.com/BeichenDream/Godzilla/releases/download/v4.0.1-godzilla/godzilla.jar",
     "hash": "62b7eff31d339fd04e6d39aba47b5f37b1b6feb27f85c3c71e4d2d600e8142c6",
     "pre_install": [
         "Set-Content \"$dir\\godzilla.bat\" '@pushd %~dp0",
@@ -31,7 +31,7 @@
         "regex": "v([\\d.]+)-godzilla"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/BeichenDream/Godzilla/releases/download/v$version-godzilla/godzilla.jar"
+        "url": "https://gh-proxy.org/https://github.com/BeichenDream/Godzilla/releases/download/v$version-godzilla/godzilla.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

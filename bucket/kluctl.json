@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kluctl/kluctl/releases/download/v2.28.2/kluctl_v2.28.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kluctl/kluctl/releases/download/v2.28.2/kluctl_v2.28.2_windows_amd64.zip",
             "hash": "156431e88184191e9cf64d448f0540f6d7230eaea33ce8ddb815f059738aab46"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kluctl/kluctl/releases/download/v$version/kluctl_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kluctl/kluctl/releases/download/v$version/kluctl_v$version_windows_amd64.zip"
             }
         },
         "hash": {

@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/bigsizeme/CNVD-2021-49104/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/bigsizeme/CNVD-2021-49104/archive/refs/heads/master.zip",
     "hash": "e27b2249a79f6398750465bbc66e8799b59150ed0f03517551969b5590253551",
     "extract_dir": "CNVD-2021-49104-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bigsizeme/CNVD-2021-49104/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/bigsizeme/CNVD-2021-49104/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

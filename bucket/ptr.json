@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/8LWXpg/ptr/releases/download/v0.15.2/ptr-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/8LWXpg/ptr/releases/download/v0.15.2/ptr-x86_64-pc-windows-msvc.zip",
             "hash": "5baaa6552a2d922475fcbcca899b2a1a6cf1283814dbcf8f6f1e66d4cdf23ee9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/8LWXpg/ptr/releases/download/v0.15.2/ptr-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/8LWXpg/ptr/releases/download/v0.15.2/ptr-aarch64-pc-windows-msvc.zip",
             "hash": "dcdb624c1f5bb1dbfc21a9bdbd635abed7ea65bab455420b348b5b6233b8e994"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/8LWXpg/ptr/releases/download/v$version/ptr-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/8LWXpg/ptr/releases/download/v$version/ptr-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/8LWXpg/ptr/releases/download/v$version/ptr-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/8LWXpg/ptr/releases/download/v$version/ptr-aarch64-pc-windows-msvc.zip"
             }
         }
     }

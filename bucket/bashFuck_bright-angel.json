@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/ProbiusOfficial/bashFuck/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/ProbiusOfficial/bashFuck/archive/refs/heads/master.zip",
     "hash": "339c2fd2904312c14d88c758ef55154391f41986303ed1190f613236217c0b9b",
     "extract_dir": "bashFuck-main",
     "pre_install": [
@@ -27,6 +27,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ProbiusOfficial/bashFuck/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/ProbiusOfficial/bashFuck/archive/refs/heads/master.zip"
     }
 }

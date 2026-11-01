@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/auula/typikon/releases/download/v0.1.2/typikon-v0.1.2-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/auula/typikon/releases/download/v0.1.2/typikon-v0.1.2-windows-amd64.zip",
             "hash": "3bf21a5e2e1ad5ab977ae987fb263df11e5d663f68bd4f33e9c76ce6171c9d95"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/auula/typikon/releases/download/v$version/typikon-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/auula/typikon/releases/download/v$version/typikon-v$version-windows-amd64.zip"
             }
         }
     }

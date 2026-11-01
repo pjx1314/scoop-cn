@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/b4b4r07/gomi/releases/download/v1.10.1/gomi_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/b4b4r07/gomi/releases/download/v1.10.1/gomi_Windows_x86_64.zip",
             "hash": "69b256af7bc0fa08d83118b5244cbd6dfd70cd42e80a20cd92162cc9dc36c002"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/b4b4r07/gomi/releases/download/v$version/gomi_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/b4b4r07/gomi/releases/download/v$version/gomi_Windows_x86_64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iyulab/undoc/releases/download/v0.27.1/undoc-windows-x86_64-v0.27.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/iyulab/undoc/releases/download/v0.27.1/undoc-windows-x86_64-v0.27.1.zip",
             "hash": "76c1a999d8b14f39928db60020e16a5ddf3bf6120854a54d792f669f96e3d3c3"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iyulab/undoc/releases/download/v$version/undoc-windows-x86_64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/iyulab/undoc/releases/download/v$version/undoc-windows-x86_64-v$version.zip"
             }
         }
     }

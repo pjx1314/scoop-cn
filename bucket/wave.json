@@ -5,7 +5,7 @@
     "version": "1.8.16",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/h2oai/wave/releases/download/v1.8.16/wave-1.8.16-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/h2oai/wave/releases/download/v1.8.16/wave-1.8.16-windows-amd64.tar.gz",
             "hash": "cbf9bb87649fb9a47d42d160e2ab5a5765b18ab64928caaf9eb4f9ff00b332e1",
             "extract_dir": "wave-1.8.16-windows-amd64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/h2oai/wave/releases/download/v$version/wave-$version-windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/h2oai/wave/releases/download/v$version/wave-$version-windows-amd64.tar.gz",
                 "extract_dir": "wave-$version-windows-amd64"
             }
         }

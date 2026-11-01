@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cpeditor/cpeditor/releases/download/7.1.2/cpeditor-7.1.2-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/cpeditor/cpeditor/releases/download/7.1.2/cpeditor-7.1.2-windows-x64-portable.zip",
             "hash": "1a011cb7adbec5d1f01827d0e58eab6e776bba2321f985ce1308c50b7d82c87d"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/cpeditor/cpeditor/releases/download/7.1.2/cpeditor-7.1.2-windows-x86-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/cpeditor/cpeditor/releases/download/7.1.2/cpeditor-7.1.2-windows-x86-portable.zip",
             "hash": "905addd7a93e615d18f27a669d8042f65ce94c5c30f53c9c643c858935c9efe8"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-portable.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x86-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x86-portable.zip"
             }
         },
         "hash": {

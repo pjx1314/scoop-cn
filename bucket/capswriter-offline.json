@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HaujetZhao/CapsWriter-Offline/releases/download/v2.6/CapsWriter-Offline-20260531.zip",
+            "url": "https://gh-proxy.org/https://github.com/HaujetZhao/CapsWriter-Offline/releases/download/v2.6/CapsWriter-Offline-20260531.zip",
             "hash": "a4ddb46c06ecaef88d3305ca95018458fb9c3f672e8daf80ee3753f6c5355389"
         }
     },
@@ -58,7 +58,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HaujetZhao/CapsWriter-Offline/releases/download/v$version/CapsWriter-Offline-$matchDate.zip"
+                "url": "https://gh-proxy.org/https://github.com/HaujetZhao/CapsWriter-Offline/releases/download/v$version/CapsWriter-Offline-$matchDate.zip"
             }
         }
     }

@@ -4,7 +4,7 @@
     "homepage": "https://github.com/zufuliu/notepad4",
     "license": "BSD-3-Clause",
     "url": [
-        "https://gh-proxy.com/https://github.com/zufuliu/notepad4/releases/download/v26.10r6392/Notepad4_zh-Hans_x64_v26.10r6392.zip"
+        "https://gh-proxy.org/https://github.com/zufuliu/notepad4/releases/download/v26.10r6392/Notepad4_zh-Hans_x64_v26.10r6392.zip"
     ],
     "bin": "Notepad4.exe",
     "shortcuts": [

@@ -23,7 +23,7 @@
         "Settings are stored in '%APPDATA%\\PikPak', and can be purged using 'scoop uninstall --purge pikpak'."
     ],
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/pikpak/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/pikpak/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/copicseal/copicseal/releases/download/v0.3.9/copicseal-0.3.9-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/copicseal/copicseal/releases/download/v0.3.9/copicseal-0.3.9-setup.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
             "hash": "sha512:d90d8fead910b894d19f06037aec68b4cfc86551bb87e2aed559b3d7ad2acf5aa8e703d6fd62256c21e820c1dfb4d88887b3437b5cbfe59df199333826b825fa"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/copicseal/copicseal/releases/download/v$version/copicseal-$version-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/copicseal/copicseal/releases/download/v$version/copicseal-$version-setup.exe#/dl.7z"
             }
         },
         "hash": {

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/mr-boxington/releases/download/v1.29.1/mbx-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/mr-boxington/releases/download/v1.29.1/mbx-x86_64-pc-windows-msvc.zip",
             "hash": "00fc445958afb89119f1e79bd6d55036eb88fe7b815f0bb2766b7a7a906148cc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/mr-boxington/releases/download/v1.29.1/mbx-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/mr-boxington/releases/download/v1.29.1/mbx-aarch64-pc-windows-msvc.zip",
             "hash": "3d09d25472d48a45173db73afa75052a0c1fc650ea3f410a7e9b6ebcf6ea0883"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/mr-boxington/releases/download/v$version/mbx-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/mr-boxington/releases/download/v$version/mbx-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/mr-boxington/releases/download/v$version/mbx-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/mr-boxington/releases/download/v$version/mbx-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

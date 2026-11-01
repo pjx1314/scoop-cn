@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/landaire/wows-toolkit/releases/download/v1.0.2/wows_toolkit_v1.0.2_windows.zip",
-                "https://gh-proxy.com/https://github.com/landaire/wows-toolkit/releases/download/v1.0.2/wows_toolkit_tools_v1.0.2_win64.zip"
+                "https://gh-proxy.org/https://github.com/landaire/wows-toolkit/releases/download/v1.0.2/wows_toolkit_v1.0.2_windows.zip",
+                "https://gh-proxy.org/https://github.com/landaire/wows-toolkit/releases/download/v1.0.2/wows_toolkit_tools_v1.0.2_win64.zip"
             ],
             "hash": [
                 "d7d3ee0e1bd3b5259363110b45e8c96ef2e389402a6cc6f65d15c3cb3e6708f6",
@@ -34,8 +34,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/landaire/wows-toolkit/releases/download/v$version/wows_toolkit_v$version_windows.zip",
-                    "https://gh-proxy.com/https://github.com/landaire/wows-toolkit/releases/download/v$version/wows_toolkit_tools_v$version_win64.zip"
+                    "https://gh-proxy.org/https://github.com/landaire/wows-toolkit/releases/download/v$version/wows_toolkit_v$version_windows.zip",
+                    "https://gh-proxy.org/https://github.com/landaire/wows-toolkit/releases/download/v$version/wows_toolkit_tools_v$version_win64.zip"
                 ]
             }
         }

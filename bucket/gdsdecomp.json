@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GDRETools/gdsdecomp/releases/download/v2.7.4/GDRE_tools-v2.7.4-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/GDRETools/gdsdecomp/releases/download/v2.7.4/GDRE_tools-v2.7.4-windows.zip",
             "hash": "af24c563eee501effb194d83595de64696c32547b2246034dbfb891a24bfa0ad"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GDRETools/gdsdecomp/releases/download/v$version/GDRE_tools-v$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/GDRETools/gdsdecomp/releases/download/v$version/GDRE_tools-v$version-windows.zip"
             }
         }
     }

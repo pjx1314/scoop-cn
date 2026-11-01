@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xianyukang/MyKeymap/releases/download/v2.0-beta33/MyKeymap-2.0-beta33.7z",
+            "url": "https://gh-proxy.org/https://github.com/xianyukang/MyKeymap/releases/download/v2.0-beta33/MyKeymap-2.0-beta33.7z",
             "extract_dir": "MyKeymap-2.0-beta33",
             "hash": "b4c769a0324ed8c2615b56f26102713fdf25915c1b38eb33c3511a32b54e6177"
         }
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xianyukang/MyKeymap/releases/download/v$version/MyKeymap-$version.7z",
+                "url": "https://gh-proxy.org/https://github.com/xianyukang/MyKeymap/releases/download/v$version/MyKeymap-$version.7z",
                 "extract_dir": "MyKeymap-$version"
             }
         }

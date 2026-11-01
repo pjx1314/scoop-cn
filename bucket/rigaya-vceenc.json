@@ -4,16 +4,16 @@
     "homepage": "https://github.com/rigaya/VCEEnc",
     "license": {
         "identifier": "MIT",
-        "url": "https://gh-proxy.com/https://github.com/rigaya/VCEEnc/raw/refs/heads/master/VCEEnc_license.txt"
+        "url": "https://gh-proxy.org/https://github.com/rigaya/VCEEnc/raw/refs/heads/master/VCEEnc_license.txt"
     },
     "architecture": {
         "64bit": {
             "pre_install": "Get-ChildItem \"$dir\" 'VCEEncC64.exe' | Select-Object -First 1 | Rename-Item -NewName 'VCEEncC.exe'",
-            "url": "https://gh-proxy.com/https://github.com/rigaya/VCEEnc/releases/download/9.22/VCEEncC_9.22_x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/rigaya/VCEEnc/releases/download/9.22/VCEEncC_9.22_x64.7z",
             "hash": "c6195ae926b1b670c3eedb1d88a7c79272d6fdfbaa83ac3ce60553934774e57f"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rigaya/VCEEnc/releases/download/9.22/VCEEncC_9.22_Win32.7z",
+            "url": "https://gh-proxy.org/https://github.com/rigaya/VCEEnc/releases/download/9.22/VCEEncC_9.22_Win32.7z",
             "hash": "57463760952f20f187e8a36c4a98d257d3c06f1136f21b176b7719c5e62072e1"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rigaya/VCEEnc/releases/download/$version/VCEEncC_$version_x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/rigaya/VCEEnc/releases/download/$version/VCEEncC_$version_x64.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rigaya/VCEEnc/releases/download/$version/VCEEncC_$version_Win32.7z"
+                "url": "https://gh-proxy.org/https://github.com/rigaya/VCEEnc/releases/download/$version/VCEEncC_$version_Win32.7z"
             }
         }
     }

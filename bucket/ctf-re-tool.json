@@ -4,8 +4,8 @@
     "homepage": "https://github.com/ip2867/ctf-re-tool",
     "license": "MIT",
     "url": [
-        "https://gh-proxy.com/https://github.com/ip2867/ctf-re-tool/releases/download/v1.10.0/CTF-RE-TOOL.exe#/CTF-RE-TOOL.exe",
-        "https://gh-proxy.com/https://github.com/ip2867/ctf-re-tool/archive/refs/tags/v1.10.0.zip#/ctf-re-tool-source.zip"
+        "https://gh-proxy.org/https://github.com/ip2867/ctf-re-tool/releases/download/v1.10.0/CTF-RE-TOOL.exe#/CTF-RE-TOOL.exe",
+        "https://gh-proxy.org/https://github.com/ip2867/ctf-re-tool/archive/refs/tags/v1.10.0.zip#/ctf-re-tool-source.zip"
     ],
     "hash": [
         "0ce81a10ce0c0a25c925cd0e5ba45206e0f4eefcd1685952d741c61719f23baf",
@@ -21,8 +21,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/ip2867/ctf-re-tool/releases/download/v$version/CTF-RE-TOOL.exe#/CTF-RE-TOOL.exe",
-            "https://gh-proxy.com/https://github.com/ip2867/ctf-re-tool/archive/refs/tags/v$version.zip#/ctf-re-tool-source.zip"
+            "https://gh-proxy.org/https://github.com/ip2867/ctf-re-tool/releases/download/v$version/CTF-RE-TOOL.exe#/CTF-RE-TOOL.exe",
+            "https://gh-proxy.org/https://github.com/ip2867/ctf-re-tool/archive/refs/tags/v$version.zip#/ctf-re-tool-source.zip"
         ]
     },
     "notes": [

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/melody0709/zencrop/releases/download/v3.3.1/ZenCrop-v3.3.1-win-x64-portable-unsigned.7z",
+            "url": "https://gh-proxy.org/https://github.com/melody0709/zencrop/releases/download/v3.3.1/ZenCrop-v3.3.1-win-x64-portable-unsigned.7z",
             "hash": "285539e2dfab9aac367736b259087e8c5da99e49fc13b6ef2d776504e2208a85",
             "extract_dir": "ZenCrop-v3.3.1-win-x64-portable-unsigned"
         }
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/melody0709/zencrop/releases/download/v$version/ZenCrop-v$version-win-x64-portable-unsigned.7z",
+                "url": "https://gh-proxy.org/https://github.com/melody0709/zencrop/releases/download/v$version/ZenCrop-v$version-win-x64-portable-unsigned.7z",
                 "extract_dir": "ZenCrop-v$version-win-x64-portable-unsigned"
             }
         },

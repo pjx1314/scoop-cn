@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Psychotoxical/psysonic/releases/download/app-v1.56.0/Psysonic_1.56.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Psychotoxical/psysonic/releases/download/app-v1.56.0/Psysonic_1.56.0_x64-setup.exe#/dl.7z",
             "hash": "070233b0d0224a7454271906a2a73774e427be68f1da444d6b46a4c52713f33d"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Psychotoxical/psysonic/releases/download/app-v$version/Psysonic_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Psychotoxical/psysonic/releases/download/app-v$version/Psysonic_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

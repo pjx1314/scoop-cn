@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/r00tuser111/SerializationDumper-Shiro/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/r00tuser111/SerializationDumper-Shiro/archive/refs/heads/master.zip",
     "hash": "7e3816887631b8c078d5fcee0dff4d9a7d76aa9c5ff8cc96fc07b28ae129fa58",
     "extract_dir": "SerializationDumper-Shiro-master",
     "pre_install": [
@@ -24,7 +24,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/r00tuser111/SerializationDumper-Shiro/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/r00tuser111/SerializationDumper-Shiro/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_x86_64.zip",
             "hash": "96dbddae953871e6503d36170178f730dfe4532d60aa3aa24a21fe38489b0b14"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_i386.zip",
             "hash": "8d1ea965b78b30eee4aa96275db355b5279947194967dcce7ad806767874642a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dlvhdr/diffnav/releases/download/v0.13.1/diffnav_Windows_arm64.zip",
             "hash": "d46eca9da1bcbdc82c9ec13b1a33a9b31204330467f05e77000128ac03ae8005"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dlvhdr/diffnav/releases/download/v$version/diffnav_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dlvhdr/diffnav/releases/download/v$version/diffnav_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/dlvhdr/diffnav/releases/download/v$version/diffnav_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/dlvhdr/diffnav/releases/download/v$version/diffnav_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/dlvhdr/diffnav/releases/download/v$version/diffnav_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dlvhdr/diffnav/releases/download/v$version/diffnav_Windows_arm64.zip"
             }
         },
         "hash": {

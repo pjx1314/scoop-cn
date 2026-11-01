@@ -11,7 +11,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vicanso/cyberapi/releases/download/v0.1.21/CyberAPI_0.1.21_x64_zh-CN.msi",
+            "url": "https://gh-proxy.org/https://github.com/vicanso/cyberapi/releases/download/v0.1.21/CyberAPI_0.1.21_x64_zh-CN.msi",
             "hash": "e388288ed2a3e511e14356f513f61529fad594696b91c9c2104bda621778d5bf"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vicanso/cyberapi/releases/download/v$version/CyberAPI_$version_x64_zh-CN.msi"
+                "url": "https://gh-proxy.org/https://github.com/vicanso/cyberapi/releases/download/v$version/CyberAPI_$version_x64_zh-CN.msi"
             }
         }
     }

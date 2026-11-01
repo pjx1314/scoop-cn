@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FrodeSolheim/fs-uae/releases/download/v3.2.35/FS-UAE_3.2.35_Windows_x86-64.exe",
+            "url": "https://gh-proxy.org/https://github.com/FrodeSolheim/fs-uae/releases/download/v3.2.35/FS-UAE_3.2.35_Windows_x86-64.exe",
             "hash": "9ae24a665cdca3f685998fcede997911aab4754a461a793240e057e3edac7ff3",
             "shortcuts": [
                 [
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FrodeSolheim/fs-uae/releases/download/v$version/FS-UAE_$version_Windows_x86-64.exe"
+                "url": "https://gh-proxy.org/https://github.com/FrodeSolheim/fs-uae/releases/download/v$version/FS-UAE_$version_Windows_x86-64.exe"
             }
         }
     }

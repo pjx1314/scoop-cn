@@ -5,7 +5,7 @@
     "license": "MIT|CC-BY-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qarmin/czkawka/releases/download/12.0.2/windows_czkawka_gui_gtk_412.zip",
+            "url": "https://gh-proxy.org/https://github.com/qarmin/czkawka/releases/download/12.0.2/windows_czkawka_gui_gtk_412.zip",
             "hash": "de7e8a01cf16caf742a2da350f5c9a49477cdc75a63d05d0ea18fd1c50737285"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qarmin/czkawka/releases/download/$version/windows_czkawka_gui_gtk_412.zip"
+                "url": "https://gh-proxy.org/https://github.com/qarmin/czkawka/releases/download/$version/windows_czkawka_gui_gtk_412.zip"
             }
         }
     }

@@ -3,7 +3,7 @@
     "description": "A powerful program for capturing, generating, analyzing, importing, and exporting of infrared (IR) signals.",
     "homepage": "https://github.com/bengtmartensson/IrScrutinizer",
     "license": "GPL-3.0-or-later",
-    "url": "https://gh-proxy.com/https://github.com/bengtmartensson/IrScrutinizer/releases/download/Version-2.4.2/IrScrutinizer-2.4.2.exe",
+    "url": "https://gh-proxy.org/https://github.com/bengtmartensson/IrScrutinizer/releases/download/Version-2.4.2/IrScrutinizer-2.4.2.exe",
     "hash": "86480af9b46918cc96857043ad52b95954ee91da411dca5ce0a0c543afbe73a5",
     "innosetup": true,
     "shortcuts": [
@@ -19,6 +19,6 @@
         "regex": "Repository/\\d+/Version-(.+?)<"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bengtmartensson/IrScrutinizer/releases/download/Version-$version/IrScrutinizer-$version.exe"
+        "url": "https://gh-proxy.org/https://github.com/bengtmartensson/IrScrutinizer/releases/download/Version-$version/IrScrutinizer-$version.exe"
     }
 }

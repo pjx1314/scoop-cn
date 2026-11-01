@@ -5,11 +5,11 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ltaoo/wx_channels_download/releases/download/v260907/wx_video_download_v260907_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ltaoo/wx_channels_download/releases/download/v260907/wx_video_download_v260907_windows_x86_64.zip",
             "hash": "2d4903ed994292ffa1ad019f8524c7b0bf37c25e0966a2e7903de90f3fb678ab"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ltaoo/wx_channels_download/releases/download/v260907/wx_video_download_v260907_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ltaoo/wx_channels_download/releases/download/v260907/wx_video_download_v260907_windows_arm64.zip",
             "hash": "f4ba5c846c909668068617b7a85e5b42fed7040a419cd75a83eb71130530668e"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ltaoo/wx_channels_download/releases/download/v$version/wx_video_download_v$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ltaoo/wx_channels_download/releases/download/v$version/wx_video_download_v$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ltaoo/wx_channels_download/releases/download/v$version/wx_video_download_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ltaoo/wx_channels_download/releases/download/v$version/wx_video_download_v$version_windows_arm64.zip"
             }
         },
         "hash": {

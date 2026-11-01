@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kristoff-it/zine/releases/download/v0.14.1/x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/kristoff-it/zine/releases/download/v0.14.1/x86_64-windows.zip",
             "hash": "9a386b0796daf7a07b8e46abb26760d60402c96fe4dd786ae99b5c34e3c68c1e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kristoff-it/zine/releases/download/v0.14.1/aarch64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/kristoff-it/zine/releases/download/v0.14.1/aarch64-windows.zip",
             "hash": "20d499fce28e74eac920fe053e132510b383bdbe824cac744930910045866470"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kristoff-it/zine/releases/download/v$version/x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/kristoff-it/zine/releases/download/v$version/x86_64-windows.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kristoff-it/zine/releases/download/v$version/aarch64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/kristoff-it/zine/releases/download/v$version/aarch64-windows.zip"
             }
         }
     }

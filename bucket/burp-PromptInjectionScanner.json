@@ -9,9 +9,9 @@
     ],
     "homepage": "https://github.com/darkfiv/PromptInjectionScanner",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/darkfiv/PromptInjectionScanner/releases/download/V1.0.3/prompt-injection-scanner-1.0.3.jar#/prompt-injection-scanner.jar",
+    "url": "https://gh-proxy.org/https://github.com/darkfiv/PromptInjectionScanner/releases/download/V1.0.3/prompt-injection-scanner-1.0.3.jar#/prompt-injection-scanner.jar",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/darkfiv/PromptInjectionScanner/releases/download/V$version/prompt-injection-scanner-$version.jar#/prompt-injection-scanner.jar"
+        "url": "https://gh-proxy.org/https://github.com/darkfiv/PromptInjectionScanner/releases/download/V$version/prompt-injection-scanner-$version.jar#/prompt-injection-scanner.jar"
     }
 }

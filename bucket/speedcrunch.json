@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/heldercorreia/speedcrunch/releases/download/v1.1.0/SpeedCrunch-1.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/heldercorreia/speedcrunch/releases/download/v1.1.0/SpeedCrunch-1.1-windows-x64.zip",
             "hash": "39eb01472c41c10aa4fa660bff4e06a895a3b6b47a25d156bf0c642fecd4e0b9",
             "extract_dir": "SpeedCrunch-1.1-windows-x64"
         }
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/heldercorreia/speedcrunch/releases/download/v$version/SpeedCrunch-$majorVersion.$minorVersion-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/heldercorreia/speedcrunch/releases/download/v$version/SpeedCrunch-$majorVersion.$minorVersion-windows-x64.zip",
                 "extract_dir": "SpeedCrunch-$majorVersion.$minorVersion-windows-x64"
             }
         }

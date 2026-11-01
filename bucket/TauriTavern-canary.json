@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Darkatse/TauriTavern/releases/download/Canary/TauriTavern-20261029-canary-windows-x64-portable.exe#/TauriTavern.exe",
+            "url": "https://gh-proxy.org/https://github.com/Darkatse/TauriTavern/releases/download/Canary/TauriTavern-20261029-canary-windows-x64-portable.exe#/TauriTavern.exe",
             "hash": "f86b2f848204d60b42de003ffdf26fc54e4a1ba6b21811ed22ef4433e21c4088"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Darkatse/TauriTavern/releases/download/Canary/TauriTavern-$version-canary-windows-x64-portable.exe#/TauriTavern.exe"
+                "url": "https://gh-proxy.org/https://github.com/Darkatse/TauriTavern/releases/download/Canary/TauriTavern-$version-canary-windows-x64-portable.exe#/TauriTavern.exe"
             }
         }
     }

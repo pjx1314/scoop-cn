@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/YANG-Haruka/LinguaHaru/releases/download/v7.0.14/LinguaHaru-7.0.14-desktop-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/YANG-Haruka/LinguaHaru/releases/download/v7.0.14/LinguaHaru-7.0.14-desktop-portable.zip",
             "hash": "097e8ba9e6788b8de6b4934cd842e16229ff9a101dfc99203762207d47aca794"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/YANG-Haruka/LinguaHaru/releases/download/v$version/LinguaHaru-$version-desktop-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/YANG-Haruka/LinguaHaru/releases/download/v$version/LinguaHaru-$version-desktop-portable.zip"
             }
         }
     }

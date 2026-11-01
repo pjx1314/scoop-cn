@@ -5,7 +5,7 @@
     "license": "PolyForm-Noncommercial-1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NORMAL-EX/LetRecovery/releases/download/2026.10.30/LetRecovery.7z",
+            "url": "https://gh-proxy.org/https://github.com/NORMAL-EX/LetRecovery/releases/download/2026.10.30/LetRecovery.7z",
             "hash": "abf2de3039886e2aded330a4ccebc713748ed1485a9b796454d2713287567995"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NORMAL-EX/LetRecovery/releases/download/$version/LetRecovery.7z"
+                "url": "https://gh-proxy.org/https://github.com/NORMAL-EX/LetRecovery/releases/download/$version/LetRecovery.7z"
             }
         }
     }

@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/unixwin/niubash/releases/download/v1.4.4/niubash-v1.4.4-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/unixwin/niubash/releases/download/v1.4.4/niubash-v1.4.4-win-x64.zip",
             "hash": "b4ca244cc7a9ff663199d09070e35cb1e7570fde17f241f5c17ba11b3a464df0",
             "extract_dir": "niubash-v1.4.4-win-x64"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/unixwin/niubash/releases/download/v1.4.4/niubash-v1.4.4-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/unixwin/niubash/releases/download/v1.4.4/niubash-v1.4.4-win-arm64.zip",
             "hash": "6ff727092a3a9df5639796fbc47fb417f4a9fe88ed781fd5db1665780467ef97",
             "extract_dir": "niubash-v1.4.4-win-arm64"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/unixwin/niubash/releases/download/v$version/niubash-v$version-win-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/unixwin/niubash/releases/download/v$version/niubash-v$version-win-x64.zip",
                 "extract_dir": "niubash-v$version-win-x64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/unixwin/niubash/releases/download/v$version/niubash-v$version-win-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/unixwin/niubash/releases/download/v$version/niubash-v$version-win-arm64.zip",
                 "extract_dir": "niubash-v$version-win-arm64"
             }
         }

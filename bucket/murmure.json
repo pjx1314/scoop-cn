@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kieirra/murmure/releases/download/2.0.3/Murmure_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Kieirra/murmure/releases/download/2.0.3/Murmure_x64-setup.exe#/dl.7z",
             "hash": "cd40de0bb0d38fd8890e94024716063fab287625ce4e0ccad52fcd2adc4041e6"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kieirra/murmure/releases/download/$version/Murmure_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Kieirra/murmure/releases/download/$version/Murmure_x64-setup.exe#/dl.7z"
             }
         }
     }

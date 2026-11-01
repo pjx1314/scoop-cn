@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sequinstream/sequin/releases/download/v0.14.6/sequin-cli-v0.14.6-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sequinstream/sequin/releases/download/v0.14.6/sequin-cli-v0.14.6-windows-amd64.zip",
             "hash": "70ce3b0892884bb63920716690582fadc9c4af6e9ded8a1c83e97279bba7c44d"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/sequinstream/sequin/releases/download/v0.14.6/sequin-cli-v0.14.6-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/sequinstream/sequin/releases/download/v0.14.6/sequin-cli-v0.14.6-windows-386.zip",
             "hash": "0f3bc00b51cc9716bfa5d580fa4b571a4a92e7d58c48d72e867e9de0796cea51"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sequinstream/sequin/releases/download/v$version/sequin-cli-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sequinstream/sequin/releases/download/v$version/sequin-cli-v$version-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/sequinstream/sequin/releases/download/v$version/sequin-cli-v$version-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/sequinstream/sequin/releases/download/v$version/sequin-cli-v$version-windows-386.zip"
             }
         }
     }

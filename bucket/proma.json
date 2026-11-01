@@ -4,7 +4,7 @@
     "description": "Proma 是一个本地优先的 AI 桌面应用，把多模型 Chat、通用 Agent、工作区、Skills、MCP、远程机器人和记忆能力放在同一个开源客户端里",
     "homepage": "https://github.com/proma-ai/Proma",
     "license": "AGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/proma-ai/Proma/releases/download/v0.19.58/Proma-Setup-0.19.58.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/proma-ai/Proma/releases/download/v0.19.58/Proma-Setup-0.19.58.exe#/dl.7z",
     "hash": "1b48653f84e12f9df842519861c5e8e66590c6c9c80b2760a80476f20c71779b",
     "pre_install": [
         "Move-Item \"$dir\\`$PLUGINSDIR\\app-64.7z\" $dir -Force",
@@ -19,6 +19,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/proma-ai/Proma/releases/download/v$version/Proma-Setup-$version.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/proma-ai/Proma/releases/download/v$version/Proma-Setup-$version.exe#/dl.7z"
     }
 }

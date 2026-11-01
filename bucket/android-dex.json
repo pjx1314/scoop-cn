@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Shrey113/Android-Dex/releases/download/Android-Dex-v.1.5/Android_Dex_Windows_x64.zip#/android_dex_payload.bin",
+            "url": "https://gh-proxy.org/https://github.com/Shrey113/Android-Dex/releases/download/Android-Dex-v.1.5/Android_Dex_Windows_x64.zip#/android_dex_payload.bin",
             "hash": "d375f804004c803dbff3f67a40a2269ec87d55bc7a10072808598a1a087d7858"
         }
     },
@@ -65,7 +65,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Shrey113/Android-Dex/releases/download/Android-Dex-v.$version/Android_Dex_Windows_x64.zip#/android_dex_payload.bin"
+                "url": "https://gh-proxy.org/https://github.com/Shrey113/Android-Dex/releases/download/Android-Dex-v.$version/Android_Dex_Windows_x64.zip#/android_dex_payload.bin"
             }
         }
     }

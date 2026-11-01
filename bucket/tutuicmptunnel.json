@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hrimfaxi/tutuicmptunnel/releases/download/1.7/tutuicmptunnel-win32-mingw64-binaries.zip",
+            "url": "https://gh-proxy.org/https://github.com/hrimfaxi/tutuicmptunnel/releases/download/1.7/tutuicmptunnel-win32-mingw64-binaries.zip",
             "hash": "d3795dac30bc0a8e782d8661dc40373acacc77dfa82eb94de3f3dc6213dfdadf"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hrimfaxi/tutuicmptunnel/releases/download/$version/tutuicmptunnel-win32-mingw64-binaries.zip"
+                "url": "https://gh-proxy.org/https://github.com/hrimfaxi/tutuicmptunnel/releases/download/$version/tutuicmptunnel-win32-mingw64-binaries.zip"
             }
         }
     }

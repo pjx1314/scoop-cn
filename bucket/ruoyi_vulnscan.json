@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/steveopen1/ruoyi_vulnscan/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/steveopen1/ruoyi_vulnscan/archive/refs/heads/master.zip",
     "hash": "a8e4f02f4394dfe6bb027567573f285951eddfc7242640791e5fb2e2eaac5064",
     "pre_install": [
         "Set-Content \"$dir\\ruoyi_vulnscan.bat\" '@pushd %~dp0",
@@ -27,7 +27,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/steveopen1/ruoyi_vulnscan/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/steveopen1/ruoyi_vulnscan/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

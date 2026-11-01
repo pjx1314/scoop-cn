@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/epilande/codegrab/releases/download/v1.1.0/codegrab_1.1.0_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/epilande/codegrab/releases/download/v1.1.0/codegrab_1.1.0_Windows_x86_64.zip",
             "hash": "61e34e3ea37a72546e57eaff71a061206c09471b1b1e5afe04da0c0e4a44ace8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/epilande/codegrab/releases/download/v1.1.0/codegrab_1.1.0_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/epilande/codegrab/releases/download/v1.1.0/codegrab_1.1.0_Windows_arm64.zip",
             "hash": "5beef4b39a1f944d2327f72b81abd28baa45f8be21bd100869dac10a0d000c9a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/epilande/codegrab/releases/download/v$version/codegrab_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/epilande/codegrab/releases/download/v$version/codegrab_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/epilande/codegrab/releases/download/v$version/codegrab_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/epilande/codegrab/releases/download/v$version/codegrab_$version_Windows_arm64.zip"
             }
         },
         "hash": {

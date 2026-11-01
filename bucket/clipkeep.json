@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Fomovet/clipkeep/releases/download/v0.2.1/clipkeep_0.2.1_x64.exe#/clipkeep.exe",
+            "url": "https://gh-proxy.org/https://github.com/Fomovet/clipkeep/releases/download/v0.2.1/clipkeep_0.2.1_x64.exe#/clipkeep.exe",
             "hash": "ae5ea19ca0569cf7f1b9a6ce9cd1b4234059353e03970de47d8ca05cedd27c4b"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Fomovet/clipkeep/releases/download/v$version/clipkeep_$version_x64.exe#/clipkeep.exe"
+                "url": "https://gh-proxy.org/https://github.com/Fomovet/clipkeep/releases/download/v$version/clipkeep_$version_x64.exe#/clipkeep.exe"
             }
         }
     }

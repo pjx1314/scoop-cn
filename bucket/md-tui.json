@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/henriklovhaug/md-tui/releases/download/v0.11.2/md-tui-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/henriklovhaug/md-tui/releases/download/v0.11.2/md-tui-x86_64-pc-windows-msvc.zip",
             "hash": "76c40b37880ce16f85e944c800b11bafcf9c824ef3bc2a85c783f0203946c31f"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/henriklovhaug/md-tui/releases/download/v$version/md-tui-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/henriklovhaug/md-tui/releases/download/v$version/md-tui-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

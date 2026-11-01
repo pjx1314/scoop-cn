@@ -5,15 +5,15 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/encounter/objdiff/releases/download/v3.8.3/objdiff-cli-windows-x86_64.exe#/objdiff-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/encounter/objdiff/releases/download/v3.8.3/objdiff-cli-windows-x86_64.exe#/objdiff-cli.exe",
             "hash": "dd12dfb5e9e94a7f6c949a37e1815963cf2cffe4c87b4999b7ebc8c15b398a1f"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/encounter/objdiff/releases/download/v3.8.3/objdiff-cli-windows-x86.exe#/objdiff-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/encounter/objdiff/releases/download/v3.8.3/objdiff-cli-windows-x86.exe#/objdiff-cli.exe",
             "hash": "bcd9a76cfdce55a03910688236d89e3685d359b6cc78fc63b42db08705c581af"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/encounter/objdiff/releases/download/v3.8.3/objdiff-cli-windows-arm64.exe#/objdiff-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/encounter/objdiff/releases/download/v3.8.3/objdiff-cli-windows-arm64.exe#/objdiff-cli.exe",
             "hash": "348aeb5da114c2d9e7c1af3d5fbb77b64c2176291d22a23967e47a99969b5335"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/encounter/objdiff/releases/download/v$version/objdiff-cli-windows-x86_64.exe#/objdiff-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/encounter/objdiff/releases/download/v$version/objdiff-cli-windows-x86_64.exe#/objdiff-cli.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/encounter/objdiff/releases/download/v$version/objdiff-cli-windows-x86.exe#/objdiff-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/encounter/objdiff/releases/download/v$version/objdiff-cli-windows-x86.exe#/objdiff-cli.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/encounter/objdiff/releases/download/v$version/objdiff-cli-windows-arm64.exe#/objdiff-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/encounter/objdiff/releases/download/v$version/objdiff-cli-windows-arm64.exe#/objdiff-cli.exe"
             }
         }
     }

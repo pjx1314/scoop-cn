@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Sherlockouo/music/releases/download/v2.8.0/R3PLAYX-2.8.0-win-x64-Setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Sherlockouo/music/releases/download/v2.8.0/R3PLAYX-2.8.0-win-x64-Setup.exe#/dl.7z",
             "hash": "16630505a46d370e85a58cddd609ff6cb67a1a1d7ff341eabfd797697157d8ca",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Sherlockouo/music/releases/download/v$version/R3PLAYX-$version-win-x64-Setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Sherlockouo/music/releases/download/v$version/R3PLAYX-$version-win-x64-Setup.exe#/dl.7z"
             }
         }
     }

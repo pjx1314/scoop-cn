@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/okd-project/okd/releases/download/5.1.0-okd-scos.ec.1/openshift-client-windows-5.1.0-okd-scos.ec.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/okd-project/okd/releases/download/5.1.0-okd-scos.ec.1/openshift-client-windows-5.1.0-okd-scos.ec.1.zip",
             "hash": "978fb4b98414eb7f9e435f95a3b02ca68ff73d4a832ed0e427d2cbe89ffb0c9c"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/okd-project/okd/releases/download/$version/openshift-client-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/okd-project/okd/releases/download/$version/openshift-client-windows-$version.zip"
             }
         },
         "hash": {

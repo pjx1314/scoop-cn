@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/winappCli/releases/download/v0.7.1/winappcli-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/winappCli/releases/download/v0.7.1/winappcli-x64.zip",
             "hash": "d925d1e32cdc320b6d271f653fd2cd3c05b5d7558deb20d1b548bead77900fcf"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/winappCli/releases/download/v0.7.1/winappcli-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/winappCli/releases/download/v0.7.1/winappcli-arm64.zip",
             "hash": "4ed1edcc6d4a1a7c75bb70dbdbf77a69b3c650823c7e8061aa66f8adb1017f2e"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/winappCli/releases/download/v$version/winappcli-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/winappCli/releases/download/v$version/winappcli-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/winappCli/releases/download/v$version/winappcli-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/winappCli/releases/download/v$version/winappcli-arm64.zip"
             }
         }
     }

@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/noraj/flask-session-cookie-manager/archive/refs/tags/v1.2.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/noraj/flask-session-cookie-manager/archive/refs/tags/v1.2.2.zip",
     "hash": "",
     "extract_dir": "flask-session-cookie-manager-1.2.2",
     "pre_install": [
@@ -21,7 +21,7 @@
     "bin": "flask-session-cookie-manager.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/noraj/flask-session-cookie-manager/archive/refs/tags/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/noraj/flask-session-cookie-manager/archive/refs/tags/v$version.zip",
         "extract_dir": "flask-session-cookie-manager-$version"
     },
     "notes": [

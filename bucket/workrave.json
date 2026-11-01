@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rcaelers/workrave/releases/download/v1_11_5/workrave-windows-1.11.5-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/rcaelers/workrave/releases/download/v1_11_5/workrave-windows-1.11.5-portable.zip",
             "hash": "6323ce0ad737fbdcdb77b9501aca4e59658f96ad5d778d9a476f37c394af6fb4"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rcaelers/workrave/releases/download/v$underscoreVersion/workrave-windows-$version-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/rcaelers/workrave/releases/download/v$underscoreVersion/workrave-windows-$version-portable.zip"
             }
         }
     }

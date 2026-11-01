@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lablup/all-smi/releases/download/v0.28.0/all-smi-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lablup/all-smi/releases/download/v0.28.0/all-smi-windows-x86_64.zip",
             "hash": "e889ba3bd78ced8c834b169675bce6f595ef3e27ba93c2ceb0d197496c457216"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lablup/all-smi/releases/download/v$version/all-smi-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lablup/all-smi/releases/download/v$version/all-smi-windows-x86_64.zip"
             }
         },
         "hash": {

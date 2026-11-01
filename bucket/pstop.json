@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/psmux/pstop/releases/download/v0.5.4/pstop-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/psmux/pstop/releases/download/v0.5.4/pstop-windows-x86_64.zip",
             "hash": "58da4fa5b6a7370e4b14ead14df0c43546de6404812fcdc100a4b0cf4071af0b"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/psmux/pstop/releases/download/v$version/pstop-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/psmux/pstop/releases/download/v$version/pstop-windows-x86_64.zip"
             }
         },
         "hash": {

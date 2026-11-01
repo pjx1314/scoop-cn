@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/SqlNexus/releases/download/8.26.09.24/SQLNexus_8.26.09.24_Signed.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/SqlNexus/releases/download/8.26.09.24/SQLNexus_8.26.09.24_Signed.zip",
             "hash": "1e6da0e39be734f51be45582cf95485ba49b0635542c2759d8da547c8cd7c071"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/SqlNexus/releases/download/$version/SQLNexus_$version_Signed.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/SqlNexus/releases/download/$version/SQLNexus_$version_Signed.zip"
             }
         }
     }

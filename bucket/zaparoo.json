@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ZaparooProject/zaparoo-core/releases/download/v2.21.0/zaparoo-windows_amd64-2.21.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/ZaparooProject/zaparoo-core/releases/download/v2.21.0/zaparoo-windows_amd64-2.21.0.zip",
             "hash": "7be31758679b8eeec95cfe4864249b59753900771121be7a73b2687332ec0c62"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ZaparooProject/zaparoo-core/releases/download/v2.21.0/zaparoo-windows_386-2.21.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/ZaparooProject/zaparoo-core/releases/download/v2.21.0/zaparoo-windows_386-2.21.0.zip",
             "hash": "b135edccd977740990695c138e48bbc9f536255a74a38322db69c6676096491b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ZaparooProject/zaparoo-core/releases/download/v2.21.0/zaparoo-windows_arm64-2.21.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/ZaparooProject/zaparoo-core/releases/download/v2.21.0/zaparoo-windows_arm64-2.21.0.zip",
             "hash": "1ad1e006595d0b3a3413b0c9df1d0b30d9bcc03ee56b92662991ebfc8835963d"
         }
     },
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ZaparooProject/zaparoo-core/releases/download/v$version/zaparoo-windows_amd64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/ZaparooProject/zaparoo-core/releases/download/v$version/zaparoo-windows_amd64-$version.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ZaparooProject/zaparoo-core/releases/download/v$version/zaparoo-windows_386-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/ZaparooProject/zaparoo-core/releases/download/v$version/zaparoo-windows_386-$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ZaparooProject/zaparoo-core/releases/download/v$version/zaparoo-windows_arm64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/ZaparooProject/zaparoo-core/releases/download/v$version/zaparoo-windows_arm64-$version.zip"
             }
         }
     }

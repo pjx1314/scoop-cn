@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/netr0m/az-pim-cli/releases/download/v1.18.0/az-pim-cli-1.18.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/netr0m/az-pim-cli/releases/download/v1.18.0/az-pim-cli-1.18.0-windows-x86_64.zip",
             "extract_dir": "az-pim-cli-1.18.0-windows-x86_64",
             "hash": "0d2f4581903ad3f2008bc9dcb05b6e65c29210c34a4d59df2b32fc0091967254"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/netr0m/az-pim-cli/releases/download/v1.18.0/az-pim-cli-1.18.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/netr0m/az-pim-cli/releases/download/v1.18.0/az-pim-cli-1.18.0-windows-arm64.zip",
             "extract_dir": "az-pim-cli-1.18.0-windows-arm64",
             "hash": "17104753ed3bcd8a3129f77551e817752a7fd05876d005f909d031e61d201dc2"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/netr0m/az-pim-cli/releases/download/v$version/az-pim-cli-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/netr0m/az-pim-cli/releases/download/v$version/az-pim-cli-$version-windows-x86_64.zip",
                 "extract_dir": "az-pim-cli-$version-windows-x86_64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/netr0m/az-pim-cli/releases/download/v$version/az-pim-cli-$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/netr0m/az-pim-cli/releases/download/v$version/az-pim-cli-$version-windows-arm64.zip",
                 "extract_dir": "az-pim-cli-$version-windows-arm64"
             }
         },

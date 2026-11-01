@@ -11,11 +11,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-x86_64-pc-windows-msvc.exe#/comrak.exe",
+            "url": "https://gh-proxy.org/https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-x86_64-pc-windows-msvc.exe#/comrak.exe",
             "hash": "ac62328adb9344a11e19f7a5d641361bb29118fea56233f83acddd7eb4d0bb2c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-aarch64-pc-windows-msvc.exe#/comrak.exe",
+            "url": "https://gh-proxy.org/https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-aarch64-pc-windows-msvc.exe#/comrak.exe",
             "hash": "ba88fce620251d3c966814fa6ae77eeedcd57918ef0b0faf6d255d0227349fdd"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v$version/comrak-$version-x86_64-pc-windows-msvc.exe#/comrak.exe"
+                "url": "https://gh-proxy.org/https://github.com/kivikakk/comrak/releases/download/v$version/comrak-$version-x86_64-pc-windows-msvc.exe#/comrak.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kivikakk/comrak/releases/download/v$version/comrak-$version-aarch64-pc-windows-msvc.exe#/comrak.exe"
+                "url": "https://gh-proxy.org/https://github.com/kivikakk/comrak/releases/download/v$version/comrak-$version-aarch64-pc-windows-msvc.exe#/comrak.exe"
             }
         }
     }

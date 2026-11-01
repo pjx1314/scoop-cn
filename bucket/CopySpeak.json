@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ilyaizen/CopySpeak/releases/download/v0.2.14/CopySpeak_0.2.14_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/ilyaizen/CopySpeak/releases/download/v0.2.14/CopySpeak_0.2.14_x64_en-US.msi",
             "hash": "5e45582b20c3cf18e9a3ceba4ba0273acc2229131bc86fe114b3357b5d23c76d"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ilyaizen/CopySpeak/releases/download/v$version/CopySpeak_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/ilyaizen/CopySpeak/releases/download/v$version/CopySpeak_$version_x64_en-US.msi"
             }
         }
     }

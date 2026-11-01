@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/sma11new/Pyke-Shiro/releases/download/0.3/Pyke-Shiro_0.3.jar#/Pyke-Shiro.jar",
+    "url": "https://gh-proxy.org/https://github.com/sma11new/Pyke-Shiro/releases/download/0.3/Pyke-Shiro_0.3.jar#/Pyke-Shiro.jar",
     "hash": "0684725ef94096cfcfc58ad7174dfedaee7ac53fa4bae26909f27ec4e7dd4da0",
     "pre_install": [
         "Set-Content \"$dir\\Pyke-Shiro.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sma11new/Pyke-Shiro/releases/download/$version/Pyke-Shiro_$version.jar#/Pyke-Shiro.jar"
+        "url": "https://gh-proxy.org/https://github.com/sma11new/Pyke-Shiro/releases/download/$version/Pyke-Shiro_$version.jar#/Pyke-Shiro.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

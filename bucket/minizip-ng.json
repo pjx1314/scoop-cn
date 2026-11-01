@@ -5,7 +5,7 @@
     "license": "Zlib",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zlib-ng/minizip-ng/releases/download/4.2.2/minizip-ng-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/zlib-ng/minizip-ng/releases/download/4.2.2/minizip-ng-windows.zip",
             "hash": "dd2125b6a6606f9b69845ac823e1a5a28f6a4171abb8e1487a01665716e48eb0"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zlib-ng/minizip-ng/releases/download/$version/minizip-ng-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/zlib-ng/minizip-ng/releases/download/$version/minizip-ng-windows.zip"
             }
         }
     }

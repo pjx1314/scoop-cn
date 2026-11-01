@@ -11,11 +11,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jrsoftware/issrc/releases/download/is-7_1_1/innosetup-7.1.1-x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/jrsoftware/issrc/releases/download/is-7_1_1/innosetup-7.1.1-x64.exe",
             "hash": "8a5a6711c3766a6e5fb74f280ba0e3551e719ce94538d901fdbd1f8f9920b3f0"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/jrsoftware/issrc/releases/download/is-7_1_1/innosetup-7.1.1-x86.exe",
+            "url": "https://gh-proxy.org/https://github.com/jrsoftware/issrc/releases/download/is-7_1_1/innosetup-7.1.1-x86.exe",
             "hash": "03446e46f5da932e408881168c01afc59cc667cb5bc927d839c5526ace5cc0d3"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jrsoftware/issrc/releases/download/is-$underscoreVersion/innosetup-$version-x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/jrsoftware/issrc/releases/download/is-$underscoreVersion/innosetup-$version-x64.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/jrsoftware/issrc/releases/download/is-$underscoreVersion/innosetup-$version-x86.exe"
+                "url": "https://gh-proxy.org/https://github.com/jrsoftware/issrc/releases/download/is-$underscoreVersion/innosetup-$version-x86.exe"
             }
         },
         "hash": {

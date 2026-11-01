@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tontinton/maki/releases/download/v0.7.0/maki-v0.7.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/tontinton/maki/releases/download/v0.7.0/maki-v0.7.0-x86_64-pc-windows-msvc.zip",
             "hash": "c3eedbc0b97cddeada430c008ca7cc58aad23aaf1cc630b399517dc6eef0af6f"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tontinton/maki/releases/download/v$version/maki-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/tontinton/maki/releases/download/v$version/maki-v$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

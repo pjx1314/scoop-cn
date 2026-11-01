@@ -3,7 +3,7 @@
     "description": "A CLR-based scripting system that uses ECMA-compliant C# as a programming language.",
     "homepage": "https://github.com/oleg-shilo/cs-script",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/oleg-shilo/cs-script/releases/download/v4.14.13.0/cs-script.win.v4.14.13.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/oleg-shilo/cs-script/releases/download/v4.14.13.0/cs-script.win.v4.14.13.0.zip",
     "hash": "ab2a9a64e468839f2caf09a17a05abc409d23b5d028751b4d2a3d0c384a7bee4",
     "bin": [
         "css.exe",
@@ -12,6 +12,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/oleg-shilo/cs-script/releases/download/v$version/cs-script.win.v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/oleg-shilo/cs-script/releases/download/v$version/cs-script.win.v$version.zip"
     }
 }

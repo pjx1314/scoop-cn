@@ -6,7 +6,7 @@
     "notes": "青简是 TSF 输入法，注册 DLL 要写 HKCR 与 HKLM\\SOFTWARE\\Microsoft\\CTF。输入引擎 qingjian-server 在切到青简时自动拉起，也可以从开始菜单启动。",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qingjian-team/qingjian/releases/download/v0.3.2/qingjian-0.3.2-windows-x86_64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/qingjian-team/qingjian/releases/download/v0.3.2/qingjian-0.3.2-windows-x86_64-setup.exe",
             "hash": "7437277f82d940a573cf47aa8994600a2a1b9b73625643114807452a017f925b"
         }
     },
@@ -84,7 +84,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qingjian-team/qingjian/releases/download/v$version/qingjian-$version-windows-x86_64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/qingjian-team/qingjian/releases/download/v$version/qingjian-$version-windows-x86_64-setup.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/wasmCloud/wasmCloud/releases/download/v2.11.0/wash-x86_64-pc-windows-msvc#/wash.exe",
+            "url": "https://gh-proxy.org/https://github.com/wasmCloud/wasmCloud/releases/download/v2.11.0/wash-x86_64-pc-windows-msvc#/wash.exe",
             "hash": "77faf09055cbbb49562552a8e0045681930c8662d1fbf19bccabf4ba2259ba21"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/wasmCloud/wasmCloud/releases/download/v$version/wash-x86_64-pc-windows-msvc#/wash.exe"
+                "url": "https://gh-proxy.org/https://github.com/wasmCloud/wasmCloud/releases/download/v$version/wash-x86_64-pc-windows-msvc#/wash.exe"
             }
         }
     }

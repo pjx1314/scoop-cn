@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/go-delve/delve/releases/download/v1.27.2/dlv_1.27.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-delve/delve/releases/download/v1.27.2/dlv_1.27.2_windows_amd64.zip",
             "hash": "630b5b9b14c89becb1123790563111c70f7e0cf90820a666582ad1caba05dbd6"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/go-delve/delve/releases/download/v$version/dlv_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-delve/delve/releases/download/v$version/dlv_$version_windows_amd64.zip"
             }
         }
     }

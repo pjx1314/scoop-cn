@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vchain-us/immudb/releases/download/v1.11.2/immudb-v1.11.2-windows-amd64.exe#/immudb.exe",
+            "url": "https://gh-proxy.org/https://github.com/vchain-us/immudb/releases/download/v1.11.2/immudb-v1.11.2-windows-amd64.exe#/immudb.exe",
             "hash": "dd41048e1f62b7fd65a01acb10be8213e7d16fcf79a59a0d59ea51c00ae1c41c"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vchain-us/immudb/releases/download/v$version/immudb-v$version-windows-amd64.exe#/immudb.exe"
+                "url": "https://gh-proxy.org/https://github.com/vchain-us/immudb/releases/download/v$version/immudb-v$version-windows-amd64.exe#/immudb.exe"
             }
         }
     }

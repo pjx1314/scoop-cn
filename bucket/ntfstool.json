@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/thewhiteninja/ntfstool/releases/download/v1.7/ntfstool.x64.exe#/ntfstool.exe",
+            "url": "https://gh-proxy.org/https://github.com/thewhiteninja/ntfstool/releases/download/v1.7/ntfstool.x64.exe#/ntfstool.exe",
             "hash": "1919d667d1d9bc40dfbfce162e10413c512aa55242bda9b40710ffd3b6ea9abb"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/thewhiteninja/ntfstool/releases/download/v1.7/ntfstool.x86.exe#/ntfstool.exe",
+            "url": "https://gh-proxy.org/https://github.com/thewhiteninja/ntfstool/releases/download/v1.7/ntfstool.x86.exe#/ntfstool.exe",
             "hash": "8e3c95bfd995e918bd805410102400a99b8fc18864f636fcbd659d29ae0af17a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/thewhiteninja/ntfstool/releases/download/v$version/ntfstool.x64.exe#/ntfstool.exe"
+                "url": "https://gh-proxy.org/https://github.com/thewhiteninja/ntfstool/releases/download/v$version/ntfstool.x64.exe#/ntfstool.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/thewhiteninja/ntfstool/releases/download/v$version/ntfstool.x86.exe#/ntfstool.exe"
+                "url": "https://gh-proxy.org/https://github.com/thewhiteninja/ntfstool/releases/download/v$version/ntfstool.x86.exe#/ntfstool.exe"
             }
         }
     }

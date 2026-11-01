@@ -3,7 +3,7 @@
     "description": "Toggle borderless mode for any window with a keyboard shortcut.",
     "homepage": "https://github.com/starise/borderless-toggle",
     "license": "ISC",
-    "url": "https://gh-proxy.com/https://github.com/starise/borderless-toggle/releases/download/v1.0.2/BorderlessToggle-1.0.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/starise/borderless-toggle/releases/download/v1.0.2/BorderlessToggle-1.0.2.zip",
     "hash": "7c4940263f34d81154b32151c529195345058658d652ee9fe95a461bb74678af",
     "pre_install": "if (!(Test-Path \"$dir\\settings.ini\")) { New-Item \"$dir\\settings.ini\" -Type File | Out-Null }",
     "bin": "BorderlessToggle.exe",
@@ -11,6 +11,6 @@
     "persist": "settings.ini",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/starise/borderless-toggle/releases/download/v$version/BorderlessToggle-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/starise/borderless-toggle/releases/download/v$version/BorderlessToggle-$version.zip"
     }
 }

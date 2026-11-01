@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ImageOptim/gifski/releases/download/1.34.0/gifski-1.34.0.tar.xz",
+            "url": "https://gh-proxy.org/https://github.com/ImageOptim/gifski/releases/download/1.34.0/gifski-1.34.0.tar.xz",
             "hash": "b9b6591aa163123d737353d9c8581efdf3234d28eeaa45329b31da905cd5a996"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ImageOptim/gifski/releases/download/$version/gifski-$version.tar.xz"
+                "url": "https://gh-proxy.org/https://github.com/ImageOptim/gifski/releases/download/$version/gifski-$version.tar.xz"
             }
         }
     }

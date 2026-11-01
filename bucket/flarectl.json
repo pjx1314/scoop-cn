@@ -5,11 +5,11 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cloudflare/cloudflare-go/releases/download/v0.119.0/flarectl_0.119.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cloudflare/cloudflare-go/releases/download/v0.119.0/flarectl_0.119.0_windows_amd64.tar.gz",
             "hash": "5fe4acb54556f06e5f6411676ac6cddc0d336e78205086e22b2a855f9a533663"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cloudflare/cloudflare-go/releases/download/v0.119.0/flarectl_0.119.0_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cloudflare/cloudflare-go/releases/download/v0.119.0/flarectl_0.119.0_windows_arm64.tar.gz",
             "hash": "fc49fdd0ef70c199666c4818e8a7d6fd73a9d6a93adb76e0d41ddc6b95f1dab3"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cloudflare/cloudflare-go/releases/download/v$version/flarectl_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cloudflare/cloudflare-go/releases/download/v$version/flarectl_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cloudflare/cloudflare-go/releases/download/v$version/flarectl_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cloudflare/cloudflare-go/releases/download/v$version/flarectl_$version_windows_arm64.tar.gz"
             }
         }
     }

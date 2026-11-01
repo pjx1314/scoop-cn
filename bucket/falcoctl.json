@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/falcosecurity/falcoctl/releases/download/v0.14.3/falcoctl_0.14.3_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/falcosecurity/falcoctl/releases/download/v0.14.3/falcoctl_0.14.3_windows_amd64.zip",
             "hash": "2e6bee3795aec36dfceb84aaca958a87dd5e79c9b4b901a17537d1624d199659"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/falcosecurity/falcoctl/releases/download/v0.14.3/falcoctl_0.14.3_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/falcosecurity/falcoctl/releases/download/v0.14.3/falcoctl_0.14.3_windows_arm64.zip",
             "hash": "9317a65cc8697d911e0ec006332d3fec64dccd273457ce296a909e0406cf28d3"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/falcosecurity/falcoctl/releases/download/v$version/falcoctl_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/falcosecurity/falcoctl/releases/download/v$version/falcoctl_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/falcosecurity/falcoctl/releases/download/v$version/falcoctl_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/falcosecurity/falcoctl/releases/download/v$version/falcoctl_$version_windows_arm64.zip"
             }
         },
         "hash": {

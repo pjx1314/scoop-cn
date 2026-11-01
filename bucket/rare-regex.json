@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zix99/rare/releases/download/0.5.6/rare_0.5.6_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zix99/rare/releases/download/0.5.6/rare_0.5.6_Windows_x86_64.zip",
             "hash": "022511c9ea6658c787867440464660dc4a9838fc36e65dacd68a9f5e6437bdf1"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zix99/rare/releases/download/0.5.6/rare_0.5.6_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zix99/rare/releases/download/0.5.6/rare_0.5.6_Windows_arm64.zip",
             "hash": "ad53189c62c8e8f0b8c69c16e36a3372d2f2b0fdb78b95ecb2956227f183754f"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zix99/rare/releases/download/$version/rare_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zix99/rare/releases/download/$version/rare_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/zix99/rare/releases/download/$version/rare_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zix99/rare/releases/download/$version/rare_$version_Windows_arm64.zip"
             }
         },
         "hash": {

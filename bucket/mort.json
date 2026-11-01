@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/killkimno/MORT/releases/download/1.320/MORT.1.320v.-.20260911.zip",
+            "url": "https://gh-proxy.org/https://github.com/killkimno/MORT/releases/download/1.320/MORT.1.320v.-.20260911.zip",
             "hash": "56d85a6855423a6bd05e8cc1f445e593bea28d78170e2c756ed5a4cd17177d27"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/killkimno/MORT/releases/download/$matchVersion/MORT.$matchVersionv.-.$matchBuild.zip"
+                "url": "https://gh-proxy.org/https://github.com/killkimno/MORT/releases/download/$matchVersion/MORT.$matchVersionv.-.$matchBuild.zip"
             }
         }
     }

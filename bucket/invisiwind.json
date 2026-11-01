@@ -3,7 +3,7 @@
     "description": "An application that allows you to hide certain windows when sharing your full screen.",
     "homepage": "https://github.com/radiantly/Invisiwind",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/radiantly/Invisiwind/releases/download/v2.1.0/Invisiwind.zip",
+    "url": "https://gh-proxy.org/https://github.com/radiantly/Invisiwind/releases/download/v2.1.0/Invisiwind.zip",
     "hash": "1df9b206fbbb03a5485f796c02a8f7267691bbb7a3cc025fe634208526286fb9",
     "architecture": {
         "64bit": {
@@ -28,6 +28,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-         "url": "https://gh-proxy.com/https://github.com/radiantly/Invisiwind/releases/download/v$version/Invisiwind.zip"
+         "url": "https://gh-proxy.org/https://github.com/radiantly/Invisiwind/releases/download/v$version/Invisiwind.zip"
     }
 }

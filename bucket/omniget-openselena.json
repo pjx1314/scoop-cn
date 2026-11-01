@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenSelena/omniget/releases/download/v0.14.0/omniget_0.14.0_x64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/OpenSelena/omniget/releases/download/v0.14.0/omniget_0.14.0_x64-setup.exe",
             "hash": "6ec0f359fa7e8ba9264202d398c5bd03ccd7dd57647be30acbafbbcc4a522db7",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse"
         }
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenSelena/omniget/releases/download/v$version/omniget_$version_x64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/OpenSelena/omniget/releases/download/v$version/omniget_$version_x64-setup.exe"
             }
         }
     }

@@ -15,11 +15,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.6/LibreCAD-v2.2.1.6-win64-msvc.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.6/LibreCAD-v2.2.1.6-win64-msvc.exe#/dl.7z",
             "hash": "0cd876d0e3fbfcdcdb85e5019080aca243908f4ad5c3b3c93a55ee9ba154f95b"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.6/LibreCAD-v2.2.1.6-msvc.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.6/LibreCAD-v2.2.1.6-msvc.exe#/dl.7z",
             "hash": "d55588f6bbe59e2512ef0f1681246cfff302b0ee78d9dc69b709f51fc917c207"
         }
     },
@@ -61,10 +61,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LibreCAD/LibreCAD/releases/download/$matchTag/LibreCAD-$matchString-win64-msvc.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/LibreCAD/LibreCAD/releases/download/$matchTag/LibreCAD-$matchString-win64-msvc.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/LibreCAD/LibreCAD/releases/download/$matchTag/LibreCAD-$matchString-msvc.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/LibreCAD/LibreCAD/releases/download/$matchTag/LibreCAD-$matchString-msvc.exe#/dl.7z"
             }
         }
     }

@@ -15,7 +15,7 @@
         "$null = [IniFile]::WritePrivateProfileString(\"wsl2\", \"kernelModules\", $null, \"$env:USERPROFILE\\.wslconfig\")"
     ],
     "version": "6.18.59-1.1",
-    "url": "https://gh-proxy.com/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/6.18.59-locietta-WSL2-xanmod1.1-lts/bzImage-x64v2-addons.vhdx.7z",
+    "url": "https://gh-proxy.org/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/6.18.59-locietta-WSL2-xanmod1.1-lts/bzImage-x64v2-addons.vhdx.7z",
     "hash": "7a17dde1bfdccee4a154025a2e8efe430b601a6cb25b16b58277ba1315b569d6",
     "checkver": {
         "script": [
@@ -26,6 +26,6 @@
         "replace": "${1}-${2}"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/$matchMain-locietta-WSL2-xanmod$matchXanmod-lts/bzImage-x64v2-addons.vhdx.7z"
+        "url": "https://gh-proxy.org/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/$matchMain-locietta-WSL2-xanmod$matchXanmod-lts/bzImage-x64v2-addons.vhdx.7z"
     }
 }

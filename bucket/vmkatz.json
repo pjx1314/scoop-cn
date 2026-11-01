@@ -3,12 +3,12 @@
     "description": "VMkatz - VMware虚拟机内存取证与凭证提取工具",
     "homepage": "https://github.com/nikaiw/VMkatz",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/nikaiw/VMkatz/releases/download/v1.5.2/vmkatz-v1.5.2-windows-x86_64.zip#/vmkatz.zip",
+    "url": "https://gh-proxy.org/https://github.com/nikaiw/VMkatz/releases/download/v1.5.2/vmkatz-v1.5.2-windows-x86_64.zip#/vmkatz.zip",
     "hash": "48faf4fe23d84430b3e65f7a2c75b2fa73770e7cab22dff9f338c015e674f626",
     "bin": "vmkatz.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/nikaiw/VMkatz/releases/download/v$version/vmkatz-v$version-windows-x86_64.zip#/vmkatz.zip"
+        "url": "https://gh-proxy.org/https://github.com/nikaiw/VMkatz/releases/download/v$version/vmkatz-v$version-windows-x86_64.zip#/vmkatz.zip"
     },
     "notes": [
         "【工具类型】: 安全取证工具",

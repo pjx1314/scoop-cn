@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.zip",
             "hash": "06211cd87e3159955f01628a9494250f9f32154dd78759d77e8ba76cc3f11f99"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/orhun/flawz/releases/download/v$version/flawz-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/orhun/flawz/releases/download/v$version/flawz-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

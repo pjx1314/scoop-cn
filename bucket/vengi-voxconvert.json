@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vengi-voxel/vengi/releases/download/v0.6.0/win-voxconvert.zip",
+            "url": "https://gh-proxy.org/https://github.com/vengi-voxel/vengi/releases/download/v0.6.0/win-voxconvert.zip",
             "hash": "ad00f299b6b5012f8dee97aea4f0d355d40690d2334908d0de9b57e27a07d10d"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vengi-voxel/vengi/releases/download/v$version/win-voxconvert.zip"
+                "url": "https://gh-proxy.org/https://github.com/vengi-voxel/vengi/releases/download/v$version/win-voxconvert.zip"
             }
         }
     }

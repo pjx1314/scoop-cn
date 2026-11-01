@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/DropSnorz/OwlPlug/releases/download/2.1.0/OwlPlug-2.1.0-win-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/DropSnorz/OwlPlug/releases/download/2.1.0/OwlPlug-2.1.0-win-x64.msi",
             "hash": "04c2b2c1d8ddb67c6b7f241d97ccd71b7fbdcbe4e33d376ee64f5a5be9b7b7c9"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/DropSnorz/OwlPlug/releases/download/$version/OwlPlug-$version-win-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/DropSnorz/OwlPlug/releases/download/$version/OwlPlug-$version-win-x64.msi"
             }
         }
     }

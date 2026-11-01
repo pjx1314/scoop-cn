@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-2.6.5/shimmy-2.6.5-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-2.6.5/shimmy-2.6.5-x86_64-pc-windows-msvc.tar.gz",
             "hash": "31f1d91a4e4ab956ba085032e3a7beb73ed0cd9e2a17e05d36a5568dbb0f2ddd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-2.6.5/shimmy-2.6.5-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-2.6.5/shimmy-2.6.5-aarch64-pc-windows-msvc.tar.gz",
             "hash": "5a0906c1e9f38e992f12c46e017f3df4380b0ed930e72f42101866922ba63d8e"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-$version/shimmy-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-$version/shimmy-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-$version/shimmy-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-$version/shimmy-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

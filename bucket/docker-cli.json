@@ -5,7 +5,7 @@
     "version": "29.9.2",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iquiw/docker-cli-binary/releases/download/v29.9.2/docker-v29.9.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/iquiw/docker-cli-binary/releases/download/v29.9.2/docker-v29.9.2.zip",
             "hash": "c8b565550bfdd98d5b9a04d3d5483772889e385f9cb54f2b1046983c9798eb6b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iquiw/docker-cli-binary/releases/download/v$version/docker-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/iquiw/docker-cli-binary/releases/download/v$version/docker-v$version.zip"
             }
         },
         "hash": {

@@ -7,7 +7,7 @@
         "identifier": "GPL-3.0",
         "url": "https://github.com/theJayTea/WritingTools#GPL-3.0-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/theJayTea/WritingTools/releases/download/Win_v9+mac_OS_v6.1/Writing.Tools.Windows.v9.zip",
+    "url": "https://gh-proxy.org/https://github.com/theJayTea/WritingTools/releases/download/Win_v9+mac_OS_v6.1/Writing.Tools.Windows.v9.zip",
     "hash": "b6604412fc94deee385a7708c80b09b6c82bc9d2face62ff3db3778ef13189bf",
     "checkver": {
         "github": "https://github.com/theJayTea/WritingTools",
@@ -15,7 +15,7 @@
         "regex": "Win_v([\\d.]+)\\+mac_OS_(?<mac>.+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/theJayTea/WritingTools/releases/download/Win_v$version+mac_OS_$matchMac/Writing.Tools.Windows.v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/theJayTea/WritingTools/releases/download/Win_v$version+mac_OS_$matchMac/Writing.Tools.Windows.v$version.zip"
     },
     "shortcuts": [
         [

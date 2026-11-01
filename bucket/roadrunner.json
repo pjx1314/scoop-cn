@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/roadrunner-server/roadrunner/releases/download/v3.0.1/roadrunner-3.0.1-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/roadrunner-server/roadrunner/releases/download/v3.0.1/roadrunner-3.0.1-windows-amd64.zip",
             "extract_dir": "roadrunner-3.0.1-windows-amd64",
             "hash": "a8c908c70fe82ccd824e7bbd8e4e95ac541b98e8aa1f13bb70b9a89994592408"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/roadrunner-server/roadrunner/releases/download/v$version/roadrunner-$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/roadrunner-server/roadrunner/releases/download/v$version/roadrunner-$version-windows-amd64.zip",
                 "extract_dir": "roadrunner-$version-windows-amd64"
             }
         }

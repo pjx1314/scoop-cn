@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-desktop-windows-x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/simplex-chat/simplex-chat/releases/download/v7.0.3/simplex-desktop-windows-x86_64.msi",
             "hash": "0162d8eb42917b59962203b74527512c6d05eb032cf6e8189b62eb39587fbc79"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/simplex-chat/simplex-chat/releases/download/v$version/simplex-desktop-windows-x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/simplex-chat/simplex-chat/releases/download/v$version/simplex-desktop-windows-x86_64.msi"
             }
         }
     }

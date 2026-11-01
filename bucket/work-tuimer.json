@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kamyil/work-tuimer/releases/download/v0.6.0/work-tuimer-windows-x86_64.exe#/work-tuimer.exe",
+            "url": "https://gh-proxy.org/https://github.com/Kamyil/work-tuimer/releases/download/v0.6.0/work-tuimer-windows-x86_64.exe#/work-tuimer.exe",
             "hash": "3f8afc86c9fe77d90e4d24cb8cf4187ef8510088f4297ec1c47f7595450bf52a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kamyil/work-tuimer/releases/download/v$version/work-tuimer-windows-x86_64.exe#/work-tuimer.exe"
+                "url": "https://gh-proxy.org/https://github.com/Kamyil/work-tuimer/releases/download/v$version/work-tuimer-windows-x86_64.exe#/work-tuimer.exe"
             }
         }
     }

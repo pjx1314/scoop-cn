@@ -4,11 +4,11 @@
     "homepage": "https://github.com/TabbyML/tabby",
     "license": {
         "identifier": "Apache-2.0",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TabbyML/tabby/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/TabbyML/tabby/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TabbyML/tabby/releases/download/v0.32.0/tabby_x86_64-windows-msvc-cuda124.zip",
+            "url": "https://gh-proxy.org/https://github.com/TabbyML/tabby/releases/download/v0.32.0/tabby_x86_64-windows-msvc-cuda124.zip",
             "extract_dir": "tabby_x86_64-windows-msvc-cuda124",
             "hash": "7f6632ccea11a8769ff698c27d11e8dc87e9db5b177999dd298112f2b12fc25d"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TabbyML/tabby/releases/download/v$version/tabby_x86_64-windows-msvc-cuda124.zip"
+                "url": "https://gh-proxy.org/https://github.com/TabbyML/tabby/releases/download/v$version/tabby_x86_64-windows-msvc-cuda124.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Files-com/files-cli/releases/download/v2.15.595/files-cli_windows_64bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/Files-com/files-cli/releases/download/v2.15.595/files-cli_windows_64bit.zip",
             "hash": "642f3d15d668369f30553920c3c88d1ed769c583bdca439c29a7929523a58490"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Files-com/files-cli/releases/download/v2.15.595/files-cli_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Files-com/files-cli/releases/download/v2.15.595/files-cli_windows_arm64.zip",
             "hash": "5a1d74b21811a5720a12eb717e8b24e50bfb3975a206875b07d4bf1ad0017333"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Files-com/files-cli/releases/download/v$version/files-cli_windows_64bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/Files-com/files-cli/releases/download/v$version/files-cli_windows_64bit.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Files-com/files-cli/releases/download/v$version/files-cli_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Files-com/files-cli/releases/download/v$version/files-cli_windows_arm64.zip"
             }
         },
         "hash": {

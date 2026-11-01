@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kellyjonbrazil/jc/releases/download/v1.26.2/jc-1.26.2-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/kellyjonbrazil/jc/releases/download/v1.26.2/jc-1.26.2-windows.zip",
             "hash": "1d722857ce7b8f267b31b93d2904e145d09e5322c0183358909d775c83abff60"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kellyjonbrazil/jc/releases/download/v$version/jc-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/kellyjonbrazil/jc/releases/download/v$version/jc-$version-windows.zip"
             }
         },
         "extract_dir": "jc-$version-windows"

@@ -5,11 +5,11 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iwvw/Momomi/releases/download/v0.8.20/Momomi-0.8.20-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/iwvw/Momomi/releases/download/v0.8.20/Momomi-0.8.20-x64-portable.zip",
             "hash": "f71529d1dbd76a87398bbcd1344406be242cf923de2f77abb790520305789828"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/iwvw/Momomi/releases/download/v0.8.20/Momomi-0.8.20-arm64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/iwvw/Momomi/releases/download/v0.8.20/Momomi-0.8.20-arm64-portable.zip",
             "hash": "c7f385af44369c11647262a7fbe774bd80ce9ddb676875ce8e83d7bc6a026499"
         }
     },
@@ -30,14 +30,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iwvw/Momomi/releases/download/v$version/Momomi-$version-x64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/iwvw/Momomi/releases/download/v$version/Momomi-$version-x64-portable.zip",
                 "hash": {
                     "url": "https://api.github.com/repos/iwvw/Momomi/releases/tags/v$version",
                     "jsonpath": "$.assets[?(@.name=='Momomi-$version-x64-portable.zip')].digest"
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/iwvw/Momomi/releases/download/v$version/Momomi-$version-arm64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/iwvw/Momomi/releases/download/v$version/Momomi-$version-arm64-portable.zip",
                 "hash": {
                     "url": "https://api.github.com/repos/iwvw/Momomi/releases/tags/v$version",
                     "jsonpath": "$.assets[?(@.name=='Momomi-$version-arm64-portable.zip')].digest"

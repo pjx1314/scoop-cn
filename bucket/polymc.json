@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0-only",
         "url": "https://github.com/PolyMC/PolyMC/blob/develop/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/PolyMC/PolyMC/releases/download/8.1/PolyMC-Windows-Portable-amd64-8.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/PolyMC/PolyMC/releases/download/8.1/PolyMC-Windows-Portable-amd64-8.1.zip",
     "hash": "bd6be0f7371521dc5bb9622e6f77eb9dfc632d5bf22ecdb1f1e78a7fe3ee2a0a",
     "bin": "polymc.exe",
     "shortcuts": [
@@ -39,6 +39,6 @@
         "github": "https://github.com/PolyMC/PolyMC"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/PolyMC/PolyMC/releases/download/$version/PolyMC-Windows-Portable-amd64-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/PolyMC/PolyMC/releases/download/$version/PolyMC-Windows-Portable-amd64-$version.zip"
     }
 }

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sharpemu/sharpemu/releases/download/v0.0.7-pulse/sharpemu-0.0.7-pulse-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sharpemu/sharpemu/releases/download/v0.0.7-pulse/sharpemu-0.0.7-pulse-win-x64.zip",
             "hash": "3ab0ac49f2401dc8aa73ec671e6c83fb7785f7aacbaedc194de15c2bc4d0733c"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sharpemu/sharpemu/releases/download/v$version/sharpemu-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sharpemu/sharpemu/releases/download/v$version/sharpemu-$version-win-x64.zip"
             }
         }
     }

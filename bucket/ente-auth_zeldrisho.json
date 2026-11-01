@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ente-io/ente/releases/download/auth-v4.4.25/ente-auth-v4.4.25-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/ente-io/ente/releases/download/auth-v4.4.25/ente-auth-v4.4.25-windows.zip",
             "hash": "fa4e12ad782807cd51b283e987032ff07be2e64545292bbf04b574bc49005a90"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ente-io/ente/releases/download/auth-v$version/ente-auth-v$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/ente-io/ente/releases/download/auth-v$version/ente-auth-v$version-windows.zip"
             }
         },
         "extract_dir": "ente-auth-v$version-windows"

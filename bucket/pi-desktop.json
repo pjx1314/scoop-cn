@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LCorleone/pi-desktop/releases/download/v1.9.1/Pi.Desktop_1.9.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/LCorleone/pi-desktop/releases/download/v1.9.1/Pi.Desktop_1.9.1_x64-setup.exe#/dl.7z",
             "hash": "5c1d39e9b95817881e579161b278d5431d5ef88b1b9941d1b50c2bad389c68b8"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LCorleone/pi-desktop/releases/download/v$version/Pi.Desktop_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/LCorleone/pi-desktop/releases/download/v$version/Pi.Desktop_$version_x64-setup.exe#/dl.7z"
             }
         }
     },

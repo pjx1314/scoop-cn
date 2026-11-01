@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/shuanx/BurpFingerPrint",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/shuanx/BurpFingerPrint/releases/download/v1.5/BurpFingerPrint.jar",
+    "url": "https://gh-proxy.org/https://github.com/shuanx/BurpFingerPrint/releases/download/v1.5/BurpFingerPrint.jar",
     "hash": "132ce46ec25a4b4ed68be64b36fc758b71779f4a40c3d7fe570ffa82e84dbebd",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/shuanx/BurpFingerPrint/releases/download/v$version/BurpFingerPrint.jar"
+        "url": "https://gh-proxy.org/https://github.com/shuanx/BurpFingerPrint/releases/download/v$version/BurpFingerPrint.jar"
     }
 }

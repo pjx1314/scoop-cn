@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Mergifyio/mergify-cli/releases/download/2026.10.11/mergify-2026.10.11-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/Mergifyio/mergify-cli/releases/download/2026.10.11/mergify-2026.10.11-x86_64-pc-windows-msvc.zip",
             "hash": "f8e359c17d3cade71c133f2298e1b403207a727a0f2c1c810866c1f2335d908a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Mergifyio/mergify-cli/releases/download/$version/mergify-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/Mergifyio/mergify-cli/releases/download/$version/mergify-$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

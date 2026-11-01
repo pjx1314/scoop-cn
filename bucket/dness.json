@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nickbabcock/dness/releases/download/v0.6.1/dness-0.6.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/nickbabcock/dness/releases/download/v0.6.1/dness-0.6.1-x86_64-pc-windows-msvc.zip",
             "hash": "d9e5c208f23f31a900c72658bddb3263dfc6c4a33f3110a8f5aa19d804a31ecb",
             "extract_dir": "dness-0.6.1-x86_64-pc-windows-msvc"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nickbabcock/dness/releases/download/v$version/dness-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/nickbabcock/dness/releases/download/v$version/dness-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "dness-$version-x86_64-pc-windows-msvc"
             }
         }

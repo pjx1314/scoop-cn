@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max/releases/download/AMQ/ActiveMQ_RCE_GUI_v1.0.3.jar#/ActiveMQ_RCE_GUI.jar",
+    "url": "https://gh-proxy.org/https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max/releases/download/AMQ/ActiveMQ_RCE_GUI_v1.0.3.jar#/ActiveMQ_RCE_GUI.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\ActiveMQ_RCE_GUI.bat\" '@pushd %~dp0",

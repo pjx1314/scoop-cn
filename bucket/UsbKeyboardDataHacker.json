@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/WangYihang/UsbKeyboardDataHacker/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/WangYihang/UsbKeyboardDataHacker/archive/refs/heads/master.zip",
     "hash": "09be8e5493d3c693cb50cd316b7619c520275070fc3fd22effe8468e8b393e67",
     "extract_dir": "UsbKeyboardDataHacker-main",
     "pre_install": [
@@ -27,6 +27,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/WangYihang/UsbKeyboardDataHacker/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/WangYihang/UsbKeyboardDataHacker/archive/refs/heads/master.zip"
     }
 }

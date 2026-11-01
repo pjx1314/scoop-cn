@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ascii-boxes/boxes/releases/download/v2.3.2/boxes-2.3.2-intel-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ascii-boxes/boxes/releases/download/v2.3.2/boxes-2.3.2-intel-x64.zip",
             "hash": "de13ec7e46ca1851e3e1a5ed9b6f8217edcda742ff614bce441ae0a46d2741a6"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ascii-boxes/boxes/releases/download/v$version/boxes-$version-intel-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ascii-boxes/boxes/releases/download/v$version/boxes-$version-intel-x64.zip"
             }
         },
         "extract_dir": "boxes-$version"

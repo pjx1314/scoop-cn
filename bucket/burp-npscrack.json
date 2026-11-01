@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/weishen250/npscrack",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/weishen250/npscrack/releases/download/npscrack-1.0/NPSauto-1.0.jar#/NPSauto.jar",
+    "url": "https://gh-proxy.org/https://github.com/weishen250/npscrack/releases/download/npscrack-1.0/NPSauto-1.0.jar#/NPSauto.jar",
     "hash": "2c6285a6b3d195db85e6d8b1f918535ee20eb06b7477cf0ce54d3751e84b24da",
     "checkver": {
         "url": "https://api.github.com/repos/weishen250/npscrack/releases/latest",
@@ -17,6 +17,6 @@
         "regex": "npscrack-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/weishen250/npscrack/releases/download/npscrack-$version/NPSauto-$version.jar#/NPSauto.jar"
+        "url": "https://gh-proxy.org/https://github.com/weishen250/npscrack/releases/download/npscrack-$version/NPSauto-$version.jar#/NPSauto.jar"
     }
 }

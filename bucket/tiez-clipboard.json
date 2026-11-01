@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jimuzhe/tiez-clipboard/releases/download/v0.3.3/TieZ_0.3.3-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/jimuzhe/tiez-clipboard/releases/download/v0.3.3/TieZ_0.3.3-portable.zip",
             "extract_dir": "TieZ_0.3.3-portable",
             "hash": "74a4cc2561b5ee48fc3788794d157ab45802e1e8fffaae49cfa3574c66e39548"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jimuzhe/tiez-clipboard/releases/download/v$version/TieZ_$version-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/jimuzhe/tiez-clipboard/releases/download/v$version/TieZ_$version-portable.zip",
                 "extract_dir": "TieZ_$version-portable"
             }
         }

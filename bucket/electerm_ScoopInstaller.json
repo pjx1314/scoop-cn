@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/electerm/electerm/releases/download/v5.8.0/electerm-5.8.0-win-x64-portable.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/electerm/electerm/releases/download/v5.8.0/electerm-5.8.0-win-x64-portable.tar.gz",
             "hash": "a7eb4e621d6749efb94f2be70a4168deb61ace5f8cfc20d07d2459afa45649dc",
             "extract_dir": "electerm-5.8.0-win-x64-portable"
         }
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/electerm/electerm/releases/download/v$version/electerm-$version-win-x64-portable.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/electerm/electerm/releases/download/v$version/electerm-$version-win-x64-portable.tar.gz",
                 "extract_dir": "electerm-$version-win-x64-portable"
             }
         }

@@ -3,11 +3,11 @@
     "description": "RootHawk - Linux提权综合利用工具，集成多个CVE提权模块",
     "homepage": "https://github.com/RoadBicycle-C/RootHawk",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/RoadBicycle-C/RootHawk/releases/download/v2.0.0/RootHawk-v2.0.0-amd64#/RootHawk",
+    "url": "https://gh-proxy.org/https://github.com/RoadBicycle-C/RootHawk/releases/download/v2.0.0/RootHawk-v2.0.0-amd64#/RootHawk",
     "hash": "f8f912c8ca4a048fe2a9ee122a25ccb90dabca11cb4c7eb4ca35db23a949cf55",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/RoadBicycle-C/RootHawk/releases/download/v$version/RootHawk-v$version-amd64#/RootHawk"
+        "url": "https://gh-proxy.org/https://github.com/RoadBicycle-C/RootHawk/releases/download/v$version/RootHawk-v$version-amd64#/RootHawk"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

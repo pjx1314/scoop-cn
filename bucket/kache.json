@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kunobi-ninja/kache/releases/download/v2.0.0-rc.3/kache-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/kunobi-ninja/kache/releases/download/v2.0.0-rc.3/kache-x86_64-pc-windows-msvc.zip",
             "hash": "86c321b7171fecb5dede8fccbcd59dc5061fae506461a0d5ec891603b84757a8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kunobi-ninja/kache/releases/download/v2.0.0-rc.3/kache-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/kunobi-ninja/kache/releases/download/v2.0.0-rc.3/kache-aarch64-pc-windows-msvc.zip",
             "hash": "232778080a5fbb26b4044361bf2c250b95095f187739c8e9c1675e5ad663e32f"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kunobi-ninja/kache/releases/download/v$version/kache-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/kunobi-ninja/kache/releases/download/v$version/kache-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kunobi-ninja/kache/releases/download/v$version/kache-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/kunobi-ninja/kache/releases/download/v$version/kache-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

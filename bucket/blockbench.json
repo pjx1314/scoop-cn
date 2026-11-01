@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/JannisX11/blockbench/releases/download/v5.2.2/Blockbench_arm64_5.2.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/JannisX11/blockbench/releases/download/v5.2.2/Blockbench_arm64_5.2.2.exe#/dl.7z",
             "hash": "12a3734d1c9328c936d31429015ae08e5aa76885d51e343eb6173de20301a3ed",
             "installer": {
                 "script": [
@@ -15,7 +15,7 @@
             }
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JannisX11/blockbench/releases/download/v5.2.2/Blockbench_x64_5.2.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/JannisX11/blockbench/releases/download/v5.2.2/Blockbench_x64_5.2.2.exe#/dl.7z",
             "hash": "e866484b770f81db9e3ce20ec2adefe19529f34cacb6d764feb17163a575cec1",
             "installer": {
                 "script": [
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/JannisX11/blockbench/releases/download/v$version/Blockbench_arm64_$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/JannisX11/blockbench/releases/download/v$version/Blockbench_arm64_$version.exe#/dl.7z"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/JannisX11/blockbench/releases/download/v$version/Blockbench_x64_$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/JannisX11/blockbench/releases/download/v$version/Blockbench_x64_$version.exe#/dl.7z"
             }
         }
     }

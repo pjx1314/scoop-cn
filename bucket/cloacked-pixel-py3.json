@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Cliffordwr/cloacked-pixel-python3/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Cliffordwr/cloacked-pixel-python3/archive/refs/heads/master.zip",
     "hash": "0d2162a930ffc843a86b5fbebb775432ae86f29f5d623fc031f3638159097fad",
     "extract_dir": "cloacked-pixel-python3-main",
     "pre_install": [
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Cliffordwr/cloacked-pixel-python3/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Cliffordwr/cloacked-pixel-python3/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

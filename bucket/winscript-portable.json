@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/flick9000/winscript/releases/download/v2.28.0/winscript-portable.exe#/WinScript.exe",
+            "url": "https://gh-proxy.org/https://github.com/flick9000/winscript/releases/download/v2.28.0/winscript-portable.exe#/WinScript.exe",
             "hash": "b027832ecd4c21cd4fb763cda5b81ffb3f93625f32f85a6c34cb00bf35ccee53"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/flick9000/winscript/releases/download/v$version/winscript-portable.exe#/WinScript.exe"
+                "url": "https://gh-proxy.org/https://github.com/flick9000/winscript/releases/download/v$version/winscript-portable.exe#/WinScript.exe"
             }
         }
     }

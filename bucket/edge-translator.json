@@ -5,7 +5,7 @@
     "license": "LGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NucleusFramework/EdgeTranslator/releases/download/v1.2.1/edgetranslator-1.2.1-win-x64-nsis.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/NucleusFramework/EdgeTranslator/releases/download/v1.2.1/edgetranslator-1.2.1-win-x64-nsis.exe#/dl.7z",
             "hash": "5a55ae68de99c776b02239ea6eec45d38d17b147d667dfea51402dd79803191e",
             "installer": {
                 "script": [
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NucleusFramework/EdgeTranslator/releases/download/v$version/edgetranslator-$version-win-x64-nsis.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/NucleusFramework/EdgeTranslator/releases/download/v$version/edgetranslator-$version-win-x64-nsis.exe#/dl.7z"
             }
         }
     }

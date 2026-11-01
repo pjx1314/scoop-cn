@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CycloneDX/sbom-utility/releases/download/v0.19.2/sbom-utility-v0.19.2-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CycloneDX/sbom-utility/releases/download/v0.19.2/sbom-utility-v0.19.2-windows-amd64.zip",
             "hash": "md5:e8a3ff2eec02241982f731ef3c9ced9a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/CycloneDX/sbom-utility/releases/download/v0.19.2/sbom-utility-v0.19.2-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CycloneDX/sbom-utility/releases/download/v0.19.2/sbom-utility-v0.19.2-windows-arm64.zip",
             "hash": "md5:538c7a181c96febc369d2d9b91a3086c"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CycloneDX/sbom-utility/releases/download/v$version/sbom-utility-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/CycloneDX/sbom-utility/releases/download/v$version/sbom-utility-v$version-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/CycloneDX/sbom-utility/releases/download/v$version/sbom-utility-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/CycloneDX/sbom-utility/releases/download/v$version/sbom-utility-v$version-windows-arm64.zip"
             }
         },
         "hash": {

@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hu3rror/QuicMic/releases/download/v0.3.0/quicmic-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/hu3rror/QuicMic/releases/download/v0.3.0/quicmic-x86_64-pc-windows-msvc.zip",
             "hash": "e4211ed1ff7304e0deb7859ac80e84ce9f791f6fc74e68bd8b30cd55d16aac96"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/hu3rror/QuicMic/releases/download/v0.3.0/quicmic-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/hu3rror/QuicMic/releases/download/v0.3.0/quicmic-aarch64-pc-windows-msvc.zip",
             "hash": "3a12bc9f019e330ea5b11870b4cb5e1188c40b1b0973148d263ceb329096731f"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hu3rror/QuicMic/releases/download/v$version/quicmic-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/hu3rror/QuicMic/releases/download/v$version/quicmic-x86_64-pc-windows-msvc.zip",
                 "hash": {
                     "url": "$url.sha256"
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/hu3rror/QuicMic/releases/download/v$version/quicmic-aarch64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/hu3rror/QuicMic/releases/download/v$version/quicmic-aarch64-pc-windows-msvc.zip",
                 "hash": {
                     "url": "$url.sha256"
                 }

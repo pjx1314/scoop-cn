@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v0.7.11/chorctl_v0.7.11_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v0.7.11/chorctl_v0.7.11_windows_386.zip",
             "hash": "2bc1f7c6590bf23f755c8be19d71ca8bf006a38c2a2977fdc7d0398e35d7fd48"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v0.7.11/chorctl_v0.7.11_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v0.7.11/chorctl_v0.7.11_windows_amd64.zip",
             "hash": "633be894e833fbd2112cb97a18f804b8683c8c65de81ab0604a8ce08916bd575"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v$version/chorctl_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v$version/chorctl_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v$version/chorctl_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v$version/chorctl_v$version_windows_386.zip"
             }
         },
         "hash": {

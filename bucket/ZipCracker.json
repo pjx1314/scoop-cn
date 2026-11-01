@@ -11,10 +11,10 @@
         "python": "python"
     },
     "extract_dir": "ZipCracker-628838597d15ea0177eaafa6765920678a2e1b5e",
-    "url": "https://gh-proxy.com/https://github.com/asaotomo/ZipCracker/archive/628838597d15ea0177eaafa6765920678a2e1b5e.zip",
+    "url": "https://gh-proxy.org/https://github.com/asaotomo/ZipCracker/archive/628838597d15ea0177eaafa6765920678a2e1b5e.zip",
     "hash": "19542b5232c3b15d4a208880e3896ee8d6042bfb909ec5fee4d777711f9cec3e",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/asaotomo/ZipCracker/archive/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/asaotomo/ZipCracker/archive/$version.zip",
         "extract_dir": "ZipCracker-$version"
     },
     "bin": "ZipCracker.py"

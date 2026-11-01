@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenConverterLab/OpenConverter/releases/download/v1.5.5/OpenConverter_win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenConverterLab/OpenConverter/releases/download/v1.5.5/OpenConverter_win64.zip",
             "hash": "589721025f658e67a880bff9281b6507b252eac220de4d2344731a4098c9185e"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenConverterLab/OpenConverter/releases/download/v$version/OpenConverter_win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/OpenConverterLab/OpenConverter/releases/download/v$version/OpenConverter_win64.zip"
             }
         }
     }

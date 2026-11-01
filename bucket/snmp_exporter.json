@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/snmp_exporter/releases/download/v0.31.0/snmp_exporter-0.31.0.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/snmp_exporter/releases/download/v0.31.0/snmp_exporter-0.31.0.windows-amd64.tar.gz",
             "hash": "3f7c54340b58aa9289dd1de693b099e150a017ee54044446a64c56c4d982d199",
             "extract_dir": "snmp_exporter-0.31.0.windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/snmp_exporter/releases/download/v0.31.0/snmp_exporter-0.31.0.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/snmp_exporter/releases/download/v0.31.0/snmp_exporter-0.31.0.windows-386.tar.gz",
             "hash": "cc33d49889fe10510c462844cccc643d6ee2d3387ec053a47d3ef3de19c66843",
             "extract_dir": "snmp_exporter-0.31.0.windows-386"
         }
@@ -21,11 +21,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/snmp_exporter/releases/download/v$version/snmp_exporter-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/snmp_exporter/releases/download/v$version/snmp_exporter-$version.windows-amd64.tar.gz",
                 "extract_dir": "snmp_exporter-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/snmp_exporter/releases/download/v$version/snmp_exporter-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/snmp_exporter/releases/download/v$version/snmp_exporter-$version.windows-386.tar.gz",
                 "extract_dir": "snmp_exporter-$version.windows-386"
             }
         },

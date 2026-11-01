@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vvyoko/Vii3/releases/download/3.5.32/Vii3_3.5.32_B1.zip",
+            "url": "https://gh-proxy.org/https://github.com/vvyoko/Vii3/releases/download/3.5.32/Vii3_3.5.32_B1.zip",
             "hash": "1efebc135bf93f4363576c63090eb9d75972d1c564da1cd89c84794647737785"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vvyoko/Vii3/releases/download/$matchTag/Vii3_$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/vvyoko/Vii3/releases/download/$matchTag/Vii3_$version.zip"
             }
         }
     }

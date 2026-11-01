@@ -6,12 +6,12 @@
     "notes": "Saves and settings are in %APPDATA%\\OpenSGolf. Update with 'scoop update opensgolf' rather than the game's own Update now, so that Scoop knows the version installed.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/crspytopgn/opensgolf/releases/download/v0.6.6/opensgolf-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/crspytopgn/opensgolf/releases/download/v0.6.6/opensgolf-windows.zip",
             "hash": "4259a8547bffd6456ae6516516c9cd78910616aa9ec5b67a33a36b6b926553cc",
             "extract_dir": "opensgolf-windows"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/crspytopgn/opensgolf/releases/download/v0.6.6/opensgolf-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/crspytopgn/opensgolf/releases/download/v0.6.6/opensgolf-windows-arm64.zip",
             "hash": "263496c3d27b4c5686498df999d3fb4d8c74b5e69ea1fec8b566227ac24f73ce",
             "extract_dir": "opensgolf-windows-arm64"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/crspytopgn/opensgolf/releases/download/v$version/opensgolf-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/crspytopgn/opensgolf/releases/download/v$version/opensgolf-windows.zip",
                 "extract_dir": "opensgolf-windows"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/crspytopgn/opensgolf/releases/download/v$version/opensgolf-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/crspytopgn/opensgolf/releases/download/v$version/opensgolf-windows-arm64.zip",
                 "extract_dir": "opensgolf-windows-arm64"
             }
         },

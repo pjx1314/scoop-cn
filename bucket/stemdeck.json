@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stemdeckapp/stemdeck/releases/download/v0.20.0/StemDeck-Windows-x64.NVIDIA.zip",
+            "url": "https://gh-proxy.org/https://github.com/stemdeckapp/stemdeck/releases/download/v0.20.0/StemDeck-Windows-x64.NVIDIA.zip",
             "hash": "33846682d10502dba33afbaee3a34a9fd049086e2872bda35c14bd8283055488"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stemdeckapp/stemdeck/releases/download/v0.20.0/StemDeck-Windows-x64.NVIDIA.zip"
+                "url": "https://gh-proxy.org/https://github.com/stemdeckapp/stemdeck/releases/download/v0.20.0/StemDeck-Windows-x64.NVIDIA.zip"
             }
         },
         "hash": {

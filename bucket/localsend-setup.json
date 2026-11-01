@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
+            "url": "https://gh-proxy.org/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
             "hash": "f53856750ad087a17b996309171262fa7d89071c350e0dc5df6530f34dd8a2ae"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/localsend/localsend/releases/download/v$version/LocalSend-$version-windows-x86-64-unsigned.exe"
+                "url": "https://gh-proxy.org/https://github.com/localsend/localsend/releases/download/v$version/LocalSend-$version-windows-x86-64-unsigned.exe"
             }
         }
     }

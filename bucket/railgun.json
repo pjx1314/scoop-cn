@@ -9,7 +9,7 @@
         "【适用场景】: 渗透测试、安全评估、漏洞检测",
         "【技术特点】: Windows可执行文件，图形化界面，需要解压密码"
     ],
-    "url": "https://gh-proxy.com/https://github.com/lz520520/railgun/releases/download/v2.0.3-sp2/Railgun-windows-v2.0.3-sp2.zip#/Railgun.zip1",
+    "url": "https://gh-proxy.org/https://github.com/lz520520/railgun/releases/download/v2.0.3-sp2/Railgun-windows-v2.0.3-sp2.zip#/Railgun.zip1",
     "hash": "68f98bb4a5ad11fe152f3467029bb541b273714efdf8501175fb853cd4c24138",
     "pre_install": [
         "7z x \"$dir\\Railgun.zip1\" -prailgun -o\"$dir\" -y",
@@ -32,6 +32,6 @@
         "regex": "v([\\w\\.-]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lz520520/railgun/releases/download/v$version/Railgun-windows-v$version.zip#/Railgun.zip1"
+        "url": "https://gh-proxy.org/https://github.com/lz520520/railgun/releases/download/v$version/Railgun-windows-v$version.zip#/Railgun.zip1"
     }
 }

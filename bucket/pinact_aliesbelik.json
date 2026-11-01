@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/pinact/releases/download/v5.0.2/pinact_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/pinact/releases/download/v5.0.2/pinact_windows_amd64.zip",
             "hash": "abda382f54a28994e6c7aa220229d5077309def0666bffe0d8d35852bba54b14"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/pinact/releases/download/v5.0.2/pinact_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/pinact/releases/download/v5.0.2/pinact_windows_arm64.zip",
             "hash": "c9935dcdb61bfa0a471b974034e150c29152ae456b545f04a140cbb7cd7fb37d"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/pinact/releases/download/v$version/pinact_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/pinact/releases/download/v$version/pinact_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/pinact/releases/download/v$version/pinact_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/pinact/releases/download/v$version/pinact_windows_arm64.zip"
             }
         },
         "hash": {

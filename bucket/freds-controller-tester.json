@@ -5,7 +5,7 @@
     "license": "ISC,Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fredemmott/Freds-Controller-Tester/releases/download/v1.1.0/Freds-Controller-Tester-v1.1.0.35.zip",
+            "url": "https://gh-proxy.org/https://github.com/fredemmott/Freds-Controller-Tester/releases/download/v1.1.0/Freds-Controller-Tester-v1.1.0.35.zip",
             "hash": "a08624e82fc255194482931267272fdb8eabb1053b8de69fb9c862356f47b64a"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fredemmott/Freds-Controller-Tester/releases/download/v$matchHead/Freds-Controller-Tester-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/fredemmott/Freds-Controller-Tester/releases/download/v$matchHead/Freds-Controller-Tester-v$version.zip"
             }
         }
     }

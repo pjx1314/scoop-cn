@@ -6,11 +6,11 @@
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/teddysun/xray-plugin/releases/download/v1.8.24/xray-plugin-windows-amd64-v1.8.24.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/teddysun/xray-plugin/releases/download/v1.8.24/xray-plugin-windows-amd64-v1.8.24.tar.gz",
             "hash": "a641ee6ab21ef20857e8eeeadc89196419292faa36117204728e8f3908875d01"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/teddysun/xray-plugin/releases/download/v1.8.24/xray-plugin-windows-arm64-v1.8.24.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/teddysun/xray-plugin/releases/download/v1.8.24/xray-plugin-windows-arm64-v1.8.24.tar.gz",
             "hash": "d13568bf9026e4ac1d49c832b3f85c9ac31ce6125bda93d64a1d6c6fb987af02"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/teddysun/xray-plugin/releases/download/v$version/xray-plugin-windows-amd64-v$version.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/teddysun/xray-plugin/releases/download/v$version/xray-plugin-windows-amd64-v$version.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/teddysun/xray-plugin/releases/download/v$version/xray-plugin-windows-arm64-v$version.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/teddysun/xray-plugin/releases/download/v$version/xray-plugin-windows-arm64-v$version.tar.gz"
             }
         }
     },

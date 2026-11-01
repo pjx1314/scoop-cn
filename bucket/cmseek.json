@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Tuhinshubhra/CMSeeK/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Tuhinshubhra/CMSeeK/archive/refs/heads/master.zip",
     "extract_dir": "CMSeeK-master",
     "pre_install": [
         "Set-Content \"$dir\\CMSeeK.bat\" '@pushd %~dp0",

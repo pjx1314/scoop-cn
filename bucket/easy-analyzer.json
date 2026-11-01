@@ -4,9 +4,9 @@
     "homepage": "https://github.com/MoShouSecurity/Easy_Analyzer",
     "license": "MIT",
     "url": [
-        "https://gh-proxy.com/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v1.5.1/easy-analyzer-cli-windows-x64.exe#/easy-analyzer-cli.exe",
-        "https://gh-proxy.com/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v1.5.1/easy-analyzer-gui-windows-x64.exe#/easy-analyzer-gui.exe",
-        "https://gh-proxy.com/https://github.com/MoShouSecurity/Easy_Analyzer/archive/refs/tags/v1.5.1.zip#/easy-analyzer-source.zip"
+        "https://gh-proxy.org/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v1.5.1/easy-analyzer-cli-windows-x64.exe#/easy-analyzer-cli.exe",
+        "https://gh-proxy.org/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v1.5.1/easy-analyzer-gui-windows-x64.exe#/easy-analyzer-gui.exe",
+        "https://gh-proxy.org/https://github.com/MoShouSecurity/Easy_Analyzer/archive/refs/tags/v1.5.1.zip#/easy-analyzer-source.zip"
     ],
     "hash": [
         "sha256:678d86911a1fb4621eb47c060907c8b6bfa2e70ef7a7c97180e624fd859de357",
@@ -26,9 +26,9 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v$version/easy-analyzer-cli-windows-x64.exe#/easy-analyzer-cli.exe",
-            "https://gh-proxy.com/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v$version/easy-analyzer-gui-windows-x64.exe#/easy-analyzer-gui.exe",
-            "https://gh-proxy.com/https://github.com/MoShouSecurity/Easy_Analyzer/archive/refs/tags/v$version.zip#/easy-analyzer-source.zip"
+            "https://gh-proxy.org/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v$version/easy-analyzer-cli-windows-x64.exe#/easy-analyzer-cli.exe",
+            "https://gh-proxy.org/https://github.com/MoShouSecurity/Easy_Analyzer/releases/download/v$version/easy-analyzer-gui-windows-x64.exe#/easy-analyzer-gui.exe",
+            "https://gh-proxy.org/https://github.com/MoShouSecurity/Easy_Analyzer/archive/refs/tags/v$version.zip#/easy-analyzer-source.zip"
         ]
     },
     "notes": [

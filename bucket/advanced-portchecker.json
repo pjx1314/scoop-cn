@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CodeDead/Advanced-PortChecker/releases/download/v2.3.0/advanced-portchecker_2.3.0_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/CodeDead/Advanced-PortChecker/releases/download/v2.3.0/advanced-portchecker_2.3.0_x64_en-US.msi",
             "hash": "2c78e81faf92f02f9c933f4198477350bfa895ecb00703a2b17f9393ebd61616"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CodeDead/Advanced-PortChecker/releases/download/v$version/advanced-portchecker_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/CodeDead/Advanced-PortChecker/releases/download/v$version/advanced-portchecker_$version_x64_en-US.msi"
             }
         }
     }

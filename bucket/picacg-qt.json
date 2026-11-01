@@ -5,7 +5,7 @@
     "license": "LGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tonquer/picacg-qt/releases/download/v1.5.5/bika_v1.5.5.1_windows_x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/tonquer/picacg-qt/releases/download/v1.5.5/bika_v1.5.5.1_windows_x64.7z",
             "hash": "2f5bf26130579298a7a8e54c265f06fb54b366703384ec58c09e3eca6fd61433"
         }
     },
@@ -31,13 +31,13 @@
             "$response = Invoke-WebRequest -Uri $url -UseBasicParsing -Headers $headers",
             "$response.Content"
         ],
-        "regex": "\"browser_download_url\"\\s*:\\s*\"https://gh-proxy.com/https://github.com/tonquer/picacg-qt/releases/download/v([\\d.]+)/bika_v([\\d.]+)_windows_x64(?:\\.7z|\\.zip)\"",
+        "regex": "\"browser_download_url\"\\s*:\\s*\"https://gh-proxy.org/https://github.com/tonquer/picacg-qt/releases/download/v([\\d.]+)/bika_v([\\d.]+)_windows_x64(?:\\.7z|\\.zip)\"",
         "replace": "$2"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tonquer/picacg-qt/releases/download/v$match1/bika_v$match2_windows_x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/tonquer/picacg-qt/releases/download/v$match1/bika_v$match2_windows_x64.7z"
             }
         }
     }

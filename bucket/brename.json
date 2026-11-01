@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/shenwei356/brename/releases/download/v2.15.0/brename_windows_amd64.exe.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/shenwei356/brename/releases/download/v2.15.0/brename_windows_amd64.exe.tar.gz",
             "hash": "6fc5dd10bf9f1f67072e4b0dd577ff56a643c95f45692a70d1f638bcd09f7e6e"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/shenwei356/brename/releases/download/v2.15.0/brename_windows_386.exe.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/shenwei356/brename/releases/download/v2.15.0/brename_windows_386.exe.tar.gz",
             "hash": "b2e55791fea548dfd4f1bb03019ee2d8895b3a5627972373c0aba9ff61570ac8"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/shenwei356/brename/releases/download/v$version/brename_windows_amd64.exe.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/shenwei356/brename/releases/download/v$version/brename_windows_amd64.exe.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/shenwei356/brename/releases/download/v$version/brename_windows_386.exe.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/shenwei356/brename/releases/download/v$version/brename_windows_386.exe.tar.gz"
             }
         }
     }

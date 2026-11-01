@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rqlite/rqlite/releases/download/v10.6.6/rqlite-v10.6.6-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rqlite/rqlite/releases/download/v10.6.6/rqlite-v10.6.6-win64.zip",
             "hash": "72fa2372ff6a157b9381b5c1301e0754cd0e00f1049a8e5b5b146a38123d4976"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rqlite/rqlite/releases/download/v$version/rqlite-v$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rqlite/rqlite/releases/download/v$version/rqlite-v$version-win64.zip"
             }
         }
     }

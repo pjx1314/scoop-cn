@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/houmain/gpupad/releases/download/4.6.0/GPUpad-4.6.0-win64.msi",
+            "url": "https://gh-proxy.org/https://github.com/houmain/gpupad/releases/download/4.6.0/GPUpad-4.6.0-win64.msi",
             "hash": "a09121f2c9d918263b15ad13968e0839dc0547601b2bfd9271abed7cefacc71a"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/houmain/gpupad/releases/download/$version/GPUpad-$version-win64.msi"
+                "url": "https://gh-proxy.org/https://github.com/houmain/gpupad/releases/download/$version/GPUpad-$version-win64.msi"
             }
         }
     }

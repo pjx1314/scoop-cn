@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MordechaiHadad/bob/releases/download/v4.3.0/bob-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/MordechaiHadad/bob/releases/download/v4.3.0/bob-windows-x86_64.zip",
             "extract_dir": "bob-windows-x86_64",
             "hash": "d029679c0df0a175192a7b79e6a28169515880c44674b1aa174339e5ce01e772"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MordechaiHadad/bob/releases/download/v$version/bob-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/MordechaiHadad/bob/releases/download/v$version/bob-windows-x86_64.zip"
             }
         }
     }

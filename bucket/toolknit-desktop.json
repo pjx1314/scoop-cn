@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ZihangDong/toolknit-desktop/releases/download/v3.2.0/toolknit-desktop_3.2.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ZihangDong/toolknit-desktop/releases/download/v3.2.0/toolknit-desktop_3.2.0_x64-setup.exe#/dl.7z",
             "hash": "d3f01e7358d0bec52917a77ca4479f6b6e779646ae6d5cf62aa129537259059b"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ZihangDong/toolknit-desktop/releases/download/v$version/toolknit-desktop_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ZihangDong/toolknit-desktop/releases/download/v$version/toolknit-desktop_$version_x64-setup.exe#/dl.7z"
             }
         },
         "hash": {

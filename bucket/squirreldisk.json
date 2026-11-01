@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/adileo/squirreldisk/releases/download/v2.6.1/squirreldisk-x86_64-pc-windows-msvc.exe#/SquirrelDisk.exe",
+            "url": "https://gh-proxy.org/https://github.com/adileo/squirreldisk/releases/download/v2.6.1/squirreldisk-x86_64-pc-windows-msvc.exe#/SquirrelDisk.exe",
             "hash": "5d33e6db180f340689a6c9cd1a6338162638812d13db7924b98a90be391c588f"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/adileo/squirreldisk/releases/download/v$version/squirreldisk-x86_64-pc-windows-msvc.exe#/SquirrelDisk.exe"
+                "url": "https://gh-proxy.org/https://github.com/adileo/squirreldisk/releases/download/v$version/squirreldisk-x86_64-pc-windows-msvc.exe#/SquirrelDisk.exe"
             }
         }
     }

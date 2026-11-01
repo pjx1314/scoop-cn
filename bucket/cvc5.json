@@ -4,11 +4,11 @@
     "homepage": "https://cvc5.github.io/",
     "license": {
         "identifier": "BSD-3-Clause",
-        "url": "https://gh-proxy.com/https://github.com/cvc5/cvc5/raw/refs/heads/main/COPYING"
+        "url": "https://gh-proxy.org/https://github.com/cvc5/cvc5/raw/refs/heads/main/COPYING"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cvc5/cvc5/releases/download/cvc5-1.4.2/cvc5-Win64-x86_64-static.zip",
+            "url": "https://gh-proxy.org/https://github.com/cvc5/cvc5/releases/download/cvc5-1.4.2/cvc5-Win64-x86_64-static.zip",
             "extract_dir": "cvc5-Win64-x86_64-static",
             "hash": "9055de9b724724890ba5a19cfdc98f68a8c0653284afa843096dec432a0f88c3"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cvc5/cvc5/releases/download/cvc5-$version/cvc5-Win64-x86_64-static.zip"
+                "url": "https://gh-proxy.org/https://github.com/cvc5/cvc5/releases/download/cvc5-$version/cvc5-Win64-x86_64-static.zip"
             }
         }
     }

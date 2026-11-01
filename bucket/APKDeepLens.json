@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/d78ui98/APKDeepLens/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/d78ui98/APKDeepLens/archive/refs/heads/master.zip",
     "hash": "914fd7f8d92cae47cfa7193027c3ff4ed14d7d991baa81314cfa895bc0a95d01",
     "pre_install": [
         "Set-Content \"$dir\\APKDeepLens.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/d78ui98/APKDeepLens/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/d78ui98/APKDeepLens/archive/refs/heads/master.zip"
     }
 }

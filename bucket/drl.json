@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chaosforgeorg/drl/releases/download/0_10_12c/drl-win-01012c.zip",
+            "url": "https://gh-proxy.org/https://github.com/chaosforgeorg/drl/releases/download/0_10_12c/drl-win-01012c.zip",
             "hash": "3808dc880c56cdec908711acc68adfca6c269d5f74bd8c6e49f27660d374de65"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chaosforgeorg/drl/releases/download/$matchTag/$matchFilebase.zip"
+                "url": "https://gh-proxy.org/https://github.com/chaosforgeorg/drl/releases/download/$matchTag/$matchFilebase.zip"
             }
         },
         "extract_dir": "$matchFilebase"

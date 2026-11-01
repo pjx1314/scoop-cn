@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ashish0kumar/tint/releases/download/v0.1.7/tint_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ashish0kumar/tint/releases/download/v0.1.7/tint_windows_x86_64.zip",
             "hash": "061756a00c6e23d4e2b748b91f11d9960e49463dc97c920221e0a24d80f9f2f9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ashish0kumar/tint/releases/download/v0.1.7/tint_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ashish0kumar/tint/releases/download/v0.1.7/tint_windows_arm64.zip",
             "hash": "ccce1ebf35b1a78fdd4ae6f6325ad449e2773d8261e015847cb736803a1c4288"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ashish0kumar/tint/releases/download/v$version/tint_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ashish0kumar/tint/releases/download/v$version/tint_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ashish0kumar/tint/releases/download/v$version/tint_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ashish0kumar/tint/releases/download/v$version/tint_windows_arm64.zip"
             }
         },
         "hash": {

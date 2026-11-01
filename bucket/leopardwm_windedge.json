@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jcardama/LeopardWM/releases/download/v0.3.4/LeopardWM-0.3.4-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/jcardama/LeopardWM/releases/download/v0.3.4/LeopardWM-0.3.4-x86_64-windows.zip",
             "hash": "698e6e7346ff3ffd84aee3ebf502cf036a74d4804882758b439a820e0a5983b0"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jcardama/LeopardWM/releases/download/v$version/LeopardWM-$version-x86_64-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/jcardama/LeopardWM/releases/download/v$version/LeopardWM-$version-x86_64-windows.zip",
                 "extract_dir": "LeopardWM-$version-x86_64-windows"
             }
         },

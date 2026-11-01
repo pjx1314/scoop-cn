@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/desbma/sacad/releases/download/3.0.4/sacad_3.0.4_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/desbma/sacad/releases/download/3.0.4/sacad_3.0.4_windows_x86_64.zip",
             "hash": "22f8d3aa11c4b323eb1ef452b725ed57365a1f1e3096afde5419e0debe05d389"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/desbma/sacad/releases/download/$version/sacad_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/desbma/sacad/releases/download/$version/sacad_$version_windows_x86_64.zip"
             }
         }
     }

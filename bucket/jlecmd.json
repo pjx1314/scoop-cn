@@ -7,7 +7,7 @@
     "hash": "46854e30af96913260668ff3ea2d65017cb2f146a3d52e94addaeb8e86854506",
     "bin": "JLECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "JLECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

@@ -6,12 +6,12 @@
     "notes": "This package provides only the Windows 11 version of Sophia Script. It may not work on Windows 10.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/8.1.0/Sophia.Script.for.Windows.11.v8.1.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/8.1.0/Sophia.Script.for.Windows.11.v8.1.0.zip",
             "hash": "13ff055baca088d394202de48a12c4448ca56b49ce496b78ddc6299462e24040",
             "extract_dir": "Sophia_Script_for_Windows_11_v8.1.0"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/8.1.0/Sophia.Script.for.Windows.11.Arm.v8.1.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/8.1.0/Sophia.Script.for.Windows.11.Arm.v8.1.0.zip",
             "hash": "290b77e71d0d7f6d377d1445a56e1b0388586a3ec7c3c500c19114f8c469d597",
             "extract_dir": "Sophia_Script_for_Windows_11_Arm_v8.1.0"
         }
@@ -30,11 +30,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/$version/Sophia.Script.for.Windows.11.v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/$version/Sophia.Script.for.Windows.11.v$version.zip",
                 "extract_dir": "Sophia_Script_for_Windows_11_v$version"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/$version/Sophia.Script.for.Windows.11.Arm.v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/farag2/Sophia-Script-for-Windows/releases/download/$version/Sophia.Script.for.Windows.11.Arm.v$version.zip",
                 "extract_dir": "Sophia_Script_for_Windows_11_Arm_v$version"
             }
         }

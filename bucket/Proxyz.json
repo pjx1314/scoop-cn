@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/BKLockly/Proxyz",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/BKLockly/Proxyz/releases/download/v1.0.0/proxyz.exe",
+    "url": "https://gh-proxy.org/https://github.com/BKLockly/Proxyz/releases/download/v1.0.0/proxyz.exe",
     "hash": "0db9587bc4df73cc5bc2c131236f4556497e3c1303a7fd6f3a5b85ec4414bc34",
     "bin": "proxyz.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/BKLockly/Proxyz/releases/download/v$version/proxyz.exe"
+        "url": "https://gh-proxy.org/https://github.com/BKLockly/Proxyz/releases/download/v$version/proxyz.exe"
     }
 }

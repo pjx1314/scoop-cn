@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jackchuka/mdschema/releases/download/v0.15.6/mdschema_0.15.6_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jackchuka/mdschema/releases/download/v0.15.6/mdschema_0.15.6_windows_amd64.zip",
             "hash": "7cfcb7fe7f1c9876cee607983933fe7119efe4116800ed49d0191f3ef7f39822"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jackchuka/mdschema/releases/download/v0.15.6/mdschema_0.15.6_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jackchuka/mdschema/releases/download/v0.15.6/mdschema_0.15.6_windows_arm64.zip",
             "hash": "3d713a0eff34ce440a6562a837e685e88368cc7d9115f4af12c55a5a2b87a1a8"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jackchuka/mdschema/releases/download/v$version/mdschema_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jackchuka/mdschema/releases/download/v$version/mdschema_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jackchuka/mdschema/releases/download/v$version/mdschema_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jackchuka/mdschema/releases/download/v$version/mdschema_$version_windows_arm64.zip"
             }
         },
         "hash": {

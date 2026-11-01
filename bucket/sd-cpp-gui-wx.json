@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fszontagh/sd.cpp.gui.wx/releases/download/v0.2.7/StableDiffusionGUI-0.2.7-win64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/fszontagh/sd.cpp.gui.wx/releases/download/v0.2.7/StableDiffusionGUI-0.2.7-win64.exe#/dl.7z",
             "hash": "00d3a8129f3d92f1788747f167d343f6eaaca235a466eba0adb082de5ef37fa9"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fszontagh/sd.cpp.gui.wx/releases/download/v$version/StableDiffusionGUI-$version-win64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/fszontagh/sd.cpp.gui.wx/releases/download/v$version/StableDiffusionGUI-$version-win64.exe#/dl.7z"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/builtbybel/FlyOOBE/releases/download/3.03.100/FlyoobeApp.zip",
+            "url": "https://gh-proxy.org/https://github.com/builtbybel/FlyOOBE/releases/download/3.03.100/FlyoobeApp.zip",
             "hash": "c07e641d2e2fbae8b1c3bbcba7a608836598fba9f79465ae22204308a08d162d"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/builtbybel/FlyOOBE/releases/download/$version/FlyoobeApp.zip"
+                "url": "https://gh-proxy.org/https://github.com/builtbybel/FlyOOBE/releases/download/$version/FlyoobeApp.zip"
             }
         }
     }

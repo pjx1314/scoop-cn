@@ -5,7 +5,7 @@
     "license": "ISC",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-x86_64-pc-windows-msvc.zip",
             "hash": "e74df9ece92fd29b71af9ea859e009950129ce19064bb977b735545dc9a411bf"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/unhappychoice/gitlogue/releases/download/v$version/gitlogue-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/unhappychoice/gitlogue/releases/download/v$version/gitlogue-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

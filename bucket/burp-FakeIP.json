@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/TheKingOfDuck/burpFakeIP",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/TheKingOfDuck/burpFakeIP/releases/download/1.1/fakeIP.jar",
+    "url": "https://gh-proxy.org/https://github.com/TheKingOfDuck/burpFakeIP/releases/download/1.1/fakeIP.jar",
     "hash": "402125aaa5401e094902ae86b79135d2261e853aad0d1e3b0dfcfd4a4fca2f1e",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/TheKingOfDuck/burpFakeIP/releases/download/$version/fakeIP.jar"
+        "url": "https://gh-proxy.org/https://github.com/TheKingOfDuck/burpFakeIP/releases/download/$version/fakeIP.jar"
     }
 }

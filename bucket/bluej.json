@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/k-pet-group/BlueJ-Greenfoot/releases/download/BLUEJ-RELEASE-6.0.1/BlueJ-windows-6.0.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/k-pet-group/BlueJ-Greenfoot/releases/download/BLUEJ-RELEASE-6.0.1/BlueJ-windows-6.0.1.zip",
             "hash": "c2efbb012ff1f5f56caf500d8ee1b00552ddce35bf263fab11e35cc0a4fbb971"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/k-pet-group/BlueJ-Greenfoot/releases/download/BLUEJ-RELEASE-$version/BlueJ-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/k-pet-group/BlueJ-Greenfoot/releases/download/BLUEJ-RELEASE-$version/BlueJ-windows-$version.zip"
             }
         }
     }

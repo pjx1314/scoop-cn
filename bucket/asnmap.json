@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/projectdiscovery/asnmap/releases/download/v1.2.0/asnmap_1.2.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/asnmap/releases/download/v1.2.0/asnmap_1.2.0_windows_amd64.zip",
             "hash": "78b3f436bc7b78898740f6e5f61907520fb7da774ecec15d8ba9dccd01a111ad"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/projectdiscovery/asnmap/releases/download/v1.2.0/asnmap_1.2.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/asnmap/releases/download/v1.2.0/asnmap_1.2.0_windows_386.zip",
             "hash": "fc57cfc278d5fd6cd722dffc468f7768152f6ce616668ab3b14608244cfe546e"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/projectdiscovery/asnmap/releases/download/v$version/asnmap_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/asnmap/releases/download/v$version/asnmap_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/projectdiscovery/asnmap/releases/download/v$version/asnmap_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/asnmap/releases/download/v$version/asnmap_$version_windows_386.zip"
             }
         },
         "hash": {

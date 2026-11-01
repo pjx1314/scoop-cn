@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ingriddaleusag-dotcom/PickTV/releases/download/V1.5.6+2/PeekPro_windows_1.5.6+2_x64.rar",
+            "url": "https://gh-proxy.org/https://github.com/ingriddaleusag-dotcom/PickTV/releases/download/V1.5.6+2/PeekPro_windows_1.5.6+2_x64.rar",
             "hash": "44c70247e6e55c758dcb1a7b751335306eb97100a3dfdd3f20eeb69fe2768270"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ingriddaleusag-dotcom/PickTV/releases/download/V$version/PeekPro_windows_$version_x64.rar"
+                "url": "https://gh-proxy.org/https://github.com/ingriddaleusag-dotcom/PickTV/releases/download/V$version/PeekPro_windows_$version_x64.rar"
             }
         }
     }

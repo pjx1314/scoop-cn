@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Natsummerance/rust-ReadMD/releases/download/V0.0.6/ReadMD-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Natsummerance/rust-ReadMD/releases/download/V0.0.6/ReadMD-windows-x64.zip",
             "hash": "4462c782a1bc27364cd106e8e3dacc806013dd007aec2608f2f94ec5f787e292"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Natsummerance/rust-ReadMD/releases/download/V$version/ReadMD-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Natsummerance/rust-ReadMD/releases/download/V$version/ReadMD-windows-x64.zip"
             }
         },
         "hash": {

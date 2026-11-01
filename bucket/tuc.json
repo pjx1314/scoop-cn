@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/riquito/tuc/releases/download/v1.3.0/tuc-windows-amd64.exe#/tuc.exe",
+            "url": "https://gh-proxy.org/https://github.com/riquito/tuc/releases/download/v1.3.0/tuc-windows-amd64.exe#/tuc.exe",
             "hash": "d56788d879a9bc34a817e3957e42ede83a63cd143b5e339e2c49d540fe13b02e"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/riquito/tuc/releases/download/v$version/tuc-windows-amd64.exe#/tuc.exe"
+                "url": "https://gh-proxy.org/https://github.com/riquito/tuc/releases/download/v$version/tuc-windows-amd64.exe#/tuc.exe"
             }
         }
     }

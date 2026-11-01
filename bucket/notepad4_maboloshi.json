@@ -5,7 +5,7 @@
     "license": "BSD",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zufuliu/notepad4/releases/download/v26.10r6392/Notepad4_zh-Hans_AVX2_v26.10r6392.zip",
+            "url": "https://gh-proxy.org/https://github.com/zufuliu/notepad4/releases/download/v26.10r6392/Notepad4_zh-Hans_AVX2_v26.10r6392.zip",
             "hash": "b3823615393087c9be9d6e3f94542ae136e2035739a259734a2309d41db1d713"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zufuliu/notepad4/releases/download/v$versionr$matchRevision/Notepad4_zh-Hans_AVX2_v$versionr$matchRevision.zip"
+                "url": "https://gh-proxy.org/https://github.com/zufuliu/notepad4/releases/download/v$versionr$matchRevision/Notepad4_zh-Hans_AVX2_v$versionr$matchRevision.zip"
             }
         }
     }

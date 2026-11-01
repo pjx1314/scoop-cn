@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/appvia/terranetes-controller/releases/download/v0.5.7/tnctl-windows-amd64.exe#/tnctl.exe",
+            "url": "https://gh-proxy.org/https://github.com/appvia/terranetes-controller/releases/download/v0.5.7/tnctl-windows-amd64.exe#/tnctl.exe",
             "hash": "ec2d3e1b9dfa996d4028f0e6cfa3e0cc29c55c530c1d2fc486a5bc5f4c839274"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/appvia/terranetes-controller/releases/download/v$version/tnctl-windows-amd64.exe#/tnctl.exe"
+                "url": "https://gh-proxy.org/https://github.com/appvia/terranetes-controller/releases/download/v$version/tnctl-windows-amd64.exe#/tnctl.exe"
             }
         }
     }

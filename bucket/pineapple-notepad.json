@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BLumia/pineapple-notepad/releases/download/1.5.0-freeware/pineapple-notepad-windows-amd64-1.5.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/BLumia/pineapple-notepad/releases/download/1.5.0-freeware/pineapple-notepad-windows-amd64-1.5.0.zip",
             "hash": "a8d03fd4b62f30d6695ac4112ad32338f46d9294c12cdc9f3575e9f6c7ad88d5"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BLumia/pineapple-notepad/releases/download/$matchTag/pineapple-notepad-windows-amd64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/BLumia/pineapple-notepad/releases/download/$matchTag/pineapple-notepad-windows-amd64-$version.zip"
             }
         }
     }

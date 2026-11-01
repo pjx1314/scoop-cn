@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sarowish/ytsub/releases/download/v0.11.1/ytsub-0.11.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/sarowish/ytsub/releases/download/v0.11.1/ytsub-0.11.1-x86_64-pc-windows-msvc.zip",
             "hash": "66ad17139bf037508c2fcee36c2f092d375408726a8c399266e5e075cc66db38"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sarowish/ytsub/releases/download/v$version/ytsub-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/sarowish/ytsub/releases/download/v$version/ytsub-$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "extract_dir": "ytsub-$version"

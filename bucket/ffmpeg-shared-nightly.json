@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-win64-gpl-shared.zip",
+            "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-win64-gpl-shared.zip",
             "hash": "3b1a38912999da560d048ccd91590c7e04dc73b75e478300c1053dce8b0689a6",
             "extract_dir": "ffmpeg-N-128227-g4811625b5f-win64-gpl-shared"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-winarm64-gpl-shared.zip",
+            "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-winarm64-gpl-shared.zip",
             "hash": "dfef50a55d58f68dd97af615db15addbf501cd7ea7e2c5d189f7f1998cb1a72e",
             "extract_dir": "ffmpeg-N-128227-g4811625b5f-winarm64-gpl-shared"
         }
@@ -29,11 +29,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-win64-gpl-shared.zip",
+                "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-win64-gpl-shared.zip",
                 "extract_dir": "ffmpeg-N-$matchCommitnum-g$matchCommithash-win64-gpl-shared"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-winarm64-gpl-shared.zip",
+                "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-winarm64-gpl-shared.zip",
                 "extract_dir": "ffmpeg-N-$matchCommitnum-g$matchCommithash-winarm64-gpl-shared"
             }
         },

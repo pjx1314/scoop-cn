@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-windows-no-render-stealth.zip",
+            "url": "https://gh-proxy.org/https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-windows-no-render-stealth.zip",
             "hash": "11bb447a7b4b38e596cba8ec10754f46eb4dae55046b68cb09d82d4b2d4d32bf"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/h4ckf0r0day/obscura/releases/download/v$version/obscura-x86_64-windows-no-render-stealth.zip"
+                "url": "https://gh-proxy.org/https://github.com/h4ckf0r0day/obscura/releases/download/v$version/obscura-x86_64-windows-no-render-stealth.zip"
             }
         }
     }

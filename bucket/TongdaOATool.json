@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/xiaokp7/TongdaOATool/releases/download/v1.6/TongdaTools.jar",
+    "url": "https://gh-proxy.org/https://github.com/xiaokp7/TongdaOATool/releases/download/v1.6/TongdaTools.jar",
     "hash": "4b3a02e690e7583df4d17249c1e396edde064550e7f7598811bafedb6786bf38",
     "pre_install": [
         "Set-Content \"$dir\\TongdaOATool.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/xiaokp7/TongdaOATool/releases/download/v$version/TongdaTools.jar"
+        "url": "https://gh-proxy.org/https://github.com/xiaokp7/TongdaOATool/releases/download/v$version/TongdaTools.jar"
     }
 }

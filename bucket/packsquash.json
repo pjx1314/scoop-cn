@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ComunidadAylas/PackSquash/releases/download/v0.4.1/packsquash.exe-x86_64-pc-windows-gnu.zip",
+            "url": "https://gh-proxy.org/https://github.com/ComunidadAylas/PackSquash/releases/download/v0.4.1/packsquash.exe-x86_64-pc-windows-gnu.zip",
             "hash": "88acfe76003d188baf2421d18f0e818f19157504cbd058857d62c8d9c3a596e9"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ComunidadAylas/PackSquash/releases/download/v$version/packsquash.exe-x86_64-pc-windows-gnu.zip"
+                "url": "https://gh-proxy.org/https://github.com/ComunidadAylas/PackSquash/releases/download/v$version/packsquash.exe-x86_64-pc-windows-gnu.zip"
             }
         }
     }

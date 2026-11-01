@@ -6,7 +6,7 @@
         "identifier": "Zlib",
         "url": "https://github.com/sakura-editor/sakura/blob/master/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/sakura-editor/sakura/releases/download/v2.4.3/sakura-tag-v2.4.3-build2916-fe1a4a281-Win32-Release-Exe.zip",
+    "url": "https://gh-proxy.org/https://github.com/sakura-editor/sakura/releases/download/v2.4.3/sakura-tag-v2.4.3-build2916-fe1a4a281-Win32-Release-Exe.zip",
     "hash": "9973140125159c1615cb1841af2ecf700a87aa3f45c3414b87a0e8c6c864700c",
     "bin": "sakura.exe",
     "shortcuts": [
@@ -53,7 +53,7 @@
     ],
     "checkver": {
         "url": "https://api.github.com/repos/sakura-editor/sakura/releases/latest",
-        "regex": "\"browser_download_url\": *\"(?<filename>https://gh-proxy.com/https://github.com/sakura-editor/sakura/releases/download/v([0-9.]+)/.+-Release-Exe.zip)\""
+        "regex": "\"browser_download_url\": *\"(?<filename>https://gh-proxy.org/https://github.com/sakura-editor/sakura/releases/download/v([0-9.]+)/.+-Release-Exe.zip)\""
     },
     "autoupdate": {
         "url": "$matchFilename",

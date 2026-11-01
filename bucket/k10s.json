@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/p10node/k10s/releases/download/v0.1.8/k10s_v0.1.8_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/p10node/k10s/releases/download/v0.1.8/k10s_v0.1.8_windows_amd64.zip",
             "hash": "e9dc448c542646234d18e48e6876a2aca75876d393680f99c78d0a1593927128"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/p10node/k10s/releases/download/v$version/k10s_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/p10node/k10s/releases/download/v$version/k10s_v$version_windows_amd64.zip"
             }
         },
         "hash": {

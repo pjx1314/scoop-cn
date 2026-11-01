@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_windows_amd64.tar.gz",
             "hash": "438ac060ed1c76c94c946e1a300a18479dba553923251d77dcef927eb5da04aa"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/danvergara/dblab/releases/download/v$version/dblab_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/danvergara/dblab/releases/download/v$version/dblab_$version_windows_amd64.tar.gz"
             }
         },
         "hash": {

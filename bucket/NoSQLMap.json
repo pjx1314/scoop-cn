@@ -8,7 +8,7 @@
             "miniconda3"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/codingo/NoSQLMap/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/codingo/NoSQLMap/archive/refs/heads/master.zip",
     "extract_dir": "nosqlmap-master",
     "pre_install": [
         "Set-Content \"$dir\\nosqlmap.bat\" '@pushd %~dp0",

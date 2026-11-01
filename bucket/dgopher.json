@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/saanuregh/dgopher/releases/download/v0.7.0/DGopher-Setup-0.7.0-amd64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/saanuregh/dgopher/releases/download/v0.7.0/DGopher-Setup-0.7.0-amd64.exe#/dl.7z",
             "hash": "de55414e438f516f5ecf11b77bd06c3fe952421b338df5b3f98924ff27992ae0"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/saanuregh/dgopher/releases/download/v$version/DGopher-Setup-$version-amd64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/saanuregh/dgopher/releases/download/v$version/DGopher-Setup-$version-amd64.exe#/dl.7z"
             }
         },
         "hash": {

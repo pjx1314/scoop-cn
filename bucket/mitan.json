@@ -10,7 +10,7 @@
             "main/openjdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/kkbo8005/mitan/releases/download/2.0.7/windows_x64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/kkbo8005/mitan/releases/download/2.0.7/windows_x64-setup.exe#/dl.7z",
     "hash": "76126fcb940bbe38568aae8b5ac067cdf8d5305b889f554f201092259d0f498a",
     "pre_install": [
         "",
@@ -67,6 +67,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kkbo8005/mitan/releases/download/$version/windows_x64-setup.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/kkbo8005/mitan/releases/download/$version/windows_x64-setup.exe#/dl.7z"
     }
 }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LPGhatguy/aftman/releases/download/v0.3.0/aftman-0.3.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LPGhatguy/aftman/releases/download/v0.3.0/aftman-0.3.0-windows-x86_64.zip",
             "hash": "57f5c55642460b21c4829b6339518fe4cc46bb6660fcf18ce57c49e27be5e286"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LPGhatguy/aftman/releases/download/v$version/aftman-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LPGhatguy/aftman/releases/download/v$version/aftman-$version-windows-x86_64.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenSelena/omniget/releases/download/v0.14.0/omniget_0.14.0_x64-portable.exe#/omniget.exe",
+            "url": "https://gh-proxy.org/https://github.com/OpenSelena/omniget/releases/download/v0.14.0/omniget_0.14.0_x64-portable.exe#/omniget.exe",
             "hash": "83a5137ab8700f9b45635b5512eec9c07c010bc114df85c224589ac4339e897a"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenSelena/omniget/releases/download/v$version/omniget_$version_x64-portable.exe#/omniget.exe"
+                "url": "https://gh-proxy.org/https://github.com/OpenSelena/omniget/releases/download/v$version/omniget_$version_x64-portable.exe#/omniget.exe"
             }
         }
     }

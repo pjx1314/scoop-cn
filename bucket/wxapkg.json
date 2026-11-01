@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/wux1an/wxapkg",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/wux1an/wxapkg/releases/download/v2.0.0/wxapkg-gui-windows-x64.exe",
+    "url": "https://gh-proxy.org/https://github.com/wux1an/wxapkg/releases/download/v2.0.0/wxapkg-gui-windows-x64.exe",
     "hash": "sha256:5fed02adc22d407ced9383942d388a6a622685f87e2113a972b70321fb0f8ac5",
     "bin": "wxapkg-gui-windows-x64.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wux1an/wxapkg/releases/download/v$version/wxapkg-gui-windows-x64.exe"
+        "url": "https://gh-proxy.org/https://github.com/wux1an/wxapkg/releases/download/v$version/wxapkg-gui-windows-x64.exe"
     }
 }

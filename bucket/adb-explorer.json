@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v1.1.26100/ADB_Explorer_1.1.26100_x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v1.1.26100/ADB_Explorer_1.1.26100_x64.7z",
             "hash": "207fc95e0b078bbaf337d71e1a4874a0d8c26802b5b8dbdf0daf7dca87e00b93"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v1.1.26100/ADB_Explorer_1.1.26100_ARM64.7z",
+            "url": "https://gh-proxy.org/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v1.1.26100/ADB_Explorer_1.1.26100_ARM64.7z",
             "hash": "d6f492bd9ea7e8dabcbcbedcbb11db67c7ebadc7cc7a6998af99428df7adfc9a"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v$version/ADB_Explorer_$version_x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v$version/ADB_Explorer_$version_x64.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v$version/ADB_Explorer_$version_ARM64.7z"
+                "url": "https://gh-proxy.org/https://github.com/Alex4SSB/ADB-Explorer/releases/download/v$version/ADB_Explorer_$version_ARM64.7z"
             }
         }
     }

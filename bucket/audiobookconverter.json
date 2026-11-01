@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yermak/AudioBookConverter/releases/download/version_6.6.8/AudioBookConverter-Portable-6.6.8.zip",
+            "url": "https://gh-proxy.org/https://github.com/yermak/AudioBookConverter/releases/download/version_6.6.8/AudioBookConverter-Portable-6.6.8.zip",
             "hash": "fc333346d5ad35e6b6cf12be23ffdb00ef7bada48b287f8e702cb49e7d996dad"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yermak/AudioBookConverter/releases/download/version_$version/AudioBookConverter-Portable-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/yermak/AudioBookConverter/releases/download/version_$version/AudioBookConverter-Portable-$version.zip"
             }
         }
     }

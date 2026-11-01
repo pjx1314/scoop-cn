@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/szdytom/markview/releases/download/v0.4.3/markview-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/szdytom/markview/releases/download/v0.4.3/markview-x86_64-pc-windows-msvc.zip",
             "hash": "668fa8d773722ecaeca09fac6dad0d800324a414f8d0b3b574257dde25be9d6a"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/szdytom/markview/releases/download/v$version/markview-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/szdytom/markview/releases/download/v$version/markview-x86_64-pc-windows-msvc.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kampfkarren/selene/releases/download/0.32.0/selene-0.32.0-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kampfkarren/selene/releases/download/0.32.0/selene-0.32.0-windows.zip",
             "hash": "c8b693de81d0ddc11490d8e1170dd98d775c2b21431144bd8286f738ef416109"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kampfkarren/selene/releases/download/$version/selene-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/Kampfkarren/selene/releases/download/$version/selene-$version-windows.zip"
             }
         }
     }

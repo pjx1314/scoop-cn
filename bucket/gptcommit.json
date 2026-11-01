@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/zurawiki/gptcommit/releases/download/v0.6.0/gptcommit-x86_64-pc-windows-msvc.zip",
             "hash": "51f4793cd7b12c6aae8b1623373f642324c24248a175b3f6d09cc7f6a812b821"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zurawiki/gptcommit/releases/download/v$version/gptcommit-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/zurawiki/gptcommit/releases/download/v$version/gptcommit-x86_64-pc-windows-msvc.zip"
             }
         }
     }

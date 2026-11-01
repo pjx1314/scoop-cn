@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz",
             "hash": "b729608716908be287c2e6972f9e8cd05f879810ae5d182fc856c9e57cca0dd5",
             "pre_install": "Move-Item \"$dir\\ipatool-2.7.0-windows-amd64.exe\" \"$dir\\ipatool.exe\""
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz",
             "hash": "85ab35a268b47e1729412178063fe11621cae1135f33d3b9ab5233d436bf2562",
             "pre_install": "Move-Item \"$dir\\ipatool-2.7.0-windows-arm64.exe\" \"$dir\\ipatool.exe\""
         }
@@ -26,11 +26,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/majd/ipatool/releases/download/v$version/ipatool-$version-windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/majd/ipatool/releases/download/v$version/ipatool-$version-windows-amd64.tar.gz",
                 "pre_install": "Move-Item \"$dir\\ipatool-$version-windows-amd64.exe\" \"$dir\\ipatool.exe\""
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/majd/ipatool/releases/download/v$version/ipatool-$version-windows-arm64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/majd/ipatool/releases/download/v$version/ipatool-$version-windows-arm64.tar.gz",
                 "pre_install": "Move-Item \"$dir\\ipatool-$version-windows-arm64.exe\" \"$dir\\ipatool.exe\""
             }
         }

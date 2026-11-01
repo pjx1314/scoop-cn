@@ -3,7 +3,7 @@
     "description": "GodSVG is an editor for Scalable Vector Graphics (SVG) files",
     "homepage": "https://github.com/MewPurPur/GodSVG",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/MewPurPur/GodSVG/releases/download/v1.0-alpha3/GodSVG.Windows.zip",
+    "url": "https://gh-proxy.org/https://github.com/MewPurPur/GodSVG/releases/download/v1.0-alpha3/GodSVG.Windows.zip",
     "hash": "5cb9a762d7bafbb199c6e397068c856a86c69a76b2a19a6b7b1059c7b405d2ee",
     "shortcuts": [
         [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/MewPurPur/GodSVG/releases/download/v$preRelaseVersion/GodSVG.Windows.zip"
+        "url": "https://gh-proxy.org/https://github.com/MewPurPur/GodSVG/releases/download/v$preRelaseVersion/GodSVG.Windows.zip"
     }
 }

@@ -6,12 +6,12 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qualcomm/GenieX/releases/download/v0.10.0/geniex-cli-setup-windows-arm64-v0.10.0.exe",
+            "url": "https://gh-proxy.org/https://github.com/qualcomm/GenieX/releases/download/v0.10.0/geniex-cli-setup-windows-arm64-v0.10.0.exe",
             "pre_install": "warn 'You are trying to install the 64-bit (x64) version, but this manifest only supports ARM64.'; Exit",
             "hash": "1916e98741578abc629364e8c144360f0040f41bd37f1a204164b04162c624be"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/qualcomm/GenieX/releases/download/v0.10.0/geniex-cli-setup-windows-arm64-v0.10.0.exe",
+            "url": "https://gh-proxy.org/https://github.com/qualcomm/GenieX/releases/download/v0.10.0/geniex-cli-setup-windows-arm64-v0.10.0.exe",
             "hash": "1916e98741578abc629364e8c144360f0040f41bd37f1a204164b04162c624be"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qualcomm/GenieX/releases/download/v$version/geniex-cli-setup-windows-arm64-v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/qualcomm/GenieX/releases/download/v$version/geniex-cli-setup-windows-arm64-v$version.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/qualcomm/GenieX/releases/download/v$version/geniex-cli-setup-windows-arm64-v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/qualcomm/GenieX/releases/download/v$version/geniex-cli-setup-windows-arm64-v$version.exe"
             }
         }
     }

@@ -4,11 +4,11 @@
     "homepage": "https://cherry-ai.com/",
     "license": {
         "identifier": "Apache-2.0",
-        "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/raw/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/raw/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-x64-setup.exe#/dl.7z",
             "hash": "sha512:88ed9382838d37eccccd0c252deb714b0e83b8f6d9821b2c621a49168c9c057db6c81b9c472edf795f57f0e207cfe23f854b9293f28752d66a87c8d258f6bcf6",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -16,7 +16,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-arm64-setup.exe#/dl.7z",
             "hash": "8c417426a5b08a25e4ca380b1541d75fae70e40ab11c79440bda28cbbd71e08b",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -85,14 +85,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-setup.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-setup.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "sha512: $base64"
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-setup.exe#/dl.7z"
             }
         }
     }

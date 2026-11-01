@@ -3,7 +3,7 @@
     "description": "Microsoft eXecution Container (MXC) is a sandboxed code execution system for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS.",
     "homepage": "https://github.com/microsoft/mxc",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/microsoft/mxc/releases/download/v1.0.1/mxc-release-binaries.zip",
+    "url": "https://gh-proxy.org/https://github.com/microsoft/mxc/releases/download/v1.0.1/mxc-release-binaries.zip",
     "hash": "0e832239454ba7fcd338ff56218a287eef4c0a01c1484084b869f55feff8abe9",
     "architecture": {
         "64bit": {
@@ -23,6 +23,6 @@
         "regex": "Repository/\\d+/v(.+?)<"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/microsoft/mxc/releases/download/v$version/mxc-release-binaries.zip"
+        "url": "https://gh-proxy.org/https://github.com/microsoft/mxc/releases/download/v$version/mxc-release-binaries.zip"
     }
 }

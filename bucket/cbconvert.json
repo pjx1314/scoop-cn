@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gen2brain/cbconvert/releases/download/v1.2.0/cbconvert-1.2.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gen2brain/cbconvert/releases/download/v1.2.0/cbconvert-1.2.0-windows-x86_64.zip",
             "extract_dir": "cbconvert-1.2.0",
             "hash": "4aa39b8ddbea7394970a6a17a43786d3f1f6e901f2cfb0e746c6d1d74a620995"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gen2brain/cbconvert/releases/download/v$version/cbconvert-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/gen2brain/cbconvert/releases/download/v$version/cbconvert-$version-windows-x86_64.zip",
                 "extract_dir": "cbconvert-$version"
             }
         }

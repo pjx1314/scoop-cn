@@ -5,11 +5,11 @@
     "version": "2.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chawyehsu/volta/releases/download/v2.0.3/volta-2.0.3-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/chawyehsu/volta/releases/download/v2.0.3/volta-2.0.3-windows.zip",
             "hash": "ccaa1690b789a66536c7f9714f3f476fa587ba9acf6e3bf31beca8a4fbf05e11"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/chawyehsu/volta/releases/download/v2.0.3/volta-2.0.3-windows-arm.zip",
+            "url": "https://gh-proxy.org/https://github.com/chawyehsu/volta/releases/download/v2.0.3/volta-2.0.3-windows-arm.zip",
             "hash": "2ed8a2aa120fb1ce4b1066d4e83c4647839167e3309d0b2312c1664055dc2881"
         }
     },
@@ -52,10 +52,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chawyehsu/volta/releases/download/v$version/volta-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/chawyehsu/volta/releases/download/v$version/volta-$version-windows.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/chawyehsu/volta/releases/download/v$version/volta-$version-windows-arm.zip"
+                "url": "https://gh-proxy.org/https://github.com/chawyehsu/volta/releases/download/v$version/volta-$version-windows-arm.zip"
             }
         }
     },

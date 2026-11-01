@@ -3,7 +3,7 @@
 	"description": "A modern terminal emulator forked from Alacritty",
 	"homepage": "https://github.com/gold-silver-copper/CuTTY",
 	"license": "Apache-2.0",
-	"url": "https://gh-proxy.com/https://github.com/gold-silver-copper/CuTTY/releases/download/v0.18.7/CuTTY-v0.18.7-portable.exe#/cutty.exe",
+	"url": "https://gh-proxy.org/https://github.com/gold-silver-copper/CuTTY/releases/download/v0.18.7/CuTTY-v0.18.7-portable.exe#/cutty.exe",
 	"hash": "042151b5ca445e1e8cd073b94746f18c3d1cdb5e3cdefa3ab23de5ed7cc237bc",
 	"bin": "cutty.exe",
 	"shortcuts": [

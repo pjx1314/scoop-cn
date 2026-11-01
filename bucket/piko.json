@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NihilDigit/piko/releases/download/v1.4.0/piko-windows-x64-1.4.0.msi",
+            "url": "https://gh-proxy.org/https://github.com/NihilDigit/piko/releases/download/v1.4.0/piko-windows-x64-1.4.0.msi",
             "hash": "fd4d09c0f3d7175033a44137832f213477435731ee9e5dd2148bd2c7079662c7"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NihilDigit/piko/releases/download/v$version/piko-windows-x64-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/NihilDigit/piko/releases/download/v$version/piko-windows-x64-$version.msi"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/NihilDigit/piko/releases/download/v$version/piko-windows-arm64-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/NihilDigit/piko/releases/download/v$version/piko-windows-arm64-$version.msi"
             }
         },
         "hash": {

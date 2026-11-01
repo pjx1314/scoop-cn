@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Ataraxy-Labs/sem/releases/download/v0.29.0/sem-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Ataraxy-Labs/sem/releases/download/v0.29.0/sem-windows-x86_64.zip",
             "hash": "f3a639e2e07b3f7386cdf681fa5b01eff74aa4f888b38910e912350575cbeca8"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Ataraxy-Labs/sem/releases/download/v$version/sem-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Ataraxy-Labs/sem/releases/download/v$version/sem-windows-x86_64.zip"
             }
         },
         "hash": {

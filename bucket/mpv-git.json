@@ -12,11 +12,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zhongfly/mpv-winbuild/releases/download/2026-11-01-add72571ea/mpv-x86_64-20261101-git-add72571ea.7z",
+            "url": "https://gh-proxy.org/https://github.com/zhongfly/mpv-winbuild/releases/download/2026-11-01-add72571ea/mpv-x86_64-20261101-git-add72571ea.7z",
             "hash": "7709bd4895a5cc9c331931549b4b95cd82a48834ade6bf9bbbdaf3149d81a05d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zhongfly/mpv-winbuild/releases/download/2026-11-01-add72571ea/mpv-aarch64-20261101-git-add72571ea.7z",
+            "url": "https://gh-proxy.org/https://github.com/zhongfly/mpv-winbuild/releases/download/2026-11-01-add72571ea/mpv-aarch64-20261101-git-add72571ea.7z",
             "hash": "39525a3471542607a1bde090afe30ebd12dd145df57f2d5cd7f2aa70cdd54efc"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zhongfly/mpv-winbuild/releases/download/$matchTag/mpv-x86_64-$matchYear$matchMonth$matchDay-git-$matchCommit.7z"
+                "url": "https://gh-proxy.org/https://github.com/zhongfly/mpv-winbuild/releases/download/$matchTag/mpv-x86_64-$matchYear$matchMonth$matchDay-git-$matchCommit.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/zhongfly/mpv-winbuild/releases/download/$matchTag/mpv-aarch64-$matchYear$matchMonth$matchDay-git-$matchCommit.7z"
+                "url": "https://gh-proxy.org/https://github.com/zhongfly/mpv-winbuild/releases/download/$matchTag/mpv-aarch64-$matchYear$matchMonth$matchDay-git-$matchCommit.7z"
             }
         }
     }

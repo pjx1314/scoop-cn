@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/x-motemen/gore/releases/download/v0.7.0/gore_v0.7.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/x-motemen/gore/releases/download/v0.7.0/gore_v0.7.0_windows_amd64.zip",
             "extract_dir": "gore_v0.7.0_windows_amd64",
             "hash": "33bfffe9b5f832b54c943838d794327b570e9acee70b43d19310425fb055cd8d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/x-motemen/gore/releases/download/v0.7.0/gore_v0.7.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/x-motemen/gore/releases/download/v0.7.0/gore_v0.7.0_windows_arm64.zip",
             "extract_dir": "gore_v0.7.0_windows_arm64",
             "hash": "86b14d61cc1a78efc1a232e62023da9b1ccccfbcad20b1a32fd5c51eaaeb3197"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/x-motemen/gore/releases/download/v$version/gore_v$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/x-motemen/gore/releases/download/v$version/gore_v$version_windows_amd64.zip",
                 "extract_dir": "gore_v$version_windows_amd64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/x-motemen/gore/releases/download/v$version/gore_v$version_windows_arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/x-motemen/gore/releases/download/v$version/gore_v$version_windows_arm64.zip",
                 "extract_dir": "gore_v$version_windows_arm64"
             }
         }

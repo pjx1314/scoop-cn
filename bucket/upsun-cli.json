@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/platformsh/cli/releases/download/5.9.0/upsun_5.9.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/platformsh/cli/releases/download/5.9.0/upsun_5.9.0_windows_amd64.zip",
             "hash": "fd51420909f62826370cd91c81ebdf1f3d49e2d8f16cad4ab48a2337144bf875"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/platformsh/cli/releases/download/$version/upsun_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/platformsh/cli/releases/download/$version/upsun_$version_windows_amd64.zip"
             }
         },
         "hash": {

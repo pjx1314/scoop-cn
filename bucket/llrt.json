@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/awslabs/llrt/releases/download/v0.9.0-beta/llrt-windows-x64-full-sdk.zip",
+            "url": "https://gh-proxy.org/https://github.com/awslabs/llrt/releases/download/v0.9.0-beta/llrt-windows-x64-full-sdk.zip",
             "hash": "61e52f0c5a44ce666a021340277390cef524a8d40b740ab26d64b4d773dd7403"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/awslabs/llrt/releases/download/v$version/llrt-windows-x64-full-sdk.zip"
+                "url": "https://gh-proxy.org/https://github.com/awslabs/llrt/releases/download/v$version/llrt-windows-x64-full-sdk.zip"
             }
         }
     }

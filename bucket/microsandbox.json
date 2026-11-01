@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/superradcompany/microsandbox/releases/download/v0.7.12/microsandbox-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/superradcompany/microsandbox/releases/download/v0.7.12/microsandbox-windows-x86_64.zip",
             "hash": "89553a8cb5523de6c580fda8bb566a20c43ed3ee97e5836599b16fd55fa6170d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/superradcompany/microsandbox/releases/download/v0.7.12/microsandbox-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/superradcompany/microsandbox/releases/download/v0.7.12/microsandbox-windows-aarch64.zip",
             "hash": "eb403252302b5182d33062458bc201c50fa5324439ffa0b9e6476a8600f8d776"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/superradcompany/microsandbox/releases/download/v$version/microsandbox-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/superradcompany/microsandbox/releases/download/v$version/microsandbox-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/superradcompany/microsandbox/releases/download/v$version/microsandbox-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/superradcompany/microsandbox/releases/download/v$version/microsandbox-windows-aarch64.zip"
             }
         },
         "hash": {

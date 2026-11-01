@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/AprDeci/bili-music/releases/download/v1.11.0/bilimusic-v1.11.0-windows-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/AprDeci/bili-music/releases/download/v1.11.0/bilimusic-v1.11.0-windows-setup.exe",
             "hash": "ae2073aab5355ab1a3098a1e898b212d4891807aa4ab80c43e3188b622cdaaaf"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/AprDeci/bili-music/releases/download/v$version/bilimusic-v$version-windows-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/AprDeci/bili-music/releases/download/v$version/bilimusic-v$version-windows-setup.exe"
             }
         },
         "hash": {

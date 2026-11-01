@@ -3,7 +3,7 @@
     "description": "electerm is a terminal/ssh/sftp client(linux, mac, win) based on electron/ssh2/node-pty/xterm/antd and many other libs.",
     "version": "5.8.0",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/electerm/electerm/releases/download/v5.8.0/electerm-5.8.0-win-x64.tar.gz",
+    "url": "https://gh-proxy.org/https://github.com/electerm/electerm/releases/download/v5.8.0/electerm-5.8.0-win-x64.tar.gz",
     "hash": "224d3a1179941427205def9d249ee3e1bf27965aa40536a77d109f1f82d6c94e",
     "bin": "electerm.exe",
     "shortcuts": [
@@ -17,7 +17,7 @@
         "github": "https://github.com/electerm/electerm/"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/electerm/electerm/releases/download/v$version/electerm-$version-win-x64.tar.gz",
+        "url": "https://gh-proxy.org/https://github.com/electerm/electerm/releases/download/v$version/electerm-$version-win-x64.tar.gz",
         "extract_dir": "electerm-$version-win-x64"
     }
 }

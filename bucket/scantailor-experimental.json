@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/1.2026.10.10/scantailor-experimental-1.2026.10.10-qt5_win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/1.2026.10.10/scantailor-experimental-1.2026.10.10-qt5_win64.zip",
             "extract_dir": "scantailor-experimental-1.2026.10.10-qt5_win64",
             "hash": "966636ecbe8da019aa85a21690abf0ab703be438f5a1a6613c6302c6b03a69ad"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/$version/scantailor-experimental-$version-qt5_win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/ImageProcessing-ElectronicPublications/scantailor-experimental/releases/download/$version/scantailor-experimental-$version-qt5_win64.zip",
                 "extract_dir": "scantailor-experimental-$version-qt5_win64"
             }
         }

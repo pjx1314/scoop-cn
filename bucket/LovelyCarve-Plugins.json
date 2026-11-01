@@ -3,7 +3,7 @@
     "description": "LovelyCarve 插件 SDK、隔离宿主与 linuxinfo Linux 基本信息分析插件源码",
     "homepage": "https://github.com/LovelyTeams/LovelyCarve-Plugins",
     "license": "AGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyCarve-Plugins/archive/refs/heads/main.zip#/LovelyCarve-Plugins.zip",
+    "url": "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyCarve-Plugins/archive/refs/heads/main.zip#/LovelyCarve-Plugins.zip",
     "hash": "2dd12009762cb6b35ef8e5529071f02ce5110028e24de40e72f282bc0149689f",
     "extract_dir": "LovelyCarve-Plugins-main",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyCarve-Plugins/archive/refs/heads/main.zip#/LovelyCarve-Plugins.zip"
+        "url": "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyCarve-Plugins/archive/refs/heads/main.zip#/LovelyCarve-Plugins.zip"
     },
     "notes": [
         "【工具类型】: 开发工具",

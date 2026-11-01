@@ -7,7 +7,7 @@
     "hash": "dd60cfe25f3560ee4878eb864e266303855eb660ada9a3a265bf90624b0f481a",
     "bin": "AmcacheParser.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "AmcacheParser.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/Anthony558238/xxl-job-exp/releases/download/v1.0/xxl-job-exp-1.0-SNAPSHOT.jar#/xxl-job-exp.jar",
+    "url": "https://gh-proxy.org/https://github.com/Anthony558238/xxl-job-exp/releases/download/v1.0/xxl-job-exp-1.0-SNAPSHOT.jar#/xxl-job-exp.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\xxl-job-exp.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Anthony558238/xxl-job-exp/releases/download/v$version/xxl-job-exp-$version-SNAPSHOT.jar#/xxl-job-exp.jar"
+        "url": "https://gh-proxy.org/https://github.com/Anthony558238/xxl-job-exp/releases/download/v$version/xxl-job-exp-$version-SNAPSHOT.jar#/xxl-job-exp.jar"
     }
 }

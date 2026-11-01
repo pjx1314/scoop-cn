@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/byronknoll/gmix/releases/download/v1/gmix-v1-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/byronknoll/gmix/releases/download/v1/gmix-v1-windows.zip",
             "hash": "c69e0f4954f6405320eba38aea1b3fa5fef7b9d51f5ba2a7918dcc8d210b47dd"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/byronknoll/gmix/releases/download/v$matchSimple/gmix-v$matchSimple-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/byronknoll/gmix/releases/download/v$matchSimple/gmix-v$matchSimple-windows.zip"
             }
         }
     }

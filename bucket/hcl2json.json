@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tmccombs/hcl2json/releases/download/v0.6.9/hcl2json_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tmccombs/hcl2json/releases/download/v0.6.9/hcl2json_windows_amd64.zip",
             "hash": "5e0ca725336500a4136b8ef6cabd09eae67f2df2e692653cb2eea087465920fd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/tmccombs/hcl2json/releases/download/v0.6.9/hcl2json_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tmccombs/hcl2json/releases/download/v0.6.9/hcl2json_windows_arm64.zip",
             "hash": "069fc020f9dc43d9a6abce8e1b1b46b03fedb1a939fb51d003cd678e198cc600"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tmccombs/hcl2json/releases/download/v$version/hcl2json_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tmccombs/hcl2json/releases/download/v$version/hcl2json_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/tmccombs/hcl2json/releases/download/v$version/hcl2json_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tmccombs/hcl2json/releases/download/v$version/hcl2json_windows_arm64.zip"
             }
         },
         "hash": {

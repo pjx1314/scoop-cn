@@ -3,7 +3,7 @@
     "description": "Nightly build of q2, the Rust implementation of the next version of Quarto.",
     "homepage": "https://github.com/quarto-dev/q2",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/quarto-dev/q2/releases/download/nightly/q2-0.40.0-nightly.20261031-windows_amd64.zip",
+    "url": "https://gh-proxy.org/https://github.com/quarto-dev/q2/releases/download/nightly/q2-0.40.0-nightly.20261031-windows_amd64.zip",
     "hash": "664c096548b02ebfac612004ffd6f068a3b7045eca92b787e8980cbfe0183888",
     "bin": "q2.exe",
     "checkver": {
@@ -12,7 +12,7 @@
         "regex": "(\\d+\\.\\d+\\.\\d+-nightly\\.\\d+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/quarto-dev/q2/releases/download/nightly/q2-$version-windows_amd64.zip",
+        "url": "https://gh-proxy.org/https://github.com/quarto-dev/q2/releases/download/nightly/q2-$version-windows_amd64.zip",
         "hash": {
             "url": "$url.sha256"
         }

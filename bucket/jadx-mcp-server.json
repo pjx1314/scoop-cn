@@ -3,7 +3,7 @@
     "description": "JADX MCP 服务器，通过 MCP 协议将 JADX 反编译器连接到 LLM，实现自动化 Android APK 逆向分析",
     "homepage": "https://github.com/zinja-coder/jadx-mcp-server",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/zinja-coder/jadx-mcp-server/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/zinja-coder/jadx-mcp-server/archive/refs/heads/main.zip",
     "hash": "ae3dc6eeba9c47c8024fa57cc2bf4dba8b7ed627627413cd3a8f34ab3060d9cf",
     "extract_dir": "jadx-mcp-server-main",
     "suggest": {
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/zinja-coder/jadx-mcp-server/archive/refs/heads/main.zip",
+        "url": "https://gh-proxy.org/https://github.com/zinja-coder/jadx-mcp-server/archive/refs/heads/main.zip",
         "extract_dir": "jadx-mcp-server-main"
     },
     "notes": [

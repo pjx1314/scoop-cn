@@ -9,7 +9,7 @@
         "【适用场景】: Android逆向分析、恶意软件检测、漏洞分析",
         "【技术特点】: 原生工具无需Java VM，支持恶意行为检测、隐私泄露检测、脱壳识别、反混淆等"
     ],
-    "url": "https://gh-proxy.com/https://github.com/charles2gan/GDA-android-reversing-Tool/releases/download/GDA4.12/GDA4.12.zip",
+    "url": "https://gh-proxy.org/https://github.com/charles2gan/GDA-android-reversing-Tool/releases/download/GDA4.12/GDA4.12.zip",
     "hash": "35e31946755c43675bc204f71b746f349bc632dea38f7df2db7a3ecf1af1dcbf",
     "shortcuts": [
         [
@@ -23,7 +23,7 @@
         "regex": "GDA([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/charles2gan/GDA-android-reversing-Tool/releases/download/GDA$version/GDA$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/charles2gan/GDA-android-reversing-Tool/releases/download/GDA$version/GDA$version.zip",
         "shortcuts": [
             [
                 "GDA$version.exe",

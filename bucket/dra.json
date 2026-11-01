@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/devmatteini/dra/releases/download/0.10.3/dra-0.10.3-x86_64-pc-windows-msvc.zip",
             "hash": "396c44d18a92fe5584e42417f218a312cf6df856a9d966c162466c85de4b1359",
             "extract_dir": "dra-0.10.3-x86_64-pc-windows-msvc"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/devmatteini/dra/releases/download/$version/dra-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/devmatteini/dra/releases/download/$version/dra-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "dra-$version-x86_64-pc-windows-msvc"
             }
         }

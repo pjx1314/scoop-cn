@@ -6,11 +6,11 @@
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/apernet/hysteria/releases/download/app/v2.13.0/hysteria-windows-amd64.exe",
+            "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v2.13.0/hysteria-windows-amd64.exe",
             "hash": "162ef8fe55dc7ec810dda662908f8e65ec36bd6da39cb87c3bd66184ab68f067"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/apernet/hysteria/releases/download/app/v2.13.0/hysteria-windows-arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v2.13.0/hysteria-windows-arm64.exe",
             "hash": "b22d223025299801cb018cab35120cb8f4f9fe2e73e44b9e60a48963f7dc91e7"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-amd64.exe"
+                "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-amd64.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-arm64.exe"
             }
         }
     },

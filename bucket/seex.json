@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ref42/seex/releases/download/v3.0.0/seex-v3.0.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ref42/seex/releases/download/v3.0.0/seex-v3.0.0-windows-x86_64.zip",
             "hash": "ef7b4f8e178ef74e53792a51c96a04c5b2e759ffade84387cc5109d3c58bb968"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ref42/seex/releases/download/v3.0.0/seex-v3.0.0-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ref42/seex/releases/download/v3.0.0/seex-v3.0.0-windows-aarch64.zip",
             "hash": "6ba030dff40c991f2e1d504d07826086aafd3954c4ec84148cd29f152b2148d0"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ref42/seex/releases/download/v$version/seex-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ref42/seex/releases/download/v$version/seex-v$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ref42/seex/releases/download/v$version/seex-v$version-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ref42/seex/releases/download/v$version/seex-v$version-windows-aarch64.zip"
             }
         }
     }

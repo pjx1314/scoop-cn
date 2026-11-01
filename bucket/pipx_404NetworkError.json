@@ -11,7 +11,7 @@
     "suggest": {
         "Python": "python"
     },
-    "url": "https://gh-proxy.com/https://github.com/pypa/pipx/releases/download/1.18.11/pipx.pyz",
+    "url": "https://gh-proxy.org/https://github.com/pypa/pipx/releases/download/1.18.11/pipx.pyz",
     "hash": "37282fd4fad8700169a718f2ca8c469dbf4ffbf004972670cb468cf255106f07",
     "pre_install": [
         "if (!(Test-Path \"$dir\\bin\")) { New-Item \"$dir\\bin\" -ItemType Directory -Force | Out-Null }",
@@ -32,6 +32,6 @@
         "github": "https://github.com/pypa/pipx"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
+        "url": "https://gh-proxy.org/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
     }
 }

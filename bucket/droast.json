@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/immanuwell/dockerfile-roast/releases/download/1.7.0/droast-windows-x86_64.exe#/droast.exe",
+            "url": "https://gh-proxy.org/https://github.com/immanuwell/dockerfile-roast/releases/download/1.7.0/droast-windows-x86_64.exe#/droast.exe",
             "hash": "d4bf219ddc588e055fcaad10547a967d683fa7536b78cc96cc6e57ea75ff48c5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/immanuwell/dockerfile-roast/releases/download/$version/droast-windows-x86_64.exe#/droast.exe"
+                "url": "https://gh-proxy.org/https://github.com/immanuwell/dockerfile-roast/releases/download/$version/droast-windows-x86_64.exe#/droast.exe"
             }
         },
         "hash": {

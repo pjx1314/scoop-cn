@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/crowdin/crowdin-cli/releases/download/5.5.0/crowdin.exe",
+            "url": "https://gh-proxy.org/https://github.com/crowdin/crowdin-cli/releases/download/5.5.0/crowdin.exe",
             "hash": "334acbca13531036760d6c4e1a7be4848afe142e2f62af32cd657c093928fc9b"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/crowdin/crowdin-cli/releases/download/$version/crowdin.exe"
+                "url": "https://gh-proxy.org/https://github.com/crowdin/crowdin-cli/releases/download/$version/crowdin.exe"
             }
         }
     }

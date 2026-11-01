@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/perses/perses/releases/download/v0.55.0/perses_0.55.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/perses/perses/releases/download/v0.55.0/perses_0.55.0_windows_amd64.tar.gz",
             "hash": "1e289d397502aa7927bec0e01d4058d16c17c59fb3f557be36ee111046429675"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/perses/perses/releases/download/v0.55.0/perses_0.55.0_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/perses/perses/releases/download/v0.55.0/perses_0.55.0_windows_arm64.tar.gz",
             "hash": "558ed830e1ce6000a86d93be7fef15ecd5188404b18e8cdcb45a76eea23c2faa"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/perses/perses/releases/download/v$version/perses_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/perses/perses/releases/download/v$version/perses_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/perses/perses/releases/download/v$version/perses_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/perses/perses/releases/download/v$version/perses_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

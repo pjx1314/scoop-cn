@@ -5,12 +5,12 @@
     "license": "LGPL-2.1-or-later",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/minetest/minetest/releases/download/5.18.0/luanti-5.18.0-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/minetest/minetest/releases/download/5.18.0/luanti-5.18.0-win32.zip",
             "hash": "1cbe4a380561f221eb1c1b8765d179f3f9e01dcacc94c7dd13d86581227af375",
             "extract_dir": "luanti-5.18.0-win32"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/minetest/minetest/releases/download/5.18.0/luanti-5.18.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/minetest/minetest/releases/download/5.18.0/luanti-5.18.0-win64.zip",
             "hash": "bebce52b58555d8208bf16767d0717788479fef23c35ec8d7bf287774d641835",
             "extract_dir": "luanti-5.18.0-win64"
         }
@@ -39,11 +39,11 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/minetest/minetest/releases/download/$version/luanti-$version-win32.zip",
+                "url": "https://gh-proxy.org/https://github.com/minetest/minetest/releases/download/$version/luanti-$version-win32.zip",
                 "extract_dir": "luanti-$version-win32"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/minetest/minetest/releases/download/$version/luanti-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/minetest/minetest/releases/download/$version/luanti-$version-win64.zip",
                 "extract_dir": "luanti-$version-win64"
             }
         }

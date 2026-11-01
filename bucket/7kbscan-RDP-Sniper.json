@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/7kbstorm/7kbscan-RDP-Sniper",
     "license": "unkown",
-    "url": "https://gh-proxy.com/https://github.com/7kbstorm/7kbscan-RDP-Sniper/releases/download/1/Rdpscan.rar",
+    "url": "https://gh-proxy.org/https://github.com/7kbstorm/7kbscan-RDP-Sniper/releases/download/1/Rdpscan.rar",
     "hash": "88183816597089221d7c9f1da95f7173b1ff503ce414a576c80735cf273bfad1",
     "bin": [
         "Rdpscan.exe"

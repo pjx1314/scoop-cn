@@ -3,7 +3,7 @@
     "description": "An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.",
     "homepage": "https://github.com/OtterMind/Chat2DB",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/OtterMind/Chat2DB/releases/download/v3.4.1/Chat2DB-Setup-3.4.1.exe",
+    "url": "https://gh-proxy.org/https://github.com/OtterMind/Chat2DB/releases/download/v3.4.1/Chat2DB-Setup-3.4.1.exe",
     "hash": "sha256:da7c6b2573cbaebd52128edeb987ecb93df48124775d8b77909afbf31c773a06",
     "installer": {
         "script": [
@@ -27,7 +27,7 @@
         "regex": "tag/v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/OtterMind/Chat2DB/releases/download/v$version/Chat2DB-Setup-$version.exe"
+        "url": "https://gh-proxy.org/https://github.com/OtterMind/Chat2DB/releases/download/v$version/Chat2DB-Setup-$version.exe"
     },
     "notes": [
         "【工具类型】: 开发工具",

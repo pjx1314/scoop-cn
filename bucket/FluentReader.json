@@ -5,11 +5,11 @@
     "version": "1.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yang991178/fluent-reader/releases/download/v1.3.2/Fluent.Reader.Unpacked.1.3.2.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v1.3.2/Fluent.Reader.Unpacked.1.3.2.x64.zip",
             "hash": "2db9c743903b4a8028495373b39f1cf01999add38a352bc394aaa0400d1f231e"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Unpacked.1.2.2.x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v1.2.2/Fluent.Reader.Unpacked.1.2.2.x86.zip",
             "hash": ""
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yang991178/fluent-reader/releases/download/v$version/Fluent.Reader.Unpacked.$version.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v$version/Fluent.Reader.Unpacked.$version.x64.zip"
             }
         }
     }

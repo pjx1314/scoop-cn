@@ -3,14 +3,14 @@
     "description": "QQ小程序攻击面分析工具 - 自动搜索分析QQNT小程序，识别API调用、敏感信息与风险评分",
     "homepage": "https://github.com/icecliffs/nextwq",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/icecliffs/nextwq/releases/download/0.0.2/NextWQ.exe",
+    "url": "https://gh-proxy.org/https://github.com/icecliffs/nextwq/releases/download/0.0.2/NextWQ.exe",
     "hash": "sha256:fcb5c1168566a2103b2b8997251bd6695bad0031dedf9f0f2575a59ea6fae1ef",
     "shortcuts": [
         ["NextWQ.exe", "NextWQ"]
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/icecliffs/nextwq/releases/download/$version/NextWQ.exe"
+        "url": "https://gh-proxy.org/https://github.com/icecliffs/nextwq/releases/download/$version/NextWQ.exe"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

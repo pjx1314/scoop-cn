@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/objeck/objeck-lang/releases/download/v2026.10.2/objeck-windows-x64_2026.10.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/objeck/objeck-lang/releases/download/v2026.10.2/objeck-windows-x64_2026.10.2.zip",
             "extract_dir": "objeck-lang-x64",
             "hash": "2227731aa1a50ad719a98be7aa7b5d08feb1c81ff42076ce18b84a696435cffc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/objeck/objeck-lang/releases/download/v2026.10.2/objeck-windows-arm64_2026.10.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/objeck/objeck-lang/releases/download/v2026.10.2/objeck-windows-arm64_2026.10.2.zip",
             "extract_dir": "objeck-lang-arm64",
             "hash": "f15d33af331080a53266fcf149d3483b472116ab48116ff525b13a4f183d5957"
         }
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/objeck/objeck-lang/releases/download/v$version/objeck-windows-x64_$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/objeck/objeck-lang/releases/download/v$version/objeck-windows-x64_$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/objeck/objeck-lang/releases/download/v$version/objeck-windows-arm64_$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/objeck/objeck-lang/releases/download/v$version/objeck-windows-arm64_$version.zip"
             }
         }
     }

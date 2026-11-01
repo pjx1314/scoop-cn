@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-win64-gpl.zip",
+            "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-win64-gpl.zip",
             "hash": "3a5cdb3b83dd1b62b29d946d3655a14d787e5e81d947ad68202a1a400095d2f8",
             "extract_dir": "ffmpeg-N-128227-g4811625b5f-win64-gpl"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-winarm64-gpl.zip",
+            "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-31-12-59/ffmpeg-N-128227-g4811625b5f-winarm64-gpl.zip",
             "hash": "7d2bc069f7eda052fac7d4d9ff40eabda5d9fd8b6105d479129547ad3b822919",
             "extract_dir": "ffmpeg-N-128227-g4811625b5f-winarm64-gpl"
         }
@@ -29,11 +29,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-win64-gpl.zip",
+                "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-win64-gpl.zip",
                 "extract_dir": "ffmpeg-N-$matchCommitnum-g$matchCommithash-win64-gpl"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-winarm64-gpl.zip",
+                "url": "https://gh-proxy.org/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/ffmpeg-N-$matchCommitnum-g$matchCommithash-winarm64-gpl.zip",
                 "extract_dir": "ffmpeg-N-$matchCommitnum-g$matchCommithash-winarm64-gpl"
             }
         },

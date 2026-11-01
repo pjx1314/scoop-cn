@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v0.12.0/cloud-provider-kind_0.12.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v0.12.0/cloud-provider-kind_0.12.0_windows_amd64.tar.gz",
             "hash": "4772b5da02e92ae2e2165df5282f28d8f78f98a3368049e4425865205fd147d0"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v0.12.0/cloud-provider-kind_0.12.0_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v0.12.0/cloud-provider-kind_0.12.0_windows_arm64.tar.gz",
             "hash": "4fb22cdedf12ff18933b6985760e79225488f8a6f03b00bb83e23f4558f199ef"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v$version/cloud-provider-kind_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v$version/cloud-provider-kind_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v$version/cloud-provider-kind_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/cloud-provider-kind/releases/download/v$version/cloud-provider-kind_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

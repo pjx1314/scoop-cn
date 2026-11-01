@@ -22,7 +22,7 @@
     },
     "bin": "rawcopy.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/rawcopy/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/rawcopy/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/viarotel-org/escrcpy/releases/download/v3.3.1/Escrcpy-3.3.1-win-setup-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v3.3.1/Escrcpy-3.3.1-win-setup-x64.exe#/dl.7z",
             "hash": "sha512:4847a7c41c8fe7b094e2c2b29dfca3ea331d785044ac2817dbe65c210a493b6addee593e6b0739ef90642bab0273209ad42b65c753eb5f49cc12c61cc2461baa"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/viarotel-org/escrcpy/releases/download/v3.3.1/Escrcpy-3.3.1-win-setup-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v3.3.1/Escrcpy-3.3.1-win-setup-arm64.exe#/dl.7z",
             "hash": "sha512:7b9d64273eb913d02f86bffa4c425a5dd852168420e63a54b2aeff10ca1fa8c317a14317bf8b24046c9aa73621b43e8b88f6c36a6196045a4435fde3f50f1e8c"
         }
     },
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-setup-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-setup-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-setup-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/viarotel-org/escrcpy/releases/download/v$version/Escrcpy-$version-win-setup-arm64.exe#/dl.7z"
             }
         },
         "hash": {

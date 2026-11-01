@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/domsolutions/gopayloader/releases/download/v0.4.2/gopayloader-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/domsolutions/gopayloader/releases/download/v0.4.2/gopayloader-windows-amd64.tar.gz",
             "hash": "d7da0d7f976d6c150e4ad69f6aa0f87f3dfcf7cf20b9e6313a7782fddfcf4aaf"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/domsolutions/gopayloader/releases/download/v$version/gopayloader-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/domsolutions/gopayloader/releases/download/v$version/gopayloader-windows-amd64.tar.gz"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dvorka/mindforger/releases/download/2.6.0/windows-installer-mindforger-2.6.0.exe",
+            "url": "https://gh-proxy.org/https://github.com/dvorka/mindforger/releases/download/2.6.0/windows-installer-mindforger-2.6.0.exe",
             "hash": "6f63e1d57f5bb946417c1a65191cbabfa1f77a95420ce258b768fc17dd9ed96b"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dvorka/mindforger/releases/download/$version/windows-installer-mindforger-$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/dvorka/mindforger/releases/download/$version/windows-installer-mindforger-$version.exe"
             }
         }
     }

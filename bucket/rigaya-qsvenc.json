@@ -4,16 +4,16 @@
     "homepage": "https://github.com/rigaya/QSVEnc",
     "license": {
         "identifier": "MIT",
-        "url": "https://gh-proxy.com/https://github.com/rigaya/QSVEnc/raw/refs/heads/master/license.txt"
+        "url": "https://gh-proxy.org/https://github.com/rigaya/QSVEnc/raw/refs/heads/master/license.txt"
     },
     "architecture": {
         "64bit": {
             "pre_install": "Get-ChildItem \"$dir\" 'QSVEncC64.exe' | Select-Object -First 1 | Rename-Item -NewName 'QSVEncC.exe'",
-            "url": "https://gh-proxy.com/https://github.com/rigaya/QSVEnc/releases/download/8.37/QSVEncC_8.37_x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/rigaya/QSVEnc/releases/download/8.37/QSVEncC_8.37_x64.7z",
             "hash": "e61f1ee9e3ed6ab09685a7bed16835aa22e65efc197252ebb74fee2bf601f41e"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rigaya/QSVEnc/releases/download/8.37/QSVEncC_8.37_Win32.7z",
+            "url": "https://gh-proxy.org/https://github.com/rigaya/QSVEnc/releases/download/8.37/QSVEncC_8.37_Win32.7z",
             "hash": "7819016856a751e3c068a6e7921a690811088faa3bc6b80b15c735477baa7aae"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_x64.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_Win32.7z"
+                "url": "https://gh-proxy.org/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_Win32.7z"
             }
         }
     }

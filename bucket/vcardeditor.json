@@ -3,7 +3,7 @@
     "description": "A simple vCard (*.vcf) file editor.",
     "homepage": "https://github.com/abdelkader/vCardEditor",
     "license": "Freeware",
-    "url": "https://gh-proxy.com/https://github.com/abdelkader/vCardEditor/releases/download/v0.5.9/vCardEditor.exe",
+    "url": "https://gh-proxy.org/https://github.com/abdelkader/vCardEditor/releases/download/v0.5.9/vCardEditor.exe",
     "hash": "d2bb9be6fa162d700a1e0fd144f92a4d052701d3e2b987c8b4ca22e2a69d0d08",
     "shortcuts": [
         [
@@ -15,6 +15,6 @@
     "persist": "config.xml",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abdelkader/vCardEditor/releases/download/v$version/vCardEditor.exe"
+        "url": "https://gh-proxy.org/https://github.com/abdelkader/vCardEditor/releases/download/v$version/vCardEditor.exe"
     }
 }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lightvector/KataGo/releases/download/v1.18.1/katago-v1.18.1-opencl-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lightvector/KataGo/releases/download/v1.18.1/katago-v1.18.1-opencl-windows-x64.zip",
             "hash": "1710db1903ab921aa6837a9599c8474f8a59f057650217c5d9bc125ee393a9ff"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lightvector/KataGo/releases/download/v$version/katago-v$version-opencl-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lightvector/KataGo/releases/download/v$version/katago-v$version-opencl-windows-x64.zip"
             }
         }
     }

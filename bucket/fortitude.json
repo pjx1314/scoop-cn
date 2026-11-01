@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/PlasmaFAIR/fortitude/releases/download/v0.10.1/fortitude-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/PlasmaFAIR/fortitude/releases/download/v0.10.1/fortitude-x86_64-pc-windows-msvc.zip",
             "hash": "b7d1dcb5a02946f6e38a60b7f7b60dfd3a8f6b82441d6c5afeaa3fbdad56a0c9"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/PlasmaFAIR/fortitude/releases/download/v0.10.1/fortitude-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/PlasmaFAIR/fortitude/releases/download/v0.10.1/fortitude-i686-pc-windows-msvc.zip",
             "hash": "f598bee64e5f1d8b4f7f4a2cbc18a76ea96dfb91dbc1b34ca2845ff5f6da003f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/PlasmaFAIR/fortitude/releases/download/v0.10.1/fortitude-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/PlasmaFAIR/fortitude/releases/download/v0.10.1/fortitude-aarch64-pc-windows-msvc.zip",
             "hash": "30ae9ba2b51061b361fb053e8a62a25ab938861222ef285992c114f124cfb59a"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/PlasmaFAIR/fortitude/releases/download/v$version/fortitude-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/PlasmaFAIR/fortitude/releases/download/v$version/fortitude-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/PlasmaFAIR/fortitude/releases/download/v$version/fortitude-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/PlasmaFAIR/fortitude/releases/download/v$version/fortitude-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/PlasmaFAIR/fortitude/releases/download/v$version/fortitude-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/PlasmaFAIR/fortitude/releases/download/v$version/fortitude-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

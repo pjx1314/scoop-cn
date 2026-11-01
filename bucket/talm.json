@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cozystack/talm/releases/download/v0.36.0/talm-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cozystack/talm/releases/download/v0.36.0/talm-windows-amd64.zip",
             "hash": "77d16e14aa30adb23f562f2cdebfe51e458dcbf47364c65171da9a86cc3a71bb"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cozystack/talm/releases/download/v0.36.0/talm-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cozystack/talm/releases/download/v0.36.0/talm-windows-arm64.zip",
             "hash": "8d08c4e7043045ff71242f3c08b567a44bb52890f74e8502a73c0244354d47b4"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cozystack/talm/releases/download/v$version/talm-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cozystack/talm/releases/download/v$version/talm-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cozystack/talm/releases/download/v$version/talm-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cozystack/talm/releases/download/v$version/talm-windows-arm64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ayman708-ux/PlayTorrio/releases/download/v2.8.6/PlayTorrio-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ayman708-ux/PlayTorrio/releases/download/v2.8.6/PlayTorrio-installer.exe#/dl.7z",
             "hash": "551d28960a9da9a2c2684779c2172cbdcbb84b5ba30cb2e2fc8f878be7c970ed"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ayman708-ux/PlayTorrio/releases/download/v$version/PlayTorrio-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ayman708-ux/PlayTorrio/releases/download/v$version/PlayTorrio-installer.exe#/dl.7z"
             }
         }
     }

@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/AabyssZG/Deformed-Image-Restorer/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/AabyssZG/Deformed-Image-Restorer/archive/refs/heads/master.zip",
     "hash": "81893c28f6e06d6870596dd8ff0e9a3710f8d65416f58578ff1e6de42510459a",
     "extract_dir": "Deformed-Image-Restorer-main",
     "pre_install": [
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AabyssZG/Deformed-Image-Restorer/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/AabyssZG/Deformed-Image-Restorer/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

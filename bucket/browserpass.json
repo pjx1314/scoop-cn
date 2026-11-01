@@ -5,7 +5,7 @@
     "license": "ISC",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/browserpass/browserpass-native/releases/download/v3.1.2/browserpass-windows64-3.1.2.msi",
+            "url": "https://gh-proxy.org/https://github.com/browserpass/browserpass-native/releases/download/v3.1.2/browserpass-windows64-3.1.2.msi",
             "hash": "a789cb96989d537c2c50a60fd6e056e2a47541d8e7338d987637a0d0d38dbc20"
         }
     },
@@ -40,7 +40,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/browserpass/browserpass-native/releases/download/v$version/browserpass-windows64-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/browserpass/browserpass-native/releases/download/v$version/browserpass-windows64-$version.msi"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/libvips/nip4/releases/download/v9.2.1/nip4-x64-9.2.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/libvips/nip4/releases/download/v9.2.1/nip4-x64-9.2.1.zip",
             "hash": "392be20f7c5a0ea1c962e6b911a9732b4f3d5ac28001dfd03793937bab62a457"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/libvips/nip4/releases/download/v9.2.1/nip4-arm64-9.2.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/libvips/nip4/releases/download/v9.2.1/nip4-arm64-9.2.1.zip",
             "hash": "36a5f34b0d89c860ca1d3ac0a8cfea230b0f2350cbdb021303cd60a591997533"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/libvips/nip4/releases/download/v$version/nip4-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/libvips/nip4/releases/download/v$version/nip4-x64-$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/libvips/nip4/releases/download/v$version/nip4-arm64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/libvips/nip4/releases/download/v$version/nip4-arm64-$version.zip"
             }
         }
     }

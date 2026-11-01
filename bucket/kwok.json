@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwok-windows-amd64.exe#/kwok.exe",
-                "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwokctl-windows-amd64.exe#/kwokctl.exe"
+                "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwok-windows-amd64.exe#/kwok.exe",
+                "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwokctl-windows-amd64.exe#/kwokctl.exe"
             ],
             "hash": [
                 "82ae828df35e82be1a5b301fd5c1abe20f533ab0e1fac7f0c9da95c62abc6758",
@@ -16,8 +16,8 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwok-windows-arm64.exe#/kwok.exe",
-                "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwokctl-windows-arm64.exe#/kwokctl.exe"
+                "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwok-windows-arm64.exe#/kwok.exe",
+                "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v0.8.0/kwokctl-windows-arm64.exe#/kwokctl.exe"
             ],
             "hash": [
                 "d6c4b577184656cb509f6c8cfb758a5046a9be53bfd3fd65175ad48a188fa1ed",
@@ -36,14 +36,14 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-amd64.exe#/kwok.exe",
-                    "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-amd64.exe#/kwokctl.exe"
+                    "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-amd64.exe#/kwok.exe",
+                    "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-amd64.exe#/kwokctl.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-arm64.exe#/kwok.exe",
-                    "https://gh-proxy.com/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-arm64.exe#/kwokctl.exe"
+                    "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-arm64.exe#/kwok.exe",
+                    "https://gh-proxy.org/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-arm64.exe#/kwokctl.exe"
                 ]
             }
         }

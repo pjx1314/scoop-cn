@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/Ad1euDa1e/VueCrack",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/Ad1euDa1e/VueCrack/archive/refs/heads/main.zip#/dl.zip1",
+    "url": "https://gh-proxy.org/https://github.com/Ad1euDa1e/VueCrack/archive/refs/heads/main.zip#/dl.zip1",
     "hash": "830a99d92214ab52036b6e33f3ff5d1d6e59814f33b6951db84e4b209ea8ba85",
     "pre_install": [
         "7z x \"$dir\\dl.zip1\" -o\"$dir\" -y",
@@ -21,6 +21,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Ad1euDa1e/VueCrack/archive/refs/heads/main.zip#/dl.zip1"
+        "url": "https://gh-proxy.org/https://github.com/Ad1euDa1e/VueCrack/archive/refs/heads/main.zip#/dl.zip1"
     }
 }

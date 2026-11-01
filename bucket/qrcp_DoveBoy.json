@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_amd64.tar.gz",
             "hash": "072082e1bace619f3fedba2b3189d3f6420d32a2dbb87d5831c9b883b95f47f7"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_386.tar.gz",
             "hash": "0caf376057357220c10cda6d4840dbab39a1bf983dd520a4375eee621165e9ed"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/claudiodangelis/qrcp/releases/download/v0.11.7/qrcp_0.11.7_windows_arm64.tar.gz",
             "hash": "d683af433cd6e1419339d4def868ad1cef9526244feed4319e52cfd298c0ed35"
         }
     },
@@ -26,13 +26,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/claudiodangelis/qrcp/releases/download/v$version/$matchX64"
+                "url": "https://gh-proxy.org/https://github.com/claudiodangelis/qrcp/releases/download/v$version/$matchX64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/claudiodangelis/qrcp/releases/download/v$version/$matchX86"
+                "url": "https://gh-proxy.org/https://github.com/claudiodangelis/qrcp/releases/download/v$version/$matchX86"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/claudiodangelis/qrcp/releases/download/v$version/$matchArm64"
+                "url": "https://gh-proxy.org/https://github.com/claudiodangelis/qrcp/releases/download/v$version/$matchArm64"
             }
         },
         "hash": {

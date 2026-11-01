@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/9.0.2/ffmpeg-9.0.2-full_build-shared.7z",
+            "url": "https://gh-proxy.org/https://github.com/GyanD/codexffmpeg/releases/download/9.0.2/ffmpeg-9.0.2-full_build-shared.7z",
             "hash": "4d2060a8b34a940aa47d785142055bb92a63053781e55f2ace4546edd519a8f5"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GyanD/codexffmpeg/releases/download/$version/ffmpeg-$version-full_build-shared.7z"
+                "url": "https://gh-proxy.org/https://github.com/GyanD/codexffmpeg/releases/download/$version/ffmpeg-$version-full_build-shared.7z"
             }
         },
         "extract_dir": "ffmpeg-$version-full_build-shared"

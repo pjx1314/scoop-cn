@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Miaoyww/NonsPlayer/releases/download/v1.9.1/Nons_1.9.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Miaoyww/NonsPlayer/releases/download/v1.9.1/Nons_1.9.1_x64-setup.exe#/dl.7z",
             "hash": "df17190e79da03167ff867e2efa451dec97a2fe988759a2ea47f9fb2f67ada93",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse"
         }
@@ -50,7 +50,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Miaoyww/NonsPlayer/releases/download/v$version/Nons_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Miaoyww/NonsPlayer/releases/download/v$version/Nons_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

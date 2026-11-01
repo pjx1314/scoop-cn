@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/l0ng-ai/papr/releases/download/v0.16.1/Papr_0.16.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/l0ng-ai/papr/releases/download/v0.16.1/Papr_0.16.1_x64-setup.exe#/dl.7z",
             "hash": "5616da206ae32cfe2c393c04a3db4a30ac9d73201f196d27ee455a108a86200d"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/l0ng-ai/papr/releases/download/v$version/Papr_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/l0ng-ai/papr/releases/download/v$version/Papr_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

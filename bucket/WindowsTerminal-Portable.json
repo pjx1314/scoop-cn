@@ -9,15 +9,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x64.zip",
             "hash": "bf3ef2012f6c44d8340a4c58125acc9498d19b580f9890dc043cdf831852e796"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_x86.zip",
             "hash": "39ec034dae2b207f3325d7e630d9a46cff291b7f1e14c7c529448d88c1830ca2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.2733.0/Microsoft.WindowsTerminal_1.25.2733.0_arm64.zip",
             "hash": "11b4fe264ecaa71b08cd84195536f68c669808155338e9f47f4da668b4cf0e26"
         }
     },
@@ -68,13 +68,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x86.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_arm64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Moeary/IwaraTool/releases/download/v1.1.4/IwaraTool-Windows-AMD64-v1.1.4.exe#/IwaraTool.exe",
+            "url": "https://gh-proxy.org/https://github.com/Moeary/IwaraTool/releases/download/v1.1.4/IwaraTool-Windows-AMD64-v1.1.4.exe#/IwaraTool.exe",
             "hash": "d2bb7b238e9d89862972428847a61a649ef5d1e0a98ef79e87bc0992b88b69bd"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Moeary/IwaraTool/releases/download/v$version/IwaraTool-Windows-AMD64-v$version.exe#/IwaraTool.exe"
+                "url": "https://gh-proxy.org/https://github.com/Moeary/IwaraTool/releases/download/v$version/IwaraTool-Windows-AMD64-v$version.exe#/IwaraTool.exe"
             }
         }
     }

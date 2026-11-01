@@ -9,7 +9,7 @@
             "main/openjdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/fupinglee/JavaTools/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/fupinglee/JavaTools/archive/refs/heads/master.zip",
     "hash": "32abc58d31c6487580ff75b31c3f5b16a93f7c5f3f02146863f58226e7648cb6",
     "extract_dir": "JavaTools-master",
     "pre_install": [
@@ -60,7 +60,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/fupinglee/JavaTools/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/fupinglee/JavaTools/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Java工具",

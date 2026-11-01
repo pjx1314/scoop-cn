@@ -6,11 +6,11 @@
     "notes": "e.g. run 'run-hidden powershell -command calc.exe'",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stax76/run-hidden/releases/download/v1.4/run-hidden64.exe#run-hidden.exe",
+            "url": "https://gh-proxy.org/https://github.com/stax76/run-hidden/releases/download/v1.4/run-hidden64.exe#run-hidden.exe",
             "hash": "ae5773edd55110091ce0141f147f27a23517b35e84cae79b63b24941cfe322b3"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/stax76/run-hidden/releases/download/v1.4/run-hidden.exe",
+            "url": "https://gh-proxy.org/https://github.com/stax76/run-hidden/releases/download/v1.4/run-hidden.exe",
             "hash": "c92bc15b5fdf7a48fab6cf0f401eb01bb733d95dbd8ecf305f73b5d1c9614efb"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stax76/run-hidden/releases/download/v$version/run-hidden64.exe"
+                "url": "https://gh-proxy.org/https://github.com/stax76/run-hidden/releases/download/v$version/run-hidden64.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/stax76/run-hidden/releases/download/v$version/run-hidden.exe"
+                "url": "https://gh-proxy.org/https://github.com/stax76/run-hidden/releases/download/v$version/run-hidden.exe"
             }
         }
     }

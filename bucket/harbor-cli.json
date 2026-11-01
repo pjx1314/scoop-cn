@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/goharbor/harbor-cli/releases/download/v0.0.27/harbor-cli_0.0.27_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goharbor/harbor-cli/releases/download/v0.0.27/harbor-cli_0.0.27_windows_amd64.zip",
             "hash": "9e382a3efe22dc269150234c005deee24d0aad223c931f4a279eaeaeb16e0606"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/goharbor/harbor-cli/releases/download/v$version/harbor-cli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goharbor/harbor-cli/releases/download/v$version/harbor-cli_$version_windows_amd64.zip"
             }
         },
         "hash": {

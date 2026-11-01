@@ -4,9 +4,9 @@
     "homepage": "https://github.com/Loyalsoldier/v2ray-rules-dat",
     "license": {
         "identifier": "GPL-3.0-or-later",
-        "url": "https://gh-proxy.com/https://github.com/Loyalsoldier/v2ray-rules-dat/raw/master/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/Loyalsoldier/v2ray-rules-dat/raw/master/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/Loyalsoldier/v2ray-rules-dat/archive/2dd07b0811183edca927a45c5f0b9430e330ca05.zip",
+    "url": "https://gh-proxy.org/https://github.com/Loyalsoldier/v2ray-rules-dat/archive/2dd07b0811183edca927a45c5f0b9430e330ca05.zip",
     "hash": "e8d54caaab964006d9ff52feb03b9ff01002e0d53a5b8d00b8b8503729c179a1",
     "extract_dir": "v2ray-rules-dat-2dd07b0811183edca927a45c5f0b9430e330ca05",
     "checkver": {
@@ -15,7 +15,7 @@
         "replace": "0.${1}.${2}.${3}.${short}"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Loyalsoldier/v2ray-rules-dat/archive/$matchSha.zip",
+        "url": "https://gh-proxy.org/https://github.com/Loyalsoldier/v2ray-rules-dat/archive/$matchSha.zip",
         "extract_dir": "v2ray-rules-dat-$matchSha"
     }
 }

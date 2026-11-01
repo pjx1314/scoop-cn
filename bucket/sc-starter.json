@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Mikachu2333/sc_starter/releases/download/2.10.3/SC_Starter.exe",
+            "url": "https://gh-proxy.org/https://github.com/Mikachu2333/sc_starter/releases/download/2.10.3/SC_Starter.exe",
             "hash": "3a747fc060acc67b8dba627837602e3c08daca9935cd46abdf832305e4c2cd7f"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Mikachu2333/sc_starter/releases/download/$version/SC_Starter.exe"
+                "url": "https://gh-proxy.org/https://github.com/Mikachu2333/sc_starter/releases/download/$version/SC_Starter.exe"
             }
         }
     }

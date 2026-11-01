@@ -8,7 +8,7 @@
 	},
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/SpikeHD/Orbolay/releases/download/v4.2.0/orbolay-x86_64-pc-windows-msvc.exe#/orbolay.exe",
+			"url": "https://gh-proxy.org/https://github.com/SpikeHD/Orbolay/releases/download/v4.2.0/orbolay-x86_64-pc-windows-msvc.exe#/orbolay.exe",
 			"hash": "50b11aebbded704e36193b222c47b52e2b002ef3ecee8c97cba2fbd823c43522"
 		}
 	},
@@ -24,7 +24,7 @@
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
-				"url": "https://gh-proxy.com/https://github.com/SpikeHD/Orbolay/releases/download/v$version/orbolay-x86_64-pc-windows-msvc.exe#/orbolay.exe",
+				"url": "https://gh-proxy.org/https://github.com/SpikeHD/Orbolay/releases/download/v$version/orbolay-x86_64-pc-windows-msvc.exe#/orbolay.exe",
 				"hash": "$matchHash"
 			}
 		}

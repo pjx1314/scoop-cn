@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/bgreenwell/doxx/releases/download/v0.1.4/doxx-x86_64-pc-windows-msvc.zip",
             "hash": "664e6b5138e3c63d67464c5af59b09d6575ed98c984097c43db924d17f898833"
         }
     },
@@ -16,8 +16,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bgreenwell/doxx/releases/download/v$version/doxx-x86_64-pc-windows-msvc.zip",
-                "hash": "https://gh-proxy.com/https://github.com/bgreenwell/doxx/releases/download/v$version/doxx-x86_64-pc-windows-msvc.zip.sha256"
+                "url": "https://gh-proxy.org/https://github.com/bgreenwell/doxx/releases/download/v$version/doxx-x86_64-pc-windows-msvc.zip",
+                "hash": "https://gh-proxy.org/https://github.com/bgreenwell/doxx/releases/download/v$version/doxx-x86_64-pc-windows-msvc.zip.sha256"
             }
         }
     }

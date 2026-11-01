@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lanyeeee/wnacg-downloader/releases/download/v0.5.1/wnacg-downloader_0.5.1_windows_x64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/lanyeeee/wnacg-downloader/releases/download/v0.5.1/wnacg-downloader_0.5.1_windows_x64_portable.zip",
             "hash": "96e90b8ce52fa1e227ccc583264d9aff3473076ded81ffff7eda75f3fa09b251"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lanyeeee/wnacg-downloader/releases/download/v$version/wnacg-downloader_$version_windows_x64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/lanyeeee/wnacg-downloader/releases/download/v$version/wnacg-downloader_$version_windows_x64_portable.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-x86_64.zip",
             "hash": "6f5532687d71c452e0099a9087e51da65f9935664fb11549abc0a5a34cb1d34e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/benbjohnson/litestream/releases/download/v0.5.17/litestream-0.5.17-windows-arm64.zip",
             "hash": "4760c629b43539e212fc6caf0d9c28d96f33f9a2878fd2edcd85cfebf21cea8f"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/benbjohnson/litestream/releases/download/v$version/litestream-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/benbjohnson/litestream/releases/download/v$version/litestream-$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/benbjohnson/litestream/releases/download/v$version/litestream-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/benbjohnson/litestream/releases/download/v$version/litestream-$version-windows-arm64.zip"
             }
         },
         "hash": {

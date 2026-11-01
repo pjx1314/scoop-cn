@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prmr/JetUML/releases/download/v3.9/JetUML-3.9-win.exe",
+            "url": "https://gh-proxy.org/https://github.com/prmr/JetUML/releases/download/v3.9/JetUML-3.9-win.exe",
             "hash": "941a5b80ba40d7948fb651e09e8adbfb87fe811ece3f147a973cb65d7c4a9a73"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prmr/JetUML/releases/download/v$version/JetUML-$version-win.exe"
+                "url": "https://gh-proxy.org/https://github.com/prmr/JetUML/releases/download/v$version/JetUML-$version-win.exe"
             }
         }
     }

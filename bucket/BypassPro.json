@@ -10,11 +10,11 @@
             "main/openjdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/0x727/BypassPro/releases/download/v5.2/BypassPro-5.2.jar",
+    "url": "https://gh-proxy.org/https://github.com/0x727/BypassPro/releases/download/v5.2/BypassPro-5.2.jar",
     "hash": "8f364431297000cc8e39e4ff6af6673a03aca7627d6c0df4b373d927e4f43f76",
     "pre_install": "Rename-Item  \"$dir\\BypassPro-$version.jar\" \"$dir\\BypassPro.jar\"",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/0x727/BypassPro/releases/download/v$version/BypassPro-$version.jar"
+        "url": "https://gh-proxy.org/https://github.com/0x727/BypassPro/releases/download/v$version/BypassPro-$version.jar"
     }
 }

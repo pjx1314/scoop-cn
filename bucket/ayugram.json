@@ -6,7 +6,7 @@
         "identifier": "Freeware",
         "url": "https://github.com/AyuGram/AyuGramDesktop/blob/dev/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/AyuGram/AyuGramDesktop/releases/download/v7.2.9/AyuGram.zip",
+    "url": "https://gh-proxy.org/https://github.com/AyuGram/AyuGramDesktop/releases/download/v7.2.9/AyuGram.zip",
     "hash": "69aab831164169a6713314bb06792314d4e3af8fba6f1cfbdf2cdcbf44364684",
     "shortcuts": [
         [
@@ -17,6 +17,6 @@
     "persist": "tdata",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AyuGram/AyuGramDesktop/releases/download/v$version/AyuGram.zip"
+        "url": "https://gh-proxy.org/https://github.com/AyuGram/AyuGramDesktop/releases/download/v$version/AyuGram.zip"
     }
 }

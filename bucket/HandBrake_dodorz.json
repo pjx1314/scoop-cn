@@ -5,7 +5,7 @@
     "license":  "GPL-2.0-only",
     "architecture":  {
                          "64bit":  {
-                                       "url":  "https://gh-proxy.com/https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.zip",
+                                       "url":  "https://gh-proxy.org/https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.zip",
                                        "hash":  "6becb8e5a041941d5f2fd6fe83c66fc15b2b16190e2e79f5ad47eb4cd18df8cd"
                                    }
                      },
@@ -28,7 +28,7 @@
     "autoupdate":  {
                        "architecture":  {
                                             "64bit":  {
-                                                          "url":  "https://gh-proxy.com/https://github.com/HandBrake/HandBrake/releases/download/$version/HandBrake-$version-x86_64-Win_GUI.zip"
+                                                          "url":  "https://gh-proxy.org/https://github.com/HandBrake/HandBrake/releases/download/$version/HandBrake-$version-x86_64-Win_GUI.zip"
                                                       }
                                         },
                        "hash":  {

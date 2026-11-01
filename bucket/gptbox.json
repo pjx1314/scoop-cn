@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lollipopkit/flutter_gpt_box/releases/download/v1.0.395/GPTBox_395_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lollipopkit/flutter_gpt_box/releases/download/v1.0.395/GPTBox_395_windows_amd64.zip",
             "hash": "5516fd496f7222307e7ccb925da1162c1d2d3cf655317693effe372676bc1b26"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lollipopkit/flutter_gpt_box/releases/download/v1.0.$version/GPTBox_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lollipopkit/flutter_gpt_box/releases/download/v1.0.$version/GPTBox_$version_windows_amd64.zip"
             }
         }
     }

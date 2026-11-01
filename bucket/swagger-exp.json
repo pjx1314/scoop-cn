@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/lijiejie/swagger-exp/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/lijiejie/swagger-exp/archive/refs/heads/master.zip",
     "hash": "979c8694bbea9edbff552ea1917422d200099b5875d322ea9f6cacee11d6b5ae",
     "extract_dir": "swagger-exp-master",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lijiejie/swagger-exp/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/lijiejie/swagger-exp/archive/refs/heads/master.zip"
     }
 }

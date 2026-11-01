@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/EASY233/Finger/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/EASY233/Finger/archive/refs/heads/main.zip",
     "hash": "6361ba96db6c7d32a69a34eb2723c98ea9b425a3daef64e160ae7e9b70b67648",
     "pre_install": [
         "Set-Content \"$dir\\Finger.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/EASY233/Finger/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/EASY233/Finger/archive/refs/heads/main.zip"
     }
 }

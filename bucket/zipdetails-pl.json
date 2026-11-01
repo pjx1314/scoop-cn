@@ -4,7 +4,7 @@
     "homepage": "https://github.com/pmqs/zipdetails",
     "license": "Artistic-1.0-Perl",
     "depends": "main/perl",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/pmqs/zipdetails/refs/heads/main/bin/zipdetails",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pmqs/zipdetails/refs/heads/main/bin/zipdetails",
     "hash": "de4ff28c4bbca932d5dfb9feeb26935fe6c72c0928aefe9d451ddea248e93b2a",
     "pre_install": [
         "Rename-Item \"$dir/zipdetails\" zipdetails.pl",
@@ -18,7 +18,7 @@
         "regex": "\\A(\\d+)\\Z"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/pmqs/zipdetails/refs/heads/main/bin/zipdetails",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pmqs/zipdetails/refs/heads/main/bin/zipdetails",
         "extract_dir": "Image-ExifTool-$version"
     }
 }

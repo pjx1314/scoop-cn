@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/emptybottle-null/Godzilla_null/releases/download/%E4%BA%8C%E5%BC%80/Godzilla_null.jar",
+    "url": "https://gh-proxy.org/https://github.com/emptybottle-null/Godzilla_null/releases/download/%E4%BA%8C%E5%BC%80/Godzilla_null.jar",
     "hash": "546ffae8dd08a626a6cae37e4706259083495cbaefa88acc40e4d2bc2cdbaff4",
     "pre_install": [
         "Set-Content \"$dir\\Godzilla_null.bat\" '@pushd %~dp0",

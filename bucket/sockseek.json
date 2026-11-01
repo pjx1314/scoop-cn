@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fiso64/sockseek/releases/download/v3.0.6/sockseek_3.0.6_win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/fiso64/sockseek/releases/download/v3.0.6/sockseek_3.0.6_win-x64.zip",
             "hash": "aa965bdf3bc9b04757380889e1ce96ce1d57fdf89423fb3f7ebf378e469e66c4"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fiso64/sockseek/releases/download/v$version/sockseek_$version_win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/fiso64/sockseek/releases/download/v$version/sockseek_$version_win-x64.zip"
             }
         }
     }

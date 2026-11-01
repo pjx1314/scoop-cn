@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rusq/slackdump/releases/download/v4.5.3/slackdump_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rusq/slackdump/releases/download/v4.5.3/slackdump_Windows_x86_64.zip",
             "hash": "7dbda4703716db2b7beee5dc5725a9a10be8008466bfd256837948bee866e146"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rusq/slackdump/releases/download/v4.5.3/slackdump_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/rusq/slackdump/releases/download/v4.5.3/slackdump_Windows_i386.zip",
             "hash": "3586d5666b46e3500e4fa0a68b0fd3e3c6a2c8f7f40d6440359cf7bfb61719df"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/rusq/slackdump/releases/download/v4.5.3/slackdump_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rusq/slackdump/releases/download/v4.5.3/slackdump_Windows_arm64.zip",
             "hash": "7d54e680f80baafebef510436b615e7d6a0fde2bb2e22ebe005425c752badd92"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_arm64.zip"
             }
         },
         "hash": {

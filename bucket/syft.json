@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_amd64.zip",
             "hash": "ada4c9b93af575f479ce80fce6629897272a2d41f300a14bc49bace020767ca2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/anchore/syft/releases/download/v$version/syft_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/anchore/syft/releases/download/v$version/syft_$version_windows_amd64.zip"
             }
         },
         "hash": {

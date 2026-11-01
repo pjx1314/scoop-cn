@@ -5,12 +5,12 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jub0t/Concat/releases/download/v0.2.2/Concat-0.2.2-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jub0t/Concat/releases/download/v0.2.2/Concat-0.2.2-windows-x86_64.zip",
             "hash": "0f51b7bc0b02ee8d084fbd7769f6f19594fb437ea22aa95d9126efc262303f21",
             "extract_dir": "Concat-0.2.2-windows-x86_64"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jub0t/Concat/releases/download/v0.2.2/Concat-0.2.2-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jub0t/Concat/releases/download/v0.2.2/Concat-0.2.2-windows-aarch64.zip",
             "hash": "f0389ec8f72f1199e89eed07cd48a18fd087269a297c8bfe19fe28323af9e81c",
             "extract_dir": "Concat-0.2.2-windows-aarch64"
         }
@@ -36,11 +36,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jub0t/Concat/releases/download/v$version/Concat-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/jub0t/Concat/releases/download/v$version/Concat-$version-windows-x86_64.zip",
                 "extract_dir": "Concat-$version-windows-x86_64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jub0t/Concat/releases/download/v$version/Concat-$version-windows-aarch64.zip",
+                "url": "https://gh-proxy.org/https://github.com/jub0t/Concat/releases/download/v$version/Concat-$version-windows-aarch64.zip",
                 "extract_dir": "Concat-$version-windows-aarch64"
             }
         },

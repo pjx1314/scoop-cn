@@ -4,11 +4,11 @@
     "homepage": "https://github.com/Rookiestyle/KeePassOTP",
     "license": "GPL-3.0-only",
     "depends": "main/keepass",
-    "url": "https://gh-proxy.com/https://github.com/Rookiestyle/KeePassOTP/releases/download/v1.13/KeePassOTP.plgx",
+    "url": "https://gh-proxy.org/https://github.com/Rookiestyle/KeePassOTP/releases/download/v1.13/KeePassOTP.plgx",
     "hash": "4118760f3807e834c0816257810d021f15fc43145aeb8b98af1e188dc0e44198",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Rookiestyle/KeePassOTP/releases/download/v$version/KeePassOTP.plgx"
+        "url": "https://gh-proxy.org/https://github.com/Rookiestyle/KeePassOTP/releases/download/v$version/KeePassOTP.plgx"
     },
     "installer": {
         "script": "if (installed 'keepass' $global) {Copy-Item \"$dir\\KeePassOTP.plgx\" \"$(appdir keepass $global)\\current\\Plugins\"} else { error 'Please install `keepass` first, then reinstall `keepass-plugin-keepassotp`.'}"

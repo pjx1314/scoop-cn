@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/BBD-YZZ/week-passwd",
     "license": "unknow",
-    "url": "https://gh-proxy.com/https://github.com/BBD-YZZ/week-passwd/releases/download/v2.0.1/JUBILANT-WOLF-V2.0.1.exe#/week-passwd.exe",
+    "url": "https://gh-proxy.org/https://github.com/BBD-YZZ/week-passwd/releases/download/v2.0.1/JUBILANT-WOLF-V2.0.1.exe#/week-passwd.exe",
     "hash": "",
     "bin": "week-passwd.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/BBD-YZZ/week-passwd/releases/download/v$version/JUBILANT-WOLF-V$version.exe#/week-passwd.exe"
+        "url": "https://gh-proxy.org/https://github.com/BBD-YZZ/week-passwd/releases/download/v$version/JUBILANT-WOLF-V$version.exe#/week-passwd.exe"
     }
 }

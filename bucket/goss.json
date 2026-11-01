@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goss-org/goss/releases/download/v0.4.10/goss_0.4.10_windows_x86_64.zip",
             "hash": "d4627639a75d52c26436add069553dbdae9fc4045dd832f26c70736f2f26f458"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/goss-org/goss/releases/download/v$version/goss_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goss-org/goss/releases/download/v$version/goss_$version_windows_x86_64.zip"
             }
         },
         "hash": {

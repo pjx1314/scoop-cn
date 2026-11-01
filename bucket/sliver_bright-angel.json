@@ -10,8 +10,8 @@
     "homepage": "https://github.com/BishopFox/sliver",
     "license": "GPL-3.0-or-later",
     "url": [
-        "https://gh-proxy.com/https://github.com/BishopFox/sliver/releases/download/v1.7.9/sliver-client_windows-amd64.exe",
-        "https://gh-proxy.com/https://github.com/BishopFox/sliver/releases/download/v1.7.9/sliver-server_windows-amd64.exe"
+        "https://gh-proxy.org/https://github.com/BishopFox/sliver/releases/download/v1.7.9/sliver-client_windows-amd64.exe",
+        "https://gh-proxy.org/https://github.com/BishopFox/sliver/releases/download/v1.7.9/sliver-server_windows-amd64.exe"
     ],
     "hash": [
         "623704db947269081e7094c880476771b05de178008cdb3a974bb2c4fc8cba71",
@@ -30,8 +30,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/BishopFox/sliver/releases/download/v$version/sliver-client_windows-amd64.exe",
-            "https://gh-proxy.com/https://github.com/BishopFox/sliver/releases/download/v$version/sliver-server_windows-amd64.exe"
+            "https://gh-proxy.org/https://github.com/BishopFox/sliver/releases/download/v$version/sliver-client_windows-amd64.exe",
+            "https://gh-proxy.org/https://github.com/BishopFox/sliver/releases/download/v$version/sliver-server_windows-amd64.exe"
         ]
     }
 }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Shopify/function-runner/releases/download/v9.2.2/function-runner-x86_64-windows-v9.2.2.gz",
+            "url": "https://gh-proxy.org/https://github.com/Shopify/function-runner/releases/download/v9.2.2/function-runner-x86_64-windows-v9.2.2.gz",
             "hash": "ca75949c8221ed441f4156d1073c8470d621ef218ddff25a99aaa7383eb36011"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Shopify/function-runner/releases/download/v$version/function-runner-x86_64-windows-v$version.gz"
+                "url": "https://gh-proxy.org/https://github.com/Shopify/function-runner/releases/download/v$version/function-runner-x86_64-windows-v$version.gz"
             }
         },
         "hash": {

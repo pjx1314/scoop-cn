@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sondr3/git-ignore/releases/download/v1.4.0/git-ignore-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/sondr3/git-ignore/releases/download/v1.4.0/git-ignore-x86_64-pc-windows-msvc.zip",
             "hash": "a9ad680aaec04e2df54090da23d98b47aa952b6e270f6d53a73ad7c23d1e8f6a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sondr3/git-ignore/releases/download/v$version/git-ignore-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/sondr3/git-ignore/releases/download/v$version/git-ignore-x86_64-pc-windows-msvc.zip"
             }
         }
     }

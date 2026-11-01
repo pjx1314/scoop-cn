@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/httpie/desktop/releases/download/v2025.2.0/HTTPie-Setup-2025.2.0.exe#/app.7z",
+            "url": "https://gh-proxy.org/https://github.com/httpie/desktop/releases/download/v2025.2.0/HTTPie-Setup-2025.2.0.exe#/app.7z",
             "hash": "17f0e0312ac813cd6517b271bff4c0af74d452822075e97bc26e420de0800ed5"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/httpie/desktop/releases/download/v$version/HTTPie-Setup-$version.exe#/app.7z"
+                "url": "https://gh-proxy.org/https://github.com/httpie/desktop/releases/download/v$version/HTTPie-Setup-$version.exe#/app.7z"
             }
         }
     }

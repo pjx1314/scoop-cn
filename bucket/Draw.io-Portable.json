@@ -6,7 +6,7 @@
     "changelog": "https://github.com/jgraph/drawio-desktop/releases",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v31.3.2/draw.io-31.3.2-windows-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v31.3.2/draw.io-31.3.2-windows-installer.exe#/dl.7z",
             "hash": "4ce9f1d4b6cc058caecd1423b3f7a94c7520e2c743fc203841b738e002ac75d6",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -14,7 +14,7 @@
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v31.3.2/draw.io-ia32-31.3.2-windows-32bit-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v31.3.2/draw.io-ia32-31.3.2-windows-32bit-installer.exe#/dl.7z",
             "hash": "d3a2eae436b2a5f08861e2727abd49370da45a5fe932d973daad19e43993dc8a",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
@@ -43,10 +43,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-$version-windows-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-$version-windows-installer.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-ia32-$version-windows-32bit-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-ia32-$version-windows-32bit-installer.exe#/dl.7z"
             }
         }
     }

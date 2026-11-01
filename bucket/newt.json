@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fosrl/newt/releases/download/1.19.0/newt_windows_amd64.exe#/newt.exe",
+            "url": "https://gh-proxy.org/https://github.com/fosrl/newt/releases/download/1.19.0/newt_windows_amd64.exe#/newt.exe",
             "hash": "faf9d94c7b8b6634f938845d8a8ff29a03a35a7b296f7c5b56ef4b7192cca5e5"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fosrl/newt/releases/download/$version/newt_windows_amd64.exe#/newt.exe"
+                "url": "https://gh-proxy.org/https://github.com/fosrl/newt/releases/download/$version/newt_windows_amd64.exe#/newt.exe"
             }
         }
     }

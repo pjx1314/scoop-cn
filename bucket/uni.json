@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/arp242/uni/releases/download/v2.10.0/uni-v2.10.0-windows-amd64.exe.gz",
+            "url": "https://gh-proxy.org/https://github.com/arp242/uni/releases/download/v2.10.0/uni-v2.10.0-windows-amd64.exe.gz",
             "hash": "a828970663b5355b106b7a94d2301a15c4aab96e2741d15ca09efd4c979272ae"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/arp242/uni/releases/download/v$version/uni-v$version-windows-amd64.exe.gz"
+                "url": "https://gh-proxy.org/https://github.com/arp242/uni/releases/download/v$version/uni-v$version-windows-amd64.exe.gz"
             }
         }
     }

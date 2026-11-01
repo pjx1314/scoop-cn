@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe#/dl.7z",
             "hash": "b06917123a50682ff4279ff99066a14a74cd4946173e99dc1c287028549392ee"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qier222/YesPlayMusic/releases/download/v$version/$matchFile#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/qier222/YesPlayMusic/releases/download/v$version/$matchFile#/dl.7z"
             }
         }
     }

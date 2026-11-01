@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FoxSensei001/LoveIwara/releases/download/0.6.1/i_iwara-0.6.1-windows-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/FoxSensei001/LoveIwara/releases/download/0.6.1/i_iwara-0.6.1-windows-setup.exe",
             "hash": "35d4abc79920d0f0137e1e05d395fda4b17060331ef50da98b8f5a286d6eaefe"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FoxSensei001/LoveIwara/releases/download/$version/i_iwara-$version-windows-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/FoxSensei001/LoveIwara/releases/download/$version/i_iwara-$version-windows-setup.exe"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/aube/releases/download/v2.8.5/aube-v2.8.5-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/aube/releases/download/v2.8.5/aube-v2.8.5-x86_64-pc-windows-msvc.zip",
             "hash": "97cfb2ee932529091f39f6f47933802569e5b38a689f867ee45ae0ee6f2be4cc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/aube/releases/download/v2.8.5/aube-v2.8.5-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/aube/releases/download/v2.8.5/aube-v2.8.5-aarch64-pc-windows-msvc.zip",
             "hash": "6e44eadc2cba7406e5d8c958046bf884884a1adc39d379d1aab4b06bf56b7184"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/aube/releases/download/v$version/aube-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/aube/releases/download/v$version/aube-v$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/aube/releases/download/v$version/aube-v$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/aube/releases/download/v$version/aube-v$version-aarch64-pc-windows-msvc.zip"
             }
         }
     }

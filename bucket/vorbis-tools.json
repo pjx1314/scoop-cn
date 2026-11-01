@@ -3,7 +3,7 @@
     "description": "(Unofficial Builds by Chocobo1) Command-line tools for creating and playing Ogg Vorbis files.",
     "homepage": "https://gitlab.xiph.org/xiph/vorbis-tools",
     "license": "GPL-2.0-only",
-    "url": "https://gh-proxy.com/https://github.com/Chocobo1/vorbis-tools_win32-build/releases/download/2025.06.17/vorbis-tools.7z",
+    "url": "https://gh-proxy.org/https://github.com/Chocobo1/vorbis-tools_win32-build/releases/download/2025.06.17/vorbis-tools.7z",
     "hash": "5e8ab826b3b7cbe95d23c8ec1613e4c656e26ea099bf7095d1f7fcdae2b5be5c",
     "architecture": {
         "64bit": {
@@ -25,6 +25,6 @@
         "regex": "Repository/\\d+/(.+?)<"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Chocobo1/vorbis-tools_win32-build/releases/download/$version/vorbis-tools.7z"
+        "url": "https://gh-proxy.org/https://github.com/Chocobo1/vorbis-tools_win32-build/releases/download/$version/vorbis-tools.7z"
     }
 }

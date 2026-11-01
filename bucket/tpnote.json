@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/getreu/tp-note/releases/download/v1.27.3/tpnote-1.27.3-x86_64-pc-windows-gnu.zip",
+            "url": "https://gh-proxy.org/https://github.com/getreu/tp-note/releases/download/v1.27.3/tpnote-1.27.3-x86_64-pc-windows-gnu.zip",
             "hash": "88811b3e7d32f9697cef2808810c19805a4c577d0cf072e855a93b1d8b9bb201"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/getreu/tp-note/releases/download/v$version/tpnote-$version-x86_64-pc-windows-gnu.zip"
+                "url": "https://gh-proxy.org/https://github.com/getreu/tp-note/releases/download/v$version/tpnote-$version-x86_64-pc-windows-gnu.zip"
             }
         }
     }

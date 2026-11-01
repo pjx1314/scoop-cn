@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/enfein/mieru/releases/download/v3.39.0/mieru_3.39.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/enfein/mieru/releases/download/v3.39.0/mieru_3.39.0_windows_amd64.zip",
             "hash": "e753d403d0e0b684df47441c2e3f648c4d3b2b7075d2035fc7dd1cb2a1d7c35b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/enfein/mieru/releases/download/v$version/mieru_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/enfein/mieru/releases/download/v$version/mieru_$version_windows_amd64.zip"
             }
         }
     }

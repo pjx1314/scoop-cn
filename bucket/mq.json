@@ -6,14 +6,14 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-crawl-x86_64-pc-windows-msvc.exe#/mq-crawl.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-fmt-x86_64-pc-windows-msvc.exe#/mq-fmt.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-lint-x86_64-pc-windows-msvc.exe#/mq-lint.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-lsp-x86_64-pc-windows-msvc.exe#/mq-lsp.exe",
-                "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-test-x86_64-pc-windows-msvc.exe#/mq-test.exe"
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-crawl-x86_64-pc-windows-msvc.exe#/mq-crawl.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-fmt-x86_64-pc-windows-msvc.exe#/mq-fmt.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-lint-x86_64-pc-windows-msvc.exe#/mq-lint.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-lsp-x86_64-pc-windows-msvc.exe#/mq-lsp.exe",
+                "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-test-x86_64-pc-windows-msvc.exe#/mq-test.exe"
             ],
             "hash": [
                 "e5f28d6e0763d3ae00f476d2277e90e19c6e1efe5a61c748bf77126cf3136223",
@@ -44,14 +44,14 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-crawl-x86_64-pc-windows-msvc.exe#/mq-crawl.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-fmt-x86_64-pc-windows-msvc.exe#/mq-fmt.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-lint-x86_64-pc-windows-msvc.exe#/mq-lint.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-lsp-x86_64-pc-windows-msvc.exe#/mq-lsp.exe",
-                    "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-test-x86_64-pc-windows-msvc.exe#/mq-test.exe"
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-x86_64-pc-windows-msvc.exe#/mq.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-crawl-x86_64-pc-windows-msvc.exe#/mq-crawl.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-dbg-x86_64-pc-windows-msvc.exe#/mq-dbg.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-fmt-x86_64-pc-windows-msvc.exe#/mq-fmt.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-lint-x86_64-pc-windows-msvc.exe#/mq-lint.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-lsp-x86_64-pc-windows-msvc.exe#/mq-lsp.exe",
+                    "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-test-x86_64-pc-windows-msvc.exe#/mq-test.exe"
                 ]
             }
         },

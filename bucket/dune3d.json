@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dune3d/dune3d/releases/download/v1.4.0/dune3d-1.4.0-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/dune3d/dune3d/releases/download/v1.4.0/dune3d-1.4.0-x64.msi",
             "hash": "3b011518631206bfb80b7b512a68a1fcac3c623de16fcc812bbf48ecd603ed95"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dune3d/dune3d/releases/download/v$version/dune3d-$version-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/dune3d/dune3d/releases/download/v$version/dune3d-$version-x64.msi"
             }
         }
     }

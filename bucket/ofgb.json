@@ -5,7 +5,7 @@
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xM4ddy/OFGB/releases/download/v0.4/OFGB.exe",
+            "url": "https://gh-proxy.org/https://github.com/xM4ddy/OFGB/releases/download/v0.4/OFGB.exe",
             "hash": "1cf97ccebcdf33ce37199fcef01c348faed81077eb340e36da35171cbb7ba1ae"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xM4ddy/OFGB/releases/download/v$version/OFGB.exe"
+                "url": "https://gh-proxy.org/https://github.com/xM4ddy/OFGB/releases/download/v$version/OFGB.exe"
             }
         }
     }

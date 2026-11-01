@@ -3,7 +3,7 @@
     "description": "MCP Kali Server - AI 辅助渗透测试与 CTF 挑战的 MCP 桥接工具",
     "homepage": "https://github.com/Wh0am123/MCP-Kali-Server",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/Wh0am123/MCP-Kali-Server/archive/refs/heads/main.zip#/mcp-kali-server.zip",
+    "url": "https://gh-proxy.org/https://github.com/Wh0am123/MCP-Kali-Server/archive/refs/heads/main.zip#/mcp-kali-server.zip",
     "hash": "sha256:6D663351D4146E00A1E01B4E87A8AC9D574B0EA866DBFDDD921F34B7B4E67A55",
     "extract_dir": "MCP-Kali-Server-main",
     "suggest": {
@@ -19,7 +19,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Wh0am123/MCP-Kali-Server/archive/refs/heads/main.zip#/mcp-kali-server.zip"
+        "url": "https://gh-proxy.org/https://github.com/Wh0am123/MCP-Kali-Server/archive/refs/heads/main.zip#/mcp-kali-server.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具（MCP 桥接服务）",

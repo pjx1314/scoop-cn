@@ -3,7 +3,7 @@
     "description": "Streaming media server/music client",
     "homepage": "https://github.com/Super-Badmen-Viper/NSMusicS",
     "license": "AGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/Super-Badmen-Viper/NSMusicS/releases/download/NSMusicS-v2.3.1/NSMusicS-Win-2.3.1-x64.zip",
+    "url": "https://gh-proxy.org/https://github.com/Super-Badmen-Viper/NSMusicS/releases/download/NSMusicS-v2.3.1/NSMusicS-Win-2.3.1-x64.zip",
     "hash": "bd2bd704ac4c3b4a04029636b0e843f7ee68ffed2e483f67210d52c7a9f37534",
     "bin": "NSMusicS.exe",
     "shortcuts": [
@@ -17,6 +17,6 @@
         "regex": "NSMusicS-v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Super-Badmen-Viper/NSMusicS/releases/download/NSMusicS-v$version/NSMusicS-Win-$version-x64.zip"
+        "url": "https://gh-proxy.org/https://github.com/Super-Badmen-Viper/NSMusicS/releases/download/NSMusicS-v$version/NSMusicS-Win-$version-x64.zip"
     }
 }

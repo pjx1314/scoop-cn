@@ -5,7 +5,7 @@
     "license": "ISC",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/firecrawl/cli/releases/download/v1.26.24/firecrawl-windows-x64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/firecrawl/cli/releases/download/v1.26.24/firecrawl-windows-x64.exe.zip",
             "hash": "5ad1be560c8b231079e6f2b6ebfc5f6e7bf9d7fa29593c528adbdccbacba4aef"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/firecrawl/cli/releases/download/v$version/firecrawl-windows-x64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/firecrawl/cli/releases/download/v$version/firecrawl-windows-x64.exe.zip"
             }
         },
         "hash": {

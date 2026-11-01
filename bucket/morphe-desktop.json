@@ -3,7 +3,7 @@
     "description": "Morphe Desktop is a command-line and GUI application that uses Morphe Patcher to patch Android apps.",
     "homepage": "https://github.com/MorpheApp/morphe-desktop",
     "license": "GPL-3.0-only",
-    "url": "https://gh-proxy.com/https://github.com/MorpheApp/morphe-desktop/releases/download/v1.20.0/morphe-desktop-1.20.0-all.jar#/morphe-desktop.jar",
+    "url": "https://gh-proxy.org/https://github.com/MorpheApp/morphe-desktop/releases/download/v1.20.0/morphe-desktop-1.20.0-all.jar#/morphe-desktop.jar",
     "hash": "679f579b3ad743ac0ca697ef71e57430d00be59411b04494afd1845c43fb79f0",
     "pre_install": [
         "Set-Content -Encoding ASCII -Path \"$dir\\morphe-desktop.bat\" -Value '@start javaw.exe -jar \"%~dp0morphe-desktop.jar\"'",
@@ -29,6 +29,6 @@
     "notes": "You need to have JRE 11 installed on your computer to use Morphe CLI.",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/MorpheApp/morphe-desktop/releases/download/v$version/morphe-desktop-$version-all.jar#/morphe-desktop.jar"
+        "url": "https://gh-proxy.org/https://github.com/MorpheApp/morphe-desktop/releases/download/v$version/morphe-desktop-$version-all.jar#/morphe-desktop.jar"
     }
 }

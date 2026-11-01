@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lich426/FanCtrl/releases/download/v1.8.0/FanCtrl_v1.8.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/lich426/FanCtrl/releases/download/v1.8.0/FanCtrl_v1.8.0.zip",
             "hash": "5ef94a7c94b9ecdc524a3230e0360b2c1c327b3ddf462981f17aa1e240a7944c"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lich426/FanCtrl/releases/download/v$version/FanCtrl_v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/lich426/FanCtrl/releases/download/v$version/FanCtrl_v$version.zip"
             }
         }
     }

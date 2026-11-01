@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/feschber/lan-mouse/releases/download/v0.11.0/lan-mouse-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/feschber/lan-mouse/releases/download/v0.11.0/lan-mouse-windows-x86_64.zip",
             "hash": "f94f4e9bc6e64c5f97f497e6491f3cf478c80f2b2a3e13d88ea18cea581c06a0"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/feschber/lan-mouse/releases/download/v$version/$matchFile"
+                "url": "https://gh-proxy.org/https://github.com/feschber/lan-mouse/releases/download/v$version/$matchFile"
             }
         }
     }

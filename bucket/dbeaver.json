@@ -12,11 +12,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-windows-x86_64.zip",
             "hash": "0edfc68e1efe2cc364b48466d7d94a7e029bca067c4638282bbf104cab546547"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dbeaver/dbeaver/releases/download/26.2.3/dbeaver-ce-26.2.3-windows-aarch64.zip",
             "hash": "d458948a06478cacddfb04f6dfff46e1e4d68830856e3a912ae82db4a905ac7c"
         }
     },

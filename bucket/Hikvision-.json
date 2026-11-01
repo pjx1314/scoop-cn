@@ -3,7 +3,7 @@
     "description": "Hikvision综合漏洞利用工具",
     "homepage": "https://github.com/MInggongK/Hikvision-",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/MInggongK/Hikvision-/releases/download/hikvsiondvz/hikvision.zip",
+    "url": "https://gh-proxy.org/https://github.com/MInggongK/Hikvision-/releases/download/hikvsiondvz/hikvision.zip",
     "hash": "3501e01acbee39bc3f2d62a124e2051c448551660b7dd7ab8416aa333cda9d79",
     "extract_dir": "net8.0-windows",
     "bin": "hikvision漏洞利用工具.exe",
@@ -19,7 +19,7 @@
         "regex": "([\\w.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/MInggongK/Hikvision-/releases/download/$version/hikvision.zip"
+        "url": "https://gh-proxy.org/https://github.com/MInggongK/Hikvision-/releases/download/$version/hikvision.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

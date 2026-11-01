@@ -52,7 +52,7 @@
     "autoupdate": {
         "url": "https://cdn.aliyundrive.net/downloads/apps/desktop/update/$version/win32/x64/aDrive-$version.exe#/dl.7z",
         "hash": {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/a/Alibaba/aDrive/$version/Alibaba.aDrive.installer.yaml",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/a/Alibaba/aDrive/$version/Alibaba.aDrive.installer.yaml",
             "regex": "InstallerSha256:\\s*([a-fA-F0-9]{64})"
         }
     }

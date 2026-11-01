@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/EnableSecurity/wafw00f/archive/refs/tags/v2.4.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/EnableSecurity/wafw00f/archive/refs/tags/v2.4.2.zip",
     "hash": "4049386cf06acd4ddfde677a2cb54b3723219bb8c8e57d8055af7760358fdf86",
     "extract_dir": "wafw00f-2.4.2",
     "post_install": [
@@ -15,7 +15,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/EnableSecurity/wafw00f/archive/refs/tags/v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/EnableSecurity/wafw00f/archive/refs/tags/v$version.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

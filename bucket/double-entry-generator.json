@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/deb-sig/double-entry-generator/releases/download/v2.16.0/double-entry-generator_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/deb-sig/double-entry-generator/releases/download/v2.16.0/double-entry-generator_Windows_x86_64.tar.gz",
             "hash": "402c3dba6550d4d9806d26c4c3440c3a62e7810725486a92896492a911e2e509"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/deb-sig/double-entry-generator/releases/download/v2.16.0/double-entry-generator_Windows_i386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/deb-sig/double-entry-generator/releases/download/v2.16.0/double-entry-generator_Windows_i386.tar.gz",
             "hash": "8eeb3716a6757ac51c8a0c19f783fd8470784769ca40d4c04255b2680502dc36"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/deb-sig/double-entry-generator/releases/download/v$version/double-entry-generator_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/deb-sig/double-entry-generator/releases/download/v$version/double-entry-generator_Windows_x86_64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/deb-sig/double-entry-generator/releases/download/v$version/double-entry-generator_Windows_i386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/deb-sig/double-entry-generator/releases/download/v$version/double-entry-generator_Windows_i386.tar.gz"
             }
         },
         "hash": {

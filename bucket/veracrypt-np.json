@@ -3,7 +3,7 @@
     "description": "A free open source disk encryption software for Windows, Mac OSX and Linux.",
     "license": "Apache Licence",
     "version": "1.26.29",
-    "url": "https://gh-proxy.com/https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.29/VeraCrypt.Portable.1.26.29.exe#/setup.exe",
+    "url": "https://gh-proxy.org/https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.29/VeraCrypt.Portable.1.26.29.exe#/setup.exe",
     "hash": "8772a127f93561d169d4b4082d9ab5e855fd928a361e020905484c388c474a4e",
     "installer": {
         "script": [
@@ -41,6 +41,6 @@
         "regex": "VeraCrypt Setup ([\\d.]+)\\.exe"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_$version/VeraCrypt.Portable.$version.exe#/setup.exe"
+        "url": "https://gh-proxy.org/https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_$version/VeraCrypt.Portable.$version.exe#/setup.exe"
     }
 }

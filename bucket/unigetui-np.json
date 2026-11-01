@@ -5,15 +5,15 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe",
             "hash": "3d4e471fc85784c47220df75d14932b52b05a670390a919de611426f81a96755"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe",
             "hash": "3d4e471fc85784c47220df75d14932b52b05a670390a919de611426f81a96755"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe",
             "hash": "e60d8539ca114a495df895350194fa2d39f565fbdc8ab92401d769acf2b833b8"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.x64.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.exe"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.arm64.exe"
             }
         },
         "hash": {

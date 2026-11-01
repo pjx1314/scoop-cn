@@ -9,7 +9,7 @@
         "【适用场景】: 网络安全、绕过公共WiFi限制、MAC地址伪装",
         "【技术特点】: 批处理脚本，支持交互式和命令行模式"
     ],
-    "url": "https://gh-proxy.com/https://github.com/wandersick/chmac/releases/download/v2.0/ChMac-2.0.0.5-20200704.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/wandersick/chmac/releases/download/v2.0/ChMac-2.0.0.5-20200704.exe#/dl.7z",
     "hash": "523f4e6b165834f8b7e2ef9eb6c71f680ae2fd683a574760d5dad8ec51db3a76",
     "extract_dir": "ChMac",
     "bin": "chmac.bat",
@@ -17,6 +17,6 @@
         "github": "https://github.com/wandersick/chmac"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wandersick/chmac/releases/download/v$version/ChMac-$version.0.5-$cleanVersion$cleanVersion0704.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/wandersick/chmac/releases/download/v$version/ChMac-$version.0.5-$cleanVersion$cleanVersion0704.exe#/dl.7z"
     }
 }

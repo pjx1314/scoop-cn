@@ -5,11 +5,11 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x64.zip",
             "hash": "e20bdccc792418b58559122ddd84217a8303f84f28a3f534b255e643f6adce65"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x86.zip",
             "hash": "82fae78ea8a40ec0d4015081b0e2f69f48f812ba350bb26f2273dee32ce3b50b"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x86.zip"
             }
         }
     }

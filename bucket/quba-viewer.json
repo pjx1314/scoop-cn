@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ZUGFeRD/quba-viewer/releases/download/2.0.0/Quba-2.0.0-windows-x64.zip",
             "hash": "3419d029df7cda6711b736c9e100be91ff252ff552a87aba092ceaa8dbfc1fd5"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ZUGFeRD/quba-viewer/releases/download/$version/Quba-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ZUGFeRD/quba-viewer/releases/download/$version/Quba-$version-windows-x64.zip"
             }
         }
     }

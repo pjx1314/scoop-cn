@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/victoralvesf/aonsoku/releases/download/v0.15.0/Aonsoku-v0.15.0-win-x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/victoralvesf/aonsoku/releases/download/v0.15.0/Aonsoku-v0.15.0-win-x64.exe",
             "hash": "13ce348029a5b73771f9fdf3bb49d193e51dc785946a18a40dd6c20039862a8e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/victoralvesf/aonsoku/releases/download/v0.15.0/Aonsoku-v0.15.0-win-arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/victoralvesf/aonsoku/releases/download/v0.15.0/Aonsoku-v0.15.0-win-arm64.exe",
             "hash": "67379c9a061999af6f0d685f021530211d95a09a5dfff0de07e6283fb8594c09"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/victoralvesf/aonsoku/releases/download/v$version/Aonsoku-v$version-win-x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/victoralvesf/aonsoku/releases/download/v$version/Aonsoku-v$version-win-x64.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/victoralvesf/aonsoku/releases/download/v$version/Aonsoku-v$version-win-arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/victoralvesf/aonsoku/releases/download/v$version/Aonsoku-v$version-win-arm64.exe"
             }
         }
     }

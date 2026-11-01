@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/biliup/biliup/releases/download/v1.3.4/biliup_1.3.4_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/biliup/biliup/releases/download/v1.3.4/biliup_1.3.4_x64-setup.exe#/dl.7z",
             "hash": "858e6bff7772bce0d9f8a7c629d500914a7e63e5cfae52d49a11973239f05ac0"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/biliup/biliup/releases/download/v$version/biliup_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/biliup/biliup/releases/download/v$version/biliup_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

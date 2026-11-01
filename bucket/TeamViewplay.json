@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/wafinfo/TeamViewer",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/wafinfo/TeamViewer/raw/refs/heads/main/TeamViewplay.exe",
+    "url": "https://gh-proxy.org/https://github.com/wafinfo/TeamViewer/raw/refs/heads/main/TeamViewplay.exe",
     "hash": "fb63fcd4899df470dbeb17ac04a1e6797dab1770c84af5f3d12467207ea5b489",
     "bin": "TeamViewplay.exe"
 }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-windows-amd64.exe#/unifly.exe",
+            "url": "https://gh-proxy.org/https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-windows-amd64.exe#/unifly.exe",
             "hash": "d231f859ab79a8479eebe3045a7218a1f1f62245709da9b489d103781c5313bd"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hyperb1iss/unifly/releases/download/v$version/unifly-windows-amd64.exe#/unifly.exe"
+                "url": "https://gh-proxy.org/https://github.com/hyperb1iss/unifly/releases/download/v$version/unifly-windows-amd64.exe#/unifly.exe"
             }
         }
     }

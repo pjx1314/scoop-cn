@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/WasmEdge/WasmEdge/releases/download/0.18.1/WasmEdge-0.18.1-windows.zip",
             "hash": "ed92bc3f7223a2824b01c55c8f75ce0a20f0aaca3f644fff367f5491c80b76df"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/WasmEdge/WasmEdge/releases/download/$version/WasmEdge-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/WasmEdge/WasmEdge/releases/download/$version/WasmEdge-$version-windows.zip"
             }
         }
     }

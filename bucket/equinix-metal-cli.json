@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/equinix/metal-cli/releases/download/v0.26.1/metal-windows-amd64.exe#/metal.exe",
+            "url": "https://gh-proxy.org/https://github.com/equinix/metal-cli/releases/download/v0.26.1/metal-windows-amd64.exe#/metal.exe",
             "hash": "c0c4dcae8971066044b2291392a5f150ff9c5d4f0999df0caebcb1d8676cf37b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/equinix/metal-cli/releases/download/v0.26.1/metal-windows-arm64.exe#/metal.exe",
+            "url": "https://gh-proxy.org/https://github.com/equinix/metal-cli/releases/download/v0.26.1/metal-windows-arm64.exe#/metal.exe",
             "hash": "26b70ca633cd6be62dd1d439c7608121c7faaf4f487ee05e0538a09a54fe7580"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/equinix/metal-cli/releases/download/v$version/metal-windows-amd64.exe#/metal.exe"
+                "url": "https://gh-proxy.org/https://github.com/equinix/metal-cli/releases/download/v$version/metal-windows-amd64.exe#/metal.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/equinix/metal-cli/releases/download/v$version/metal-windows-arm64.exe#/metal.exe"
+                "url": "https://gh-proxy.org/https://github.com/equinix/metal-cli/releases/download/v$version/metal-windows-arm64.exe#/metal.exe"
             }
         },
         "hash": {

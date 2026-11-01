@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nini22P/Iris/releases/download/v1.5.2/Iris-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/nini22P/Iris/releases/download/v1.5.2/Iris-windows.zip",
             "hash": "6f8841ad2ffd83375fd4351b7d3b53b12a627af7520675a69bbf776a13819b14"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nini22P/Iris/releases/download/v$version/Iris-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/nini22P/Iris/releases/download/v$version/Iris-windows.zip"
             }
         }
     }

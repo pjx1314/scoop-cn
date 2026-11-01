@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v5.0.10/SoloMD_5.0.10_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/zhitongblog/solomd/releases/download/v5.0.10/SoloMD_5.0.10_x64_en-US.msi",
             "hash": "9c92954b07143f5e08b7dfebfc9f40842b0dd3281b25303069cf8ecf00abcb5a"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zhitongblog/solomd/releases/download/v$version/SoloMD_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/zhitongblog/solomd/releases/download/v$version/SoloMD_$version_x64_en-US.msi"
             }
         }
     }

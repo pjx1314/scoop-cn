@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kuberwastaken/claurst/releases/download/v0.2.1/claurst-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kuberwastaken/claurst/releases/download/v0.2.1/claurst-windows-x86_64.zip",
             "hash": "82b1b76f1643647dbe994adb15cc2b74c277a03a508d95144cfb674f4b658ed5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kuberwastaken/claurst/releases/download/v$version/claurst-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Kuberwastaken/claurst/releases/download/v$version/claurst-windows-x86_64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CodingWonders/DISMTools/releases/download/v0.8.2_stable/DISMTools.zip",
+            "url": "https://gh-proxy.org/https://github.com/CodingWonders/DISMTools/releases/download/v0.8.2_stable/DISMTools.zip",
             "hash": "a6fec8dd1b5e2fdeab87adb65b62b1a2b6c45278b6ebb16acfe4fc3b09b56375"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CodingWonders/DISMTools/releases/download/v$version/DISMTools.zip"
+                "url": "https://gh-proxy.org/https://github.com/CodingWonders/DISMTools/releases/download/v$version/DISMTools.zip"
             }
         }
     }

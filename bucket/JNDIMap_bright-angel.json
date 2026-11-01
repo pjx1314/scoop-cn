@@ -5,12 +5,12 @@
     "license": "MIT License",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/X1r0z/JNDIMap/releases/download/v$version/JNDIMap-$version.jar#/JNDIMap.jar"
+        "url": "https://gh-proxy.org/https://github.com/X1r0z/JNDIMap/releases/download/v$version/JNDIMap-$version.jar#/JNDIMap.jar"
     },
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/X1r0z/JNDIMap/releases/download/v0.0.5/JNDIMap-0.0.5.jar#/JNDIMap.jar",
+    "url": "https://gh-proxy.org/https://github.com/X1r0z/JNDIMap/releases/download/v0.0.5/JNDIMap-0.0.5.jar#/JNDIMap.jar",
     "pre_install": [
         "Set-Content \"$dir\\JNDIMap.bat\" '@pushd %~dp0",
         "@call oraclejre8",

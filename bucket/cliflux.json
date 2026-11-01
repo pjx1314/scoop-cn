@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/spencerwi/cliflux/releases/download/v1.9.1/cliflux.exe",
+            "url": "https://gh-proxy.org/https://github.com/spencerwi/cliflux/releases/download/v1.9.1/cliflux.exe",
             "hash": "ba50ad3ebcdc394472aec00213437808ad0309f6bf0c308f1fe5edd532858289"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/spencerwi/cliflux/releases/download/v$version/cliflux.exe"
+                "url": "https://gh-proxy.org/https://github.com/spencerwi/cliflux/releases/download/v$version/cliflux.exe"
             }
         }
     }

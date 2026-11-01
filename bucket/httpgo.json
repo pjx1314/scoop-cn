@@ -10,8 +10,8 @@
     "homepage": "https://github.com/login546/httpgo",
     "license": "UNKNOWN",
     "url": [
-        "https://gh-proxy.com/https://github.com/login546/httpgo/releases/download/latest/httpgo_win64.exe#/httpgo.exe",
-        "https://gh-proxy.com/https://github.com/login546/httpgo/releases/download/latest/fingers.json"
+        "https://gh-proxy.org/https://github.com/login546/httpgo/releases/download/latest/httpgo_win64.exe#/httpgo.exe",
+        "https://gh-proxy.org/https://github.com/login546/httpgo/releases/download/latest/fingers.json"
     ],
     "pre_install": [
         "Set-Content \"$dir\\httpgo.bat\" '@pushd %~dp0",
@@ -26,8 +26,8 @@
     },
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/login546/httpgo/releases/download/$version/httpgo_win64.exe#/httpgo.exe",
-            "https://gh-proxy.com/https://github.com/login546/httpgo/releases/download/$version/fingers.json"
+            "https://gh-proxy.org/https://github.com/login546/httpgo/releases/download/$version/httpgo_win64.exe#/httpgo.exe",
+            "https://gh-proxy.org/https://github.com/login546/httpgo/releases/download/$version/fingers.json"
         ]
     }
 }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Adversis/tailsnitch/releases/download/v1.7/tailsnitch-windows-amd64.exe#/tailsnitch.exe",
+            "url": "https://gh-proxy.org/https://github.com/Adversis/tailsnitch/releases/download/v1.7/tailsnitch-windows-amd64.exe#/tailsnitch.exe",
             "hash": "c7c1771836f9ba554395a429b6a676fd8f3f60ab0127ef28bf059ecdef4ab692"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Adversis/tailsnitch/releases/download/v$version/tailsnitch-windows-amd64.exe#/tailsnitch.exe"
+                "url": "https://gh-proxy.org/https://github.com/Adversis/tailsnitch/releases/download/v$version/tailsnitch-windows-amd64.exe#/tailsnitch.exe"
             }
         },
         "hash": {

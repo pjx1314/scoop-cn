@@ -3,7 +3,7 @@
     "description": "",
     "homepage": "https://github.com/MountCloud/JavaDecompileTool-GUI",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/MountCloud/JavaDecompileTool-GUI/releases/download/V1.2/JavaDecompileToolV1.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/MountCloud/JavaDecompileTool-GUI/releases/download/V1.2/JavaDecompileToolV1.2.zip",
     "hash": "c96c7d5c98b48f8ab4740314f649fe08f8bbdc020714ee10a8aaea03ba2257b9",
     "pre_install": "Get-ChildItem \"$dir\" 'JavaDecompileToolV*.exe' | Select-Object -First 1 | Rename-Item -NewName 'JavaDecompileTool.exe'",
     "bin": "JavaDecompileTool.exe",
@@ -15,7 +15,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/MountCloud/JavaDecompileTool-GUI/releases/download/V$version/JavaDecompileToolV$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/MountCloud/JavaDecompileTool-GUI/releases/download/V$version/JavaDecompileToolV$version.zip"
     },
     "notes": [
         "【工具类型】: 逆向工具",

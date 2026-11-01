@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tursodatabase/agentfs/releases/download/v0.6.4/agentfs-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/tursodatabase/agentfs/releases/download/v0.6.4/agentfs-x86_64-pc-windows-msvc.zip",
             "hash": "6386f8156399803ed40f324e712b57541600abb73ce30fc0d05a46eca5fa9641"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tursodatabase/agentfs/releases/download/v$version/agentfs-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/tursodatabase/agentfs/releases/download/v$version/agentfs-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

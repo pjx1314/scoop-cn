@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bitcookies/winrar-keygen/releases/download/v4.3.0/winrar-keygen-x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/bitcookies/winrar-keygen/releases/download/v4.3.0/winrar-keygen-x64.exe",
             "hash": "6f97273f0a46d242339f0ca7e4b8af049f0109617d7f88f0e056bd1d5b5ece4c"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/bitcookies/winrar-keygen/releases/download/v4.3.0/winrar-keygen-x86.exe",
+            "url": "https://gh-proxy.org/https://github.com/bitcookies/winrar-keygen/releases/download/v4.3.0/winrar-keygen-x86.exe",
             "hash": "9b9be01389980dc3a22c995773671364f8823cc5ffab96f9b701a5e6220bbbb2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/bitcookies/winrar-keygen/releases/download/v4.3.0/winrar-keygen-arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/bitcookies/winrar-keygen/releases/download/v4.3.0/winrar-keygen-arm64.exe",
             "hash": "102e6d150682c5696cbc81be8f50e7a2a4db3e30cf44dbde2a093c7432e8e9ef"
         }
     },
@@ -36,13 +36,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bitcookies/winrar-keygen/releases/download/v$version/winrar-keygen-x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/bitcookies/winrar-keygen/releases/download/v$version/winrar-keygen-x64.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/bitcookies/winrar-keygen/releases/download/v$version/winrar-keygen-x86.exe"
+                "url": "https://gh-proxy.org/https://github.com/bitcookies/winrar-keygen/releases/download/v$version/winrar-keygen-x86.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/bitcookies/winrar-keygen/releases/download/v$version/winrar-keygen-arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/bitcookies/winrar-keygen/releases/download/v$version/winrar-keygen-arm64.exe"
             }
         },
         "hash": {

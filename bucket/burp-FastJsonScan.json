@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/pmiaowu/BurpFastJsonScan",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/pmiaowu/BurpFastJsonScan/releases/download/BurpFastJsonScan-2.2.2/BurpFastJsonScan-2.2.2-jdk14.zip",
+    "url": "https://gh-proxy.org/https://github.com/pmiaowu/BurpFastJsonScan/releases/download/BurpFastJsonScan-2.2.2/BurpFastJsonScan-2.2.2-jdk14.zip",
     "hash": "31634eefb6e77bef58a49d92514095089bf0e0270581a137d1d821cc1ab02383",
     "extract_dir": "BurpFastJsonScan-2.2.2-jdk14",
     "checkver": {
@@ -18,7 +18,7 @@
         "regex": "BurpFastJsonScan-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pmiaowu/BurpFastJsonScan/releases/download/BurpFastJsonScan-$version/BurpFastJsonScan-$version-jdk14.zip",
+        "url": "https://gh-proxy.org/https://github.com/pmiaowu/BurpFastJsonScan/releases/download/BurpFastJsonScan-$version/BurpFastJsonScan-$version-jdk14.zip",
         "extract_dir": "BurpFastJsonScan-$version-jdk14"
     }
 }

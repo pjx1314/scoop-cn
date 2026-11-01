@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/theurichde/go-aws-sso/releases/download/v1.5.4/go-aws-sso_1.5.4_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/theurichde/go-aws-sso/releases/download/v1.5.4/go-aws-sso_1.5.4_windows_amd64.tar.gz",
             "hash": "ca46aa6b9eb542bc4027ebc3c53906429445ebaba1425af149496f17f156c14e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/theurichde/go-aws-sso/releases/download/v1.5.4/go-aws-sso_1.5.4_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/theurichde/go-aws-sso/releases/download/v1.5.4/go-aws-sso_1.5.4_windows_arm64.tar.gz",
             "hash": "ed2e8500e330f0202dcb7e87a4792fc5240edd3efba9b66aa491edccf2072940"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/theurichde/go-aws-sso/releases/download/v$version/go-aws-sso_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/theurichde/go-aws-sso/releases/download/v$version/go-aws-sso_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/theurichde/go-aws-sso/releases/download/v$version/go-aws-sso_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/theurichde/go-aws-sso/releases/download/v$version/go-aws-sso_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "description": "Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob.",
     "homepage": "https://github.com/drakkan/sftpgo",
     "license": "AGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_windows_portable.zip",
+    "url": "https://gh-proxy.org/https://github.com/drakkan/sftpgo/releases/download/v2.7.6/sftpgo_v2.7.6_windows_portable.zip",
     "hash": "af3994bb690962c7575858aee368a4c1d6fd4748b35770bb0773eb06408d504d",
     "architecture": {
         "64bit": {
@@ -34,6 +34,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/drakkan/sftpgo/releases/download/v$version/sftpgo_v$version_windows_portable.zip"
+        "url": "https://gh-proxy.org/https://github.com/drakkan/sftpgo/releases/download/v$version/sftpgo_v$version_windows_portable.zip"
     }
 }

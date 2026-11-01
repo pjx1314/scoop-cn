@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/a-h/templ/releases/download/v0.3.1100/templ_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/a-h/templ/releases/download/v0.3.1100/templ_Windows_x86_64.tar.gz",
             "hash": "3d478cd59821420b107ec08b33b20371d635caea8faf9ca87ef61d0dd1997f4c"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/a-h/templ/releases/download/v0.3.1100/templ_Windows_i386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/a-h/templ/releases/download/v0.3.1100/templ_Windows_i386.tar.gz",
             "hash": "0d322f0c52b9f472762824bb466d2f1bde877169545252d307827ba8ef9845b3"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/a-h/templ/releases/download/v0.3.1100/templ_Windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/a-h/templ/releases/download/v0.3.1100/templ_Windows_arm64.tar.gz",
             "hash": "c0845c4f5607c9855f88774f15ec74403a9817b9ca0bf25220be0576d27ff470"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/a-h/templ/releases/download/v$version/templ_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/a-h/templ/releases/download/v$version/templ_Windows_x86_64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/a-h/templ/releases/download/v$version/templ_Windows_i386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/a-h/templ/releases/download/v$version/templ_Windows_i386.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/a-h/templ/releases/download/v$version/templ_Windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/a-h/templ/releases/download/v$version/templ_Windows_arm64.tar.gz"
             }
         },
         "hash": {

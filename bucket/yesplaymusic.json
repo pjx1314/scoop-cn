@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe#/dl.7z",
             "hash": "sha512:31c670ab8bdd9f1a5edd856ceffe1e8cdfd415ed6a40612987849ba23f0a9fa286b8bed7b4e78cd36e0b310af42147cd3804f8325fb4c178400df2efc8f1ad61"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qier222/YesPlayMusic/releases/download/v$version/$matchName#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/qier222/YesPlayMusic/releases/download/v$version/$matchName#/dl.7z"
             }
         },
         "hash": {

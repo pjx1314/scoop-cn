@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/ApplicationInspector/releases/download/v1.10.2/ApplicationInspector_win_1.10.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/ApplicationInspector/releases/download/v1.10.2/ApplicationInspector_win_1.10.2.zip",
             "extract_dir": "ApplicationInspector_win_1.10.2",
             "hash": "a343cf8fcdca9e3e93b5fd2c12b5381b70abab578aad7d45a8561b7a7301fc07"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/ApplicationInspector/releases/download/v$version/ApplicationInspector_win_$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/microsoft/ApplicationInspector/releases/download/v$version/ApplicationInspector_win_$version.zip",
                 "extract_dir": "ApplicationInspector_win_$version"
             }
         },

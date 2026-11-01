@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chipsalliance/verible/releases/download/v0.0-4298-g085eef05/verible-v0.0-4298-g085eef05-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/chipsalliance/verible/releases/download/v0.0-4298-g085eef05/verible-v0.0-4298-g085eef05-win64.zip",
             "extract_dir": "verible-v0.0-4298-g085eef05-win64",
             "hash": "5d22bb16318ec8b1134fdff95ecdcf64a493dfddea7f5ce8fd47c23c63c1da3f"
         }
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chipsalliance/verible/releases/download/v$version/verible-v$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/chipsalliance/verible/releases/download/v$version/verible-v$version-win64.zip",
                 "extract_dir": "verible-v$version-win64"
             }
         }

@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/T3nk0/Upload_Auto_Fuzz",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/T3nk0/Upload_Auto_Fuzz/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/T3nk0/Upload_Auto_Fuzz/archive/refs/heads/master.zip",
     "hash": "1db43f9ca396a87fbcf18743fc0f2335ee3828a6e01655c1e8e5ae43297f97ee",
     "extract_dir": "Upload_Auto_Fuzz-main",
     "checkver": {
@@ -18,6 +18,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/T3nk0/Upload_Auto_Fuzz/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/T3nk0/Upload_Auto_Fuzz/archive/refs/heads/master.zip"
     }
 }

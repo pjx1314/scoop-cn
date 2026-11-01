@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/guiyumin/vget/releases/download/v0.13.5/vget_0.13.5_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/guiyumin/vget/releases/download/v0.13.5/vget_0.13.5_windows_amd64.zip",
             "hash": "018fd4df2a36d47c90669b6ec551c6465384e6594286a200ae46829793b8ca78"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/guiyumin/vget/releases/download/v$version/vget_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/guiyumin/vget/releases/download/v$version/vget_$version_windows_amd64.zip"
             }
         },
         "hash": {

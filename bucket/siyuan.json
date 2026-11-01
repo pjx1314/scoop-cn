@@ -6,7 +6,7 @@
         "identifier": "Unknown"
     },
     "depends": "main/7zip",
-    "url": "https://gh-proxy.com/https://github.com/siyuan-note/siyuan/releases/download/v3.8.10-alpha.2/siyuan-3.8.10-alpha.2-win.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/siyuan-note/siyuan/releases/download/v3.8.10-alpha.2/siyuan-3.8.10-alpha.2-win.exe#/dl.7z",
     "hash": "735dbb48d8867dfbb9fa4486412898491b46e74e93a317b0f05d135c63a593e9",
     "pre_install": [
         "7z x \"$dir\\`$PLUGINSDIR\\*.7z\" -o\"$dir\\`$PLUGINSDIR\\siyuan\"",
@@ -30,6 +30,6 @@
         "regex": "/releases/tag/v(?<version>.+?)\""
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe#/dl.7z"
     }
 }

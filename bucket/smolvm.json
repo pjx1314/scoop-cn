@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/smol-machines/smolvm/releases/download/v1.33.0/smolvm-1.33.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/smol-machines/smolvm/releases/download/v1.33.0/smolvm-1.33.0-windows-x86_64.zip",
             "hash": "f1734b45c0f713509f2e37c8644f5e618179033d220cb9a544dfb077248c3083",
             "extract_dir": "smolvm-1.33.0-windows-x86_64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/smol-machines/smolvm/releases/download/v$version/smolvm-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/smol-machines/smolvm/releases/download/v$version/smolvm-$version-windows-x86_64.zip",
                 "extract_dir": "smolvm-$version-windows-x86_64"
             }
         },

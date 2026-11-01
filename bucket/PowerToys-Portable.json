@@ -6,7 +6,7 @@
     "notes": "To run this application, you must install .Net Core: https://dotnet.microsoft.com/download",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001-x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001-x64.exe",
             "hash": "4459b9f1ad5d70a342e109ffb66dbbb08ea07b2d2ec5634b314f878700f9ff0b"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.exe",
+                "url": "https://gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.exe",
                 "hash": {
                     "url": "https://github.com/microsoft/PowerToys/releases/tag/v$version",
                     "regex": ">$sha256<"

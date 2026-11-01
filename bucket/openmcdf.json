@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "#depends": [""],
     "extract_dir": "StructuredStorageXplorer",
-    "url": "https://gh-proxy.com/https://github.com/ironfede/openmcdf/releases/download/v2.2.1.9/StructuredStorageXplorer.zip",
+    "url": "https://gh-proxy.org/https://github.com/ironfede/openmcdf/releases/download/v2.2.1.9/StructuredStorageXplorer.zip",
     "hash": "",
     "post_install": [
         "",
@@ -29,6 +29,6 @@
         "github": "https://github.com/ironfede/openmcdf"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ironfede/openmcdf/releases/download/v$version/StructuredStorageXplorer.zip"
+        "url": "https://gh-proxy.org/https://github.com/ironfede/openmcdf/releases/download/v$version/StructuredStorageXplorer.zip"
     }
 }

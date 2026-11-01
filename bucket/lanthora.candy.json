@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lanthora/candy/releases/download/v6.1.11/candy_6.1.11+windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lanthora/candy/releases/download/v6.1.11/candy_6.1.11+windows_amd64.zip",
             "hash": "4617fde3cab113bbe35df1eeea3e07ef3276d3ce991f3a206d470830593aed58"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lanthora/candy/releases/download/v$version/candy_$version+windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lanthora/candy/releases/download/v$version/candy_$version+windows_amd64.zip"
             }
         }
     }

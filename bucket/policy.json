@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/opcr-io/policy/releases/download/v0.4.4/policy_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/opcr-io/policy/releases/download/v0.4.4/policy_windows_amd64.zip",
             "hash": "e9c3c436b317b7bfde314708affabce3a3b3892f2d2d3eda9a50d4727151866a"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/opcr-io/policy/releases/download/v$version/policy_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/opcr-io/policy/releases/download/v$version/policy_windows_amd64.zip"
             }
         },
         "hash": {

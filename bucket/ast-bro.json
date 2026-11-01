@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-4.2.0/ast-bro-4.2.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-4.2.0/ast-bro-4.2.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "6caacbc3a8bcf8eeac45fba6c2287a2f0e6d8ef8aca2ba1c3f8c2e270f6df270"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-4.2.0/ast-bro-4.2.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-4.2.0/ast-bro-4.2.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "b560ed31939ba4caaba49709c9746e20273f8126d268b077f35eff89fe1d1f89"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-$version/ast-bro-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-$version/ast-bro-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-$version/ast-bro-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/ast-bro-$version/ast-bro-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

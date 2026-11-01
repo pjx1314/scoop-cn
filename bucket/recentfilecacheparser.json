@@ -7,7 +7,7 @@
     "hash": "7f363103837c793995ef1de720067696ae08549ee64db82926a307717ea68a2f",
     "bin": "RecentFileCacheParser.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "RecentFileCacheParser.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

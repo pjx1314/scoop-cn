@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jub0t/concat/releases/download/v0.2.8/Concat-0.2.8-windows-x86_64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/jub0t/concat/releases/download/v0.2.8/Concat-0.2.8-windows-x86_64-setup.exe",
             "hash": "6ded705620e6c18adbc2ece28a2876db326e4f6361c8e41151dab516419c8776"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jub0t/concat/releases/download/v0.2.6/Concat-0.2.6-windows-aarch64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/jub0t/concat/releases/download/v0.2.6/Concat-0.2.6-windows-aarch64-setup.exe",
             "hash": "377c3e6eedc88a79d19387a938054e19f755262ad484f590b6a78dfcdb8e926b"
         }
     },
@@ -56,10 +56,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jub0t/concat/releases/download/v$version/Concat-$version-windows-x86_64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/jub0t/concat/releases/download/v$version/Concat-$version-windows-x86_64-setup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jub0t/concat/releases/download/v$matchArm64/Concat-$matchArm64-windows-aarch64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/jub0t/concat/releases/download/v$matchArm64/Concat-$matchArm64-windows-aarch64-setup.exe"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/justjavac/dvm/releases/download/v1.11.7/dvm-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/justjavac/dvm/releases/download/v1.11.7/dvm-x86_64-pc-windows-msvc.zip",
             "hash": "cdfcb965c5110b2952e2e4654f1944ee2b144ac1efa4ff23895964e517254389"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/justjavac/dvm/releases/download/v$version/dvm-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/justjavac/dvm/releases/download/v$version/dvm-x86_64-pc-windows-msvc.zip"
             }
         }
     }

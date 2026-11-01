@@ -5,7 +5,7 @@
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fiatjaf/nak/releases/download/v0.22.1/nak-v0.22.1-windows-amd64.exe#/nak.exe",
+            "url": "https://gh-proxy.org/https://github.com/fiatjaf/nak/releases/download/v0.22.1/nak-v0.22.1-windows-amd64.exe#/nak.exe",
             "hash": "e0f5fcf9ce77b33d219477f3a0883d107c9c2332884131dee32389c62fed0613"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fiatjaf/nak/releases/download/v$version/nak-v$version-windows-amd64.exe#/nak.exe"
+                "url": "https://gh-proxy.org/https://github.com/fiatjaf/nak/releases/download/v$version/nak-v$version-windows-amd64.exe#/nak.exe"
             }
         }
     }

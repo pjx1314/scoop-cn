@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/c0ny1/chunked-coding-converter",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/c0ny1/chunked-coding-converter/releases/download/0.4.0/chunked-coding-converter-0.4.0.jar#/chunked-coding-converter.jar",
+    "url": "https://gh-proxy.org/https://github.com/c0ny1/chunked-coding-converter/releases/download/0.4.0/chunked-coding-converter-0.4.0.jar#/chunked-coding-converter.jar",
     "hash": "",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/c0ny1/chunked-coding-converter/releases/download/$version/chunked-coding-converter-$version.jar#/chunked-coding-converter.jar"
+        "url": "https://gh-proxy.org/https://github.com/c0ny1/chunked-coding-converter/releases/download/$version/chunked-coding-converter-$version.jar#/chunked-coding-converter.jar"
     }
 }

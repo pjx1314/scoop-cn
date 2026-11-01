@@ -3,7 +3,7 @@
     "description": "A PDF parser for AI-ready data extraction and accessibility automation.",
     "homepage": "https://opendataloader.org",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v2.5.17/opendataloader-pdf-cli-2.5.17.zip",
+    "url": "https://gh-proxy.org/https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v2.5.17/opendataloader-pdf-cli-2.5.17.zip",
     "hash": "09ba781053f73f9815ae3877bbbeb2d2e6f01d77c04c9d4ef6a30cc9234b5a7f",
     "pre_install": [
         "Get-ChildItem \"$dir\" 'opendataloader-pdf-cli*.jar' | Select-Object -First 1 | Rename-Item -NewName 'opendataloader-pdf.jar'",
@@ -22,6 +22,6 @@
         "github": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v$version/opendataloader-pdf-cli-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/opendataloader-project/opendataloader-pdf/releases/download/v$version/opendataloader-pdf-cli-$version.zip"
     }
 }

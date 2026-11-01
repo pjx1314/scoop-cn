@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/crftwr/keyhac-win/releases/download/v1.83/keyhac_183.zip",
+            "url": "https://gh-proxy.org/https://github.com/crftwr/keyhac-win/releases/download/v1.83/keyhac_183.zip",
             "hash": "a54a7332d51579edfcab1dc64ab1c559dc07141971198a154b3c179716897267"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/crftwr/keyhac-win/releases/download/v$version/keyhac_$cleanVersion.zip"
+                "url": "https://gh-proxy.org/https://github.com/crftwr/keyhac-win/releases/download/v$version/keyhac_$cleanVersion.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Gowee/zhconv-rs/releases/download/v0.4.2/zhconv-x86_64-pc-windows-msvc.exe#/zhconv.exe",
+            "url": "https://gh-proxy.org/https://github.com/Gowee/zhconv-rs/releases/download/v0.4.2/zhconv-x86_64-pc-windows-msvc.exe#/zhconv.exe",
             "hash": "f4bc0bf92b5cd4dc40eb098d8bb0f74f97877acce8206a890cd85e9fccc2b6c0"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Gowee/zhconv-rs/releases/download/v$version/zhconv-x86_64-pc-windows-msvc.exe#/zhconv.exe"
+                "url": "https://gh-proxy.org/https://github.com/Gowee/zhconv-rs/releases/download/v$version/zhconv-x86_64-pc-windows-msvc.exe#/zhconv.exe"
             }
         }
     }

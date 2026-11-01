@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tmewett/BrogueCE/releases/download/v1.15.1/BrogueCE-1.15.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tmewett/BrogueCE/releases/download/v1.15.1/BrogueCE-1.15.1-windows-x86_64.zip",
             "hash": "29dcbae1791156a040c9125d0a28ae97d67a09b22a52266af1c65e2918bede5f"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tmewett/BrogueCE/releases/download/v$version/BrogueCE-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tmewett/BrogueCE/releases/download/v$version/BrogueCE-$version-windows-x86_64.zip"
             }
         }
     }

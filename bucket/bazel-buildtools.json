@@ -9,9 +9,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildifier-windows-amd64.exe#/buildifier.exe",
-                "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildozer-windows-amd64.exe#/buildozer.exe",
-                "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/unused-deps-windows-amd64.exe#/unused-deps.exe"
+                "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildifier-windows-amd64.exe#/buildifier.exe",
+                "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildozer-windows-amd64.exe#/buildozer.exe",
+                "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/unused-deps-windows-amd64.exe#/unused-deps.exe"
             ],
             "hash": [
                 "ae9b0632ff4bc56607b9c8512716b7fd63371387136005d25e94ec668f89361d",
@@ -21,9 +21,9 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildifier-windows-arm64.exe#/buildifier.exe",
-                "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildozer-windows-arm64.exe#/buildozer.exe",
-                "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/unused-deps-windows-arm64.exe#/unused-deps.exe"
+                "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildifier-windows-arm64.exe#/buildifier.exe",
+                "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/buildozer-windows-arm64.exe#/buildozer.exe",
+                "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v10.2.0/unused-deps-windows-arm64.exe#/unused-deps.exe"
             ],
             "hash": [
                 "bf213d214296346f859a6f1135168161cf86d7c1ca49df41426790a139b574e8",
@@ -42,16 +42,16 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
-                    "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
-                    "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v$version/unused-deps-windows-amd64.exe#/unused-deps.exe"
+                    "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
+                    "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
+                    "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v$version/unused-deps-windows-amd64.exe#/unused-deps.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildifier-windows-arm64.exe#/buildifier.exe",
-                    "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildozer-windows-arm64.exe#/buildozer.exe",
-                    "https://gh-proxy.com/https://github.com/bazel-contrib/buildtools/releases/download/v$version/unused-deps-windows-arm64.exe#/unused-deps.exe"
+                    "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildifier-windows-arm64.exe#/buildifier.exe",
+                    "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v$version/buildozer-windows-arm64.exe#/buildozer.exe",
+                    "https://gh-proxy.org/https://github.com/bazel-contrib/buildtools/releases/download/v$version/unused-deps-windows-arm64.exe#/unused-deps.exe"
                 ]
             }
         }

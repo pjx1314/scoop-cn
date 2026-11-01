@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nicklockwood/SwiftFormat/releases/download/0.64.5/SwiftFormat.amd64.msi",
+            "url": "https://gh-proxy.org/https://github.com/nicklockwood/SwiftFormat/releases/download/0.64.5/SwiftFormat.amd64.msi",
             "extract_dir": "PFiles64\\nicklockwood\\SwiftFormat",
             "hash": "03c30d80173476aa0b9099e8e63447e59b94ffc24b896011c646398f4cec766c"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nicklockwood/SwiftFormat/releases/download/$version/SwiftFormat.amd64.msi"
+                "url": "https://gh-proxy.org/https://github.com/nicklockwood/SwiftFormat/releases/download/$version/SwiftFormat.amd64.msi"
             }
         }
     }

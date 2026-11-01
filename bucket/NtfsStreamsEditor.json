@@ -11,7 +11,7 @@
     "license": "UNKNOWN",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/studycpp/NtfsStreamsEditor/releases/download/v$version/NtfsStreamsEditor2.exe#/NtfsStreamsEditor.exe"
+        "url": "https://gh-proxy.org/https://github.com/studycpp/NtfsStreamsEditor/releases/download/v$version/NtfsStreamsEditor2.exe#/NtfsStreamsEditor.exe"
     },
     "shortcuts": [
         [
@@ -19,6 +19,6 @@
             "NtfsStreamsEditor"
         ]
     ],
-    "url": "https://gh-proxy.com/https://github.com/studycpp/NtfsStreamsEditor/releases/download/v2.0.2/NtfsStreamsEditor2.exe#/NtfsStreamsEditor.exe",
+    "url": "https://gh-proxy.org/https://github.com/studycpp/NtfsStreamsEditor/releases/download/v2.0.2/NtfsStreamsEditor2.exe#/NtfsStreamsEditor.exe",
     "bin": "NtfsStreamsEditor.exe"
 }

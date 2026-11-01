@@ -5,11 +5,11 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tacshi/Leaflet/releases/download/v2026.10.16/leaflet-2026.10.16-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/tacshi/Leaflet/releases/download/v2026.10.16/leaflet-2026.10.16-windows-amd64.tar.gz",
             "hash": "fba56e16955610868b443cdbf1435ba6e4128e3907e7988140c64f473728c16d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/tacshi/Leaflet/releases/download/v2026.10.16/leaflet-2026.10.16-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/tacshi/Leaflet/releases/download/v2026.10.16/leaflet-2026.10.16-windows-arm64.tar.gz",
             "hash": "c8cfc5c21a6eccf22d4c6e2799226dc32e96e7c603d9043e71cb4dfc7b2fd745"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tacshi/Leaflet/releases/download/v$version/leaflet-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/tacshi/Leaflet/releases/download/v$version/leaflet-$version-windows-amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/tacshi/Leaflet/releases/download/v$version/leaflet-$version-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/tacshi/Leaflet/releases/download/v$version/leaflet-$version-windows-arm64.tar.gz"
             }
         },
         "hash": {

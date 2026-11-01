@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/owenrumney/lazytrivy/releases/download/v1.4.2/lazytrivy-windows-amd64.exe#/lazytrivy.exe",
+            "url": "https://gh-proxy.org/https://github.com/owenrumney/lazytrivy/releases/download/v1.4.2/lazytrivy-windows-amd64.exe#/lazytrivy.exe",
             "hash": "ae5a086e35212a3482ffb583ff306e578874d8a9b9c232e6536371862da0bb1f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/owenrumney/lazytrivy/releases/download/v1.4.2/lazytrivy-windows-arm64.exe#/lazytrivy.exe",
+            "url": "https://gh-proxy.org/https://github.com/owenrumney/lazytrivy/releases/download/v1.4.2/lazytrivy-windows-arm64.exe#/lazytrivy.exe",
             "hash": "40e3036f6bceffbe08ea9c5c3f309e11a40cb5e54971534d742f4757c0397573"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/owenrumney/lazytrivy/releases/download/v$version/lazytrivy-windows-amd64.exe#/lazytrivy.exe"
+                "url": "https://gh-proxy.org/https://github.com/owenrumney/lazytrivy/releases/download/v$version/lazytrivy-windows-amd64.exe#/lazytrivy.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/owenrumney/lazytrivy/releases/download/v$version/lazytrivy-windows-arm64.exe#/lazytrivy.exe"
+                "url": "https://gh-proxy.org/https://github.com/owenrumney/lazytrivy/releases/download/v$version/lazytrivy-windows-arm64.exe#/lazytrivy.exe"
             }
         },
         "hash": {

@@ -11,7 +11,7 @@
                     "logcli"
                 ]
             ],
-            "url": "https://gh-proxy.com/https://github.com/grafana/loki/releases/download/v3.7.9/logcli-windows-amd64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/loki/releases/download/v3.7.9/logcli-windows-amd64.exe.zip",
             "hash": "7cfc7f96b6d2ed4d99dae6485d7a7d774f57a275c4985d8998eb19167ffff988"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/grafana/loki/releases/download/v$version/logcli-windows-amd64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/grafana/loki/releases/download/v$version/logcli-windows-amd64.exe.zip"
             }
         },
         "hash": {

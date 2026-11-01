@@ -18,7 +18,7 @@
         "64bit": {
             "url": [
                 "https://nightly.link/streamlink/windows-builds/workflows/main/master/streamlink-8.6.3-1-py315-x86_64.zip",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
+                "https://gh-proxy.org/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
             ],
             "hash": [
                 "3b1f1470d4b135080a8107ca2917379ca3ff5acadbcdc215568b79eea1450497",
@@ -75,7 +75,7 @@
             "64bit": {
                 "url": [
                     "https://nightly.link/streamlink/windows-builds/workflows/main/master/streamlink-$match1-x86_64.zip",
-                    "https://gh-proxy.com/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
+                    "https://gh-proxy.org/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
                 ]
             }
         }

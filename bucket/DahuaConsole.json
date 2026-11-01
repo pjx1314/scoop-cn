@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/mcw0/DahuaConsole/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/mcw0/DahuaConsole/archive/refs/heads/master.zip",
     "hash": "462125c597f38983ac27b38dac7fade2175dcbc5f88a2f8e8849d431d57885a2",
     "extract_dir": "DahuaConsole-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/mcw0/DahuaConsole/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/mcw0/DahuaConsole/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

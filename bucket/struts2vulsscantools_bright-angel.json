@@ -12,7 +12,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/abc123info/Struts2VulsScanTools/releases/download/v19.73/Struts2_19.73.jar",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/Struts2VulsScanTools/releases/download/v19.73/Struts2_19.73.jar",
     "hash": "c0a6549fdd39bacf19481eb9576b721c6b52e2b7f889a966347d66691843c43f",
     "pre_install": [
         "Set-Content \"$dir\\struts2vulsscantools.bat\" '@pushd %~dp0",
@@ -29,6 +29,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/Struts2VulsScanTools/releases/download/v$version/Struts2_$version.jar"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/Struts2VulsScanTools/releases/download/v$version/Struts2_$version.jar"
     }
 }

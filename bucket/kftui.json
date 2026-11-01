@@ -5,15 +5,15 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftui_windows_x86_64.exe#/kftui.exe",
+            "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftui_windows_x86_64.exe#/kftui.exe",
             "hash": "d1c4addd35fca833de01231ceb7c0939ef50f4c384c00c3339eb6d4626d3d440"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftui_windows_x86.exe#/kftui.exe",
+            "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftui_windows_x86.exe#/kftui.exe",
             "hash": "bba524a1640871d713462dd9d5b1ada34736fd7e7ece357b5eb7b9203922b18c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftui_windows_arm64.exe#/kftui.exe",
+            "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftui_windows_arm64.exe#/kftui.exe",
             "hash": "d93ff163e597cbae641bcca66d5ee4ac80219cea5151a35ce5368e72fe562279"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v$version/kftui_windows_x86_64.exe#/kftui.exe"
+                "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v$version/kftui_windows_x86_64.exe#/kftui.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v$version/kftui_windows_x86.exe#/kftui.exe"
+                "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v$version/kftui_windows_x86.exe#/kftui.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v$version/kftui_windows_arm64.exe#/kftui.exe"
+                "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v$version/kftui_windows_arm64.exe#/kftui.exe"
             }
         }
     }

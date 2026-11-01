@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b12027/llama-b12027-bin-win-vulkan-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b12027/llama-b12027-bin-win-vulkan-x64.zip",
             "hash": "f774dc62ebb5431a001d524de72ed0c4a15abeff408ec996a3e2a6bb91e644e5"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-vulkan-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-vulkan-x64.zip"
             }
         }
     }

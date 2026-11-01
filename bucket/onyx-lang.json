@@ -5,7 +5,7 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/onyx-lang/onyx/releases/download/v0.1.13-beta/onyx-windows-wasmer-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/onyx-lang/onyx/releases/download/v0.1.13-beta/onyx-windows-wasmer-amd64.zip",
             "hash": "207e35a1a7c9f093b3f15ce037f35d92cedad93dc5445ade56e083ae2a48ca0b"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/onyx-lang/onyx/releases/download/v$version/onyx-windows-wasmer-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/onyx-lang/onyx/releases/download/v$version/onyx-windows-wasmer-amd64.zip"
             }
         }
     }

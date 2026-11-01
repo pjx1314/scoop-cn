@@ -1,9 +1,9 @@
 {
-    "$schema": "https://gh-proxy.com/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "$schema": "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "homepage": "https://github.com/kiennq/emacs-build",
     "license": "GPLv3",
     "version": "32.430.20261101+4d90d10d",
-    "url": "https://gh-proxy.com/https://github.com/kiennq/emacs-build/releases/download/v32.430.20261101+4d90d10d/mingw-w64-ucrt-x86_64_emacs_4d90d10d_mps_full.zip",
+    "url": "https://gh-proxy.org/https://github.com/kiennq/emacs-build/releases/download/v32.430.20261101+4d90d10d/mingw-w64-ucrt-x86_64_emacs_4d90d10d_mps_full.zip",
     "hash": "88ea2af34429e4e23338c24d2168f7e5605e036c100053fbd08c03724c698f36",
     "bin": [
         "bin\\runemacs.exe",
@@ -21,6 +21,6 @@
         "regex": "v([\\d.-]+\\+(?<commit>[\\d\\w-]+))"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kiennq/emacs-build/releases/download/v$version/mingw-w64-ucrt-x86_64_emacs_$matchCommit_mps_full.zip"
+        "url": "https://gh-proxy.org/https://github.com/kiennq/emacs-build/releases/download/v$version/mingw-w64-ucrt-x86_64_emacs_$matchCommit_mps_full.zip"
     }
 }

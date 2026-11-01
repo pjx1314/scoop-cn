@@ -6,7 +6,7 @@
     "notes": "config location: C:\\Users\\<your username>\\AppData\\Local\\com.jia-ethan.keysmith-switch - https://github.com/vicrack/scoop-bucket/blob/master/bucket/keysmith-switch-releases.json https://github.com/vicrack/scoop-bucket",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Jia-Ethan/keysmith-switch-releases/releases/download/v0.8.4/Keysmith.Switch_0.8.4_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Jia-Ethan/keysmith-switch-releases/releases/download/v0.8.4/Keysmith.Switch_0.8.4_x64-setup.exe#/dl.7z",
             "hash": "a624e19591cc7875fb510119e05866f8fef0e93070a47017926f370072c3f779"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Jia-Ethan/keysmith-switch-releases/releases/download/v$version/Keysmith.Switch_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Jia-Ethan/keysmith-switch-releases/releases/download/v$version/Keysmith.Switch_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

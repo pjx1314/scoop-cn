@@ -5,12 +5,12 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Ameyanagi/ReShiki/releases/download/v0.13.1/reshiki-0.13.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Ameyanagi/ReShiki/releases/download/v0.13.1/reshiki-0.13.1-windows-x64.zip",
             "hash": "124acb90ee109546bee396afd01505741231e4408c775cdf6ceb2cdfc36c3a67",
             "extract_dir": "reshiki-0.13.1-windows-x64"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Ameyanagi/ReShiki/releases/download/v0.13.1/reshiki-0.13.1-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Ameyanagi/ReShiki/releases/download/v0.13.1/reshiki-0.13.1-windows-arm64.zip",
             "hash": "5cd52c4e643717441e4523a841848fecb29fcef84233af4a030337a91ce82673",
             "extract_dir": "reshiki-0.13.1-windows-arm64"
         }
@@ -28,11 +28,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Ameyanagi/ReShiki/releases/download/v$version/reshiki-$version-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/Ameyanagi/ReShiki/releases/download/v$version/reshiki-$version-windows-x64.zip",
                 "extract_dir": "reshiki-$version-windows-x64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Ameyanagi/ReShiki/releases/download/v$version/reshiki-$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/Ameyanagi/ReShiki/releases/download/v$version/reshiki-$version-windows-arm64.zip",
                 "extract_dir": "reshiki-$version-windows-arm64"
             }
         },

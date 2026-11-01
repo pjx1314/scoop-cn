@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/f0ng/autoDecoder",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/f0ng/autoDecoder/releases/download/0.60/autoDecoder-0.60-jdk14.jar#/autoDecoder.jar",
+    "url": "https://gh-proxy.org/https://github.com/f0ng/autoDecoder/releases/download/0.60/autoDecoder-0.60-jdk14.jar#/autoDecoder.jar",
     "hash": "",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/f0ng/autoDecoder/releases/download/$version/autoDecoder-$version-jdk14.jar#/autoDecoder.jar"
+        "url": "https://gh-proxy.org/https://github.com/f0ng/autoDecoder/releases/download/$version/autoDecoder-$version-jdk14.jar#/autoDecoder.jar"
     }
 }

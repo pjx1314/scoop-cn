@@ -3,7 +3,7 @@
     "description": "A compact, single-file Python agent for command-line work.",
     "homepage": "https://github.com/usepr/eva",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/usepr/eva/d0e851a516679f9b10ad31361111927fe2ec936f/eva.py",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/usepr/eva/d0e851a516679f9b10ad31361111927fe2ec936f/eva.py",
     "hash": "773d2982d0171ff0650307c00b9a8e7e3bb5d185f4f6f3e81d38e89d8df7caaf",
     "bin": "eva.py",
     "suggest": {
@@ -15,6 +15,6 @@
         "replace": "${year}${month}${day}-${short}"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/usepr/eva/$matchCommit/eva.py"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/usepr/eva/$matchCommit/eva.py"
     }
 }

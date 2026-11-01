@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kosli-dev/cli/releases/download/v2.52.0/kosli_2.52.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kosli-dev/cli/releases/download/v2.52.0/kosli_2.52.0_windows_amd64.zip",
             "hash": "c500727f8a7180b5d63ae5e42a956e480d610f0902b322126d1782cede80fe2c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kosli-dev/cli/releases/download/v2.52.0/kosli_2.52.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kosli-dev/cli/releases/download/v2.52.0/kosli_2.52.0_windows_arm64.zip",
             "hash": "b35e6e5af32afd793d25b29273034e0dbe4cbda7f815df65b3da0ec5cd8d4822"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kosli-dev/cli/releases/download/v$version/kosli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kosli-dev/cli/releases/download/v$version/kosli_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kosli-dev/cli/releases/download/v$version/kosli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kosli-dev/cli/releases/download/v$version/kosli_$version_windows_arm64.zip"
             }
         },
         "hash": {

@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cuda-13.4-x64.zip",
-                "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b12032/cudart-llama-bin-win-cuda-13.4-x64.zip"
+                "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-cuda-13.4-x64.zip",
+                "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b12032/cudart-llama-bin-win-cuda-13.4-x64.zip"
             ],
             "hash": [
                 "4b2d4c4678192fbadc443e2c406fef06356d1b064ae9ab79b9f67e4329903511",
@@ -32,8 +32,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cuda-$matchCuda-x64.zip",
-                    "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/cudart-llama-bin-win-cuda-$matchCuda-x64.zip"
+                    "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cuda-$matchCuda-x64.zip",
+                    "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/cudart-llama-bin-win-cuda-$matchCuda-x64.zip"
                 ]
             }
         }

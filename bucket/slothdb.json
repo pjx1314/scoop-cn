@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SouravRoy-ETL/slothdb/releases/download/v0.2.7/slothdb.exe",
+            "url": "https://gh-proxy.org/https://github.com/SouravRoy-ETL/slothdb/releases/download/v0.2.7/slothdb.exe",
             "hash": "4e82163a38a281abc5a4c8acedcacf5d8e27b473eb37b3f2c4f5f7de9fc8cfad"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SouravRoy-ETL/slothdb/releases/download/v$version/slothdb.exe"
+                "url": "https://gh-proxy.org/https://github.com/SouravRoy-ETL/slothdb/releases/download/v$version/slothdb.exe"
             }
         }
     }

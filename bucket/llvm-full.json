@@ -5,12 +5,12 @@
     "license": "NCSA",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-23.1.4/clang%2Bllvm-23.1.4-x86_64-pc-windows-msvc.tar.xz",
+            "url": "https://gh-proxy.org/https://github.com/llvm/llvm-project/releases/download/llvmorg-23.1.4/clang%2Bllvm-23.1.4-x86_64-pc-windows-msvc.tar.xz",
             "hash": "854bffcfc84528e0ee92490ff5c178920abd358a79c3e98f053e41e3e8e4c6d2",
             "extract_dir": "clang+llvm-23.1.4-x86_64-pc-windows-msvc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-23.1.4/clang%2Bllvm-23.1.4-aarch64-pc-windows-msvc.tar.xz",
+            "url": "https://gh-proxy.org/https://github.com/llvm/llvm-project/releases/download/llvmorg-23.1.4/clang%2Bllvm-23.1.4-aarch64-pc-windows-msvc.tar.xz",
             "hash": "f0d2e32424850ffb9b6aef190587a8298353d858a8a7260f490c173fe98d6811",
             "extract_dir": "clang+llvm-23.1.4-aarch64-pc-windows-msvc"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/clang%2Bllvm-$version-x86_64-pc-windows-msvc.tar.xz",
+                "url": "https://gh-proxy.org/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/clang%2Bllvm-$version-x86_64-pc-windows-msvc.tar.xz",
                 "extract_dir": "clang+llvm-$version-x86_64-pc-windows-msvc"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/clang%2Bllvm-$version-aarch64-pc-windows-msvc.tar.xz",
+                "url": "https://gh-proxy.org/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/clang%2Bllvm-$version-aarch64-pc-windows-msvc.tar.xz",
                 "extract_dir": "clang+llvm-$version-aarch64-pc-windows-msvc"
             }
         }

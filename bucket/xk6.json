@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/grafana/xk6/releases/download/v1.4.15/xk6_1.4.15_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/xk6/releases/download/v1.4.15/xk6_1.4.15_windows_amd64.zip",
             "hash": "5fedc097a58b73bea2c5d47b68124c171a0992fc1d777b2fa354e98308c1c86f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/grafana/xk6/releases/download/v1.4.15/xk6_1.4.15_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/xk6/releases/download/v1.4.15/xk6_1.4.15_windows_arm64.zip",
             "hash": "7b7c34b481478633892ee2734bdff3570b99f31ea706714fe597407f7f0284af"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/grafana/xk6/releases/download/v$version/xk6_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/grafana/xk6/releases/download/v$version/xk6_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/grafana/xk6/releases/download/v$version/xk6_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/grafana/xk6/releases/download/v$version/xk6_$version_windows_arm64.zip"
             }
         },
         "hash": {

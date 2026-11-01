@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mesonbuild/meson/releases/download/1.12.1/meson-1.12.1-64.msi",
+            "url": "https://gh-proxy.org/https://github.com/mesonbuild/meson/releases/download/1.12.1/meson-1.12.1-64.msi",
             "hash": "0e541b6ae656cd9c8f9d5f8ac9eddc22c68d37006ae1dfd055e3ab485519804d",
             "extract_dir": "PFiles64\\Meson"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mesonbuild/meson/releases/download/$version/meson-$version-64.msi"
+                "url": "https://gh-proxy.org/https://github.com/mesonbuild/meson/releases/download/$version/meson-$version-64.msi"
             }
         }
     }

@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/HotBoy-java/PotatoTool/releases/download/ReleaseV2.5/PotatoTool-2.5-jdk8.jar#/PotatoTool.jar",
+    "url": "https://gh-proxy.org/https://github.com/HotBoy-java/PotatoTool/releases/download/ReleaseV2.5/PotatoTool-2.5-jdk8.jar#/PotatoTool.jar",
     "hash": "5b37aaa8c15bc9fc93549a833a2ae3e8445100fdfd818be6897583a2399dd14c",
     "pre_install": [
         "Set-Content \"$dir\\PotatoTool.bat\" '@pushd %~dp0",
@@ -29,7 +29,7 @@
         "regex": "ReleaseV([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/HotBoy-java/PotatoTool/releases/download/ReleaseV$version/PotatoTool-$version-jdk8.jar#/PotatoTool.jar"
+        "url": "https://gh-proxy.org/https://github.com/HotBoy-java/PotatoTool/releases/download/ReleaseV$version/PotatoTool-$version-jdk8.jar#/PotatoTool.jar"
     },
     "notes": [
         "【工具类型】: 安全工具",

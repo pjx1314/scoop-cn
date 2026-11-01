@@ -5,7 +5,7 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CESNET/GPUJPEG/releases/download/v0.27.13/GPUJPEG-Windows-all.zip",
+            "url": "https://gh-proxy.org/https://github.com/CESNET/GPUJPEG/releases/download/v0.27.13/GPUJPEG-Windows-all.zip",
             "hash": "38ae4ef75f3a8879aa14219b49e78301919f42a6c10acf31f815f933b8c457e6"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CESNET/GPUJPEG/releases/download/v$version/GPUJPEG-Windows-all.zip"
+                "url": "https://gh-proxy.org/https://github.com/CESNET/GPUJPEG/releases/download/v$version/GPUJPEG-Windows-all.zip"
             }
         }
     }

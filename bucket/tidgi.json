@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/Install-TidGi-Windows-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/Install-TidGi-Windows-x64.exe#/dl.7z",
             "hash": "1e6d3d5a4c18dd12800bdef6998e9ce65bcba0df7d93dcfdf4dc5fdf51b645cb"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/Install-TidGi-Windows-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.14.2/Install-TidGi-Windows-arm64.exe#/dl.7z",
             "hash": "35871bcf8bf9bb3ca8c126fbaa6e9b1a0e82111b6999b93ac192f39b0be8ea87"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v$version/Install-TidGi-Windows-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v$version/Install-TidGi-Windows-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v$version/Install-TidGi-Windows-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v$version/Install-TidGi-Windows-arm64.exe#/dl.7z"
             }
         }
     }

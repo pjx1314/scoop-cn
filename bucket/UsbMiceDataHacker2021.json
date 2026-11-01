@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/laziok/UsbMiceDataHacker2021/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/laziok/UsbMiceDataHacker2021/archive/refs/heads/master.zip",
     "hash": "93ea09eda0134abc82be148fd553f63b4d496a239d7711cdc25fc207b01c91df",
     "extract_dir": "UsbMiceDataHacker2021-main",
     "pre_install": [
@@ -27,6 +27,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/laziok/UsbMiceDataHacker2021/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/laziok/UsbMiceDataHacker2021/archive/refs/heads/master.zip"
     }
 }

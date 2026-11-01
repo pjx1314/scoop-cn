@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/marler8997/anyzig/releases/download/v2026_10_23/anyzig-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/marler8997/anyzig/releases/download/v2026_10_23/anyzig-x86_64-windows.zip",
             "hash": "b79a461d06933e131a9a25136ecb6c93959fb6696a3b0005ec6a296cc3211011"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/marler8997/anyzig/releases/download/v2026_10_23/anyzig-x86-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/marler8997/anyzig/releases/download/v2026_10_23/anyzig-x86-windows.zip",
             "hash": "7b49925ea4c511570d6f99a20861593ee3623ce9ab10379f7011a4845a271c66"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/marler8997/anyzig/releases/download/v2026_10_23/anyzig-aarch64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/marler8997/anyzig/releases/download/v2026_10_23/anyzig-aarch64-windows.zip",
             "hash": "da821f1900fcb24ffc3b19319c9fe4747efdf1725fe374d8b26c255207819932"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/marler8997/anyzig/releases/download/v$version/anyzig-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/marler8997/anyzig/releases/download/v$version/anyzig-x86_64-windows.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/marler8997/anyzig/releases/download/v$version/anyzig-x86-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/marler8997/anyzig/releases/download/v$version/anyzig-x86-windows.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/marler8997/anyzig/releases/download/v$version/anyzig-aarch64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/marler8997/anyzig/releases/download/v$version/anyzig-aarch64-windows.zip"
             }
         }
     }

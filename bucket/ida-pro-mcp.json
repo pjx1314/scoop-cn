@@ -3,7 +3,7 @@
     "description": "IDA Pro MCP - AI 辅助逆向工程的 MCP 桥接工具",
     "homepage": "https://github.com/mrexodia/ida-pro-mcp",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/mrexodia/ida-pro-mcp/archive/refs/heads/main.zip#/ida-pro-mcp.zip",
+    "url": "https://gh-proxy.org/https://github.com/mrexodia/ida-pro-mcp/archive/refs/heads/main.zip#/ida-pro-mcp.zip",
     "hash": "d1b9d562f264e709494ba4afaa1cc0195a090305837f288ec6ab70664807cadf",
     "extract_dir": "ida-pro-mcp-main",
     "suggest": {
@@ -32,7 +32,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/mrexodia/ida-pro-mcp/archive/refs/heads/main.zip#/ida-pro-mcp.zip"
+        "url": "https://gh-proxy.org/https://github.com/mrexodia/ida-pro-mcp/archive/refs/heads/main.zip#/ida-pro-mcp.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具（MCP 桥接服务）",

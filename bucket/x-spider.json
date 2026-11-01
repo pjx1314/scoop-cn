@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MiningCattiva/x-spider/releases/download/v2.2.2/X-Spider_2.2.2_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/MiningCattiva/x-spider/releases/download/v2.2.2/X-Spider_2.2.2_x64-setup.exe#/dl.7z",
             "hash": "b0ce4cecdbc0a37417915390793ca594d5e232a20b97156275ecc99286808b73"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MiningCattiva/x-spider/releases/download/v$version/X-Spider_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/MiningCattiva/x-spider/releases/download/v$version/X-Spider_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

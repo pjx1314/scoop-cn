@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/doki-byte/EasyTools",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/doki-byte/EasyTools/releases/download/v2.2.9/EasyTools-windows-amd64.zip",
+    "url": "https://gh-proxy.org/https://github.com/doki-byte/EasyTools/releases/download/v2.2.9/EasyTools-windows-amd64.zip",
     "hash": "20852ccf45c16e012deb0d13c44d54f6807f04bec5e9886b63d1c742b4b52ce6",
     "bin": "EasyTools.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/doki-byte/EasyTools/releases/download/v$version/EasyTools-windows-amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/doki-byte/EasyTools/releases/download/v$version/EasyTools-windows-amd64.zip"
     }
 }

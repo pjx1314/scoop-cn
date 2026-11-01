@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vespa-engine/vespa/releases/download/v8.778.45/vespa-cli_8.778.45_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vespa-engine/vespa/releases/download/v8.778.45/vespa-cli_8.778.45_windows_amd64.zip",
             "hash": "016ce415cf1c38e278d1682609b1c4db85132bc28c7cd85b3d025fdd79dbb386",
             "extract_dir": "vespa-cli_8.778.45_windows_amd64\\bin"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/vespa-engine/vespa/releases/download/v8.778.45/vespa-cli_8.778.45_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/vespa-engine/vespa/releases/download/v8.778.45/vespa-cli_8.778.45_windows_386.zip",
             "hash": "869161e4551830b567733590646d72cc6273b4256e2e6501637adb136924baeb",
             "extract_dir": "vespa-cli_8.778.45_windows_386\\bin"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vespa-engine/vespa/releases/download/v$version/vespa-cli_$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/vespa-engine/vespa/releases/download/v$version/vespa-cli_$version_windows_amd64.zip",
                 "extract_dir": "vespa-cli_$version_windows_amd64\\bin"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/vespa-engine/vespa/releases/download/v$version/vespa-cli_$version_windows_386.zip",
+                "url": "https://gh-proxy.org/https://github.com/vespa-engine/vespa/releases/download/v$version/vespa-cli_$version_windows_386.zip",
                 "extract_dir": "vespa-cli_$version_windows_386\\bin"
             }
         },

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Raicuparta/rai-pal/releases/download/v0.24.0/RaiPal.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Raicuparta/rai-pal/releases/download/v0.24.0/RaiPal.exe#/dl.7z",
             "hash": "9a10ba088bf194ea80fd6ad059b6d62da25196c1f374de69aede099884c1e020"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Raicuparta/rai-pal/releases/download/v$version/RaiPal.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Raicuparta/rai-pal/releases/download/v$version/RaiPal.exe#/dl.7z"
             }
         }
     }

@@ -3,12 +3,12 @@
     "description": "Go 编写的 JS 文件发现与 API 接口扫描工具，支持未授权访问测试与敏感信息识别",
     "homepage": "https://github.com/ruisika/jsapiscan",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/ruisika/jsapiscan/releases/download/v1.0.0/JSAPIscan_windows_amd64.exe#/JSAPIscan.exe",
+    "url": "https://gh-proxy.org/https://github.com/ruisika/jsapiscan/releases/download/v1.0.0/JSAPIscan_windows_amd64.exe#/JSAPIscan.exe",
     "hash": "sha256:bae8baf45b69ea0cfd0bbe8220bdd2caab8d9c67866c2942bc8521c4c85a7c06",
     "bin": "JSAPIscan.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ruisika/jsapiscan/releases/download/v$version/JSAPIscan_windows_amd64.exe#/JSAPIscan.exe"
+        "url": "https://gh-proxy.org/https://github.com/ruisika/jsapiscan/releases/download/v$version/JSAPIscan_windows_amd64.exe#/JSAPIscan.exe"
     },
     "notes": [
         "【工具类型】: 安全测试",

@@ -3,7 +3,7 @@
     "description": "CyberChef-server - 通过 HTTP API 提供 CyberChef 数据处理功能的服务器",
     "homepage": "https://github.com/gchq/CyberChef-server",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/gchq/CyberChef-server/archive/refs/tags/v1.1.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/gchq/CyberChef-server/archive/refs/tags/v1.1.0.zip",
     "hash": "sha256:baa4cf78438706ecf7716f650df2da6b47d4e64bd29ca0f541be68c6805da5fb",
     "extract_dir": "CyberChef-server-1.1.0",
     "suggest": {
@@ -16,7 +16,7 @@
     "bin": "cyberchef-server.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/gchq/CyberChef-server/archive/refs/tags/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/gchq/CyberChef-server/archive/refs/tags/v$version.zip",
         "extract_dir": "CyberChef-server-$version"
     },
     "notes": [

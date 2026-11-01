@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JetBrains/intellij-community/releases/download/idea/2026.2.4/idea-2026.2.4.win.zip",
+            "url": "https://gh-proxy.org/https://github.com/JetBrains/intellij-community/releases/download/idea/2026.2.4/idea-2026.2.4.win.zip",
             "hash": "e0b0071959497551349a030fa0c0f3048c40bf05506bf87ed6af102414777a7d",
             "bin": [
                 [
@@ -21,7 +21,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/JetBrains/intellij-community/releases/download/idea/2026.2.4/idea-2026.2.4-aarch64.win.zip",
+            "url": "https://gh-proxy.org/https://github.com/JetBrains/intellij-community/releases/download/idea/2026.2.4/idea-2026.2.4-aarch64.win.zip",
             "hash": "7f209d5d6dce7ee9a420c6630196188f3383abf2d302e5c66c06792089125239",
             "bin": [
                 [
@@ -59,10 +59,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/JetBrains/intellij-community/releases/download/idea/$version/idea-$version.win.zip"
+                "url": "https://gh-proxy.org/https://github.com/JetBrains/intellij-community/releases/download/idea/$version/idea-$version.win.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/JetBrains/intellij-community/releases/download/idea/$version/idea-$version-aarch64.win.zip"
+                "url": "https://gh-proxy.org/https://github.com/JetBrains/intellij-community/releases/download/idea/$version/idea-$version-aarch64.win.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/1lck/Lithe-IDEA/releases/download/v0.6.6/Lithe-0.6.6-windows-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/1lck/Lithe-IDEA/releases/download/v0.6.6/Lithe-0.6.6-windows-x64.exe#/dl.7z",
             "hash": "4b473050107bf109cab219d4afa1b50f2f23caa72fc262b533a8cddc43b02d21"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/1lck/Lithe-IDEA/releases/download/v$version/Lithe-$version-windows-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/1lck/Lithe-IDEA/releases/download/v$version/Lithe-$version-windows-x64.exe#/dl.7z"
             }
         },
         "hash": {

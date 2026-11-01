@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kawaiiDango/pano-scrobbler/releases/download/447/pano-scrobbler-windows-x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/kawaiiDango/pano-scrobbler/releases/download/447/pano-scrobbler-windows-x64.exe",
             "hash": "d7b2a7d96bb033f1218d06e9c953c146b369f5a593be1928188084a2047360e1"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kawaiiDango/pano-scrobbler/releases/download/$version/pano-scrobbler-windows-x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/kawaiiDango/pano-scrobbler/releases/download/$version/pano-scrobbler-windows-x64.exe"
             }
         }
     }

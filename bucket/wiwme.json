@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qytwyw/wiwme/releases/download/0.3.0/wiwme.0.3.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/qytwyw/wiwme/releases/download/0.3.0/wiwme.0.3.0.zip",
             "hash": "cf9453273adfbf8ecdc9004b1902f52ef016b1637039b14f051a1e26ca5a2e86"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qytwyw/wiwme/releases/download/$version/wiwme.$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/qytwyw/wiwme/releases/download/$version/wiwme.$version.zip"
             }
         }
     }

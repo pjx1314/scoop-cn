@@ -5,7 +5,7 @@
     "license": "UPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/roc-lang/nightlies/releases/download/nightly-2026-10-30-0602c5f/roc_nightly-windows_x86_64-2026-10-30-0602c5f.zip",
+            "url": "https://gh-proxy.org/https://github.com/roc-lang/nightlies/releases/download/nightly-2026-10-30-0602c5f/roc_nightly-windows_x86_64-2026-10-30-0602c5f.zip",
             "hash": "c715dd3a7fcd728404dd14a78198b556199be3f5b635cfe08010b746f2da7f58",
             "extract_dir": "roc_nightly-windows_x86_64-2026-10-30-0602c5f"
         }
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/roc-lang/nightlies/releases/download/$matchTag/roc_nightly-windows_x86_64-$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/roc-lang/nightlies/releases/download/$matchTag/roc_nightly-windows_x86_64-$version.zip",
                 "extract_dir": "roc_nightly-windows_x86_64-$version"
             }
         }

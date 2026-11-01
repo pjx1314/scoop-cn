@@ -5,7 +5,7 @@
     "version": "0.20.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Snd-R/Komelia/releases/download/0.20.0/Komelia-0.20.0-windows-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/Snd-R/Komelia/releases/download/0.20.0/Komelia-0.20.0-windows-x64.msi",
             "hash": "befd730d4a4a3360015e976ae6c2c5b727ae566845a257d09b552b0521726a5e"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Snd-R/Komelia/releases/download/$version/Komelia-$version-windows-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/Snd-R/Komelia/releases/download/$version/Komelia-$version-windows-x64.msi"
             }
         },
         "hash": {

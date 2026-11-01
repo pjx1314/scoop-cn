@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zhanglun/lettura/releases/download/v0.2.1/Lettura_0.2.1_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/zhanglun/lettura/releases/download/v0.2.1/Lettura_0.2.1_x64_en-US.msi",
             "hash": "60d9b5e72c7a68c3e73c5faf0be27533f1f0c497edf942c74a828ac8390f613d"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zhanglun/lettura/releases/download/v$version/Lettura_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/zhanglun/lettura/releases/download/v$version/Lettura_$version_x64_en-US.msi"
             }
         }
     }

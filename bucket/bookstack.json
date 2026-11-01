@@ -4,7 +4,7 @@
     "homepage": "https://github.com/TruthHun/BookStack",
     "license": "Apache-2.0",
     "url": [
-        "https://gh-proxy.com/https://github.com/TruthHun/BookStack/releases/download/v2.9/BookStack.V2.9_Windows_amd64.zip"
+        "https://gh-proxy.org/https://github.com/TruthHun/BookStack/releases/download/v2.9/BookStack.V2.9_Windows_amd64.zip"
     ],
     "hash": [
         ""
@@ -28,6 +28,6 @@
         "github": "https://github.com/TruthHun/BookStack"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/TruthHun/BookStack/releases/download/v$version/BookStack.V$version_Windows_amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/TruthHun/BookStack/releases/download/v$version/BookStack.V$version_Windows_amd64.zip"
     }
 }

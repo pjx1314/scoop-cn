@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/barats/resizem/releases/download/v1.1.0/Resizem-amd64-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/barats/resizem/releases/download/v1.1.0/Resizem-amd64-installer.exe#/dl.7z",
             "hash": "ac901900a50f907d37ee74c88f5f8ce10712fb6e38413b8e3a0083f3cc85e959"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/barats/resizem/releases/download/v$version/Resizem-amd64-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/barats/resizem/releases/download/v$version/Resizem-amd64-installer.exe#/dl.7z"
             }
         }
     }

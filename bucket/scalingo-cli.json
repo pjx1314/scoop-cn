@@ -4,7 +4,7 @@
     "homepage": "https://doc.scalingo.com/platform/cli/start",
     "license": {
         "identifier": "BSD-3-Clause",
-        "url": "https://gh-proxy.com/https://github.com/Scalingo/cli/raw/refs/heads/master/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/Scalingo/cli/raw/refs/heads/master/LICENSE"
     },
     "architecture": {
         "64bit": {

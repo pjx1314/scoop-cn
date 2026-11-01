@@ -8,11 +8,11 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/playit-cloud/playit-agent/releases/download/v1.2.0/playit-windows-x86.exe",
+            "url": "https://gh-proxy.org/https://github.com/playit-cloud/playit-agent/releases/download/v1.2.0/playit-windows-x86.exe",
             "hash": "b073dcd980201d04777397b527994f2e1656e73a48a6db85def501f0c6b70f94"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/playit-cloud/playit-agent/releases/download/v1.2.0/playit-windows-x86_64.exe",
+            "url": "https://gh-proxy.org/https://github.com/playit-cloud/playit-agent/releases/download/v1.2.0/playit-windows-x86_64.exe",
             "hash": "49accb0a479950a66cb99941941f04cfa74af81c012fb66bcb5b179b37405085"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/playit-cloud/playit-agent/releases/download/v$version/playit-windows-x86.exe"
+                "url": "https://gh-proxy.org/https://github.com/playit-cloud/playit-agent/releases/download/v$version/playit-windows-x86.exe"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/playit-cloud/playit-agent/releases/download/v$version/playit-windows-x86_64.exe"
+                "url": "https://gh-proxy.org/https://github.com/playit-cloud/playit-agent/releases/download/v$version/playit-windows-x86_64.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yann0917/dedao-dl/releases/download/v1.3.3/dedao-dl-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yann0917/dedao-dl/releases/download/v1.3.3/dedao-dl-windows-amd64.zip",
             "hash": "d8d29595e7b81dc56536048c2c5bdd997d2e89b2cf924afb3cce7c27972228c2"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yann0917/dedao-dl/releases/download/v$version/dedao-dl-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yann0917/dedao-dl/releases/download/v$version/dedao-dl-windows-amd64.zip"
             }
         },
         "hash": {

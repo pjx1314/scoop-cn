@@ -14,10 +14,10 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/pkilller/super-jadx/releases/download/10.0/super-jadx-10.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/pkilller/super-jadx/releases/download/10.0/super-jadx-10.0.zip",
     "hash": "",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pkilller/super-jadx/releases/download/$version/super-jadx-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/pkilller/super-jadx/releases/download/$version/super-jadx-$version.zip"
     }
 }

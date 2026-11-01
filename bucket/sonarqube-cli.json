@@ -4,7 +4,7 @@
     "homepage": "https://cli.sonarqube.com/",
     "license": {
         "identifier": "LGPL-3.0-or-later",
-        "url": "https://gh-proxy.com/https://github.com/SonarSource/sonarqube-cli/raw/refs/heads/master/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/SonarSource/sonarqube-cli/raw/refs/heads/master/LICENSE"
     },
     "architecture": {
         "64bit": {

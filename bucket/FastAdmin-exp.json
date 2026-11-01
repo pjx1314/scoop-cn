@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/3xsh0re/FastAdmin-exp/releases/download/v1.1/FastAdmin-exp.jar",
+    "url": "https://gh-proxy.org/https://github.com/3xsh0re/FastAdmin-exp/releases/download/v1.1/FastAdmin-exp.jar",
     "hash": "0386babcf07ed5a8aa66e952032bb50b39d1f1f75f90530f318b62b4ac96d675",
     "pre_install": [
         "Set-Content \"$dir\\FastAdmin-exp.bat\" '@pushd %~dp0",
@@ -19,7 +19,7 @@
     "bin": "FastAdmin-exp.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/3xsh0re/FastAdmin-exp/releases/download/v$version/FastAdmin-exp.jar"
+        "url": "https://gh-proxy.org/https://github.com/3xsh0re/FastAdmin-exp/releases/download/v$version/FastAdmin-exp.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

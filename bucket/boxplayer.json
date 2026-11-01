@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.37/boxplayer-5.0.37-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/gaozhangmin/boxplayer/releases/download/v5.0.37/boxplayer-5.0.37-win-x64.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
             "hash": "6fda321aaf92edb75d4a3ff10de0f61b5433cc7e53ca5e9b941ce654c20adbc9"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gaozhangmin/boxplayer/releases/download/v$version/boxplayer-$version-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/gaozhangmin/boxplayer/releases/download/v$version/boxplayer-$version-win-x64.exe#/dl.7z"
             }
         }
     }

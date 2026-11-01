@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-portable-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/24.10/xpipe-portable-windows-x86_64.zip",
             "extract_dir": "xpipe-24.10",
             "hash": "16991b0553a6821ce275087721e1ed4b1ace948dfeeb95974342029c6b97f86f"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-x86_64.zip",
                 "extract_dir": "xpipe-$version"
             }
         }

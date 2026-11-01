@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-win-v0.4.3.tgz",
+            "url": "https://gh-proxy.org/https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-win-v0.4.3.tgz",
             "hash": "6bc6079e664121fe8c0add605c258c6f985f6ee4517fa49589c049014fc6c480"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/foriequal0/git-trim/releases/download/v$version/git-trim-win-v$version.tgz"
+                "url": "https://gh-proxy.org/https://github.com/foriequal0/git-trim/releases/download/v$version/git-trim-win-v$version.tgz"
             }
         }
     }

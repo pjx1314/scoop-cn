@@ -3,7 +3,7 @@
     "description": "A light, fast and secure browser",
     "homepage": "https://astian.org/midori-browser/",
     "license": "MPL-2.0",
-    "url": "https://gh-proxy.com/https://github.com/goastian/midori-desktop/releases/download/v11.9.1/midori-11.9.1.win64.zip",
+    "url": "https://gh-proxy.org/https://github.com/goastian/midori-desktop/releases/download/v11.9.1/midori-11.9.1.win64.zip",
     "hash": "4782e096e0fe76657fc76a9da2c8dfe4336a996274d9d2e7dcaf7417cf60321d",
     "extract_dir": "midori",
     "bin": "midori.exe",
@@ -17,6 +17,6 @@
         "github": "https://github.com/goastian/midori-desktop"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/goastian/midori-desktop/releases/download/v$version/midori-$version.win64.zip"
+        "url": "https://gh-proxy.org/https://github.com/goastian/midori-desktop/releases/download/v$version/midori-$version.win64.zip"
     }
 }

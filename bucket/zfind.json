@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/laktak/zfind/releases/download/v0.4.7/zfind-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/laktak/zfind/releases/download/v0.4.7/zfind-windows-amd64.zip",
             "hash": "4b9973eeeaa032d7dac7d021900c3bd27b80fc6ef99b36df86915f24a3c80f89"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/laktak/zfind/releases/download/v0.4.7/zfind-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/laktak/zfind/releases/download/v0.4.7/zfind-windows-arm64.zip",
             "hash": "81999b2a3741ad02a240705cf77d61d5ed2716966a87c8f3dd78b9eb64a3d137"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/laktak/zfind/releases/download/v$version/zfind-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/laktak/zfind/releases/download/v$version/zfind-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/laktak/zfind/releases/download/v$version/zfind-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/laktak/zfind/releases/download/v$version/zfind-windows-arm64.zip"
             }
         }
     }

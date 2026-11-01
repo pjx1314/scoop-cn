@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/likaia/mise_gui/releases/download/v1.0.8/Mise.GUI-Windows-x64-release-1.0.8+9-2026-05-18.zip",
+            "url": "https://gh-proxy.org/https://github.com/likaia/mise_gui/releases/download/v1.0.8/Mise.GUI-Windows-x64-release-1.0.8+9-2026-05-18.zip",
             "extract_dir": "Mise GUI-Windows-x64",
             "hash": "fde406bea3f222695cd946396946b8bbc584f72b333b7eb2056ff38d153050ca"
         }
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/likaia/mise_gui/releases/download/v$version/Mise.GUI-Windows-x64-release-$matchMain+$matchBuild-$matchDate.zip"
+                "url": "https://gh-proxy.org/https://github.com/likaia/mise_gui/releases/download/v$version/Mise.GUI-Windows-x64-release-$matchMain+$matchBuild-$matchDate.zip"
             }
         }
     }

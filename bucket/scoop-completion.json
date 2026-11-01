@@ -7,8 +7,8 @@
         "url": "https://github.com/batkiz/scoop-completion/blob/master/LICENSE"
     },
     "url": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/batkiz/scoop-completion/v0.4.0/src/scoop-completion.psm1",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/batkiz/scoop-completion/v0.4.0/src/scoop-completion.psd1"
+        "https://gh-proxy.org/https://raw.githubusercontent.com/batkiz/scoop-completion/v0.4.0/src/scoop-completion.psm1",
+        "https://gh-proxy.org/https://raw.githubusercontent.com/batkiz/scoop-completion/v0.4.0/src/scoop-completion.psd1"
     ],
     "hash": [
         "3d41d65f4f44b430a7923f31a1a22920bc0fc6107d710a448d4dca0faf31619d",
@@ -18,13 +18,13 @@
         "name": "scoop-completion"
     },
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/batkiz/scoop-completion/master/src/scoop-completion.psd1",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/batkiz/scoop-completion/master/src/scoop-completion.psd1",
         "regex": "ModuleVersion\\s+=\\s+'([\\d.]+)'"
     },
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://raw.githubusercontent.com/batkiz/scoop-completion/v$version/src/scoop-completion.psm1",
-            "https://gh-proxy.com/https://raw.githubusercontent.com/batkiz/scoop-completion/v$version/src/scoop-completion.psd1"
+            "https://gh-proxy.org/https://raw.githubusercontent.com/batkiz/scoop-completion/v$version/src/scoop-completion.psm1",
+            "https://gh-proxy.org/https://raw.githubusercontent.com/batkiz/scoop-completion/v$version/src/scoop-completion.psd1"
         ]
     }
 }

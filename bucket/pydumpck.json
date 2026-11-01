@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/serfend/pydumpck/archive/refs/tags/1.20.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/serfend/pydumpck/archive/refs/tags/1.20.1.zip",
     "hash": "ee45f0c3eed0d79229b90773206d162d67919adbce8bb94a57bef64926146500",
     "extract_dir": "pydumpck-1.20.1",
     "pre_install": [
@@ -21,7 +21,7 @@
     "bin": "pydumpck.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/serfend/pydumpck/archive/refs/tags/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/serfend/pydumpck/archive/refs/tags/$version.zip",
         "extract_dir": "pydumpck-$version"
     },
     "notes": [

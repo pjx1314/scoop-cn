@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/wgpsec/YongYouNcTool/releases/download/1.0/YongYouNcTool-1.0.jar#/YongYouNcTool.jar",
+    "url": "https://gh-proxy.org/https://github.com/wgpsec/YongYouNcTool/releases/download/1.0/YongYouNcTool-1.0.jar#/YongYouNcTool.jar",
     "hash": "c44a2b694f753be26d9a00379871df0330ef5e24a90c227cf4f1713c620f2f65",
     "pre_install": [
         "Set-Content \"$dir\\YongYouNcTool.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wgpsec/YongYouNcTool/releases/download/$version/YongYouNcTool-$version.jar#/YongYouNcTool.jar"
+        "url": "https://gh-proxy.org/https://github.com/wgpsec/YongYouNcTool/releases/download/$version/YongYouNcTool-$version.jar#/YongYouNcTool.jar"
     }
 }

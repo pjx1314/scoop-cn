@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/maboloshi/mihomo-tray-rs/releases/download/v0.3.1/mihomo-tray-v0.3.1-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/maboloshi/mihomo-tray-rs/releases/download/v0.3.1/mihomo-tray-v0.3.1-win-x64.zip",
             "hash": "bfcfb26dfff7c0026b7664cf4b8c298121c14f61d5d68c4cdc57c12a880b96dd"
         }
     },
@@ -35,7 +35,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/maboloshi/mihomo-tray-rs/releases/download/v$version/mihomo-tray-v$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/maboloshi/mihomo-tray-rs/releases/download/v$version/mihomo-tray-v$version-win-x64.zip"
             }
         }
     }

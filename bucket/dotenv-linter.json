@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-x64.zip",
             "hash": "771214659b86d2de5c8c5214e6d59484ceb0de8a87037d488ce37d6ca6f6cc1a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-aarch64.zip",
             "hash": "523f47a78a52ebdd5ff1fa30c94e1df0ed66f80c5c898eb49e72caec47a23e5e"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dotenv-linter/dotenv-linter/releases/download/v$version/dotenv-linter-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dotenv-linter/dotenv-linter/releases/download/v$version/dotenv-linter-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/dotenv-linter/dotenv-linter/releases/download/v$version/dotenv-linter-win-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dotenv-linter/dotenv-linter/releases/download/v$version/dotenv-linter-win-aarch64.zip"
             }
         }
     }

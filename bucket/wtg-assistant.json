@@ -23,7 +23,7 @@
         "Drivers"
     ],
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/nkc3g4/wtg-assistant/refs/heads/mainline/wintogo/Properties/AssemblyInfo.cs",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/nkc3g4/wtg-assistant/refs/heads/mainline/wintogo/Properties/AssemblyInfo.cs",
         "regex": "AssemblyVersion\\(\"([\\d.]+)\"\\)"
     },
     "autoupdate": {

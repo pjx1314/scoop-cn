@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JetBrains/thinkrail/releases/download/v0.4.0-nightly.1/thinkrail-windows-x64.exe#/thinkrail.exe",
+            "url": "https://gh-proxy.org/https://github.com/JetBrains/thinkrail/releases/download/v0.4.0-nightly.1/thinkrail-windows-x64.exe#/thinkrail.exe",
             "hash": "bf746e43fa23a88351eec25e2b9b1fab1da2454291e7262e5bc01902fd35ef26"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/JetBrains/thinkrail/releases/download/v$version/thinkrail-windows-x64.exe#/thinkrail.exe"
+                "url": "https://gh-proxy.org/https://github.com/JetBrains/thinkrail/releases/download/v$version/thinkrail-windows-x64.exe#/thinkrail.exe"
             }
         },
         "hash": {

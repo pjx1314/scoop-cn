@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/Janhsu/DockerAPITool/releases/download/v0.1/DockerAPITool_v0.1.jar#/DockerAPITool.jar",
+    "url": "https://gh-proxy.org/https://github.com/Janhsu/DockerAPITool/releases/download/v0.1/DockerAPITool_v0.1.jar#/DockerAPITool.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\DockerAPITool.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Janhsu/DockerAPITool/releases/download/v$version/DockerAPITool_v$version.jar#/DockerAPITool.jar"
+        "url": "https://gh-proxy.org/https://github.com/Janhsu/DockerAPITool/releases/download/v$version/DockerAPITool_v$version.jar#/DockerAPITool.jar"
     }
 }

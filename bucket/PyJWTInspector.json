@@ -3,7 +3,7 @@
     "description": "图形化 JWT 漏洞利用工具，覆盖常见 JWT 漏洞验证向量",
     "homepage": "https://github.com/zjeweler/PyJWTInspector",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/zjeweler/PyJWTInspector/archive/refs/tags/v1.0.0.zip#/PyJWTInspector-source.zip",
+    "url": "https://gh-proxy.org/https://github.com/zjeweler/PyJWTInspector/archive/refs/tags/v1.0.0.zip#/PyJWTInspector-source.zip",
     "hash": "sha256:CF52C9F243E0F7E2F697F07477400C8B13D7A34CA20D3A99D726324A2AFEFE53",
     "extract_dir": "PyJWTInspector-1.0.0",
     "suggest": {
@@ -27,7 +27,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/zjeweler/PyJWTInspector/archive/refs/tags/v$version.zip#/PyJWTInspector-source.zip",
+        "url": "https://gh-proxy.org/https://github.com/zjeweler/PyJWTInspector/archive/refs/tags/v$version.zip#/PyJWTInspector-source.zip",
         "extract_dir": "PyJWTInspector-$version"
     },
     "notes": [

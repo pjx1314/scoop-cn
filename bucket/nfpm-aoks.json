@@ -6,11 +6,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/goreleaser/nfpm/releases/download/v2.48.0/nfpm_2.48.0_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goreleaser/nfpm/releases/download/v2.48.0/nfpm_2.48.0_Windows_x86_64.zip",
             "hash": "8ce12620212f5db557e370e35e2279ac7b106ea51e6a546a2be37a1a5d5bd8de"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/goreleaser/nfpm/releases/download/v2.48.0/nfpm_2.48.0_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goreleaser/nfpm/releases/download/v2.48.0/nfpm_2.48.0_Windows_arm64.zip",
             "hash": "e1065f3201938e8375db4b0200c337196f75ef7948a4dd6724526852a6819d5a"
         }
     },
@@ -19,14 +19,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/goreleaser/nfpm/releases/download/v$version/nfpm_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goreleaser/nfpm/releases/download/v$version/nfpm_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/goreleaser/nfpm/releases/download/v$version/nfpm_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goreleaser/nfpm/releases/download/v$version/nfpm_$version_Windows_arm64.zip"
             }
         },
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/goreleaser/nfpm/releases/download/v$version/checksums.txt"
+            "url": "https://gh-proxy.org/https://github.com/goreleaser/nfpm/releases/download/v$version/checksums.txt"
         }
     }
 }

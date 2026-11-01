@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/kracer127/SiteScan/releases/download/v.1.5/SiteScan.v1.5.zip",
+    "url": "https://gh-proxy.org/https://github.com/kracer127/SiteScan/releases/download/v.1.5/SiteScan.v1.5.zip",
     "hash": "3e66216bd5169b9658e133a0b938aac5aac64fc704863548879692fc67794e88",
     "pre_install": [
         "Set-Content \"$dir\\SiteScan.bat\" '@pushd %~dp0",
@@ -30,6 +30,6 @@
         "regex": "v\\.([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kracer127/SiteScan/releases/download/v.$version/SiteScan.v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/kracer127/SiteScan/releases/download/v.$version/SiteScan.v$version.zip"
     }
 }

@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HarbourMasters/Shipwright/releases/download/9.3.1/SoH-Dewey-Bravo-Win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/HarbourMasters/Shipwright/releases/download/9.3.1/SoH-Dewey-Bravo-Win64.zip",
             "hash": "429292a0bfbdfcda283b33c1538ecdc49163b9ed53e8702cac80b2489d9fe26c",
             "shortcuts": [
                 [

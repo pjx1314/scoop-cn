@@ -52,9 +52,9 @@
     "checkver": {
         "regex": "([\\d.]+-[\\d.]+)",
         "script": [
-            "(Invoke-WebRequest -Uri https://gh-proxy.com/https://github.com/jef-n/OSGeo4W/raw/refs/heads/master/src/setup/ChangeLog).Content -match 'Revision:\\s*(\\d+\\.\\d+)' | Out-Null",
+            "(Invoke-WebRequest -Uri https://gh-proxy.org/https://github.com/jef-n/OSGeo4W/raw/refs/heads/master/src/setup/ChangeLog).Content -match 'Revision:\\s*(\\d+\\.\\d+)' | Out-Null",
             "$osgeo4w = $matches[1]",
-            "Invoke-WebRequest -Uri https://gh-proxy.com/https://github.com/qgis/QGIS-Website/raw/main/data/conf.json | ConvertFrom-Json | Select-Object -ExpandProperty ltrrelease -OutVariable qgis",
+            "Invoke-WebRequest -Uri https://gh-proxy.org/https://github.com/qgis/QGIS-Website/raw/main/data/conf.json | ConvertFrom-Json | Select-Object -ExpandProperty ltrrelease -OutVariable qgis",
             "\"$qgis-$osgeo4w\""
         ]
     },

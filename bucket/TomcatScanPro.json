@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/lizhianyuguangming/TomcatScanPro/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/lizhianyuguangming/TomcatScanPro/archive/refs/heads/master.zip",
     "hash": "e8e7fe647170c6461ee7c0b73fccac4bed42d423091720fce0b57cc21e4392de",
     "extract_dir": "TomcatScanPro-main",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lizhianyuguangming/TomcatScanPro/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/lizhianyuguangming/TomcatScanPro/archive/refs/heads/master.zip"
     }
 }

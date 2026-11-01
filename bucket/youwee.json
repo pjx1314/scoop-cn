@@ -4,7 +4,7 @@
     "description": "A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing",
     "homepage": "https://github.com/vanloctech/youwee",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/vanloctech/youwee/releases/download/v0.20.4/Youwee-Windows-Setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/vanloctech/youwee/releases/download/v0.20.4/Youwee-Windows-Setup.exe#/dl.7z",
     "hash": "627d9a16bd896a84e88c856fa630abf9fd3184f481934e0eab24f5faccb0f0d6",
     "pre_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
     "shortcuts": [
@@ -15,6 +15,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/vanloctech/youwee/releases/download/v$version/Youwee-Windows-Setup.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/vanloctech/youwee/releases/download/v$version/Youwee-Windows-Setup.exe#/dl.7z"
     }
 }

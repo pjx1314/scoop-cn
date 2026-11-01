@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dstrml/wu/releases/download/v1.1.15/Wu-x86_64.exe",
+            "url": "https://gh-proxy.org/https://github.com/dstrml/wu/releases/download/v1.1.15/Wu-x86_64.exe",
             "hash": "2577221331afe20c70356a4db0ecae711fd6abd849d767e534d5bf0427990dee"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dstrml/wu/releases/download/v$version/Wu-x86_64.exe"
+                "url": "https://gh-proxy.org/https://github.com/dstrml/wu/releases/download/v$version/Wu-x86_64.exe"
             }
         }
     }

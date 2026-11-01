@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xingkongliang/skills-manager/releases/download/v1.43.2/skills-manager_1.43.2_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/xingkongliang/skills-manager/releases/download/v1.43.2/skills-manager_1.43.2_x64-setup.exe#/dl.7z",
             "hash": "8d23ec61aa65b67593a892aefb7e1659da4e3c7dc7ee1d98f8a616f105aaf65c"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xingkongliang/skills-manager/releases/download/v$version/skills-manager_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/xingkongliang/skills-manager/releases/download/v$version/skills-manager_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/innobead/huber/releases/download/v1.0.11/huber-x86_64-pc-windows-msvc.exe#/huber.exe",
+            "url": "https://gh-proxy.org/https://github.com/innobead/huber/releases/download/v1.0.11/huber-x86_64-pc-windows-msvc.exe#/huber.exe",
             "hash": "7d641e64d09bdee741d1ef75738b2fd242c21ed1134f51d9e400badf5d52b80b"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/innobead/huber/releases/download/v$version/huber-x86_64-pc-windows-msvc.exe#/huber.exe"
+                "url": "https://gh-proxy.org/https://github.com/innobead/huber/releases/download/v$version/huber-x86_64-pc-windows-msvc.exe#/huber.exe"
             }
         },
         "hash": {

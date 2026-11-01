@@ -5,15 +5,15 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Gouryella/drip/releases/download/v0.8.1/drip_0.8.1_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Gouryella/drip/releases/download/v0.8.1/drip_0.8.1_windows_amd64.tar.gz",
             "hash": "3df9ea96795041fd191b466da03a4660c4741b2843b1703154cbe4c922540a2a"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Gouryella/drip/releases/download/v0.8.1/drip_0.8.1_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Gouryella/drip/releases/download/v0.8.1/drip_0.8.1_windows_386.tar.gz",
             "hash": "5d3c3f8c70491d769f2e6698dd42b074d5f3391cc5854fb2a0a345f60aebb8a2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Gouryella/drip/releases/download/v0.8.1/drip_0.8.1_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Gouryella/drip/releases/download/v0.8.1/drip_0.8.1_windows_arm64.tar.gz",
             "hash": "4b5d2738d3fb4bf73e9d54755069b3caa6414b898eac031909c056e50527663b"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Gouryella/drip/releases/download/v$version/drip_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Gouryella/drip/releases/download/v$version/drip_$version_windows_amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Gouryella/drip/releases/download/v$version/drip_$version_windows_386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Gouryella/drip/releases/download/v$version/drip_$version_windows_386.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Gouryella/drip/releases/download/v$version/drip_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Gouryella/drip/releases/download/v$version/drip_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

@@ -24,7 +24,7 @@
             "mingw"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/zrax/pycdc/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/zrax/pycdc/archive/refs/heads/master.zip",
     "hash": "sha256:fede7674cd7d6aa990b3917a6a134169f69ed76b8d9db366edc0b3d7951ed6f2",
     "extract_dir": "pycdc-master",
     "installer": {
@@ -60,7 +60,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/zrax/pycdc/archive/refs/heads/master.zip",
+        "url": "https://gh-proxy.org/https://github.com/zrax/pycdc/archive/refs/heads/master.zip",
         "extract_dir": "pycdc-master"
     },
     "post_install": [

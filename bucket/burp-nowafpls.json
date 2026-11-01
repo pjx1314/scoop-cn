@@ -14,7 +14,7 @@
             "temurin17-jdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/assetnote/nowafpls/raw/main/nowafpls.py#/nowafpls.py",
+    "url": "https://gh-proxy.org/https://github.com/assetnote/nowafpls/raw/main/nowafpls.py#/nowafpls.py",
     "hash": "b9edfb054da26139569c25b0ae278127f72906b420c57b435417433d3de600f4",
     "checkver": {
         "url": "https://api.github.com/repos/assetnote/nowafpls/commits",
@@ -22,9 +22,9 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/assetnote/nowafpls/raw/main/nowafpls.py#/nowafpls.py",
+        "url": "https://gh-proxy.org/https://github.com/assetnote/nowafpls/raw/main/nowafpls.py#/nowafpls.py",
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/assetnote/nowafpls/raw/main/nowafpls.py",
+            "url": "https://gh-proxy.org/https://github.com/assetnote/nowafpls/raw/main/nowafpls.py",
             "type": "sha256"
         }
     }

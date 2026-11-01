@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/binwiederhier/ntfy/releases/download/v2.36.0/ntfy_2.36.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/binwiederhier/ntfy/releases/download/v2.36.0/ntfy_2.36.0_windows_amd64.zip",
             "hash": "99d8f2a0cf8ad975025a52d09b3479287e52f315a51fcd5e26d32a163f170567",
             "extract_dir": "ntfy_2.36.0_windows_amd64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/binwiederhier/ntfy/releases/download/v$version/ntfy_$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/binwiederhier/ntfy/releases/download/v$version/ntfy_$version_windows_amd64.zip",
                 "extract_dir": "ntfy_$version_windows_amd64"
             }
         },

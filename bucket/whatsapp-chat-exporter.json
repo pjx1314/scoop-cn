@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/0.13.1/wtsexporter_win_arm64.exe#/wtsexporter.exe",
+            "url": "https://gh-proxy.org/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/0.13.1/wtsexporter_win_arm64.exe#/wtsexporter.exe",
             "hash": "28ba05a5f7f2cf9d24a9eddafe50d79e2222df5703926dbaf3488b2f0d06e4c3"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/0.13.1/wtsexporter_win_arm64.exe#/wtsexporter.exe",
+            "url": "https://gh-proxy.org/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/0.13.1/wtsexporter_win_arm64.exe#/wtsexporter.exe",
             "hash": "28ba05a5f7f2cf9d24a9eddafe50d79e2222df5703926dbaf3488b2f0d06e4c3"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/$version/wtsexporter_win_arm64.exe#/wtsexporter.exe"
+                "url": "https://gh-proxy.org/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/$version/wtsexporter_win_arm64.exe#/wtsexporter.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/$version/wtsexporter_win_arm64.exe#/wtsexporter.exe"
+                "url": "https://gh-proxy.org/https://github.com/KnugiHK/WhatsApp-Chat-Exporter/releases/download/$version/wtsexporter_win_arm64.exe#/wtsexporter.exe"
             }
         }
     }

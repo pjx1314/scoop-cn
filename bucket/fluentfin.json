@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/insomniachi/FluentFin/releases/download/0.3.7/FluentFin.exe#/dl.exe",
+            "url": "https://gh-proxy.org/https://github.com/insomniachi/FluentFin/releases/download/0.3.7/FluentFin.exe#/dl.exe",
             "hash": "e6e693fe0104ddfc07cf49ffbc6621cf3236c4f55b2ef3d14cb2b04ea8d8e36e"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/insomniachi/FluentFin/releases/download/$version/FluentFin.exe#/dl.exe"
+                "url": "https://gh-proxy.org/https://github.com/insomniachi/FluentFin/releases/download/$version/FluentFin.exe#/dl.exe"
             }
         }
     }

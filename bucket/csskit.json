@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/csskit/csskit/releases/download/v0.0.36/csskit-win32-x64.exe#/csskit.exe",
+            "url": "https://gh-proxy.org/https://github.com/csskit/csskit/releases/download/v0.0.36/csskit-win32-x64.exe#/csskit.exe",
             "hash": "4573e3ebd19c784b7f5847975a722248c92a26eb89be46829592c6c025cd573f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/csskit/csskit/releases/download/v0.0.36/csskit-win32-arm64.exe#/csskit.exe",
+            "url": "https://gh-proxy.org/https://github.com/csskit/csskit/releases/download/v0.0.36/csskit-win32-arm64.exe#/csskit.exe",
             "hash": "2cb2e183b40ce7f82341acbe5f5c857b48f52fd5651d12d4e1062da8058aff2c"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/csskit/csskit/releases/download/v$version/csskit-win32-x64.exe#/csskit.exe"
+                "url": "https://gh-proxy.org/https://github.com/csskit/csskit/releases/download/v$version/csskit-win32-x64.exe#/csskit.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/csskit/csskit/releases/download/v$version/csskit-win32-arm64.exe#/csskit.exe"
+                "url": "https://gh-proxy.org/https://github.com/csskit/csskit/releases/download/v$version/csskit-win32-arm64.exe#/csskit.exe"
             }
         }
     }

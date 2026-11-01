@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bostrot/wsl2-distro-manager/releases/download/v2.5.0/wsl2-distro-manager-v2.5.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/bostrot/wsl2-distro-manager/releases/download/v2.5.0/wsl2-distro-manager-v2.5.0.zip",
             "hash": "a4655776912bd135e32bf7f8e9d27c39554bf91a0c5a57f8fff79686cf6de1fc"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bostrot/wsl2-distro-manager/releases/download/v$version/wsl2-distro-manager-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/bostrot/wsl2-distro-manager/releases/download/v$version/wsl2-distro-manager-v$version.zip"
             }
         }
     }

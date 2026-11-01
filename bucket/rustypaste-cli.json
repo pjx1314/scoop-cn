@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/orhun/rustypaste-cli/releases/download/v0.10.0/rustypaste-cli-0.10.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/orhun/rustypaste-cli/releases/download/v0.10.0/rustypaste-cli-0.10.0-x86_64-pc-windows-msvc.zip",
             "hash": "e104cb393f7bb61ab2fa0a7b2dc7222f47dc9b3cfa14d61aa2d302f01e8c08cd"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/orhun/rustypaste-cli/releases/download/v0.10.0/rustypaste-cli-0.10.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/orhun/rustypaste-cli/releases/download/v0.10.0/rustypaste-cli-0.10.0-i686-pc-windows-msvc.zip",
             "hash": "eaae30ec26b83c988b479b45e764ea452eb50a73ec5e047d2b61d10114437cb5"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/orhun/rustypaste-cli/releases/download/v$version/rustypaste-cli-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/orhun/rustypaste-cli/releases/download/v$version/rustypaste-cli-$version-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/orhun/rustypaste-cli/releases/download/v$version/rustypaste-cli-$version-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/orhun/rustypaste-cli/releases/download/v$version/rustypaste-cli-$version-i686-pc-windows-msvc.zip"
             }
         },
         "extract_dir": "rustypaste-cli-$version"

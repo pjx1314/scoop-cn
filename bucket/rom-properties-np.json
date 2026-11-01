@@ -7,7 +7,7 @@
         "url": "https://github.com/GerbilSoft/rom-properties/blob/HEAD/LICENSE"
     },
     "depends": "main/vcredist2022",
-    "url": "https://gh-proxy.com/https://github.com/GerbilSoft/rom-properties/releases/download/v2.9/SetupRomProperties-2.9.exe",
+    "url": "https://gh-proxy.org/https://github.com/GerbilSoft/rom-properties/releases/download/v2.9/SetupRomProperties-2.9.exe",
     "hash": "0162f4e5a20df6d4089e09cb9696e2faab496d0d82c7744105b6f0f27f162923",
     "architecture": {
         "64bit": {
@@ -64,6 +64,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/GerbilSoft/rom-properties/releases/download/v$version/SetupRomProperties-$version.exe"
+        "url": "https://gh-proxy.org/https://github.com/GerbilSoft/rom-properties/releases/download/v$version/SetupRomProperties-$version.exe"
     }
 }

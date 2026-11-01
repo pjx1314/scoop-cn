@@ -6,7 +6,7 @@
     "changelog": "https://github.com/flyingpie/windows-terminal-quake/releases",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/flyingpie/windows-terminal-quake/releases/download/vHorizontalAlignRemember/win-x64_self-contained.zip",
+            "url": "https://gh-proxy.org/https://github.com/flyingpie/windows-terminal-quake/releases/download/vHorizontalAlignRemember/win-x64_self-contained.zip",
             "hash": "12978fe9e5348c6b76ad4ba765640e37394229b06905d7093f54c65f571c31a5"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/flyingpie/windows-terminal-quake/releases/download/v$matchMain/win-x64_self-contained.zip"
+                "url": "https://gh-proxy.org/https://github.com/flyingpie/windows-terminal-quake/releases/download/v$matchMain/win-x64_self-contained.zip"
             }
         }
     },

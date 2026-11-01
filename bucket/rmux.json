@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Helvesec/rmux/releases/download/v0.10.0/rmux-0.10.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Helvesec/rmux/releases/download/v0.10.0/rmux-0.10.0-windows-x86_64.zip",
             "extract_dir": "rmux-0.10.0-windows-x86_64",
             "hash": "e315e2d51d927ba9621732812c0f932c862d05f4b677dbf3cab76f0d27372a70"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Helvesec/rmux/releases/download/v$version/rmux-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/Helvesec/rmux/releases/download/v$version/rmux-$version-windows-x86_64.zip",
                 "extract_dir": "rmux-$version-windows-x86_64"
             }
         },

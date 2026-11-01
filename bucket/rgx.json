@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-pc-windows-msvc.zip",
             "hash": "19c55052f7c2702de746fb997e2553380db4b02df6431b06ebe45408438855fe"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/brevity1swos/rgx/releases/download/v$version/rgx-cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/brevity1swos/rgx/releases/download/v$version/rgx-cli-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

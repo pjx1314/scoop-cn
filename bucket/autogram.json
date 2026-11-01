@@ -5,7 +5,7 @@
     "license": "EUPL-1.2",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/slovensko-digital/autogram/releases/download/v2.8.3/autogram-2.8.3-windows.msi",
+            "url": "https://gh-proxy.org/https://github.com/slovensko-digital/autogram/releases/download/v2.8.3/autogram-2.8.3-windows.msi",
             "hash": "cfd4529fb5b07b22042005dc5d47647a94a5d1f9da8b799a19f58085eb8606c1"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/slovensko-digital/autogram/releases/download/v$version/autogram-$version-windows.msi"
+                "url": "https://gh-proxy.org/https://github.com/slovensko-digital/autogram/releases/download/v$version/autogram-$version-windows.msi"
             }
         }
     }

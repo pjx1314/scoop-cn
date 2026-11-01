@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/avencera/rustywind/releases/download/v0.28.0/rustywind-v0.28.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/avencera/rustywind/releases/download/v0.28.0/rustywind-v0.28.0-x86_64-pc-windows-msvc.zip",
             "hash": "db979e50246bc60d36832c0e37f3921abe0deadf7e00e2bf16bfc9cd175f3458"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/avencera/rustywind/releases/download/v0.28.0/rustywind-v0.28.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/avencera/rustywind/releases/download/v0.28.0/rustywind-v0.28.0-i686-pc-windows-msvc.zip",
             "hash": "55306fe41258f3fc0328c26dbf4d0eee2c04e55b126e919d58c3133ff3ee0e51"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/avencera/rustywind/releases/download/v$version/rustywind-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/avencera/rustywind/releases/download/v$version/rustywind-v$version-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/avencera/rustywind/releases/download/v$version/rustywind-v$version-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/avencera/rustywind/releases/download/v$version/rustywind-v$version-i686-pc-windows-msvc.zip"
             }
         }
     }

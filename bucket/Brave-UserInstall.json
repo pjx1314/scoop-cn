@@ -9,15 +9,15 @@
     "changelog": "https://brave.com/latest/",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetup.exe#/setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetup.exe#/setup.exe",
             "hash": "6c139a6915432e72b626ce8566865f12854f744310c19543c498ecfd87d5cffa"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe",
             "hash": "22c8976a509077a00ccb94e884a248fea706651b238b0e0b2864997ba965c656"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetupArm64.exe#/setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetupArm64.exe#/setup.exe",
             "hash": "32667e51f64e6c2a671747d8d281f219515a18295e4221f13847e4bef3cfbeaa"
         }
     },
@@ -60,13 +60,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup.exe#/setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup.exe#/setup.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetupArm64.exe#/setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetupArm64.exe#/setup.exe"
             }
         },
         "hash": {

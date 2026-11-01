@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/qufei1993/skills-hub/releases/download/v1.0.1/Skills-Hub-v1.0.1-Windows-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/qufei1993/skills-hub/releases/download/v1.0.1/Skills-Hub-v1.0.1-Windows-x64.exe#/dl.7z",
             "hash": "3fa4d76de279874628231974a2bae1832cdbcf31ee703280b2eaa53c978ac1b8"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/qufei1993/skills-hub/releases/download/v$version/Skills-Hub-v$version-Windows-x64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/qufei1993/skills-hub/releases/download/v$version/Skills-Hub-v$version-Windows-x64.exe#/dl.7z",
                 "hash": {
                     "url": "https://api.github.com/repos/qufei1993/skills-hub/releases/tags/v$version",
                     "regex": "\"name\":\"Skills-Hub-v$version-Windows-x64\\.exe\".*?\"digest\":\"sha256:([a-f0-9]+)\""

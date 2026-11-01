@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/almandin/fuxploider/archive/refs/tags/v1.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/almandin/fuxploider/archive/refs/tags/v1.0.zip",
     "hash": "ec60d78cc17f3145d4da0fb6836a0ce169442aa22b9431e531f8df1ae4d96a71",
     "extract_dir": "fuxploider-1.0",
     "pre_install": [
@@ -21,7 +21,7 @@
     "bin": "fuxploider.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/almandin/fuxploider/archive/refs/tags/v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/almandin/fuxploider/archive/refs/tags/v$version.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

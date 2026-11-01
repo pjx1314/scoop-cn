@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win64_portable_0.06_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win64_portable_0.06_x64.zip",
             "hash": "3bae56f8792a852f6ea54b52c7daeb626d94260573cb8db4901952126b0ae448"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win32_portable_0.06_x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win32_portable_0.06_x86.zip",
             "hash": "ee8ae8b52589990f4afe5b6369c9189f5b57356d78181169d91371b2e9853f09"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win64_portable_$matchMain_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win64_portable_$matchMain_x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win32_portable_$matchMain_x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/XPEViewer/releases/download/Beta/xpeviewer_win32_portable_$matchMain_x86.zip"
             }
         }
     }

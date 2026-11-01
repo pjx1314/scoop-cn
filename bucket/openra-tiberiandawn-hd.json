@@ -6,7 +6,7 @@
     "notes": "Requires separate installation of C&C Remastered Collection",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenRA/TiberianDawnHD/releases/download/playtest-20261026/TiberianDawnHD-playtest-20261026-x64-winportable.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenRA/TiberianDawnHD/releases/download/playtest-20261026/TiberianDawnHD-playtest-20261026-x64-winportable.zip",
             "hash": "f77a454a137734f215e46bf4626ba48a8ee124d80659f3574d523419d449b479"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenRA/TiberianDawnHD/releases/download/$matchPrefix$version/TiberianDawnHD-$matchPrefix$matchDigits-x64-winportable.zip"
+                "url": "https://gh-proxy.org/https://github.com/OpenRA/TiberianDawnHD/releases/download/$matchPrefix$version/TiberianDawnHD-$matchPrefix$matchDigits-x64-winportable.zip"
             }
         }
     }

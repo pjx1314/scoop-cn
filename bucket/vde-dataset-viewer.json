@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/defineEditor/vde-dataset-viewer/releases/download/v0.7.0/vde-dataset-viewer.0.7.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/defineEditor/vde-dataset-viewer/releases/download/v0.7.0/vde-dataset-viewer.0.7.0.exe#/dl.7z",
             "hash": "6059e879d66d27f194261ad8d60fc958d6159a7ac99d6397c465c02c55aea27e",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" | Out-Null"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/defineEditor/vde-dataset-viewer/releases/download/v$version/vde-dataset-viewer.$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/defineEditor/vde-dataset-viewer/releases/download/v$version/vde-dataset-viewer.$version.exe#/dl.7z"
             }
         }
     }

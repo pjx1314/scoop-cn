@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/CllmsyK/YYBaby-Spring_Scan/releases/download/YYBaby_v1.1/YYBaby_v1.1_Spring_Scan.jar",
+    "url": "https://gh-proxy.org/https://github.com/CllmsyK/YYBaby-Spring_Scan/releases/download/YYBaby_v1.1/YYBaby_v1.1_Spring_Scan.jar",
     "hash": "sha256:2016d036d59d160d8b6acdbe69987e9c50635ea09de7311816ea5a157c76479c",
     "pre_install": [
         "Set-Content \"$dir\\YYBaby-Spring_Scan.bat\" '@pushd %~dp0",
@@ -35,6 +35,6 @@
         "regex": "YYBaby_v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/CllmsyK/YYBaby-Spring_Scan/releases/download/YYBaby_v$version/YYBaby_v$version_Spring_Scan.jar"
+        "url": "https://gh-proxy.org/https://github.com/CllmsyK/YYBaby-Spring_Scan/releases/download/YYBaby_v$version/YYBaby_v$version_Spring_Scan.jar"
     }
 }

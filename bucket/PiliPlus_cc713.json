@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_windows_2.1.6%2B5472_x64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_windows_2.1.6%2B5472_x64_portable.zip",
             "hash": "4039f2a9b3041e23412931c7808aed08814286dfe44de1983c576e5e46a738bb"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/$version/PiliPlus_windows_$matchA_x64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/$version/PiliPlus_windows_$matchA_x64_portable.zip"
             }
         }
     }

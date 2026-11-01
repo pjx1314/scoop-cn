@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/Gopeed-v2.0.0-beta.3-windows-amd64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/Gopeed-v2.0.0-beta.3-windows-amd64-portable.zip",
             "hash": "bd08d7631b4befa55f9e9556077b1b471f53cdeb941a233442fb191f66bb3d72"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/Gopeed-v2.0.0-beta.3-windows-arm64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/Gopeed-v2.0.0-beta.3-windows-arm64-portable.zip",
             "hash": "2ecdf0d356db57a37ddde19f33edb75031488e2860393d76d659edafa259173b"
         }
     },
@@ -67,10 +67,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/$version/Gopeed-$matchA-windows-amd64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/$version/Gopeed-$matchA-windows-amd64-portable.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/$version/Gopeed-$matchA-windows-arm64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/$version/Gopeed-$matchA-windows-arm64-portable.zip"
             }
         }
     }

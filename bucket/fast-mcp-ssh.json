@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/klNuno/fast-mcp-ssh/releases/download/v0.5.1/fast-mcp-ssh-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/klNuno/fast-mcp-ssh/releases/download/v0.5.1/fast-mcp-ssh-x86_64-pc-windows-msvc.zip",
             "hash": "fa079865dd3c1525d18181f2119346ac0bc15d32ce1f05d34f25fb76308d078b"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/klNuno/fast-mcp-ssh/releases/download/v$version/fast-mcp-ssh-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/klNuno/fast-mcp-ssh/releases/download/v$version/fast-mcp-ssh-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

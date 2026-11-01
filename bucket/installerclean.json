@@ -6,7 +6,7 @@
     "notes": "Requires administrator privileges to access C:\\Windows\\Installer.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/no-faff/InstallerClean/releases/download/v3.5.0/InstallerClean-portable.exe",
+            "url": "https://gh-proxy.org/https://github.com/no-faff/InstallerClean/releases/download/v3.5.0/InstallerClean-portable.exe",
             "hash": "b8e2eb8368145dcaafd1d2d412205c3dfa04646e7dd286dd6f2efd4787004559"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/no-faff/InstallerClean/releases/download/v$version/InstallerClean-portable.exe"
+                "url": "https://gh-proxy.org/https://github.com/no-faff/InstallerClean/releases/download/v$version/InstallerClean-portable.exe"
             }
         }
     }

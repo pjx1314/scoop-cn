@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-pc-windows-msvc.zip",
             "hash": "79179284f816febc281adbedb27189806cf22f83e8be4d0fca6835fbeeb09587"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/getzola/zola/releases/download/v$version/zola-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/getzola/zola/releases/download/v$version/zola-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

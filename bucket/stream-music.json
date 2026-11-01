@@ -6,7 +6,7 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9.3.msix#/stream_music.msix",
+            "url": "https://gh-proxy.org/https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9.3.msix#/stream_music.msix",
             "hash": "c6a886dc93a2002b3565dde4212cc5acd2fd5f57da614007490a70fb9d894e41"
         }
     },
@@ -80,7 +80,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gitbobobo/StreamMusic/releases/download/v$version/musiver_$matchFull.msix#/stream_music.msix"
+                "url": "https://gh-proxy.org/https://github.com/gitbobobo/StreamMusic/releases/download/v$version/musiver_$matchFull.msix#/stream_music.msix"
             }
         }
     }

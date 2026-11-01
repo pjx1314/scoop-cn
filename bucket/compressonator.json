@@ -9,7 +9,7 @@
 	"extract_dir": "compressonatorcli-4.6.0-win64",
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/GPUOpen-Tools/compressonator/releases/download/V4.6.0/compressonatorcli-4.6.0-win64.zip",
+			"url": "https://gh-proxy.org/https://github.com/GPUOpen-Tools/compressonator/releases/download/V4.6.0/compressonatorcli-4.6.0-win64.zip",
 			"hash": "6fb42c9b7de0bd0f626bea8a17975a343f3cde7a5ef57a754582eb59b18543d5"
 		}
 	},
@@ -18,7 +18,7 @@
 		"extract_dir": "compressonatorcli-$version-win64",
 		"architecture": {
 			"64bit": {
-				"url": "https://gh-proxy.com/https://github.com/GPUOpen-Tools/compressonator/releases/download/V$version/compressonatorcli-$version-win64.zip"
+				"url": "https://gh-proxy.org/https://github.com/GPUOpen-Tools/compressonator/releases/download/V$version/compressonatorcli-$version-win64.zip"
 			}
 		}
 	},

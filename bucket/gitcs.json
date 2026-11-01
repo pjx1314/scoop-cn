@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/knbr13/gitcs/releases/download/v1.2.2/gitcs_windows_amd64.exe#/gitcs.exe",
+            "url": "https://gh-proxy.org/https://github.com/knbr13/gitcs/releases/download/v1.2.2/gitcs_windows_amd64.exe#/gitcs.exe",
             "hash": "ef07fb767a286ba6076c25ba55ed03a203fe3bf206ad5a3fbe56dd8c41c79898"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/knbr13/gitcs/releases/download/v1.2.2/gitcs_windows_386.exe#/gitcs.exe",
+            "url": "https://gh-proxy.org/https://github.com/knbr13/gitcs/releases/download/v1.2.2/gitcs_windows_386.exe#/gitcs.exe",
             "hash": "66cc1d846e349d551e4055c08b17abd9a6af5dc41c087a33dcf97705e6529b63"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/knbr13/gitcs/releases/download/v$version/gitcs_windows_amd64.exe#/gitcs.exe"
+                "url": "https://gh-proxy.org/https://github.com/knbr13/gitcs/releases/download/v$version/gitcs_windows_amd64.exe#/gitcs.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/knbr13/gitcs/releases/download/v$version/gitcs_windows_386.exe#/gitcs.exe"
+                "url": "https://gh-proxy.org/https://github.com/knbr13/gitcs/releases/download/v$version/gitcs_windows_386.exe#/gitcs.exe"
             }
         }
     }

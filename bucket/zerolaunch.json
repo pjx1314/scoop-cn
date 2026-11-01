@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v1.5.3/ZeroLaunch-portable-1.5.3-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v1.5.3/ZeroLaunch-portable-1.5.3-x64.zip",
             "hash": "74e06a01c43a679042897e825563e0d7c98fd9a137f8a0f3dbac28d777dc61cc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v1.5.3/ZeroLaunch-portable-1.5.3-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v1.5.3/ZeroLaunch-portable-1.5.3-arm64.zip",
             "hash": "0d750a3df24d51152e1737119b7d85c71963e9743974e35688b62174b7fbe6b2"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v$version/ZeroLaunch-portable-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v$version/ZeroLaunch-portable-$version-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v$version/ZeroLaunch-portable-$version-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ghost-him/ZeroLaunch-rs/releases/download/v$version/ZeroLaunch-portable-$version-arm64.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/projectdiscovery/subfinder/releases/download/v2.17.0/subfinder_2.17.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/subfinder/releases/download/v2.17.0/subfinder_2.17.0_windows_386.zip",
             "hash": "ee46e9177013b45ccef3f848ac55209e0c5a6c669b5c0735b0dbb4c671fbcc5a"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/projectdiscovery/subfinder/releases/download/v2.17.0/subfinder_2.17.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/subfinder/releases/download/v2.17.0/subfinder_2.17.0_windows_amd64.zip",
             "hash": "a3fd612928d591fb31c1e59a2e06055e364421ba32251e553073f5673a2d3103"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/projectdiscovery/subfinder/releases/download/v$version/subfinder_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/subfinder/releases/download/v$version/subfinder_$version_windows_386.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/projectdiscovery/subfinder/releases/download/v$version/subfinder_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/subfinder/releases/download/v$version/subfinder_$version_windows_amd64.zip"
             }
         }
     }

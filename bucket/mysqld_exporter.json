@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/mysqld_exporter/releases/download/v0.21.0/mysqld_exporter-0.21.0.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/mysqld_exporter/releases/download/v0.21.0/mysqld_exporter-0.21.0.windows-amd64.tar.gz",
             "hash": "55c43fb114192c0f328110db4a5ee23e42be61d427cc839dd3195b813036476d",
             "extract_dir": "mysqld_exporter-0.21.0.windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/mysqld_exporter/releases/download/v0.21.0/mysqld_exporter-0.21.0.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/mysqld_exporter/releases/download/v0.21.0/mysqld_exporter-0.21.0.windows-386.tar.gz",
             "hash": "896b72c0b89fe6d89531c666e53bbfb09f7a4a004ec4a1249e697bb6ba5b891a",
             "extract_dir": "mysqld_exporter-0.21.0.windows-386"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/mysqld_exporter/releases/download/v$version/mysqld_exporter-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/mysqld_exporter/releases/download/v$version/mysqld_exporter-$version.windows-amd64.tar.gz",
                 "extract_dir": "mysqld_exporter-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/mysqld_exporter/releases/download/v$version/mysqld_exporter-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/mysqld_exporter/releases/download/v$version/mysqld_exporter-$version.windows-386.tar.gz",
                 "extract_dir": "mysqld_exporter-$version.windows-386"
             }
         },

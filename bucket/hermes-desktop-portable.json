@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-portable.exe#/hermes-desktop.exe",
+            "url": "https://gh-proxy.org/https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-portable.exe#/hermes-desktop.exe",
             "hash": "b1d2fe99ee3596a2ff85f45316091462b309a4c8b425ceb68fec838d94b69007"
         }
     },
@@ -19,7 +19,7 @@
         "github": "https://github.com/fathah/hermes-desktop"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/fathah/hermes-desktop/releases/download/v$version/hermes-desktop-$version-portable.exe#/hermes-desktop.exe",
+        "url": "https://gh-proxy.org/https://github.com/fathah/hermes-desktop/releases/download/v$version/hermes-desktop-$version-portable.exe#/hermes-desktop.exe",
         "hash": {
             "mode": "extract",
             "url": "https://github.com/fathah/hermes-desktop/releases/expanded_assets/v$version",

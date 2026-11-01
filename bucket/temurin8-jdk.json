@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jdk_x64_windows_hotspot_8u504b01.zip",
+            "url": "https://gh-proxy.org/https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jdk_x64_windows_hotspot_8u504b01.zip",
             "hash": "ea43d46ede95b51e44a12c66711706cddc762e0a766c54bccea18954e902b2aa"
         }
     },

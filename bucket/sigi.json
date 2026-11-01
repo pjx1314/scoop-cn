@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sigi-cli/sigi/releases/download/v3.8.0/sigi_v3.8.0_x86_64-pc-windows-gnu.zip",
+            "url": "https://gh-proxy.org/https://github.com/sigi-cli/sigi/releases/download/v3.8.0/sigi_v3.8.0_x86_64-pc-windows-gnu.zip",
             "hash": "372bd8e819a08d490b90f070211514a76a208cbe5cbf0b4386662cc7dd32ff95"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sigi-cli/sigi/releases/download/v$version/sigi_v$version_x86_64-pc-windows-gnu.zip"
+                "url": "https://gh-proxy.org/https://github.com/sigi-cli/sigi/releases/download/v$version/sigi_v$version_x86_64-pc-windows-gnu.zip"
             }
         },
         "hash": {

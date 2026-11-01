@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v1.1.11/trusttunnel_client-v1.1.11-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v1.1.11/trusttunnel_client-v1.1.11-windows-x86_64.zip",
             "hash": "c6db992c1164abef1a19a8289173be23d87c6f8c039360dbe9b7fdef89a9e526"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v1.1.11/trusttunnel_client-v1.1.11-windows-i686.zip",
+            "url": "https://gh-proxy.org/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v1.1.11/trusttunnel_client-v1.1.11-windows-i686.zip",
             "hash": "f464c2fdd6ac5cc79865ba7502152c456ff366e8f533e28d23c6241b3f57945f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v1.1.11/trusttunnel_client-v1.1.11-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v1.1.11/trusttunnel_client-v1.1.11-windows-aarch64.zip",
             "hash": "8c6b3ad5d90db795e4f00f9545076c06c2bbd8d673c9888b8169bf460d658a85"
         }
     },
@@ -46,13 +46,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v$version/trusttunnel_client-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v$version/trusttunnel_client-v$version-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v$version/trusttunnel_client-v$version-windows-i686.zip"
+                "url": "https://gh-proxy.org/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v$version/trusttunnel_client-v$version-windows-i686.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v$version/trusttunnel_client-v$version-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/TrustTunnel/TrustTunnelClient/releases/download/v$version/trusttunnel_client-v$version-windows-aarch64.zip"
             }
         }
     }

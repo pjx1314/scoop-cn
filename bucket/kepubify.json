@@ -11,9 +11,9 @@
                 "kepubify-seriesmeta.exe"
             ],
             "url": [
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/kepubify-windows-64bit.exe#/kepubify.exe",
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/covergen-windows-64bit.exe#/kepubify-covergen.exe",
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/seriesmeta-windows-64bit.exe#/kepubify-seriesmeta.exe"
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/kepubify-windows-64bit.exe#/kepubify.exe",
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/covergen-windows-64bit.exe#/kepubify-covergen.exe",
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/seriesmeta-windows-64bit.exe#/kepubify-seriesmeta.exe"
             ],
             "hash": [
                 "f3dee3ece063329661fef474262fe403812335bf1676eab35b672565bf195738",
@@ -23,8 +23,8 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/kepubify-windows-32bit.exe#/kepubify.exe",
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/covergen-windows-32bit.exe#/kepubify-covergen.exe"
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/kepubify-windows-32bit.exe#/kepubify.exe",
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/covergen-windows-32bit.exe#/kepubify-covergen.exe"
             ],
             "hash": [
                 "5aa6be67f468e50e1b552a2eb1d1ac1afc375d1e7cb359e344f2e71d2dacdefb",
@@ -33,8 +33,8 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/kepubify-windows-arm64.exe#/kepubify.exe",
-                "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/covergen-windows-arm64.exe#/kepubify-covergen.exe"
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/kepubify-windows-arm64.exe#/kepubify.exe",
+                "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v4.0.4/covergen-windows-arm64.exe#/kepubify-covergen.exe"
             ],
             "hash": [
                 "0111c0896c4a82b5ba431768e42870993c8fa44225b10d79691fadf013d13565",
@@ -51,21 +51,21 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/kepubify-windows-64bit.exe#/kepubify.exe",
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/covergen-windows-64bit.exe#/kepubify-covergen.exe",
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/seriesmeta-windows-64bit.exe#/kepubify-seriesmeta.exe"
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/kepubify-windows-64bit.exe#/kepubify.exe",
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/covergen-windows-64bit.exe#/kepubify-covergen.exe",
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/seriesmeta-windows-64bit.exe#/kepubify-seriesmeta.exe"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/kepubify-windows-32bit.exe#/kepubify.exe",
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/covergen-windows-32bit.exe#/kepubify-covergen.exe"
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/kepubify-windows-32bit.exe#/kepubify.exe",
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/covergen-windows-32bit.exe#/kepubify-covergen.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/kepubify-windows-arm64.exe#/kepubify.exe",
-                    "https://gh-proxy.com/https://github.com/pgaskin/kepubify/releases/download/v$version/covergen-windows-arm64.exe#/kepubify-covergen.exe"
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/kepubify-windows-arm64.exe#/kepubify.exe",
+                    "https://gh-proxy.org/https://github.com/pgaskin/kepubify/releases/download/v$version/covergen-windows-arm64.exe#/kepubify-covergen.exe"
                 ]
             }
         }

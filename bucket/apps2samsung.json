@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.1.0/Apps2Samsung-v3.1.0-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.1.0/Apps2Samsung-v3.1.0-win-x64.zip",
             "hash": "0efc9ea31562d3711a2618d095ece9ae80c04a4f8179eb8ef37834866e3f0321"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v$version/Apps2Samsung-v$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v$version/Apps2Samsung-v$version-win-x64.zip"
             }
         }
     }

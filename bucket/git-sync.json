@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/AkashRajpurohit/git-sync/releases/download/v0.21.0/git-sync_0.21.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/AkashRajpurohit/git-sync/releases/download/v0.21.0/git-sync_0.21.0_windows_amd64.zip",
             "hash": "f776bc45d013d06e0c51d7311e23e8bd6b80aad1905d8998df903835d9751f2a"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/AkashRajpurohit/git-sync/releases/download/v0.21.0/git-sync_0.21.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/AkashRajpurohit/git-sync/releases/download/v0.21.0/git-sync_0.21.0_windows_386.zip",
             "hash": "661787e1ece8bea8861047ba31f49ee61bd00a3d728ca12c95a75334385d8185"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/AkashRajpurohit/git-sync/releases/download/v$version/git-sync_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/AkashRajpurohit/git-sync/releases/download/v$version/git-sync_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/AkashRajpurohit/git-sync/releases/download/v$version/git-sync_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/AkashRajpurohit/git-sync/releases/download/v$version/git-sync_$version_windows_386.zip"
             }
         },
         "hash": {

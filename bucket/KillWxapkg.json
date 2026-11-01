@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/Ackites/KillWxapkg",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/Ackites/KillWxapkg/releases/download/v2.4.1/KillWxapkg_2.4.1_windows_amd64.exe#/KillWxapkg.exe",
+    "url": "https://gh-proxy.org/https://github.com/Ackites/KillWxapkg/releases/download/v2.4.1/KillWxapkg_2.4.1_windows_amd64.exe#/KillWxapkg.exe",
     "hash": "2df29b47d054f320b48ae0797547c201bb2d7e841ab243ffbbb0318e7319f1b0",
     "bin": "KillWxapkg.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Ackites/KillWxapkg/releases/download/v$version/KillWxapkg_$version_windows_amd64.exe#/KillWxapkg.exe"
+        "url": "https://gh-proxy.org/https://github.com/Ackites/KillWxapkg/releases/download/v$version/KillWxapkg_$version_windows_amd64.exe#/KillWxapkg.exe"
     }
 }

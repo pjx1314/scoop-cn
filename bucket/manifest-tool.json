@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/estesp/manifest-tool/releases/download/v2.2.2/binaries-manifest-tool-2.2.2.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/estesp/manifest-tool/releases/download/v2.2.2/binaries-manifest-tool-2.2.2.tar.gz",
             "hash": "bdca525326694849594ab3ba63638fdb664690c9384df947bd3cff943d14736b"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/estesp/manifest-tool/releases/download/v$version/binaries-manifest-tool-$version.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/estesp/manifest-tool/releases/download/v$version/binaries-manifest-tool-$version.tar.gz"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-windows-amd64.tar.gz",
             "hash": "b446c1a48706e3ce79f62773756add55befbbd24072d56c2924d9bf05e115161"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/liqotech/liqo/releases/download/v$version/liqoctl-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/liqotech/liqo/releases/download/v$version/liqoctl-windows-amd64.tar.gz"
             }
         }
     }

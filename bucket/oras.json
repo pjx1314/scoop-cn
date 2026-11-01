@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/oras-project/oras/releases/download/v1.3.6/oras_1.3.6_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/oras-project/oras/releases/download/v1.3.6/oras_1.3.6_windows_amd64.zip",
             "hash": "ec3d19f386d5d2f0892288772d7b242475a05332aafa64b6773378ca771d76d3"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/oras-project/oras/releases/download/v$version/oras_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/oras-project/oras/releases/download/v$version/oras_$version_windows_amd64.zip"
             }
         },
         "hash": {

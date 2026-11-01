@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v2.5.5/xiaohongshu-mcp-windows-amd64.exe#/xiaohongshu-mcp.exe",
-                "https://gh-proxy.com/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v2.5.5/xiaohongshu-login-windows-amd64.exe#/xiaohongshu-login.exe"
+                "https://gh-proxy.org/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v2.5.5/xiaohongshu-mcp-windows-amd64.exe#/xiaohongshu-mcp.exe",
+                "https://gh-proxy.org/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v2.5.5/xiaohongshu-login-windows-amd64.exe#/xiaohongshu-login.exe"
             ],
             "hash": [
                 "cb55674f90c1649c875be9c4cde3af193b02fc34ffc860c40c8d711e6ca53e27",
@@ -28,8 +28,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v$version/xiaohongshu-mcp-windows-amd64.exe#/xiaohongshu-mcp.exe",
-                    "https://gh-proxy.com/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v$version/xiaohongshu-login-windows-amd64.exe#/xiaohongshu-login.exe"
+                    "https://gh-proxy.org/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v$version/xiaohongshu-mcp-windows-amd64.exe#/xiaohongshu-mcp.exe",
+                    "https://gh-proxy.org/https://github.com/xpzouying/xiaohongshu-mcp/releases/download/v$version/xiaohongshu-login-windows-amd64.exe#/xiaohongshu-login.exe"
                 ]
             }
         }

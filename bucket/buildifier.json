@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bazelbuild/buildtools/releases/download/v10.2.0/buildifier-windows-amd64.exe#/buildifier.exe",
+            "url": "https://gh-proxy.org/https://github.com/bazelbuild/buildtools/releases/download/v10.2.0/buildifier-windows-amd64.exe#/buildifier.exe",
             "hash": "ae9b0632ff4bc56607b9c8512716b7fd63371387136005d25e94ec668f89361d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe"
+                "url": "https://gh-proxy.org/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe"
             }
         }
     }

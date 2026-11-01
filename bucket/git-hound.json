@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tillson/git-hound/releases/download/v3.2/git-hound_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tillson/git-hound/releases/download/v3.2/git-hound_windows_amd64.zip",
             "hash": "e65d29a957ee3bf9346a56846d14db2f5182dbe7661ab3815b62b11dfe47571f"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tillson/git-hound/releases/download/v$version/git-hound_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tillson/git-hound/releases/download/v$version/git-hound_windows_amd64.zip"
             }
         },
         "hash": {

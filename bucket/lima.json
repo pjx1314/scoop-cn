@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lima-vm/lima/releases/download/v2.2.1/lima-2.2.1-Windows-AMD64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lima-vm/lima/releases/download/v2.2.1/lima-2.2.1-Windows-AMD64.zip",
             "hash": "34061dd322daa014c03f1cc8bc253be40596835990a3017426bc2189a3fdd75d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/lima-vm/lima/releases/download/v2.2.1/lima-2.2.1-Windows-ARM64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lima-vm/lima/releases/download/v2.2.1/lima-2.2.1-Windows-ARM64.zip",
             "hash": "b7468a6886c768e1bca5569eee1486f1326ea1478b8e6902aebb8f64133cf8bc"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lima-vm/lima/releases/download/v$version/lima-$version-Windows-AMD64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lima-vm/lima/releases/download/v$version/lima-$version-Windows-AMD64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/lima-vm/lima/releases/download/v$version/lima-$version-Windows-ARM64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lima-vm/lima/releases/download/v$version/lima-$version-Windows-ARM64.zip"
             }
         },
         "hash": {

@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/flagqaz/AegisScope",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/flagqaz/AegisScope/releases/download/V2.2.9/AegisScope_V2.2.9.zip#/dl.zip1",
+    "url": "https://gh-proxy.org/https://github.com/flagqaz/AegisScope/releases/download/V2.2.9/AegisScope_V2.2.9.zip#/dl.zip1",
     "hash": "aba6abddd134c5310b29ae2f98e1462f0b208c46138eaa313e1fe897bc13fd15",
     "pre_install": [
         "7z x \"$dir\\dl.zip1\" -o\"$dir\" -y",
@@ -20,6 +20,6 @@
         "regex": "V([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/flagqaz/AegisScope/releases/download/V$version/AegisScope_V$version.zip#/dl.zip1"
+        "url": "https://gh-proxy.org/https://github.com/flagqaz/AegisScope/releases/download/V$version/AegisScope_V$version.zip#/dl.zip1"
     }
 }

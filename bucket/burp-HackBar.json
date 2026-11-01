@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/d3vilbug/HackBar",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/d3vilbug/HackBar/releases/download/2.0/HackBar.jar",
+    "url": "https://gh-proxy.org/https://github.com/d3vilbug/HackBar/releases/download/2.0/HackBar.jar",
     "hash": "603b1eb083b995daa39f5ad907e956f0b8eb015395825e1909a2165e0fe74c94",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/d3vilbug/HackBar/releases/download/$version/HackBar.jar"
+        "url": "https://gh-proxy.org/https://github.com/d3vilbug/HackBar/releases/download/$version/HackBar.jar"
     }
 }

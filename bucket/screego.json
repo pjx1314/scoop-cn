@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/screego/server/releases/download/v1.12.6/screego_1.12.6_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/screego/server/releases/download/v1.12.6/screego_1.12.6_windows_amd64.zip",
             "hash": "0eaa3f4d27add5b8064a5bf1e385cab9b34960598c8afcc44cdcf6bcd734b4b0"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/screego/server/releases/download/v1.12.6/screego_1.12.6_windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/screego/server/releases/download/v1.12.6/screego_1.12.6_windows_i386.zip",
             "hash": "acd54df3fd9048a3439112973e8964ec9db250210a68a53c86e02504f7804ac3"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/screego/server/releases/download/v1.12.6/screego_1.12.6_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/screego/server/releases/download/v1.12.6/screego_1.12.6_windows_arm64.zip",
             "hash": "5d91c4b4f144b6d36dc0a884e24abb93dd3305e85df8a0ffef584218e93ef5a4"
         }
     },
@@ -26,13 +26,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/screego/server/releases/download/v$version/screego_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/screego/server/releases/download/v$version/screego_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/screego/server/releases/download/v$version/screego_$version_windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/screego/server/releases/download/v$version/screego_$version_windows_i386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/screego/server/releases/download/v$version/screego_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/screego/server/releases/download/v$version/screego_$version_windows_arm64.zip"
             }
         }
     }

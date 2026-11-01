@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NapNeko/NapCatQQ-Desktop/releases/download/v3.5.12/NapCatQQ-Desktop-3.5.12-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/NapNeko/NapCatQQ-Desktop/releases/download/v3.5.12/NapCatQQ-Desktop-3.5.12-x64.msi",
             "hash": "f4f5b33e8efb234bfad03f54374794c846e3bd47fac57a83cc450cbd0130fd85",
             "extract_dir": "PFiles64\\NapCatQQ Desktop"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NapNeko/NapCatQQ-Desktop/releases/download/v$version/NapCatQQ-Desktop-$version-x64.msi",
+                "url": "https://gh-proxy.org/https://github.com/NapNeko/NapCatQQ-Desktop/releases/download/v$version/NapCatQQ-Desktop-$version-x64.msi",
                 "extract_dir": "PFiles64\\NapCatQQ Desktop"
             }
         }

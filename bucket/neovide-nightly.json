@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/neovide/neovide/releases/download/nightly/neovide-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/neovide/neovide/releases/download/nightly/neovide-windows-x86_64.zip",
             "hash": "e8ea796375c3bc45248b9f16f205917e93b9174542a273f0e8c300adf9340954"
         }
     },
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/neovide/neovide/releases/download/nightly/neovide-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/neovide/neovide/releases/download/nightly/neovide-windows-x86_64.zip"
             }
         }
     }

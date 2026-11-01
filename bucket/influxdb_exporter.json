@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/influxdb_exporter/releases/download/v0.12.1/influxdb_exporter-0.12.1.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/influxdb_exporter/releases/download/v0.12.1/influxdb_exporter-0.12.1.windows-amd64.tar.gz",
             "hash": "8206b19193721675698736d3aa50926960aeeabb43c53723500992d8748baae7",
             "extract_dir": "influxdb_exporter-0.12.1.windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/influxdb_exporter/releases/download/v0.12.1/influxdb_exporter-0.12.1.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/influxdb_exporter/releases/download/v0.12.1/influxdb_exporter-0.12.1.windows-386.tar.gz",
             "hash": "f3deea2debf545787f1ed538507cc4dfed45e1ce0de14405ab8d7c277fea654b",
             "extract_dir": "influxdb_exporter-0.12.1.windows-386"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/influxdb_exporter/releases/download/v$version/influxdb_exporter-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/influxdb_exporter/releases/download/v$version/influxdb_exporter-$version.windows-amd64.tar.gz",
                 "extract_dir": "influxdb_exporter-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/influxdb_exporter/releases/download/v$version/influxdb_exporter-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/influxdb_exporter/releases/download/v$version/influxdb_exporter-$version.windows-386.tar.gz",
                 "extract_dir": "influxdb_exporter-$version.windows-386"
             }
         },

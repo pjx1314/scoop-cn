@@ -7,7 +7,7 @@
     "hash": "sha512:50a173b9eb0ef193a5754ed94016275633e65aa576f6847ae4fd422e655a8bb27ef3297005750b0a2fc536ef1ce9888bc7b14ea9c2d64f1f3762dfa4f99dbcc1",
     "extract_dir": "apache-activemq-6.4.0",
     "bin": "bin/activemq.bat",
-    "post_install": "Start-Job -ScriptBlock { Invoke-Expression (new-object net.webclient).downloadstring('https://gh-proxy.com/https://raw.githubusercontent.com/zhoujin7/tomato/master/scripts/fix-activemq-classic.ps1') } | Out-Null",
+    "post_install": "Start-Job -ScriptBlock { Invoke-Expression (new-object net.webclient).downloadstring('https://gh-proxy.org/https://raw.githubusercontent.com/zhoujin7/tomato/master/scripts/fix-activemq-classic.ps1') } | Out-Null",
     "suggest": {
         "JDK": [
             "tomcat/oraclejdk8",

@@ -2,7 +2,7 @@
     "homepage": "https://github.com/majorworld/Grid",
     "license": "unknown",
     "version": "3.1.2",
-    "url": "https://gh-proxy.com/https://github.com/majorworld/Grid/releases/download/3.1.2/Grid.exe",
+    "url": "https://gh-proxy.org/https://github.com/majorworld/Grid/releases/download/3.1.2/Grid.exe",
     "hash": "8fb0ec2d90b983bc32bbccf8a31a3d09ffbece7bdf5e1f5af855541c74d53098",
     "bin": "Grid.exe",
     "shortcuts": [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/majorworld/Grid/releases/download/$version/Grid.exe"
+        "url": "https://gh-proxy.org/https://github.com/majorworld/Grid/releases/download/$version/Grid.exe"
     }
 }

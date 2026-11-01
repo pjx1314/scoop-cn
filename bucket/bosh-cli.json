@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cloudfoundry/bosh-cli/releases/download/v7.11.2/bosh-cli-7.11.2-windows-amd64.exe#/bosh.exe",
+            "url": "https://gh-proxy.org/https://github.com/cloudfoundry/bosh-cli/releases/download/v7.11.2/bosh-cli-7.11.2-windows-amd64.exe#/bosh.exe",
             "hash": "1f7c028ba0e980e3939d3911d41ba6c6d0cb13a96242e70d22fca12a1e341df0"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cloudfoundry/bosh-cli/releases/download/v$version/bosh-cli-$version-windows-amd64.exe#/bosh.exe"
+                "url": "https://gh-proxy.org/https://github.com/cloudfoundry/bosh-cli/releases/download/v$version/bosh-cli-$version-windows-amd64.exe#/bosh.exe"
             }
         }
     }

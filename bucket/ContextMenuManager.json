@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Jack251970/ContextMenuManager/releases/download/4.0.0.9/ContextMenuManager.exe",
+            "url": "https://gh-proxy.org/https://github.com/Jack251970/ContextMenuManager/releases/download/4.0.0.9/ContextMenuManager.exe",
             "hash": "78516ece00be50d1f90427df7748d674a87ab9b1c92bf4e96adb3c0d3b2f8b52"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Jack251970/ContextMenuManager/releases/download/$version/ContextMenuManager.exe"
+                "url": "https://gh-proxy.org/https://github.com/Jack251970/ContextMenuManager/releases/download/$version/ContextMenuManager.exe"
             }
         }
     }

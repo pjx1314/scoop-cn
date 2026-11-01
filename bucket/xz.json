@@ -6,7 +6,7 @@
         "identifier": "LGPL-2.1-or-later,GPL-2.0-or-later,GPL-3.0-or-later,Public Domain",
         "url": "https://git.tukaani.org/?p=xz.git;a=blob;f=COPYING"
     },
-    "url": "https://gh-proxy.com/https://github.com/tukaani-project/xz/releases/download/v5.8.4/xz-5.8.4-windows.7z",
+    "url": "https://gh-proxy.org/https://github.com/tukaani-project/xz/releases/download/v5.8.4/xz-5.8.4-windows.7z",
     "hash": "e52e4ba41ff0bc7459a52bbaa303cf6feb9429599189437cec677d9e7cacaf7b",
     "architecture": {
         "64bit": {
@@ -31,6 +31,6 @@
         "regex": "\\n([\\d.]+) \\("
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/tukaani-project/xz/releases/download/v$version/xz-$version-windows.7z"
+        "url": "https://gh-proxy.org/https://github.com/tukaani-project/xz/releases/download/v$version/xz-$version-windows.7z"
     }
 }

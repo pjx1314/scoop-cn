@@ -3,7 +3,7 @@
     "description": "FFDec-MCP - 为 AI 助手提供 SWF 反编译与分析能力的 MCP 服务器",
     "homepage": "https://github.com/sublimnl/ffdecmcp",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/sublimnl/ffdecmcp/archive/refs/heads/main.zip#/ffdecmcp.zip",
+    "url": "https://gh-proxy.org/https://github.com/sublimnl/ffdecmcp/archive/refs/heads/main.zip#/ffdecmcp.zip",
     "hash": "sha256:56CCBBE3E8AF81741039F4BC7863AF878C1BBD72F53698CC00C18E0288620E98",
     "extract_dir": "ffdecmcp-main",
     "suggest": {
@@ -24,7 +24,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sublimnl/ffdecmcp/archive/refs/heads/main.zip#/ffdecmcp.zip"
+        "url": "https://gh-proxy.org/https://github.com/sublimnl/ffdecmcp/archive/refs/heads/main.zip#/ffdecmcp.zip"
     },
     "notes": [
         "【工具类型】: MCP 服务",

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/oll3/bita/releases/download/v0.15.0/bita-v0.15.0-x86_64-pc-windows-msvc.exe#/bita.exe",
+            "url": "https://gh-proxy.org/https://github.com/oll3/bita/releases/download/v0.15.0/bita-v0.15.0-x86_64-pc-windows-msvc.exe#/bita.exe",
             "hash": "d818027d7050917992db97b654288ad97b841062493f61a5705d5dee5fec0f29"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/oll3/bita/releases/download/v$version/bita-v$version-x86_64-pc-windows-msvc.exe#/bita.exe"
+                "url": "https://gh-proxy.org/https://github.com/oll3/bita/releases/download/v$version/bita-v$version-x86_64-pc-windows-msvc.exe#/bita.exe"
             }
         }
     }

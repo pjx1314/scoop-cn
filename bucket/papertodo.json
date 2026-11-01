@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/snownico0722/PaperTodo/releases/download/v3.40/PaperTodo-v3.40-win-x64-self-contained.exe#/PaperTodo.exe",
+            "url": "https://gh-proxy.org/https://github.com/snownico0722/PaperTodo/releases/download/v3.40/PaperTodo-v3.40-win-x64-self-contained.exe#/PaperTodo.exe",
             "hash": "efe334e7cb23437d6623b154ba9a6e79dd1368eb04b6d49b30b82517994836fd"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/snownico0722/PaperTodo/releases/download/v$version/PaperTodo-v$version-win-x64-self-contained.exe#/PaperTodo.exe"
+                "url": "https://gh-proxy.org/https://github.com/snownico0722/PaperTodo/releases/download/v$version/PaperTodo-v$version-win-x64-self-contained.exe#/PaperTodo.exe"
             }
         }
     }

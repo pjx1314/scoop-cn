@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vivictorg/vivictpp/releases/download/v1.3.2/vivictpp-v1.3.2.msi",
+            "url": "https://gh-proxy.org/https://github.com/vivictorg/vivictpp/releases/download/v1.3.2/vivictpp-v1.3.2.msi",
             "hash": "8c477ebc6a6626c3e1deaf47ea3a6d21e9523cd0f70e631ec972e72b4c0cd0a1"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vivictorg/vivictpp/releases/download/v$version/vivictpp-v$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/vivictorg/vivictpp/releases/download/v$version/vivictpp-v$version.msi"
             }
         }
     }

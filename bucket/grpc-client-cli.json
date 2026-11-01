@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vadimi/grpc-client-cli/releases/download/v1.25.1/grpc-client-cli_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vadimi/grpc-client-cli/releases/download/v1.25.1/grpc-client-cli_windows_x86_64.zip",
             "hash": "bddda691b8c0081008f554e4036d8525a4101a3d5d91230a3d75f5303c22cb09"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/vadimi/grpc-client-cli/releases/download/v1.25.1/grpc-client-cli_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vadimi/grpc-client-cli/releases/download/v1.25.1/grpc-client-cli_windows_arm64.zip",
             "hash": "0306d216f69e0c1aa68fc609b4da835913eb91044f158abab56a1c0d4b39ac36"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vadimi/grpc-client-cli/releases/download/v$version/grpc-client-cli_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vadimi/grpc-client-cli/releases/download/v$version/grpc-client-cli_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/vadimi/grpc-client-cli/releases/download/v$version/grpc-client-cli_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vadimi/grpc-client-cli/releases/download/v$version/grpc-client-cli_windows_arm64.zip"
             }
         }
     }

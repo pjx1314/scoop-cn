@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cfcurtis/pdfstitcher/releases/download/v1.2/pdfstitcher.exe",
+            "url": "https://gh-proxy.org/https://github.com/cfcurtis/pdfstitcher/releases/download/v1.2/pdfstitcher.exe",
             "hash": "cad756c58d9fe959a5f2726fde5aaa3d8bfd8a177e6026660d99ef9d0f3881ad"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cfcurtis/pdfstitcher/releases/download/v$version/pdfstitcher.exe"
+                "url": "https://gh-proxy.org/https://github.com/cfcurtis/pdfstitcher/releases/download/v$version/pdfstitcher.exe"
             }
         }
     }

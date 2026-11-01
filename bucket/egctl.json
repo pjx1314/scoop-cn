@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/envoyproxy/gateway/releases/download/v1.9.3/egctl_v1.9.3_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/envoyproxy/gateway/releases/download/v1.9.3/egctl_v1.9.3_windows_amd64.zip",
             "extract_dir": "bin\\windows\\amd64",
             "hash": "2c36e0b2075608da940c76582bbf1366ac471d6345252fa79afc63fb07ea88a5"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/envoyproxy/gateway/releases/download/v$version/egctl_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/envoyproxy/gateway/releases/download/v$version/egctl_v$version_windows_amd64.zip"
             }
         }
     }

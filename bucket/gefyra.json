@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gefyrahq/gefyra/releases/download/2.5.6/gefyra-2.5.6-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gefyrahq/gefyra/releases/download/2.5.6/gefyra-2.5.6-windows-x86_64.zip",
             "hash": "6b36d0795f6da0c0192a274d1fcbca938fd162e9cd0808ba09e154c8551b51d2"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gefyrahq/gefyra/releases/download/$version/gefyra-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/gefyrahq/gefyra/releases/download/$version/gefyra-$version-windows-x86_64.zip"
             }
         }
     }

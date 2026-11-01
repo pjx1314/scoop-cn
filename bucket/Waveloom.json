@@ -7,11 +7,11 @@
     "depends": "main/git",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Menfre01/waveloom/releases/download/v0.9.1/waveloom_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Menfre01/waveloom/releases/download/v0.9.1/waveloom_windows_amd64.zip",
             "hash": "802292127119d85e64073d2adceef0ce5d1236891118d5448b307dec1e97497f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Menfre01/waveloom/releases/download/v0.9.1/waveloom_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Menfre01/waveloom/releases/download/v0.9.1/waveloom_windows_arm64.zip",
             "hash": "12a748545471f43c6b6ac9b3dd982feb45b2c220d3a1c612abf00c9266945491"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Menfre01/waveloom/releases/download/v$version/waveloom_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Menfre01/waveloom/releases/download/v$version/waveloom_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Menfre01/waveloom/releases/download/v$version/waveloom_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Menfre01/waveloom/releases/download/v$version/waveloom_windows_arm64.zip"
             }
         }
     }

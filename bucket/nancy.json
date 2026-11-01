@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sonatype-nexus-community/nancy/releases/download/v2.1.1/nancy-v2.1.1-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sonatype-nexus-community/nancy/releases/download/v2.1.1/nancy-v2.1.1-windows-amd64.zip",
             "hash": "271eeb980106d528b361b3938593c115d85d23012f6b9a8030492c48160990fa"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/sonatype-nexus-community/nancy/releases/download/v2.1.1/nancy-v2.1.1-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/sonatype-nexus-community/nancy/releases/download/v2.1.1/nancy-v2.1.1-windows-386.zip",
             "hash": "be274d93952a8e33a8fdf6fcb051e661239a8af2f7a8061375882f0399ba5b46"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sonatype-nexus-community/nancy/releases/download/v$version/nancy-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sonatype-nexus-community/nancy/releases/download/v$version/nancy-v$version-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/sonatype-nexus-community/nancy/releases/download/v$version/nancy-v$version-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/sonatype-nexus-community/nancy/releases/download/v$version/nancy-v$version-windows-386.zip"
             }
         }
     }

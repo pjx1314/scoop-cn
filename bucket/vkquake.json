@@ -28,7 +28,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Novum/vkQuake/releases/download/1.37.0/vkQuake-1.37.0_windows_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Novum/vkQuake/releases/download/1.37.0/vkQuake-1.37.0_windows_x64.zip",
             "hash": "c2f9a6c591c119681ada626aed029719871790bd8208bbae08b58185b62a7d83"
         }
     },
@@ -76,7 +76,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Novum/vkQuake/releases/download/$version/vkQuake-$matchHead_windows_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Novum/vkQuake/releases/download/$version/vkQuake-$matchHead_windows_x64.zip"
             }
         }
     }

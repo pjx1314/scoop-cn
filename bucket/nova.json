@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FairwindsOps/nova/releases/download/v3.12.2/nova_3.12.2_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/FairwindsOps/nova/releases/download/v3.12.2/nova_3.12.2_windows_amd64.tar.gz",
             "hash": "1f273dc4748330b19b3b0e864f444b1435c107a7684c64d33d57091b793e84c8"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FairwindsOps/nova/releases/download/v$version/nova_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/FairwindsOps/nova/releases/download/v$version/nova_$version_windows_amd64.tar.gz"
             }
         },
         "hash": {

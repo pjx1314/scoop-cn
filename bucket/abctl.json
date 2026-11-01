@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/airbytehq/abctl/releases/download/v0.30.4/abctl-v0.30.4-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/airbytehq/abctl/releases/download/v0.30.4/abctl-v0.30.4-windows-amd64.zip",
             "extract_dir": "abctl-v0.30.4-windows-amd64",
             "hash": "215c59f084d5b8dad4357b36e152353ee95811ee768c3b49c04ba33d566358c2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/airbytehq/abctl/releases/download/v0.30.4/abctl-v0.30.4-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/airbytehq/abctl/releases/download/v0.30.4/abctl-v0.30.4-windows-arm64.zip",
             "extract_dir": "abctl-v0.30.4-windows-arm64",
             "hash": "406147a0aaa3810d47d591b500471e2f479e2b7c567954167cd3b7d95665850e"
         }
@@ -23,11 +23,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/airbytehq/abctl/releases/download/v$version/abctl-v$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/airbytehq/abctl/releases/download/v$version/abctl-v$version-windows-amd64.zip",
                 "extract_dir": "abctl-v$version-windows-amd64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/airbytehq/abctl/releases/download/v$version/abctl-v$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/airbytehq/abctl/releases/download/v$version/abctl-v$version-windows-arm64.zip",
                 "extract_dir": "abctl-v$version-windows-arm64"
             }
         },

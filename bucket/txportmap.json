@@ -11,7 +11,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/4dogs-cn/TXPortMap/releases/download/v1.1.2/TxPortMap_windows_x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/4dogs-cn/TXPortMap/releases/download/v1.1.2/TxPortMap_windows_x64.exe",
             "hash": "f02f4c22992830ee15fba7a4fbf9f26ae7942dffdc98b9e32f1ec30e8e00c1f4"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/4dogs-cn/TXPortMap/releases/download/v$version/TxPortMap_windows_x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/4dogs-cn/TXPortMap/releases/download/v$version/TxPortMap_windows_x64.exe"
             }
         }
     }

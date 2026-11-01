@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ibigbug/clash-rs/releases/download/v0.10.10/clash-rs-x86_64-pc-windows-msvc.exe#/clash-rs.exe",
+            "url": "https://gh-proxy.org/https://github.com/ibigbug/clash-rs/releases/download/v0.10.10/clash-rs-x86_64-pc-windows-msvc.exe#/clash-rs.exe",
             "hash": "e5d2e23534d7a4c294818a8852cf447dcf988dd589fa25b8c56f00d5970d6012"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ibigbug/clash-rs/releases/download/v0.10.10/clash-rs-i686-pc-windows-msvc.exe#/clash-rs.exe",
+            "url": "https://gh-proxy.org/https://github.com/ibigbug/clash-rs/releases/download/v0.10.10/clash-rs-i686-pc-windows-msvc.exe#/clash-rs.exe",
             "hash": "b231b648cb3a6c8332be8bbacd00c71a1888ed008c5cc5f811bd344b0a5ba185"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ibigbug/clash-rs/releases/download/v0.10.10/clash-rs-aarch64-pc-windows-msvc.exe#/clash-rs.exe",
+            "url": "https://gh-proxy.org/https://github.com/ibigbug/clash-rs/releases/download/v0.10.10/clash-rs-aarch64-pc-windows-msvc.exe#/clash-rs.exe",
             "hash": "0d43864dd4fe4341a07748cb32754bc4233638906f43802898f9e69f6a930bee"
         }
     },
@@ -26,13 +26,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ibigbug/clash-rs/releases/download/v$version/clash-rs-x86_64-pc-windows-msvc.exe#/clash-rs.exe"
+                "url": "https://gh-proxy.org/https://github.com/ibigbug/clash-rs/releases/download/v$version/clash-rs-x86_64-pc-windows-msvc.exe#/clash-rs.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ibigbug/clash-rs/releases/download/v$version/clash-rs-i686-pc-windows-msvc.exe#/clash-rs.exe"
+                "url": "https://gh-proxy.org/https://github.com/ibigbug/clash-rs/releases/download/v$version/clash-rs-i686-pc-windows-msvc.exe#/clash-rs.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ibigbug/clash-rs/releases/download/v$version/clash-rs-aarch64-pc-windows-msvc.exe#/clash-rs.exe"
+                "url": "https://gh-proxy.org/https://github.com/ibigbug/clash-rs/releases/download/v$version/clash-rs-aarch64-pc-windows-msvc.exe#/clash-rs.exe"
             }
         }
     }

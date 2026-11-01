@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CoWork-OS/CoWork-OS/releases/download/v0.5.62/CoWork-OS-Setup-0.5.62.exe",
+            "url": "https://gh-proxy.org/https://github.com/CoWork-OS/CoWork-OS/releases/download/v0.5.62/CoWork-OS-Setup-0.5.62.exe",
             "hash": "6fa862e6b309ea15bd882b7d2bf469a07367f379550b0aafad7c0f78b8678f01",
             "installer": {
                 "script": [
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CoWork-OS/CoWork-OS/releases/download/v$version/CoWork-OS-Setup-$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/CoWork-OS/CoWork-OS/releases/download/v$version/CoWork-OS-Setup-$version.exe"
             }
         }
     },

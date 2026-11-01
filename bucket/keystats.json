@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/debugtheworldbot/keyStats/releases/download/v1.37/KeyStats-Windows-1.37-NetFramework48.zip",
+            "url": "https://gh-proxy.org/https://github.com/debugtheworldbot/keyStats/releases/download/v1.37/KeyStats-Windows-1.37-NetFramework48.zip",
             "hash": "0c35a6bb7fa7f76bf8c51913a3b4ae311d5c9340eae4c4d7d255d9cf6e820e99"
         }
     },
@@ -56,7 +56,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/debugtheworldbot/keyStats/releases/download/v$version/KeyStats-Windows-$version-NetFramework48.zip"
+                "url": "https://gh-proxy.org/https://github.com/debugtheworldbot/keyStats/releases/download/v$version/KeyStats-Windows-$version-NetFramework48.zip"
             }
         }
     }

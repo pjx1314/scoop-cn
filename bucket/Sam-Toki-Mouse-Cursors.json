@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/download/v10.01/STMC.zip",
+            "url": "https://gh-proxy.org/https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/download/v10.01/STMC.zip",
             "hash": "ceedf8090b438d5d82a76f95ea8e988ca331ce923281ea4514d59f557bf5846d"
         }
     },
@@ -22,7 +22,7 @@
         "github": "https://github.com/SamToki/Sam-Toki-Mouse-Cursors"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/download/v$version/STMC.zip",
+        "url": "https://gh-proxy.org/https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/download/v$version/STMC.zip",
         "hash": {
             "mode": "extract",
             "url": "https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/expanded_assets/v$version",

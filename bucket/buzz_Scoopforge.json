@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows.exe",
-                "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows-1.bin",
-                "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows-2.bin"
+                "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows.exe",
+                "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows-1.bin",
+                "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows-2.bin"
             ],
             "hash": [
                 "523f5b04e80bc45d44559fc689d8678a181e8837791aaca5722c3ec3dd1db2e1",
@@ -50,9 +50,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows.exe",
-                    "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows-1.bin",
-                    "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows-2.bin"
+                    "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows.exe",
+                    "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows-1.bin",
+                    "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows-2.bin"
                 ]
             }
         }

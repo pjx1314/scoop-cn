@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sdotee/cli/releases/download/v1.4.0/see_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sdotee/cli/releases/download/v1.4.0/see_Windows_x86_64.zip",
             "hash": "5a56f97161857d94b17d65e820ae55372bb5168f6272c1ad5f94bb6caa6b1e04"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/sdotee/cli/releases/download/v1.4.0/see_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sdotee/cli/releases/download/v1.4.0/see_Windows_arm64.zip",
             "hash": "85ef9e7c01e8b29f06e1c950456fd5014a172b9f60dd7e597c3d87ea9a78e64d"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sdotee/cli/releases/download/v$version/see_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sdotee/cli/releases/download/v$version/see_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/sdotee/cli/releases/download/v$version/see_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sdotee/cli/releases/download/v$version/see_Windows_arm64.zip"
             }
         },
         "hash": {

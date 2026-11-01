@@ -7,7 +7,7 @@
     "hash": "57a29963b30e902122eec2678245fb07db803ef1f98dbc91ef65fc27b9fea408",
     "bin": "SBECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "SBECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

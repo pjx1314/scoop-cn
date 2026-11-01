@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.6/AnimeFlow-windows-2.6.6.zip",
+            "url": "https://gh-proxy.org/https://github.com/openAnimeFlow/AnimeFlow/releases/download/v2.6.6/AnimeFlow-windows-2.6.6.zip",
             "hash": "9326cc96468d2f6757a322dc53ed996597608bc03842eac5ff0aad3fd59fb459"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/openAnimeFlow/AnimeFlow/releases/download/v$version/AnimeFlow-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/openAnimeFlow/AnimeFlow/releases/download/v$version/AnimeFlow-windows-$version.zip"
             }
         }
     }

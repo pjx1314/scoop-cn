@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/denislupookov/altersend/releases/download/v2.0.0/AlterSend-2.0.0.Setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/denislupookov/altersend/releases/download/v2.0.0/AlterSend-2.0.0.Setup.exe#/dl.7z",
             "hash": "7ef267b7814cee067ec002ac63ad50aad8dbc260ce7af0f3eaada5a9f36143b8",
             "pre_install": [
                 "Get-ChildItem \"$dir\\AlterSend*.nupkg\" | Rename-Item -NewName 'AlterSend.nupkg'",
@@ -50,7 +50,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/denislupookov/altersend/releases/download/v$version/AlterSend-$version.Setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/denislupookov/altersend/releases/download/v$version/AlterSend-$version.Setup.exe#/dl.7z"
             }
         }
     }

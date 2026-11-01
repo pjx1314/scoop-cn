@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zibo-chen/CoralDesk/releases/download/unstable-41-a4c165c730fc5924e7df1143a6285601792c056f/coraldesk-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zibo-chen/CoralDesk/releases/download/unstable-41-a4c165c730fc5924e7df1143a6285601792c056f/coraldesk-windows-x64.zip",
             "hash": "27f257bf88caed3e8747717e82cd9a3b5241ca1eaccd7cbc3921514f3b316645"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zibo-chen/CoralDesk/releases/download/unstable-41-a4c165c730fc5924e7df1143a6285601792c056f/coraldesk-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zibo-chen/CoralDesk/releases/download/unstable-41-a4c165c730fc5924e7df1143a6285601792c056f/coraldesk-windows-x64.zip"
             }
         }
     }

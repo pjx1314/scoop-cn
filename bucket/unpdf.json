@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iyulab/unpdf/releases/download/v0.51.0/unpdf-windows-x86_64-v0.51.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/iyulab/unpdf/releases/download/v0.51.0/unpdf-windows-x86_64-v0.51.0.zip",
             "hash": "d17b587c26ed496028aaa138f3ff35d2d2382938b7640ba524fe68cb6a84142d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iyulab/unpdf/releases/download/v$version/unpdf-windows-x86_64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/iyulab/unpdf/releases/download/v$version/unpdf-windows-x86_64-v$version.zip"
             }
         }
     }

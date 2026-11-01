@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dmMaze/BallonsTranslator/releases/download/v1.5.20/Ballonstranslator_win_minium.zip",
+            "url": "https://gh-proxy.org/https://github.com/dmMaze/BallonsTranslator/releases/download/v1.5.20/Ballonstranslator_win_minium.zip",
             "extract_dir": "Ballonstranslator_win_minium",
             "hash": "eed1faa53ee9db0a3fca4ec68d9c24ba60adfc2f3eaabddebc3917bc78c51b8d"
         }
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dmMaze/BallonsTranslator/releases/download/v$version/Ballonstranslator_win_minium.zip"
+                "url": "https://gh-proxy.org/https://github.com/dmMaze/BallonsTranslator/releases/download/v$version/Ballonstranslator_win_minium.zip"
             }
         }
     }

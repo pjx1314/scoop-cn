@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0 license",
         "url": "https://github.com/RSSNext/Folo#GPL-3.0-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-windows-x64.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/RSSNext/Folo/releases/download/desktop/v1.16.0/Folo-1.16.0-windows-x64.exe#/dl.7z",
     "hash": "sha512:3dfa848b6db021500a7d7f9168af20a846133b25c7b444ea1864bb40395382c9088ffdaeb9379d98e3adce47584fff9e178402c61c46d5cefcf5c917a1ef7d86",
     "pre_install": [
         "Get-Item \"$dir\\Folo*.nupkg\" | Rename-Item -NewName 'Folo.nupkg'",
@@ -41,7 +41,7 @@
         "regex": "desktop/v([\\w.-]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/RSSNext/Folo/releases/download/desktop/v$version/Folo-$version-windows-x64.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/RSSNext/Folo/releases/download/desktop/v$version/Folo-$version-windows-x64.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/latest.yml",
             "regex": "sha512:\\s+$base64"

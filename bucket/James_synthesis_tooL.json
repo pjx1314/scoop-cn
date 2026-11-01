@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/vsdwef/James_synthesis_tooL/releases/download/V2.2.1/James_synthesis_tool.zip",
+    "url": "https://gh-proxy.org/https://github.com/vsdwef/James_synthesis_tooL/releases/download/V2.2.1/James_synthesis_tool.zip",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\James_synthesis_tool.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/vsdwef/James_synthesis_tooL/releases/download/V$version/James_synthesis_tool.zip"
+        "url": "https://gh-proxy.org/https://github.com/vsdwef/James_synthesis_tooL/releases/download/V$version/James_synthesis_tool.zip"
     }
 }

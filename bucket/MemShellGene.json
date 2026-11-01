@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/suizhibo/MemShellGene/releases/download/v0.1.1-alpha/MemShellGene.jar",
+    "url": "https://gh-proxy.org/https://github.com/suizhibo/MemShellGene/releases/download/v0.1.1-alpha/MemShellGene.jar",
     "hash": "9f2b9c7922aee68b4349100d902647efde1407849030d9d388fb1ae520a95531",
     "pre_install": [
         "Set-Content \"$dir\\MemShellGene.bat\" '@pushd %~dp0",
@@ -30,7 +30,7 @@
         "regex": "v([\\d.]+)-alpha"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/suizhibo/MemShellGene/releases/download/v$version-alpha/MemShellGene.jar"
+        "url": "https://gh-proxy.org/https://github.com/suizhibo/MemShellGene/releases/download/v$version-alpha/MemShellGene.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

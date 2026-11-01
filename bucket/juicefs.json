@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/juicedata/juicefs/releases/download/v1.4.2/juicefs-1.4.2-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/juicedata/juicefs/releases/download/v1.4.2/juicefs-1.4.2-windows-amd64.tar.gz",
             "hash": "94be30bb51b93685b0129e7209d1432532339718e6abd035f16ec77a18a0f64e"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/juicedata/juicefs/releases/download/v$version/juicefs-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/juicedata/juicefs/releases/download/v$version/juicefs-$version-windows-amd64.tar.gz"
             }
         },
         "hash": {

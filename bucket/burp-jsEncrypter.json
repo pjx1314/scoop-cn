@@ -9,13 +9,13 @@
     ],
     "homepage": "https://github.com/c0ny1/jsEncrypter",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/c0ny1/jsEncrypter/releases/download/0.3.2/jsEncrypter.0.3.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/c0ny1/jsEncrypter/releases/download/0.3.2/jsEncrypter.0.3.2.zip",
     "hash": "",
     "post_install": [
         "Get-ChildItem \"$dir\" 'jsEncrypter*.jar' | Select-Object -First 1 | Rename-Item -NewName 'jsEncrypter.jar'"
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/c0ny1/jsEncrypter/releases/download/$version/jsEncrypter.$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/c0ny1/jsEncrypter/releases/download/$version/jsEncrypter.$version.zip"
     }
 }

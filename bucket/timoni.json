@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip",
             "hash": "6efff7300cd6cfae6098df913dd67d1d70d7cbbaf940acc0022ba69a7aca8175"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stefanprodan/timoni/releases/download/v$version/timoni_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stefanprodan/timoni/releases/download/v$version/timoni_$version_windows_amd64.zip"
             }
         },
         "hash": {

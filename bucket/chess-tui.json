@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/thomas-mauran/chess-tui/releases/download/2.8.0/chess-tui-2.8.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "6fb567411442739ab34e67610575f9054229b54fbd56c53a4482d2fd35068fb3"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/thomas-mauran/chess-tui/releases/download/$version/chess-tui-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/thomas-mauran/chess-tui/releases/download/$version/chess-tui-$version-x86_64-pc-windows-msvc.tar.gz"
             }
         }
     }

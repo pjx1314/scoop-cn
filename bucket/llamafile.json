@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mozilla-ai/llamafile/releases/download/0.10.6/llamafile-0.10.6.zip",
+            "url": "https://gh-proxy.org/https://github.com/mozilla-ai/llamafile/releases/download/0.10.6/llamafile-0.10.6.zip",
             "extract_dir": "home\\mala\\releases\\0.10.6\\llamafile-0.10.6\\bin",
             "hash": "1d0aacce58bb2254adb8b80abf69e4dfbd7dfa530defc0fcca37ce239217e5dc"
         }
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mozilla-ai/llamafile/releases/download/$version/llamafile-$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/mozilla-ai/llamafile/releases/download/$version/llamafile-$version.zip",
                 "extract_dir": "home\\mala\\releases\\$version\\llamafile-$version\\bin"
             }
         }

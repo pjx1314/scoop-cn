@@ -10,7 +10,7 @@
     "suggest": {
         "JDK": "main/openjdk"
     },
-    "url": "https://gh-proxy.com/https://github.com/scala/scala3/releases/download/3.10.0/scala3-3.10.0.msi",
+    "url": "https://gh-proxy.org/https://github.com/scala/scala3/releases/download/3.10.0/scala3-3.10.0.msi",
     "hash": "4100309910f900308ef6b6cfbbd975d5169bc013ebd45a5ab43c7600c2dca821",
     "extract_dir": "PFiles\\Scala",
     "bin": [
@@ -32,7 +32,7 @@
         ]
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/scala/scala3/releases/download/$version/scala3-$version.msi",
+        "url": "https://gh-proxy.org/https://github.com/scala/scala3/releases/download/$version/scala3-$version.msi",
         "hash": {
             "url": "$url.sha256"
         }

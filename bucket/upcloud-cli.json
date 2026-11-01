@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v3.37.0/upcloud-cli_3.37.0_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v3.37.0/upcloud-cli_3.37.0_windows_x86_64.zip",
             "hash": "02b6c2afb03cdb23d9481ee74c62185612cb5267ab53ccfd86e91c0d4b7d3960"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v3.37.0/upcloud-cli_3.37.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v3.37.0/upcloud-cli_3.37.0_windows_arm64.zip",
             "hash": "fc12d1de5ce1af59ce503d25a1f9352ff4f5bfe40118eb919fa59dd433e275a3"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v$version/upcloud-cli_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v$version/upcloud-cli_$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v$version/upcloud-cli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/UpCloudLtd/upcloud-cli/releases/download/v$version/upcloud-cli_$version_windows_arm64.zip"
             }
         },
         "hash": {

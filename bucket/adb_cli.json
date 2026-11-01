@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cocool97/adb_client/releases/download/v3.2.3/adb_cli-windows.exe#/adb_cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/cocool97/adb_client/releases/download/v3.2.3/adb_cli-windows.exe#/adb_cli.exe",
             "hash": "4584ed1ba2f640dcea243b1f27c23f76b99d5af37a8d1574e64b33d9b6b6248c"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cocool97/adb_client/releases/download/v$version/adb_cli-windows.exe#/adb_cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/cocool97/adb_client/releases/download/v$version/adb_cli-windows.exe#/adb_cli.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/P403n1x87/austin/releases/download/v4.1.0/austin-4.1.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/P403n1x87/austin/releases/download/v4.1.0/austin-4.1.0-win64.zip",
             "hash": "6be050efc9ef0e0a7659da5752fc118449a81d95ee813e7a3366135d6b9efc34"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/P403n1x87/austin/releases/download/v$version/austin-$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/P403n1x87/austin/releases/download/v$version/austin-$version-win64.zip"
             }
         }
     }

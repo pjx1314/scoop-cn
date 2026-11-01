@@ -3,7 +3,7 @@
     "description": "文件哈希值批量计算器.",
     "homepage": "https://github.com/hrpzcf/HashCalculator",
     "license": "GPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/hrpzcf/HashCalculator/releases/download/6.2.1/HashCalculator-6.2.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/hrpzcf/HashCalculator/releases/download/6.2.1/HashCalculator-6.2.1.zip",
     "hash": "e7c8ad11810620e18b514e07ad02f4ec26b9f587f1b03fedd5a9626a67af1992",
     "bin": [
         [
@@ -13,7 +13,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/hrpzcf/HashCalculator/releases/download/$version/HashCalculator-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/hrpzcf/HashCalculator/releases/download/$version/HashCalculator-$version.zip"
     },
     "notes": [
         "【工具类型】: 文件工具",

@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Tokeii0/LoveLy-QRCode-Scanner/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Tokeii0/LoveLy-QRCode-Scanner/archive/refs/heads/master.zip",
     "hash": "2b40a35813d043b4a98c8387cb0fc19503c53c04cb65f2cd1f03248a896126d8",
     "extract_dir": "LoveLy-QRCode-Scanner-main",
     "pre_install": [
@@ -31,7 +31,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Tokeii0/LoveLy-QRCode-Scanner/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Tokeii0/LoveLy-QRCode-Scanner/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

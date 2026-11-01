@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v1.3.1/RatioMaster.NET-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v1.3.1/RatioMaster.NET-win-x64.zip",
             "hash": "c7abf062d3a621e432245cd68a9eb7b1d798485f0fea2b11c056b7ff1f07e58b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v1.3.1/RatioMaster.NET-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v1.3.1/RatioMaster.NET-win-arm64.zip",
             "hash": "720268a442e3db5dd2772f3b0b3d544528f757765ba28cb13c0d7f00983b63d5"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v$version/RatioMaster.NET-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v$version/RatioMaster.NET-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v$version/RatioMaster.NET-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/NikolayIT/RatioMaster.NET/releases/download/v$version/RatioMaster.NET-win-arm64.zip"
             }
         }
     }

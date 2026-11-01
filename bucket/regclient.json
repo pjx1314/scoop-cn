@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/regclient/regclient/releases/download/v0.11.7/regctl-windows-amd64.exe#/regctl.exe",
-                "https://gh-proxy.com/https://github.com/regclient/regclient/releases/download/v0.11.7/regsync-windows-amd64.exe#/regsync.exe",
-                "https://gh-proxy.com/https://github.com/regclient/regclient/releases/download/v0.11.7/regbot-windows-amd64.exe#/regbot.exe"
+                "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.7/regctl-windows-amd64.exe#/regctl.exe",
+                "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.7/regsync-windows-amd64.exe#/regsync.exe",
+                "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.7/regbot-windows-amd64.exe#/regbot.exe"
             ],
             "hash": [
                 "70f195ff4923082340738c796880864f66a296e6c5d3296bf743310653ad761f",
@@ -27,9 +27,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/regclient/regclient/releases/download/v$version/regctl-windows-amd64.exe#/regctl.exe",
-                    "https://gh-proxy.com/https://github.com/regclient/regclient/releases/download/v$version/regsync-windows-amd64.exe#/regsync.exe",
-                    "https://gh-proxy.com/https://github.com/regclient/regclient/releases/download/v$version/regbot-windows-amd64.exe#/regbot.exe"
+                    "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regctl-windows-amd64.exe#/regctl.exe",
+                    "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regsync-windows-amd64.exe#/regsync.exe",
+                    "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regbot-windows-amd64.exe#/regbot.exe"
                 ]
             }
         }

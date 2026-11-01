@@ -6,11 +6,11 @@
     "suggest": {
         "java": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/ssrsec/JeecgBoot-offline-brute/releases/download/1.1/JeecgBoot-offline-brute-1.0-SNAPSHOT.jar#/JeecgBoot-offline-brute.jar",
+    "url": "https://gh-proxy.org/https://github.com/ssrsec/JeecgBoot-offline-brute/releases/download/1.1/JeecgBoot-offline-brute-1.0-SNAPSHOT.jar#/JeecgBoot-offline-brute.jar",
     "hash": "sha256:1336DF8B84F431DBA075BFCD0594CEA42F696B1F38CEAC4B1EA8811ECC344B93",
     "post_install": [
-        "Invoke-WebRequest -URI \"https://gh-proxy.com/https://github.com/ssrsec/JeecgBoot-offline-brute/raw/refs/heads/master/data.json\" -OutFile \"$dir\\data.json\"",
-        "Invoke-WebRequest -URI \"https://gh-proxy.com/https://github.com/ssrsec/JeecgBoot-offline-brute/raw/refs/heads/master/pass.txt\" -OutFile \"$dir\\pass.txt\""
+        "Invoke-WebRequest -URI \"https://gh-proxy.org/https://github.com/ssrsec/JeecgBoot-offline-brute/raw/refs/heads/master/data.json\" -OutFile \"$dir\\data.json\"",
+        "Invoke-WebRequest -URI \"https://gh-proxy.org/https://github.com/ssrsec/JeecgBoot-offline-brute/raw/refs/heads/master/pass.txt\" -OutFile \"$dir\\pass.txt\""
     ],
     "pre_install": [
         "Set-Content \"$dir\\JeecgBoot-offline-brute.bat\" '@pushd %~dp0",
@@ -21,7 +21,7 @@
     "bin": "JeecgBoot-offline-brute.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ssrsec/JeecgBoot-offline-brute/releases/download/v$version/JeecgBoot-offline-brute-1.0-SNAPSHOT.jar#/JeecgBoot-offline-brute.jar"
+        "url": "https://gh-proxy.org/https://github.com/ssrsec/JeecgBoot-offline-brute/releases/download/v$version/JeecgBoot-offline-brute-1.0-SNAPSHOT.jar#/JeecgBoot-offline-brute.jar"
     },
     "notes": [
         "【工具类型】: Java工具",

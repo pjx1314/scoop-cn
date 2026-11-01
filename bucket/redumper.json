@@ -5,17 +5,17 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/superg/redumper/releases/download/b770/redumper-b770-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/superg/redumper/releases/download/b770/redumper-b770-windows-x64.zip",
             "extract_dir": "redumper-b770-windows-x64\\bin",
             "hash": "7f493d5ea3a26b5564eaf6d1a244ab05978e0361ce730512007c77a984a3f98b"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/superg/redumper/releases/download/b770/redumper-b770-windows-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/superg/redumper/releases/download/b770/redumper-b770-windows-x86.zip",
             "extract_dir": "redumper-b770-windows-x86\\bin",
             "hash": "c6505f7ae27d512baab37e47566040087f71f7cc6b44b312904eac2621b017c8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/superg/redumper/releases/download/b770/redumper-b770-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/superg/redumper/releases/download/b770/redumper-b770-windows-arm64.zip",
             "extract_dir": "redumper-b770-windows-arm64\\bin",
             "hash": "892c886c1085f7689c2515fa0f0a89f520f93bc22b567a11bb5e2e8df3dc988e"
         }
@@ -28,15 +28,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/superg/redumper/releases/download/b$version/redumper-b$version-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/superg/redumper/releases/download/b$version/redumper-b$version-windows-x64.zip",
                 "extract_dir": "redumper-b$version-windows-x64\\bin"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/superg/redumper/releases/download/b$version/redumper-b$version-windows-x86.zip",
+                "url": "https://gh-proxy.org/https://github.com/superg/redumper/releases/download/b$version/redumper-b$version-windows-x86.zip",
                 "extract_dir": "redumper-b$version-windows-x86\\bin"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/superg/redumper/releases/download/b$version/redumper-b$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/superg/redumper/releases/download/b$version/redumper-b$version-windows-arm64.zip",
                 "extract_dir": "redumper-b$version-windows-arm64\\bin"
             }
         }

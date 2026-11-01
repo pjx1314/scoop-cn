@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/JoelGMSec/PyShell/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/JoelGMSec/PyShell/archive/refs/heads/main.zip",
     "extract_dir": "pyshell-main",
     "pre_install": [
         "Set-Content \"$dir\\pyshell.bat\" '@pushd %~dp0",

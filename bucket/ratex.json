@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/erweixin/RaTeX/releases/download/v0.1.15/ratex-cli-v0.1.15-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/erweixin/RaTeX/releases/download/v0.1.15/ratex-cli-v0.1.15-x86_64-pc-windows-msvc.zip",
             "extract_dir": "ratex-cli-v0.1.15-x86_64-pc-windows-msvc",
             "hash": "e0fbf75f495a2fbb51ec3d6b3124d35864643fcce39dfb3076faf199a862e3ce"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/erweixin/RaTeX/releases/download/v0.1.15/ratex-cli-v0.1.15-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/erweixin/RaTeX/releases/download/v0.1.15/ratex-cli-v0.1.15-aarch64-pc-windows-msvc.zip",
             "extract_dir": "ratex-cli-v0.1.15-aarch64-pc-windows-msvc",
             "hash": "40217eeb0efa02598f4f33a2a5543f7a25460651a7afb1105ef52ee56362a18a"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/erweixin/RaTeX/releases/download/v$version/ratex-cli-v$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/erweixin/RaTeX/releases/download/v$version/ratex-cli-v$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "ratex-cli-v$version-x86_64-pc-windows-msvc"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/erweixin/RaTeX/releases/download/v$version/ratex-cli-v$version-aarch64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/erweixin/RaTeX/releases/download/v$version/ratex-cli-v$version-aarch64-pc-windows-msvc.zip",
                 "extract_dir": "ratex-cli-v$version-aarch64-pc-windows-msvc"
             }
         }

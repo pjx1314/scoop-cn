@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mlange-42/git-igitt/releases/download/v0.2.1/git-igitt-v0.2.1-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/mlange-42/git-igitt/releases/download/v0.2.1/git-igitt-v0.2.1-windows-amd64.tar.gz",
             "hash": "c53d3097035f72099d2c4bdd048b8e9ca50430e8345178bdfc22eea911d726a7"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mlange-42/git-igitt/releases/download/v$version/git-igitt-v$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/mlange-42/git-igitt/releases/download/v$version/git-igitt-v$version-windows-amd64.tar.gz"
             }
         }
     }

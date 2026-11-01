@@ -22,7 +22,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/aliyun/oss-browser/develop/upgrade.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/aliyun/oss-browser/develop/upgrade.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

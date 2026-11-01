@@ -20,7 +20,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/tuba/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/tuba/state.json",
         "regex": "(?sm)\"version\":\\s*\"(.+?)\".*?\"runId\":\\s*\"(?<run>\\d+)\""
     },
     "autoupdate": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jessielw/FFMPEG-Audio-Encoder/releases/download/5.0.1/FFMPEGAudioEncoder-5.0.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jessielw/FFMPEG-Audio-Encoder/releases/download/5.0.1/FFMPEGAudioEncoder-5.0.1-windows-x64.zip",
             "hash": "1f75a23bf15294cc7c9e3919972933c7b20382babe4bb6484e6977e45e1a97cb"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jessielw/FFMPEG-Audio-Encoder/releases/download/$version/FFMPEGAudioEncoder-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jessielw/FFMPEG-Audio-Encoder/releases/download/$version/FFMPEGAudioEncoder-$version-windows-x64.zip"
             }
         }
     }

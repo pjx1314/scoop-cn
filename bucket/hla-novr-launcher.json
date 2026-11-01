@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bfeber/HLA-NoVR-Launcher/releases/download/4.2.5/HLA-NoVR-Launcher.exe",
+            "url": "https://gh-proxy.org/https://github.com/bfeber/HLA-NoVR-Launcher/releases/download/4.2.5/HLA-NoVR-Launcher.exe",
             "hash": "c8b96a49fe6263635e2daa49bb54be6848760878ba688820a53f3889d46aa092"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bfeber/HLA-NoVR-Launcher/releases/download/$version/HLA-NoVR-Launcher.exe"
+                "url": "https://gh-proxy.org/https://github.com/bfeber/HLA-NoVR-Launcher/releases/download/$version/HLA-NoVR-Launcher.exe"
             }
         }
     }

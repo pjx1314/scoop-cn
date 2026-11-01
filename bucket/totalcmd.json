@@ -1,5 +1,5 @@
 {
-    "url": "https://gh-proxy.com/https://github.com/wangzq/scoop-files/raw/master/misc/totalcmd951.zip",
+    "url": "https://gh-proxy.org/https://github.com/wangzq/scoop-files/raw/master/misc/totalcmd951.zip",
     "version": "9.51.0",
     "bin": [
         ["host\\totalcmd.exe", "totalcmd", ""]

@@ -7,7 +7,7 @@
     "hash": "034f44c561bb4d3c7bc0f1f77ed0c1ebb08359fa90d003ac5ae00aaa52c85202",
     "bin": "RBCmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "RBCmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

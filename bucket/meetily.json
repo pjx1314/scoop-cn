@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Zackriya-Solutions/meetily/releases/download/v0.4.1/meetily_0.4.1_x64-setup.exe#/dl.7z",
             "hash": "6321068c98da8bf5392df3825aaa5be0e28349e54436f53d485c08c54b9c9315"
         }
     },
@@ -20,7 +20,7 @@
         "github": "https://github.com/Zackriya-Solutions/meetily"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Zackriya-Solutions/meetily/releases/download/v$version/meetily_$version_x64-setup.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/Zackriya-Solutions/meetily/releases/download/v$version/meetily_$version_x64-setup.exe#/dl.7z",
         "hash": {
             "mode": "extract",
             "url": "https://github.com/Zackriya-Solutions/meetily/releases/expanded_assets/v$version",

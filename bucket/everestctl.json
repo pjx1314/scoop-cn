@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/percona/everest/releases/download/v1.17.0/everestctl.exe",
+            "url": "https://gh-proxy.org/https://github.com/percona/everest/releases/download/v1.17.0/everestctl.exe",
             "hash": "ccb34347ea3edf086aac01d46234e2f527952b25c50ca84f525b9cf46212f0b9"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/percona/everest/releases/download/v$version/everestctl.exe"
+                "url": "https://gh-proxy.org/https://github.com/percona/everest/releases/download/v$version/everestctl.exe"
             }
         }
     }

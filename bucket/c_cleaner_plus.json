@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kiowx/c_cleaner_plus/releases/download/v0.8.3/c_cleaner_plus-v0.8.3-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kiowx/c_cleaner_plus/releases/download/v0.8.3/c_cleaner_plus-v0.8.3-windows-x64.zip",
             "hash": "8778c560abd55115e573eb6e5d5c0cfa299df9f75eeba59cd7f770c4bc534de9"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kiowx/c_cleaner_plus/releases/download/v$version/c_cleaner_plus-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Kiowx/c_cleaner_plus/releases/download/v$version/c_cleaner_plus-v$version-windows-x64.zip"
             }
         }
     }

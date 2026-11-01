@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/n0-computer/sendme/releases/download/v0.37.1/sendme-v0.37.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/n0-computer/sendme/releases/download/v0.37.1/sendme-v0.37.1-windows-x86_64.zip",
             "hash": "fcf37ac1ebfff164f0a8e0cd0bd592531a028dac364ef6b05bff277b3d11faf5"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/n0-computer/sendme/releases/download/v$version/sendme-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/n0-computer/sendme/releases/download/v$version/sendme-v$version-windows-x86_64.zip"
             }
         }
     }

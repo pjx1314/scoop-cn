@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TianZerL/Anime4KCPP/releases/download/v3.2.0/Anime4KCPP-CLI-v3.2.0-x64-MSVC.zip",
+            "url": "https://gh-proxy.org/https://github.com/TianZerL/Anime4KCPP/releases/download/v3.2.0/Anime4KCPP-CLI-v3.2.0-x64-MSVC.zip",
             "hash": "82897b0f03ddb88ab3d1affb745baf99506cfe3ceffaeaf73796c6dea4077f19"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TianZerL/Anime4KCPP/releases/download/v$version/Anime4KCPP-CLI-v$version-x64-MSVC.zip"
+                "url": "https://gh-proxy.org/https://github.com/TianZerL/Anime4KCPP/releases/download/v$version/Anime4KCPP-CLI-v$version-x64-MSVC.zip"
             }
         }
     }

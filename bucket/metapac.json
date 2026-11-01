@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-0.10.3/metapac-0.10.3-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-0.10.3/metapac-0.10.3-x86_64-pc-windows-msvc.tar.gz",
             "hash": "145d215c3129aadad8267fff6e671bb5354776a1e224d67c2f4b84a081b48fa4"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-0.10.3/metapac-0.10.3-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-0.10.3/metapac-0.10.3-aarch64-pc-windows-msvc.tar.gz",
             "hash": "516f8eb3927a3c5814c86e90840f8a1600ea0caffe6102bbf30696b101d73417"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-$version/metapac-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-$version/metapac-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-$version/metapac-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/metapac-$version/metapac-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

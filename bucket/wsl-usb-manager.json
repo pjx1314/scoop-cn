@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nickbeth/wsl-usb-manager/releases/download/v1.2.2/wsl-usb-manager.exe",
+            "url": "https://gh-proxy.org/https://github.com/nickbeth/wsl-usb-manager/releases/download/v1.2.2/wsl-usb-manager.exe",
             "hash": "095f81b6953011d8bf9a53a47de42733925dfd078f8cc42d4969c43d96657afa"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nickbeth/wsl-usb-manager/releases/download/v$version/wsl-usb-manager.exe"
+                "url": "https://gh-proxy.org/https://github.com/nickbeth/wsl-usb-manager/releases/download/v$version/wsl-usb-manager.exe"
             }
         }
     }

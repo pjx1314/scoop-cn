@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Class-Widgets/Class-Widgets/releases/download/1.2.0.5/ClassWidgets-Windows-x64_21400908131.zip",
+            "url": "https://gh-proxy.org/https://github.com/Class-Widgets/Class-Widgets/releases/download/1.2.0.5/ClassWidgets-Windows-x64_21400908131.zip",
             "hash": "3207fcd3342367554207c5ca6242912fac860fff6ab61dc9c61fdc5bce414092"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Class-Widgets/Class-Widgets/releases/download/1.2.0.5/ClassWidgets-Windows-x86_21400908131.zip",
+            "url": "https://gh-proxy.org/https://github.com/Class-Widgets/Class-Widgets/releases/download/1.2.0.5/ClassWidgets-Windows-x86_21400908131.zip",
             "hash": "f3cec110bf888ca51ec309a0b41784bff37398b0911c9d9f7aed0e8f4cbe3ba5"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Class-Widgets/Class-Widgets/releases/download/$version/ClassWidgets-Windows-x64_$matchBuild.zip"
+                "url": "https://gh-proxy.org/https://github.com/Class-Widgets/Class-Widgets/releases/download/$version/ClassWidgets-Windows-x64_$matchBuild.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Class-Widgets/Class-Widgets/releases/download/$version/ClassWidgets-Windows-x86_$matchBuild.zip"
+                "url": "https://gh-proxy.org/https://github.com/Class-Widgets/Class-Widgets/releases/download/$version/ClassWidgets-Windows-x86_$matchBuild.zip"
             }
         }
     }

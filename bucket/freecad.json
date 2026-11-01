@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311.7z",
+            "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311.7z",
             "hash": "4828741fc91ee37fafcdb97a1abacb18b04ba451ac4372d9ff7a7349b36f4d6d"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FreeCAD/FreeCAD/releases/download/$matchTag/$matchName"
+                "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/$matchTag/$matchName"
             }
         },
         "hash": {

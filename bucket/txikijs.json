@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/saghul/txiki.js/releases/download/v26.11.0/txiki-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/saghul/txiki.js/releases/download/v26.11.0/txiki-windows-x86_64.zip",
             "hash": "93879731c79039af97cece865442d300e1bcf2af0760b60aea70a2949ce7fbac",
             "extract_dir": "txiki-windows-x86_64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/saghul/txiki.js/releases/download/v$version/txiki-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/saghul/txiki.js/releases/download/v$version/txiki-windows-x86_64.zip"
             }
         }
     }

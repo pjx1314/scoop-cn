@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jankae/LibreVNA/releases/download/v1.6.5/LibreVNA-GUI_Windows-v1.6.5.zip",
+            "url": "https://gh-proxy.org/https://github.com/jankae/LibreVNA/releases/download/v1.6.5/LibreVNA-GUI_Windows-v1.6.5.zip",
             "hash": "af9d83d7c590a9c934f53c97bfe3561fe10d82ca990363f5b47a5b22d2d549d2"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jankae/LibreVNA/releases/download/v$version/LibreVNA-GUI_Windows-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/jankae/LibreVNA/releases/download/v$version/LibreVNA-GUI_Windows-v$version.zip"
             }
         }
     }

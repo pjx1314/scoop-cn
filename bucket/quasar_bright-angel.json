@@ -9,7 +9,7 @@
         "【适用场景】: 远程管理、系统维护、技术支持",
         "【技术特点】: Windows可执行文件，图形化界面，支持持久化配置"
     ],
-    "url": "https://gh-proxy.com/https://github.com/quasar/Quasar/releases/download/v1.4.1/Quasar.v1.4.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/quasar/Quasar/releases/download/v1.4.1/Quasar.v1.4.1.zip",
     "hash": "4cdeb2eae1cec1ab07077142313c524e9cf360cdec63497538c4405c2d8ded62",
     "extract_dir": "Quasar v1.4.1",
     "shortcuts": [
@@ -28,7 +28,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/quasar/Quasar/releases/download/v$version/Quasar.v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/quasar/Quasar/releases/download/v$version/Quasar.v$version.zip",
         "extract_dir": "Quasar v$version"
     }
 }

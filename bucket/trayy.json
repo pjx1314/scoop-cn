@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/alirezagsm/Trayy/releases/download/v3.1/Trayy.zip",
+            "url": "https://gh-proxy.org/https://github.com/alirezagsm/Trayy/releases/download/v3.1/Trayy.zip",
             "hash": "ab4b8e96a0526f640a483722726c13d613988441106a602daf0b88ca5fad15ac"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/alirezagsm/Trayy/releases/download/v$version/Trayy.zip"
+                "url": "https://gh-proxy.org/https://github.com/alirezagsm/Trayy/releases/download/v$version/Trayy.zip"
             }
         }
     }

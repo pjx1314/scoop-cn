@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prymitive/karma/releases/download/v0.134/karma-windows-amd64.exe.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prymitive/karma/releases/download/v0.134/karma-windows-amd64.exe.tar.gz",
             "hash": "sha512:568f788b30b1d889fb66b720ad440e3352a5a90f0b6b0018c0e45f10d6e1b0e407ffc89b207b2b39858004b812713032271f6319a72e733b7b9dc3f141e3cfed"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prymitive/karma/releases/download/v0.134/karma-windows-386.exe.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prymitive/karma/releases/download/v0.134/karma-windows-386.exe.tar.gz",
             "hash": "sha512:1e8c39a81dea7fe3dfd4f2a696b5af8c74e0e09545092257d0fb46e57b6ea0defb639bdc4f0faa3f301c3c0de74b19b8dff5cbb4d689b8caf4257c13677fadc0"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/prymitive/karma/releases/download/v0.134/karma-windows-arm64.exe.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prymitive/karma/releases/download/v0.134/karma-windows-arm64.exe.tar.gz",
             "hash": "sha512:3bd36b5c7b3fa84e11ea02323aa1471acacefd76263e5f087a8cf921fc5d5eb971496cc89030059f235bb038b39c2c45c6221e1a95458f01bdbea505d46d5cc5"
         }
     },
@@ -23,13 +23,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prymitive/karma/releases/download/v$version/karma-windows-amd64.exe.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/prymitive/karma/releases/download/v$version/karma-windows-amd64.exe.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prymitive/karma/releases/download/v$version/karma-windows-386.exe.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/prymitive/karma/releases/download/v$version/karma-windows-386.exe.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/prymitive/karma/releases/download/v$version/karma-windows-arm64.exe.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/prymitive/karma/releases/download/v$version/karma-windows-arm64.exe.tar.gz"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ozkatz/cloudzip/releases/download/v0.0.1/cz-v0.0.1-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ozkatz/cloudzip/releases/download/v0.0.1/cz-v0.0.1-windows-amd64.zip",
             "hash": "6ecce4f9a9d8ac499365ac64ec0f7dd90af5cd5d92b8d515235069ebec4d575a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ozkatz/cloudzip/releases/download/v$version/cz-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ozkatz/cloudzip/releases/download/v$version/cz-v$version-windows-amd64.zip"
             }
         }
     }

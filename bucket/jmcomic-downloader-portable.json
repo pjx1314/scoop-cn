@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/lanyeeee/jmcomic-downloader#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/lanyeeee/jmcomic-downloader/releases/download/v0.18.0/jmcomic-downloader_0.18.0_windows_x64_portable.zip",
+    "url": "https://gh-proxy.org/https://github.com/lanyeeee/jmcomic-downloader/releases/download/v0.18.0/jmcomic-downloader_0.18.0_windows_x64_portable.zip",
     "hash": "d2854ea790202aa9949792b5d73f78b95e915cd0ce6fce71fbb89c2d08efc4ba",
     "installer": {
         "script": [
@@ -37,6 +37,6 @@
         "regex": "/releases/download/v(?<tag>[\\d.]+)/(?<file>jmcomic-downloader_([\\d.]+)_(?:windows)?_x64_portable\\.zip)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lanyeeee/jmcomic-downloader/releases/download/v$matchTag/$matchFile"
+        "url": "https://gh-proxy.org/https://github.com/lanyeeee/jmcomic-downloader/releases/download/v$matchTag/$matchFile"
     }
 }

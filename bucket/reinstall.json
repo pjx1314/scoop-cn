@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0 license",
         "url": "https://github.com/bin456789/reinstall#GPL-3.0-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/bin456789/reinstall/archive/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/bin456789/reinstall/archive/main.zip",
     "hash": "663f8953936e5a6cae8d49d073fadfdf86e521b80517eb73e6c6daeb9b4558eb",
     "extract_dir": "reinstall-main",
     "bin": "reinstall.bat",
@@ -21,6 +21,6 @@
         "regex": "\\A(\\d+)\\Z"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bin456789/reinstall/archive/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/bin456789/reinstall/archive/main.zip"
     }
 }

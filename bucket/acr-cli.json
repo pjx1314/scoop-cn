@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Azure/acr-cli/releases/download/v0.21/acr-cli_0.21_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.21/acr-cli_0.21_Windows_x86_64.zip",
             "hash": "6466abb4423a96d28fda3fd94d88ac8d234bf46682f11794fbf825318c96a400"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Azure/acr-cli/releases/download/v0.21/acr-cli_0.21_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.21/acr-cli_0.21_Windows_i386.zip",
             "hash": "a82949ced4b2388f59135612020e1c046dcd20102ad6c39c5088c5922cfca3aa"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Azure/acr-cli/releases/download/v0.21/acr-cli_0.21_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.21/acr-cli_0.21_Windows_arm64.zip",
             "hash": "ff096f19ea88b40eb1304f3d65f2b99cc681209d6198fcaa769cf9345f3fa127"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Azure/acr-cli/releases/download/v$version/acr-cli_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v$version/acr-cli_$version_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Azure/acr-cli/releases/download/v$version/acr-cli_$version_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v$version/acr-cli_$version_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Azure/acr-cli/releases/download/v$version/acr-cli_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v$version/acr-cli_$version_Windows_arm64.zip"
             }
         },
         "hash": {

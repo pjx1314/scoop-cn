@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v0.47.0/octelium-windows-amd64.zip",
-                "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v0.47.0/octeliumctl-windows-amd64.zip",
-                "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v0.47.0/octops-windows-amd64.zip"
+                "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v0.47.0/octelium-windows-amd64.zip",
+                "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v0.47.0/octeliumctl-windows-amd64.zip",
+                "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v0.47.0/octops-windows-amd64.zip"
             ],
             "hash": [
                 "59c24b388437610afe0ff453f958889771896295d2abe4adc77cb424dc45b4ef",
@@ -18,9 +18,9 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v0.47.0/octelium-windows-arm64.zip",
-                "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v0.47.0/octeliumctl-windows-arm64.zip",
-                "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v0.47.0/octops-windows-arm64.zip"
+                "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v0.47.0/octelium-windows-arm64.zip",
+                "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v0.47.0/octeliumctl-windows-arm64.zip",
+                "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v0.47.0/octops-windows-arm64.zip"
             ],
             "hash": [
                 "289fb6801e21da8bd26a4ed8f219d2f024d474d5091daee3ccb57de434c9c702",
@@ -41,16 +41,16 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v$version/octelium-windows-amd64.zip",
-                    "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v$version/octeliumctl-windows-amd64.zip",
-                    "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v$version/octops-windows-amd64.zip"
+                    "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v$version/octelium-windows-amd64.zip",
+                    "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v$version/octeliumctl-windows-amd64.zip",
+                    "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v$version/octops-windows-amd64.zip"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v$version/octelium-windows-arm64.zip",
-                    "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v$version/octeliumctl-windows-arm64.zip",
-                    "https://gh-proxy.com/https://github.com/octelium/octelium/releases/download/v$version/octops-windows-arm64.zip"
+                    "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v$version/octelium-windows-arm64.zip",
+                    "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v$version/octeliumctl-windows-arm64.zip",
+                    "https://gh-proxy.org/https://github.com/octelium/octelium/releases/download/v$version/octops-windows-arm64.zip"
                 ]
             }
         }

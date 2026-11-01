@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-windows-amd64.exe.gz",
+            "url": "https://gh-proxy.org/https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-windows-amd64.exe.gz",
             "hash": "0b9cd957e5605da74994a6c29934da9af0e3af9c9b808f2274c826fba32dc3ae"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-windows-arm64.exe.gz",
+            "url": "https://gh-proxy.org/https://github.com/Velocidex/velociraptor/releases/download/v0.77.3/velociraptor-v0.77.3-windows-arm64.exe.gz",
             "hash": "606bb4e1cd9299172f9ecb25bedd03bbe7c2cf092ba23108940846d4b8d32bab"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Velocidex/velociraptor/releases/download/v$version/velociraptor-v$version-windows-amd64.exe.gz"
+                "url": "https://gh-proxy.org/https://github.com/Velocidex/velociraptor/releases/download/v$version/velociraptor-v$version-windows-amd64.exe.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Velocidex/velociraptor/releases/download/v$version/velociraptor-v$version-windows-arm64.exe.gz"
+                "url": "https://gh-proxy.org/https://github.com/Velocidex/velociraptor/releases/download/v$version/velociraptor-v$version-windows-arm64.exe.gz"
             }
         }
     }

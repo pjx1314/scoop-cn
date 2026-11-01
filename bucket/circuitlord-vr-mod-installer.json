@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/download/v1.2.12/CircuitLordVRModInstaller.exe",
+            "url": "https://gh-proxy.org/https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/download/v1.2.12/CircuitLordVRModInstaller.exe",
             "hash": "cc7b5f43442aba5793987dfdec2e5519513aff6ddd3fb6a42ee249d193ad590e"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/download/v$version/CircuitLordVRModInstaller.exe"
+                "url": "https://gh-proxy.org/https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/download/v$version/CircuitLordVRModInstaller.exe"
             }
         }
     }

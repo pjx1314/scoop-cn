@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sqlpage/SQLPage/releases/download/v0.47.0/sqlpage-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/sqlpage/SQLPage/releases/download/v0.47.0/sqlpage-windows.zip",
             "hash": "ea01ff6f8bdfcb8150811542f6afdb587b20a4febf510b550539f6cb384279a5"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sqlpage/SQLPage/releases/download/v$version/sqlpage-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/sqlpage/SQLPage/releases/download/v$version/sqlpage-windows.zip"
             }
         }
     }

@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/QAX-Anti-Virus/QDoctor",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/QAX-Anti-Virus/QDoctor/releases/download/latest/QDoctor.exe",
+    "url": "https://gh-proxy.org/https://github.com/QAX-Anti-Virus/QDoctor/releases/download/latest/QDoctor.exe",
     "hash": "",
     "bin": "QDoctor.exe",
     "shortcuts": [
@@ -23,6 +23,6 @@
         "jsonpath": "$.tag_name"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/QAX-Anti-Virus/QDoctor/releases/download/$version/QDoctor.exe"
+        "url": "https://gh-proxy.org/https://github.com/QAX-Anti-Virus/QDoctor/releases/download/$version/QDoctor.exe"
     }
 }

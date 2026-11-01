@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip",
             "hash": "cba84b26e0df5ae7f74fc66b86a95b866872a86292ebd84fa1e959927edd93bf"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.zip",
             "hash": "b413b92b735b50c198e8fe3b85af1aa50e29d5f72e229aab701d132286e14cef"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/denoland/deno/releases/download/v$version/deno-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/denoland/deno/releases/download/v$version/deno-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/denoland/deno/releases/download/v$version/deno-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/denoland/deno/releases/download/v$version/deno-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

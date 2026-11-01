@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KrokusPokus/JPEGView_L/releases/download/v1.4.0.9/JPEGView_L_v1.4.0.9.zip",
+            "url": "https://gh-proxy.org/https://github.com/KrokusPokus/JPEGView_L/releases/download/v1.4.0.9/JPEGView_L_v1.4.0.9.zip",
             "hash": "165636f0908b2bfea9832f17305732dd98a47f987dc2702e84628248c00a6f8f"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KrokusPokus/JPEGView_L/releases/download/v$version/JPEGView_L_v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/KrokusPokus/JPEGView_L/releases/download/v$version/JPEGView_L_v$version.zip"
             }
         }
     }

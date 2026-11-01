@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ozwaldorf/lutgen-rs/releases/download/lutgen-v1.1.1/lutgen-cli-v-x86_64-pc-windows-msvc.exe#/lutgen.exe",
+            "url": "https://gh-proxy.org/https://github.com/ozwaldorf/lutgen-rs/releases/download/lutgen-v1.1.1/lutgen-cli-v-x86_64-pc-windows-msvc.exe#/lutgen.exe",
             "hash": "2eecd30d587b8e62ea48fc0f9ddf542e5bafbb0aa29408cdbb649164ba0cc22c"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ozwaldorf/lutgen-rs/releases/download/lutgen-v$version/lutgen-cli-v-x86_64-pc-windows-msvc.exe#/lutgen.exe"
+                "url": "https://gh-proxy.org/https://github.com/ozwaldorf/lutgen-rs/releases/download/lutgen-v$version/lutgen-cli-v-x86_64-pc-windows-msvc.exe#/lutgen.exe"
             }
         }
     }

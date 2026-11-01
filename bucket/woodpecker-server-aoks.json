@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/woodpecker-ci/woodpecker/releases/download/v3.20.1/woodpecker-server_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/woodpecker-ci/woodpecker/releases/download/v3.20.1/woodpecker-server_windows_amd64.zip",
             "hash": "059c453d893542a09b9c1eed852b20c30797f12ed80b2cabcede428fd516aaf4"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/woodpecker-ci/woodpecker/releases/download/v$version/woodpecker-server_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/woodpecker-ci/woodpecker/releases/download/v$version/woodpecker-server_windows_amd64.zip"
             }
         },
         "hash": {

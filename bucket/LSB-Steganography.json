@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/RobinDavid/LSB-Steganography/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/RobinDavid/LSB-Steganography/archive/refs/heads/master.zip",
     "hash": "9e90801dae3ab6829f875228ab31f9507f9d9cea23abb4debad562c138e0c62c",
     "extract_dir": "LSB-Steganography-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/RobinDavid/LSB-Steganography/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/RobinDavid/LSB-Steganography/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

@@ -3,7 +3,7 @@
     "description": "A tool for transforming and moving code between repositories.",
     "homepage": "https://github.com/google/copybara",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/google/copybara/releases/download/v20261026/copybara_deploy.jar#/copybara.jar",
+    "url": "https://gh-proxy.org/https://github.com/google/copybara/releases/download/v20261026/copybara_deploy.jar#/copybara.jar",
     "hash": "1969f3417aa753226b53812705b1ab2a3f9564e4b964c0b0f7b6b71c75488923",
     "pre_install": "@($manifest.bin) | ForEach-Object { $n = [IO.Path]::GetFileNameWithoutExtension($_); Set-Content -Encoding ASCII -Path \"$dir\\$n.bat\" -Value \"@java -jar `\"%~dp0$n.jar`\" %*\" }",
     "bin": "copybara.bat",
@@ -17,7 +17,7 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/google/copybara/releases/download/v$version/copybara_deploy.jar#/copybara.jar",
+        "url": "https://gh-proxy.org/https://github.com/google/copybara/releases/download/v$version/copybara_deploy.jar#/copybara.jar",
         "hash": {
             "url": "$baseurl/copybara_deploy.jar.sha256"
         }

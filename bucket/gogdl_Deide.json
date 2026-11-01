@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Heroic-Games-Launcher/heroic-gogdl/releases/download/v1.4.0/gogdl_windows_x86_64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Heroic-Games-Launcher/heroic-gogdl/releases/download/v1.4.0/gogdl_windows_x86_64.exe",
             "hash": "291b653e6dbf7a394a3342ed0ebcea2cbc83e5f66d030777d65ccdd60d18ab02",
             "bin": "gogdl_windows_x86_64.exe",
             "pre_install": [
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Heroic-Games-Launcher/heroic-gogdl/releases/download/v$version/gogdl_windows_x86_64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Heroic-Games-Launcher/heroic-gogdl/releases/download/v$version/gogdl_windows_x86_64.exe"
             }
         }
     }

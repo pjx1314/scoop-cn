@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GreptimeTeam/greptimedb/releases/download/v1.3.0/greptime-windows-amd64-v1.3.0.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/GreptimeTeam/greptimedb/releases/download/v1.3.0/greptime-windows-amd64-v1.3.0.tar.gz",
             "extract_dir": "greptime-windows-amd64-v1.3.0",
             "hash": "78c271c19ebc3fdc5e0ee1aaebb3db91325a71912d72f3e1e760479239b40e49"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GreptimeTeam/greptimedb/releases/download/v$version/greptime-windows-amd64-v$version.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/GreptimeTeam/greptimedb/releases/download/v$version/greptime-windows-amd64-v$version.tar.gz",
                 "extract_dir": "greptime-windows-amd64-v$version",
                 "hash": {
                     "url": "$baseurl/greptime-windows-amd64-v$version.sha256sum"

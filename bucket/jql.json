@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-pc-windows-msvc.zip",
             "hash": "270816a8f06c96e6c4ecb32af379d3275991222f90648fa500f4572bbe68e2ba"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yamafaktory/jql/releases/download/jql-v$version/jql-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/yamafaktory/jql/releases/download/jql-v$version/jql-v$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

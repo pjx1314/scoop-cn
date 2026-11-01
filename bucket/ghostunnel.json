@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ghostunnel/ghostunnel/releases/download/v1.11.5/ghostunnel-windows-amd64.exe#/ghostunnel.exe",
+            "url": "https://gh-proxy.org/https://github.com/ghostunnel/ghostunnel/releases/download/v1.11.5/ghostunnel-windows-amd64.exe#/ghostunnel.exe",
             "hash": "5808832384238b78a138673b90da8fd7c71d0c1323e565de9df2f6933944451d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ghostunnel/ghostunnel/releases/download/v$version/ghostunnel-windows-amd64.exe#/ghostunnel.exe"
+                "url": "https://gh-proxy.org/https://github.com/ghostunnel/ghostunnel/releases/download/v$version/ghostunnel-windows-amd64.exe#/ghostunnel.exe"
             }
         }
     }

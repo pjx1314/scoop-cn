@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/tweag/nickel/releases/download/1.18.0/nickel-x86_64-windows.exe#/nickel.exe",
-                "https://gh-proxy.com/https://github.com/tweag/nickel/releases/download/1.18.0/nickel-pkg-x86_64-windows.exe#/nickel-pkg.exe",
-                "https://gh-proxy.com/https://github.com/tweag/nickel/releases/download/1.18.0/nls-x86_64-windows.exe#/nls.exe"
+                "https://gh-proxy.org/https://github.com/tweag/nickel/releases/download/1.18.0/nickel-x86_64-windows.exe#/nickel.exe",
+                "https://gh-proxy.org/https://github.com/tweag/nickel/releases/download/1.18.0/nickel-pkg-x86_64-windows.exe#/nickel-pkg.exe",
+                "https://gh-proxy.org/https://github.com/tweag/nickel/releases/download/1.18.0/nls-x86_64-windows.exe#/nls.exe"
             ],
             "hash": [
                 "efd2192fe1ed17e9a8c1063d90810e5fd6ebc3d057d4d9619cb2ff074800d274",
@@ -29,9 +29,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/tweag/nickel/releases/download/$version/nickel-x86_64-windows.exe#/nickel.exe",
-                    "https://gh-proxy.com/https://github.com/tweag/nickel/releases/download/$version/nickel-pkg-x86_64-windows.exe#/nickel-pkg.exe",
-                    "https://gh-proxy.com/https://github.com/tweag/nickel/releases/download/$version/nls-x86_64-windows.exe#/nls.exe"
+                    "https://gh-proxy.org/https://github.com/tweag/nickel/releases/download/$version/nickel-x86_64-windows.exe#/nickel.exe",
+                    "https://gh-proxy.org/https://github.com/tweag/nickel/releases/download/$version/nickel-pkg-x86_64-windows.exe#/nickel-pkg.exe",
+                    "https://gh-proxy.org/https://github.com/tweag/nickel/releases/download/$version/nls-x86_64-windows.exe#/nls.exe"
                 ]
             }
         }

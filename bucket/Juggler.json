@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/juggler-ai/juggler/releases/download/v0.7.9/juggler-v0.7.9-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/juggler-ai/juggler/releases/download/v0.7.9/juggler-v0.7.9-windows-amd64.zip",
             "hash": "08d183695ffb1a2719c9b816882e5c91ce3cc929e7eaac803080a66cff04a3c1"
         }
     },
@@ -28,9 +28,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/juggler-ai/juggler/releases/download/v$version/juggler-v$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/juggler-ai/juggler/releases/download/v$version/juggler-v$version-windows-amd64.zip",
                 "hash": {
-                    "url": "https://gh-proxy.com/https://github.com/juggler-ai/juggler/releases/download/v$version/checksums.txt",
+                    "url": "https://gh-proxy.org/https://github.com/juggler-ai/juggler/releases/download/v$version/checksums.txt",
                     "regex": "(?m)^([a-f0-9]{64})\\s+juggler-v$version-windows-amd64\\.zip$"
                 }
             }

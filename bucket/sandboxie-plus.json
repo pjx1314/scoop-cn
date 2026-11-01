@@ -4,16 +4,16 @@
     "homepage": "https://sandboxie-plus.com/",
     "license": {
         "identifier": "GPL-3.0-or-later",
-        "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/raw/master/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/raw/master/LICENSE"
     },
     "notes": "Get Sandboxie Classic if you have used Sandboxie for a long time and prefer a familiar environment over new features.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.0/Sandboxie-Plus-x64-v1.19.0.exe",
+            "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.0/Sandboxie-Plus-x64-v1.19.0.exe",
             "hash": "d6f2ce3bbdb1dac30ce3d9ef2d1e36ad05797125d97c37dd0896468f40ba7d88"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.0/Sandboxie-Plus-ARM64-v1.19.0.exe",
+            "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.0/Sandboxie-Plus-ARM64-v1.19.0.exe",
             "hash": "fb4deb53a2b100d2cb938755422d560a785940ed59f542f757a3f6e0597314f0"
         }
     },
@@ -56,10 +56,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Plus-x64-v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Plus-x64-v$version.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Plus-ARM64-v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Plus-ARM64-v$version.exe"
             }
         }
     }

@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/petoncle/mousemaster/releases/download/95/mousemaster.exe",
-                "https://gh-proxy.com/https://github.com/petoncle/mousemaster/releases/download/95/neo-mousekeys-ijkl.properties#/mousemaster.properties"
+                "https://gh-proxy.org/https://github.com/petoncle/mousemaster/releases/download/95/mousemaster.exe",
+                "https://gh-proxy.org/https://github.com/petoncle/mousemaster/releases/download/95/neo-mousekeys-ijkl.properties#/mousemaster.properties"
             ],
             "hash": [
                 "5e2291a22040de0d69f2d8b01e92ee7f99566c365b1027e4e57860e9af0de58f",
@@ -26,8 +26,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/petoncle/mousemaster/releases/download/$version/mousemaster.exe",
-                    "https://gh-proxy.com/https://github.com/petoncle/mousemaster/releases/download/$version/neo-mousekeys-ijkl.properties#/mousemaster.properties"
+                    "https://gh-proxy.org/https://github.com/petoncle/mousemaster/releases/download/$version/mousemaster.exe",
+                    "https://gh-proxy.org/https://github.com/petoncle/mousemaster/releases/download/$version/neo-mousekeys-ijkl.properties#/mousemaster.properties"
                 ]
             }
         }

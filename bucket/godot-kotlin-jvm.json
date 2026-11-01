@@ -3,7 +3,7 @@
     "description": "Godot Kotlin JVM, Kotlin/JVM binding for the Godot Game Engine",
     "homepage": "https://github.com/utopia-rise/godot-kotlin-jvm",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/utopia-rise/godot-kotlin-jvm/releases/download/0.17.1-4.7.2/godot-kotlin-jvm_editor_windows_x86_64_release_0.17.1-4.7.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/utopia-rise/godot-kotlin-jvm/releases/download/0.17.1-4.7.2/godot-kotlin-jvm_editor_windows_x86_64_release_0.17.1-4.7.2.zip",
     "hash": "39e6581681473e9fdd6f511f21596ae1a8a3967770ecfc907e5161dbcc95aa49",
     "pre_install": [
         "Remove-Item \"$dir\\godot.*console.exe\" -ErrorAction SilentlyContinue",
@@ -26,6 +26,6 @@
         "regex": "/releases/tag/([\\d.-]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/utopia-rise/godot-kotlin-jvm/releases/download/$version/godot-kotlin-jvm_editor_windows_x86_64_release_$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/utopia-rise/godot-kotlin-jvm/releases/download/$version/godot-kotlin-jvm_editor_windows_x86_64_release_$version.zip"
     }
 }

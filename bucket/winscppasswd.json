@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/anoopengineer/winscppasswd",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/anoopengineer/winscppasswd/releases/download/1.0/winscppasswd.exe",
+    "url": "https://gh-proxy.org/https://github.com/anoopengineer/winscppasswd/releases/download/1.0/winscppasswd.exe",
     "hash": "5a37f99fcddabfaa62df603f51428949ccf9511d0322b0a4cd2879811abc8e68",
     "bin": "winscppasswd.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/anoopengineer/winscppasswd/releases/download/$version/winscppasswd.exe"
+        "url": "https://gh-proxy.org/https://github.com/anoopengineer/winscppasswd/releases/download/$version/winscppasswd.exe"
     }
 }

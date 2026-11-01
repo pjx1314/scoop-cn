@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ionuttbara/windows-defender-remover/releases/download/release13-rev1/Defender.Remover.13.exe#/DefenderRemover.exe",
+            "url": "https://gh-proxy.org/https://github.com/ionuttbara/windows-defender-remover/releases/download/release13-rev1/Defender.Remover.13.exe#/DefenderRemover.exe",
             "hash": "64ea442286170f73a9083b52ded50a2edf8b0f3708fdcbc8b5855c4183b2ce2f"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ionuttbara/windows-defender-remover/releases/download/$version/$matchAsset#/DefenderRemover.exe"
+                "url": "https://gh-proxy.org/https://github.com/ionuttbara/windows-defender-remover/releases/download/$version/$matchAsset#/DefenderRemover.exe"
             }
         }
     }

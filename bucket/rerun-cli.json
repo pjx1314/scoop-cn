@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rerun-io/rerun/releases/download/0.41.0/rerun-cli-0.41.0-x86_64-pc-windows-msvc.exe#/rerun.exe",
+            "url": "https://gh-proxy.org/https://github.com/rerun-io/rerun/releases/download/0.41.0/rerun-cli-0.41.0-x86_64-pc-windows-msvc.exe#/rerun.exe",
             "hash": "69a0c34ef7686173e35be1606ee5c5995bae16470bdd49cefc08418713fc0be0"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rerun-io/rerun/releases/download/$version/rerun-cli-$version-x86_64-pc-windows-msvc.exe#/rerun.exe"
+                "url": "https://gh-proxy.org/https://github.com/rerun-io/rerun/releases/download/$version/rerun-cli-$version-x86_64-pc-windows-msvc.exe#/rerun.exe"
             }
         }
     }

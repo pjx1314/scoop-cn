@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pinchtab/pinchtab/releases/download/v0.15.2/pinchtab-windows-amd64.exe#/pinchtab.exe",
+            "url": "https://gh-proxy.org/https://github.com/pinchtab/pinchtab/releases/download/v0.15.2/pinchtab-windows-amd64.exe#/pinchtab.exe",
             "hash": "387e6d49b70fe6e82247391275123abe45922bebcb6f6316f3837413661e8703"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/pinchtab/pinchtab/releases/download/v0.15.2/pinchtab-windows-arm64.exe#/pinchtab.exe",
+            "url": "https://gh-proxy.org/https://github.com/pinchtab/pinchtab/releases/download/v0.15.2/pinchtab-windows-arm64.exe#/pinchtab.exe",
             "hash": "969271dc94956aebdc2d6c55f5916e3edbad73e9a9ab89037c22e09c32c20233"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pinchtab/pinchtab/releases/download/v$version/pinchtab-windows-amd64.exe#/pinchtab.exe"
+                "url": "https://gh-proxy.org/https://github.com/pinchtab/pinchtab/releases/download/v$version/pinchtab-windows-amd64.exe#/pinchtab.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/pinchtab/pinchtab/releases/download/v$version/pinchtab-windows-arm64.exe#/pinchtab.exe"
+                "url": "https://gh-proxy.org/https://github.com/pinchtab/pinchtab/releases/download/v$version/pinchtab-windows-arm64.exe#/pinchtab.exe"
             }
         },
         "hash": {

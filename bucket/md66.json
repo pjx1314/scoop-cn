@@ -3,7 +3,7 @@
     "description": "A free, open-source, cross-platform Markdown editor that starts fast and loads fast, for macOS, Windows, and Linux",
     "homepage": "https://github.com/shareven/md66",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/shareven/md66/releases/download/v0.1.1/md66_0.1.1_x64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/shareven/md66/releases/download/v0.1.1/md66_0.1.1_x64-setup.exe#/dl.7z",
     "hash": "dc9355c81f9d11a4ab0646f668dec45b8882b1f041978454688ce16271578019",
     "installer": {
         "script": [
@@ -26,6 +26,6 @@
         "github": "https://github.com/shareven/md66"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/shareven/md66/releases/download/v$version/md66_$version_x64-setup.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/shareven/md66/releases/download/v$version/md66_$version_x64-setup.exe#/dl.7z"
     }
 }

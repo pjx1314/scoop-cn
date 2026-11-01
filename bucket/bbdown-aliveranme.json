@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aliveranme/BBDown/releases/download/v1.7.8/BBDown_v1.7.8_win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/aliveranme/BBDown/releases/download/v1.7.8/BBDown_v1.7.8_win-x64.zip",
             "hash": "a65a93a2e930a448d6aa4d495ca5e3e34367037216dfa1b61baa3b93779501d8"
         }
     },
@@ -59,7 +59,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aliveranme/BBDown/releases/download/v$version/BBDown_v$version_win-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/aliveranme/BBDown/releases/download/v$version/BBDown_v$version_win-x64.zip",
                 "hash": {
                     "mode": "extract",
                     "url": "https://github.com/aliveranme/BBDown/releases/expanded_assets/v$version",

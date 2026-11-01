@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pgrok/pgrok/releases/download/v1.7.0/pgrok_1.7.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pgrok/pgrok/releases/download/v1.7.0/pgrok_1.7.0_windows_amd64.zip",
             "hash": "67a5152fcaf5a5904ed4bad832be86aaa68bd07bbcbe3780991689ae8f4d77d5"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/pgrok/pgrok/releases/download/v1.7.0/pgrok_1.7.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pgrok/pgrok/releases/download/v1.7.0/pgrok_1.7.0_windows_arm64.zip",
             "hash": "323247093516e766237714cad0f03123d3f7fe7dd36d8d1ae4d20c2e023a8558"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pgrok/pgrok/releases/download/v$version/pgrok_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pgrok/pgrok/releases/download/v$version/pgrok_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/pgrok/pgrok/releases/download/v$version/pgrok_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pgrok/pgrok/releases/download/v$version/pgrok_$version_windows_arm64.zip"
             }
         },
         "hash": {

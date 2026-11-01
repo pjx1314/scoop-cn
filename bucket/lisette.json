@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ivov/lisette/releases/download/lisette-v0.12.5/lisette-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ivov/lisette/releases/download/lisette-v0.12.5/lisette-x86_64-pc-windows-msvc.zip",
             "hash": "c680dd367063508909d234e217c33ddd1add560440ddcdd12b0dfad9ba19f4a9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ivov/lisette/releases/download/lisette-v0.12.5/lisette-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ivov/lisette/releases/download/lisette-v0.12.5/lisette-aarch64-pc-windows-msvc.zip",
             "hash": "07c0b7be3476d2c402749bb90874d34cd2f49e96048e2c89545108aa7f5def68"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ivov/lisette/releases/download/lisette-v$version/lisette-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ivov/lisette/releases/download/lisette-v$version/lisette-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ivov/lisette/releases/download/lisette-v$version/lisette-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ivov/lisette/releases/download/lisette-v$version/lisette-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

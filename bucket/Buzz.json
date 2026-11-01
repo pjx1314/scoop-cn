@@ -3,7 +3,7 @@
     "description": "Transcribes and translates audio offline on your personal computer.",
     "license": "MIT",
     "version": "1.4.5",
-    "url": "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows.exe",
+    "url": "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v1.4.5/Buzz-1.4.5-windows.exe",
     "hash": "523f5b04e80bc45d44559fc689d8678a181e8837791aaca5722c3ec3dd1db2e1",
     "installer": {
         "args": [
@@ -26,6 +26,6 @@
         "github": "https://github.com/chidiwilliams/buzz"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows.exe"
+        "url": "https://gh-proxy.org/https://github.com/chidiwilliams/buzz/releases/download/v$version/Buzz-$version-windows.exe"
     }
 }

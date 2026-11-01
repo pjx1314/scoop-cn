@@ -3,7 +3,7 @@
     "description": "Free open-source disk encryption software.",
     "license": "Apache-2.0",
     "version": "1.26.30",
-    "url": "https://gh-proxy.com/https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.30/VeraCrypt.Portable.1.26.30.exe#/VeraCrypt.Portable.exe",
+    "url": "https://gh-proxy.org/https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.30/VeraCrypt.Portable.1.26.30.exe#/VeraCrypt.Portable.exe",
     "hash": "8891f597054ca9dc2d9182d607b02278fa728d6be2d5116330a02de3dffa8da3",
     "pre_install": [
         "$file = \"$dir\\VeraCrypt.Portable.exe\"",

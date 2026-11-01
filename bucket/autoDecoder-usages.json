@@ -3,7 +3,7 @@
     "description": "autoDecoder的用法及案例，包含加解密方法、绕waf、替换参数等操作。",
     "homepage": "https://github.com/f0ng/autoDecoder-usages",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/f0ng/autoDecoder-usages/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/f0ng/autoDecoder-usages/archive/refs/heads/master.zip",
     "hash": "b26167d5d9da10ab51e431a51a35def95b07d12b5db865719af8553ebfb039bc",
     "extract_dir": "autoDecoder-usages-main",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/f0ng/autoDecoder-usages/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/f0ng/autoDecoder-usages/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全资料",

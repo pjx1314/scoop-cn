@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/roapi/roapi/releases/download/roapi-v0.13.0/roapi-windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/roapi/roapi/releases/download/roapi-v0.13.0/roapi-windows.tar.gz",
             "hash": "65d171cf57a27c8345c66e99a2447b6e505a5b31b395984447db21526b315d01"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/roapi/roapi/releases/download/roapi-v$version/roapi-windows.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/roapi/roapi/releases/download/roapi-v$version/roapi-windows.tar.gz"
             }
         }
     }

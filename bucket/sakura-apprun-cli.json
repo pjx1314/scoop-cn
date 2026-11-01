@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fujiwara/apprun-cli/releases/download/v0.9.0/apprun-cli_v0.9.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/fujiwara/apprun-cli/releases/download/v0.9.0/apprun-cli_v0.9.0_windows_amd64.tar.gz",
             "hash": "8637bce6d80678447603181e7b604eaf69189441e7ee7218a820cb30a310ab75"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/fujiwara/apprun-cli/releases/download/v0.9.0/apprun-cli_v0.9.0_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/fujiwara/apprun-cli/releases/download/v0.9.0/apprun-cli_v0.9.0_windows_arm64.tar.gz",
             "hash": "bcae84ab343acb7dcde0eb56b8a0c741119dc702d40fd36fce383278d8cbfcd7"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fujiwara/apprun-cli/releases/download/v$version/apprun-cli_v$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/fujiwara/apprun-cli/releases/download/v$version/apprun-cli_v$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/fujiwara/apprun-cli/releases/download/v$version/apprun-cli_v$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/fujiwara/apprun-cli/releases/download/v$version/apprun-cli_v$version_windows_arm64.tar.gz"
             }
         }
     }

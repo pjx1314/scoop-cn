@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hostodo/odo-cli/releases/download/v2.2.2/odo-cli_2.2.2_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/hostodo/odo-cli/releases/download/v2.2.2/odo-cli_2.2.2_Windows_x86_64.tar.gz",
             "hash": "ab739ff318e4040dc534f7299c189a2bea42d39227ac294bd5562c475e5eb3f4"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hostodo/odo-cli/releases/download/v$version/odo-cli_$version_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/hostodo/odo-cli/releases/download/v$version/odo-cli_$version_Windows_x86_64.tar.gz"
             }
         },
         "hash": {

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tidain/YunX-Desktop/releases/download/v1.3.3/YunX-Desktop-v1.3.3-win64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/tidain/YunX-Desktop/releases/download/v1.3.3/YunX-Desktop-v1.3.3-win64-portable.zip",
             "hash": "f1bb11f1abb63779fc4b0751c79ecdc735a08059dbe49c551c10aaf81956e3c1"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tidain/YunX-Desktop/releases/download/v$version/YunX-Desktop-v$version-win64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/tidain/YunX-Desktop/releases/download/v$version/YunX-Desktop-v$version-win64-portable.zip"
             }
         }
     }

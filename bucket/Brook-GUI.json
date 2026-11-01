@@ -3,7 +3,7 @@
     "homepage": "https://github.com/txthinking/brook/",
     "description": "cross-platform strong encryption and not detectable proxy",
     "license": "GPL-3.0 License",
-    "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v20270101/Brook.msix#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v20270101/Brook.msix#/dl.7z",
     "hash": "69f976f7f3976cfbaf0644e116d5c90a3dd1374075761a5f3bdeca25ecfff4ef",
     "bin": "Brook.exe",
     "shortcuts": [
@@ -16,6 +16,6 @@
         "github": "https://github.com/txthinking/brook/"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v$version/Brook.msix#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v$version/Brook.msix#/dl.7z"
     }
 }

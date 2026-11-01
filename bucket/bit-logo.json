@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/superstarryeyes/bit/releases/download/v0.4.0/bit_0.4.0_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/superstarryeyes/bit/releases/download/v0.4.0/bit_0.4.0_Windows_x86_64.tar.gz",
             "hash": "2f82e4121c36c6d7df504dbc0882321448d1a0fda65570276111bed9181906b8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/superstarryeyes/bit/releases/download/v0.4.0/bit_0.4.0_Windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/superstarryeyes/bit/releases/download/v0.4.0/bit_0.4.0_Windows_arm64.tar.gz",
             "hash": "92814d1d73dde52d8a3bbe98e56300043b140db2fc9540f7a973a159d24c5046"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/superstarryeyes/bit/releases/download/v$version/bit_$version_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/superstarryeyes/bit/releases/download/v$version/bit_$version_Windows_x86_64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/superstarryeyes/bit/releases/download/v$version/bit_$version_Windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/superstarryeyes/bit/releases/download/v$version/bit_$version_Windows_arm64.tar.gz"
             }
         },
         "hash": {

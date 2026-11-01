@@ -3,7 +3,7 @@
     "description": "基于burpsuite的资产分析工具，提供资产收集管理、被动检测和主动检测等功能",
     "homepage": "https://github.com/z2p/sweetPotato",
     "license": "GPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/z2p/sweetPotato/releases/download/version1.6/sweetPotato1.6.zip",
+    "url": "https://gh-proxy.org/https://github.com/z2p/sweetPotato/releases/download/version1.6/sweetPotato1.6.zip",
     "hash": "65ff8e14121473468f554cf53b0b73b8352684c7c7e68f0a6d8f4b99e18cb073",
     "checkver": {
         "url": "https://api.github.com/repos/z2p/sweetPotato/releases/latest",
@@ -11,7 +11,7 @@
         "regex": "version([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/z2p/sweetPotato/releases/download/version$version/sweetPotato$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/z2p/sweetPotato/releases/download/version$version/sweetPotato$version.zip"
     },
     "notes": [
         "【工具类型】: Burp Suite扩展",

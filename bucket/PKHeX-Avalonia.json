@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/realgarit/PKHeX-Avalonia/releases/download/v1.98.8/PKHeX-Avalonia-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/realgarit/PKHeX-Avalonia/releases/download/v1.98.8/PKHeX-Avalonia-win-x64.zip",
             "hash": "d9db7cf9d8efaf44767c7ac19dd74cd8f075b133d3064bf64d36193aff3a606f"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/realgarit/PKHeX-Avalonia/releases/download/v$version/PKHeX-Avalonia-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/realgarit/PKHeX-Avalonia/releases/download/v$version/PKHeX-Avalonia-win-x64.zip"
             }
         }
     }

@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases/download/v1.0.19/hongguo-1.0.19-windows-x86_64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases/download/v1.0.19/hongguo-1.0.19-windows-x86_64-setup.exe#/dl.7z",
             "hash": "aca89e46ef9ee330963d409945318f1cb5a039f5ec95b4200870361ef800e40a",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse"
         }
@@ -49,7 +49,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases/download/v$version/hongguo-$version-windows-x86_64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases/download/v$version/hongguo-$version-windows-x86_64-setup.exe#/dl.7z"
             }
         },
         "hash": {

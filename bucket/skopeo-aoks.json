@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/passcod/winskopeo/releases/download/v1.24.1/skopeo.exe",
+            "url": "https://gh-proxy.org/https://github.com/passcod/winskopeo/releases/download/v1.24.1/skopeo.exe",
             "hash": "4dc4017d7f7488b77493e1e01038cf719448c71ab6e62d22feb085965ca35423"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/passcod/winskopeo/releases/download/v$version/skopeo.exe"
+                "url": "https://gh-proxy.org/https://github.com/passcod/winskopeo/releases/download/v$version/skopeo.exe"
             }
         }
     }

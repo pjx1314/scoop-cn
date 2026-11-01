@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/l3yx/jdwp-codeifier/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/l3yx/jdwp-codeifier/archive/refs/heads/master.zip",
     "hash": "b00e9e1794b1442ad0b44d735c01dcc8c0dd442bfa7eda84a5e8cfee8c699293",
     "extract_dir": "jdwp-codeifier-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/l3yx/jdwp-codeifier/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/l3yx/jdwp-codeifier/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

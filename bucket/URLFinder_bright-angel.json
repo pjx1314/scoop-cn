@@ -3,12 +3,12 @@
     "description": "URLFinder是一款快速、全面、易用的页面信息提取工具",
     "homepage": "https://github.com/pingc0y/URLFinder",
     "license": "",
-    "url": "https://gh-proxy.com/https://github.com/pingc0y/URLFinder/releases/download/2026.6.16/URLFinder_Windows_x86_64.zip",
+    "url": "https://gh-proxy.org/https://github.com/pingc0y/URLFinder/releases/download/2026.6.16/URLFinder_Windows_x86_64.zip",
     "hash": "cf796ca0164b2495ba4198211767cf077a4a0f1b0dda76b96ec8f3b4ba1421e4",
     "bin": "URLFinder.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pingc0y/URLFinder/releases/download/$version/URLFinder_Windows_x86_64.zip"
+        "url": "https://gh-proxy.org/https://github.com/pingc0y/URLFinder/releases/download/$version/URLFinder_Windows_x86_64.zip"
     },
     "notes": [
         "【工具类型】: 信息收集工具",

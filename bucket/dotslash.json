@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/facebook/dotslash/releases/download/v0.5.9/dotslash-windows.v0.5.9.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/facebook/dotslash/releases/download/v0.5.9/dotslash-windows.v0.5.9.tar.gz",
             "hash": "c925840a9bf9105a187cd120278cb023c51dac0cecb3234855152422751b7b41"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/facebook/dotslash/releases/download/v$version/dotslash-windows.v$version.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/facebook/dotslash/releases/download/v$version/dotslash-windows.v$version.tar.gz"
             }
         }
     }

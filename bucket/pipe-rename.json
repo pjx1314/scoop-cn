@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/marcusbuffett/pipe-rename/releases/download/1.6.7/renamer-1.6.7-x86_64-pc-windows-msvc.exe#/renamer.exe",
+            "url": "https://gh-proxy.org/https://github.com/marcusbuffett/pipe-rename/releases/download/1.6.7/renamer-1.6.7-x86_64-pc-windows-msvc.exe#/renamer.exe",
             "hash": "cd0769a503c129711e38787ebc38200b2f2c487c90dccc0e4159934e3d5e2bfd"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/marcusbuffett/pipe-rename/releases/download/$version/renamer-$version-x86_64-pc-windows-msvc.exe#/renamer.exe"
+                "url": "https://gh-proxy.org/https://github.com/marcusbuffett/pipe-rename/releases/download/$version/renamer-$version-x86_64-pc-windows-msvc.exe#/renamer.exe"
             }
         },
         "hash": {

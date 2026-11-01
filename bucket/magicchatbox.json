@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BoiHanny/vrcosc-magicchatbox/releases/download/v0.9.226/MagicChatbox-0.9.226.zip",
+            "url": "https://gh-proxy.org/https://github.com/BoiHanny/vrcosc-magicchatbox/releases/download/v0.9.226/MagicChatbox-0.9.226.zip",
             "hash": "60ea24467fc7391144c1064589e96102423ac70f5981f5d25b37c60ed0ae3d88"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BoiHanny/vrcosc-magicchatbox/releases/download/v$version/MagicChatbox-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/BoiHanny/vrcosc-magicchatbox/releases/download/v$version/MagicChatbox-$version.zip"
             }
         }
     }

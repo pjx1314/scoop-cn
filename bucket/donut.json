@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zhom/donutbrowser/releases/download/v0.35.5/Donut_0.35.5_x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/zhom/donutbrowser/releases/download/v0.35.5/Donut_0.35.5_x64-portable.zip",
             "hash": "c924c792cc3f7678fed677b9524ea4ee2eae233470b55b9de5b1d76267be19cb"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zhom/donutbrowser/releases/download/v$version/Donut_$version_x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/zhom/donutbrowser/releases/download/v$version/Donut_$version_x64-portable.zip"
             }
         }
     }

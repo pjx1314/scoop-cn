@@ -6,7 +6,7 @@
     "notes": "首次启动在设置页填 OpenRouter API key（写进用户环境变量，不落文件）；exe 未签名，SmartScreen 拦截时选「更多信息」→「仍要运行」",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jev-chat/jev-chat-windows/releases/download/v0.1.12/jev-chat-windows-v0.1.12.zip",
+            "url": "https://gh-proxy.org/https://github.com/jev-chat/jev-chat-windows/releases/download/v0.1.12/jev-chat-windows-v0.1.12.zip",
             "hash": "32414ab37f1cfb45f70458c02e7997b9a98cb242f0eff37bd6a19187a62c9634"
         }
     },
@@ -22,7 +22,7 @@
         "github": "https://github.com/jev-chat/jev-chat-windows"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jev-chat/jev-chat-windows/releases/download/v$version/jev-chat-windows-v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/jev-chat/jev-chat-windows/releases/download/v$version/jev-chat-windows-v$version.zip",
         "hash": {
             "mode": "extract",
             "url": "https://github.com/jev-chat/jev-chat-windows/releases/expanded_assets/v$version",

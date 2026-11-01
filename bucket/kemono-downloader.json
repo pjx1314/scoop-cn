@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v10.01/Kemono.Downloader.exe",
-                "https://gh-proxy.com/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v10.01/_internal.rar"
+                "https://gh-proxy.org/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v10.01/Kemono.Downloader.exe",
+                "https://gh-proxy.org/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v10.01/_internal.rar"
             ],
             "hash": [
                 "b7e41eb3c97043d7117dca531e9f0c1d9804c8dae917155655fbbe81a8cb7d85",
@@ -27,8 +27,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v$version/Kemono.Downloader.exe",
-                    "https://gh-proxy.com/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v$version/_internal.rar"
+                    "https://gh-proxy.org/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v$version/Kemono.Downloader.exe",
+                    "https://gh-proxy.org/https://github.com/Yuvi9587/Kemono-Downloader/releases/download/v$version/_internal.rar"
                 ]
             }
         }

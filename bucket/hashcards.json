@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eudoxia0/hashcards/releases/download/v0.5.0/hashcards-v0.5.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/eudoxia0/hashcards/releases/download/v0.5.0/hashcards-v0.5.0-windows-amd64.zip",
             "hash": "eade20822302795627b30d9e89eae7029e11ecc16a568438652272dda46eba73",
             "extract_dir": "hashcards-v0.5.0-windows-amd64"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eudoxia0/hashcards/releases/download/v$version/hashcards-v$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/eudoxia0/hashcards/releases/download/v$version/hashcards-v$version-windows-amd64.zip",
                 "extract_dir": "hashcards-v$version-windows-amd64"
             }
         }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Vencord/Installer/releases/download/v1.4.2/VencordInstallerCli.exe",
+            "url": "https://gh-proxy.org/https://github.com/Vencord/Installer/releases/download/v1.4.2/VencordInstallerCli.exe",
             "hash": "15268aba25625797bf562187dd87ddadf42882e079c7b6192880ad3e83353ef5"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Vencord/Installer/releases/download/v$version/VencordInstallerCli.exe"
+                "url": "https://gh-proxy.org/https://github.com/Vencord/Installer/releases/download/v$version/VencordInstallerCli.exe"
             }
         },
         "hash": {

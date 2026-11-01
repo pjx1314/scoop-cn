@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cenglin123/SteganographierGUI/releases/download/v1.3.11/SteganographierGUI_v1.3.11_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/cenglin123/SteganographierGUI/releases/download/v1.3.11/SteganographierGUI_v1.3.11_portable.zip",
             "hash": "19566bad321bc73d48463db874eb559a5ea2b1c1000a7aa28db48755290e4e3b"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cenglin123/SteganographierGUI/releases/download/v$version/SteganographierGUI_v$version_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/cenglin123/SteganographierGUI/releases/download/v$version/SteganographierGUI_v$version_portable.zip"
             }
         }
     }

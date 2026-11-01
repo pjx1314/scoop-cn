@@ -6,7 +6,7 @@
         "identifier": "MIT",
         "url": "https://github.com/cloud-jie/YCloud/blob/main/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/cloud-jie/YCloud/releases/download/0.36/YCloud-0.36.jar",
+    "url": "https://gh-proxy.org/https://github.com/cloud-jie/YCloud/releases/download/0.36/YCloud-0.36.jar",
     "hash": "98a68318ea6356075f9bb68bdd202070df0e5dfe0edb71f6e0242f5a40290571",
     "notes": [
         "【工具类型】: Burp Suite扩展",
@@ -19,6 +19,6 @@
         "jsonpath": "$.tag_name"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/cloud-jie/YCloud/releases/download/$version/YCloud-$version.jar"
+        "url": "https://gh-proxy.org/https://github.com/cloud-jie/YCloud/releases/download/$version/YCloud-$version.jar"
     }
 }

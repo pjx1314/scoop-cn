@@ -5,12 +5,12 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F0.29.0/apple-codesign-0.29.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F0.29.0/apple-codesign-0.29.0-x86_64-pc-windows-msvc.zip",
             "extract_dir": "apple-codesign-0.29.0-x86_64-pc-windows-msvc",
             "hash": "54bb500e2da7a8de02fcae0f331d1cac6e6d7173b4281042ff9c528ba3159aaa"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F0.29.0/apple-codesign-0.29.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F0.29.0/apple-codesign-0.29.0-i686-pc-windows-msvc.zip",
             "extract_dir": "apple-codesign-0.29.0-i686-pc-windows-msvc",
             "hash": "fd5aeb908f1d3be60f7e372003772f52a6ce4148106d3aaf22aec6861f5d8a5e"
         }
@@ -23,11 +23,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F$version/apple-codesign-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F$version/apple-codesign-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "apple-codesign-$version-x86_64-pc-windows-msvc"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F$version/apple-codesign-$version-i686-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/indygreg/apple-platform-rs/releases/download/apple-codesign%2F$version/apple-codesign-$version-i686-pc-windows-msvc.zip",
                 "extract_dir": "apple-codesign-$version-i686-pc-windows-msvc"
             }
         },

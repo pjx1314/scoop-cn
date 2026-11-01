@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/luolangaga/tubatools/releases/download/v1.8.0/TubaWinUi3_Portable_1.8.0_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/luolangaga/tubatools/releases/download/v1.8.0/TubaWinUi3_Portable_1.8.0_x64.zip",
             "hash": "8d4fe15989afa861db8a7245d1e9d2700b6dc64dc71a3c8c594551b49abf851e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/luolangaga/tubatools/releases/download/v1.8.0/TubaWinUi3_Portable_1.8.0_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/luolangaga/tubatools/releases/download/v1.8.0/TubaWinUi3_Portable_1.8.0_arm64.zip",
             "hash": "5e9bea2c10071ca03faa2a9ed24be2bee0ccd8e6ab22fa88ad325f326c9bf98a"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/luolangaga/tubatools/releases/download/v$version/TubaWinUi3_Portable_$version_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/luolangaga/tubatools/releases/download/v$version/TubaWinUi3_Portable_$version_x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/luolangaga/tubatools/releases/download/v$version/TubaWinUi3_Portable_$version_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/luolangaga/tubatools/releases/download/v$version/TubaWinUi3_Portable_$version_arm64.zip"
             }
         }
     }

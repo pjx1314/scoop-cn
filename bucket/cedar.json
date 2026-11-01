@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-pc-windows-msvc.zip",
             "hash": "e67773eeb17bbdf0146768ff17f6cc14a0b5d5cf322c62599ba7cf7c67277930"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v$version/cedar-policy-cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v$version/cedar-policy-cli-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

@@ -13,7 +13,7 @@
             "hash": "4c2dab7e18696f25f98348fd981db664a982fb159a5f2dd77c9d985a847c6acd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ip7z/7zip/releases/download/26.05/7z2605-arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.05/7z2605-arm64.exe",
             "hash": "86d5790d5dd84cab4636c3bb7fab10d3ed7cd3e57e6119401bd2769e28165268",
             "pre_install": [
                 "$7zr = Join-Path $env:TMP '7zr.exe'",

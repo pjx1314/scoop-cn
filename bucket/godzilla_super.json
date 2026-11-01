@@ -4,8 +4,8 @@
     "homepage": "https://github.com/Xaaaa-bip/GodzillaSuper",
     "license": "UNKNOWN",
     "url": [
-        "https://gh-proxy.com/https://github.com/Xaaaa-bip/GodzillaSuper/releases/download/3.1.8/gsl5.jar#/gsl5.jar",
-        "https://gh-proxy.com/https://github.com/Xaaaa-bip/GodzillaSuper/archive/refs/heads/main.zip"
+        "https://gh-proxy.org/https://github.com/Xaaaa-bip/GodzillaSuper/releases/download/3.1.8/gsl5.jar#/gsl5.jar",
+        "https://gh-proxy.org/https://github.com/Xaaaa-bip/GodzillaSuper/archive/refs/heads/main.zip"
     ],
     "hash": [
         "3634aba4787f5f59bbc62aa209fd960aaa3cb78478a2a27f22b38f1ad1cc38bf",
@@ -32,8 +32,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/Xaaaa-bip/GodzillaSuper/releases/download/$version/gsl5.jar#/gsl5.jar",
-            "https://gh-proxy.com/https://github.com/Xaaaa-bip/GodzillaSuper/archive/refs/heads/main.zip"
+            "https://gh-proxy.org/https://github.com/Xaaaa-bip/GodzillaSuper/releases/download/$version/gsl5.jar#/gsl5.jar",
+            "https://gh-proxy.org/https://github.com/Xaaaa-bip/GodzillaSuper/archive/refs/heads/main.zip"
         ]
     },
     "notes": [

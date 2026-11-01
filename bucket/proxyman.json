@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ProxymanApp/proxyman-windows-linux/releases/download/26.2.0/Proxyman.Setup.26.2.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ProxymanApp/proxyman-windows-linux/releases/download/26.2.0/Proxyman.Setup.26.2.0.exe#/dl.7z",
             "hash": "62fcf29dde7e0ccdd77bbe7468ca8056411e0306c235f30da061e53fed0f89c2"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ProxymanApp/proxyman-windows-linux/releases/download/$version/Proxyman.Setup.$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ProxymanApp/proxyman-windows-linux/releases/download/$version/Proxyman.Setup.$version.exe#/dl.7z"
             }
         }
     }

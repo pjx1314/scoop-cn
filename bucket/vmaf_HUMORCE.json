@@ -5,7 +5,7 @@
     "license": "BSD-2-Clause-Patent",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Netflix/vmaf/releases/download/v3.2.1/vmaf.exe",
+            "url": "https://gh-proxy.org/https://github.com/Netflix/vmaf/releases/download/v3.2.1/vmaf.exe",
             "hash": "62d3a34f60edce516a97c5eed670f66bea903999d1139c1696fdb6ab22988217"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Netflix/vmaf/releases/download/v$version/vmaf.exe"
+                "url": "https://gh-proxy.org/https://github.com/Netflix/vmaf/releases/download/v$version/vmaf.exe"
             }
         }
     }

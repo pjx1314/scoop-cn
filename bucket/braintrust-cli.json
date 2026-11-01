@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/braintrustdata/bt/releases/download/v0.28.1/bt-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/braintrustdata/bt/releases/download/v0.28.1/bt-x86_64-pc-windows-msvc.zip",
             "hash": "aca9da1019070b5346a40b73c071d4f3b741acf398d085c6b724a7b8deec4b8e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/braintrustdata/bt/releases/download/v0.28.1/bt-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/braintrustdata/bt/releases/download/v0.28.1/bt-aarch64-pc-windows-msvc.zip",
             "hash": "b76e006289402ca2b5a0ff6bad5d1f91a53fb6cac79538003619b7ea884c12f0"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/braintrustdata/bt/releases/download/v$version/bt-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/braintrustdata/bt/releases/download/v$version/bt-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/braintrustdata/bt/releases/download/v$version/bt-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/braintrustdata/bt/releases/download/v$version/bt-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

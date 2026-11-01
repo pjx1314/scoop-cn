@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bestruirui/BestSub/releases/download/v2.0.3/bestsub-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v2.0.3/bestsub-windows-amd64.zip",
             "hash": "564c688431406375849a29ea4fffaabd6ffb245155eeeab85edca1b12b70122e"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bestruirui/BestSub/releases/download/v2.0.3/bestsub-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bestruirui/BestSub/releases/download/v2.0.3/bestsub-windows-amd64.zip"
             }
         }
     }

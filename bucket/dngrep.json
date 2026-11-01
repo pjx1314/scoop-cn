@@ -5,17 +5,17 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dnGrep/dnGrep/releases/download/v5.0.65.0/dnGREP.5.0.65.x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/dnGrep/dnGrep/releases/download/v5.0.65.0/dnGREP.5.0.65.x64.msi",
             "hash": "200a100f499abc89a2a332dbb14d65728c7b851a80abfd8b13da67e6c68f836f",
             "extract_dir": "PFiles64\\dnGrep"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/dnGrep/dnGrep/releases/download/v5.0.65.0/dnGREP.5.0.65.x86.msi",
+            "url": "https://gh-proxy.org/https://github.com/dnGrep/dnGrep/releases/download/v5.0.65.0/dnGREP.5.0.65.x86.msi",
             "hash": "b832b549f4461ce3263550540070c72827f76124bb06d5aa899ee906f8f95f52",
             "extract_dir": "PFiles\\dnGrep"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dnGrep/dnGrep/releases/download/v5.0.65.0/dnGREP.5.0.65.ARM64.msi",
+            "url": "https://gh-proxy.org/https://github.com/dnGrep/dnGrep/releases/download/v5.0.65.0/dnGREP.5.0.65.ARM64.msi",
             "hash": "4e763865725ab727b9ad01d077f252400a271a061ac28a259a019ba9a2318fb0",
             "extract_dir": "PFiles64\\dnGrep"
         }
@@ -40,13 +40,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x64.msi"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x86.msi"
+                "url": "https://gh-proxy.org/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x86.msi"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.ARM64.msi"
+                "url": "https://gh-proxy.org/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.ARM64.msi"
             }
         }
     }

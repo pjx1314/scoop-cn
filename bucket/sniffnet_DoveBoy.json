@@ -6,11 +6,11 @@
     "notes": "This application requires Npcap to function. Download Npcap here, https://npcap.com/#download",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi",
             "hash": "3f4dacf273b0e5270d4055a6561c5b0e1e0747ef6530f984cc42389ebc401700"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi",
+            "url": "https://gh-proxy.org/https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi",
             "hash": "eee53cbd9aaa80d8e046363c5a8881839a057618bb58b5ce942e562580ced234"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GyulyVGC/sniffnet/releases/download/v$version/Sniffnet_Windows_x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/GyulyVGC/sniffnet/releases/download/v$version/Sniffnet_Windows_x64.msi"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/GyulyVGC/sniffnet/releases/download/v$version/Sniffnet_Windows_x86.msi"
+                "url": "https://gh-proxy.org/https://github.com/GyulyVGC/sniffnet/releases/download/v$version/Sniffnet_Windows_x86.msi"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/commetchat/commet/releases/download/v0.5.1/commet-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/commetchat/commet/releases/download/v0.5.1/commet-windows.zip",
             "hash": "0870d68fdbea79696d21b2dc00f616b8f7aee91f76e878026f4973659361117d"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/commetchat/commet/releases/download/v$version/commet-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/commetchat/commet/releases/download/v$version/commet-windows.zip"
             }
         }
     }

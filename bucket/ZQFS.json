@@ -3,7 +3,7 @@
     "description": "朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project",
     "homepage": "https://github.com/TrionesType/zhuque",
     "license": "OFL-1.1",
-    "url": "https://gh-proxy.com/https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip",
+    "url": "https://gh-proxy.org/https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip",
     "hash": "bb8b661a7643d2296a72d9d10530a00949419c4e527fb61783f73c2ba1a8c062",
     "installer": {
         "script": [
@@ -105,6 +105,6 @@
         "regex": "v?([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/TrionesType/zhuque/releases/download/v$version/ZhuqueFangsong-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/TrionesType/zhuque/releases/download/v$version/ZhuqueFangsong-v$version.zip"
     }
 }

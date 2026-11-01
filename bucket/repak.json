@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/trumank/repak/releases/download/v0.2.3/repak_cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/trumank/repak/releases/download/v0.2.3/repak_cli-x86_64-pc-windows-msvc.zip",
             "hash": "6720d602144d75df477a99d5bedb6ea780997546afc335901d4937cafeaa73fa"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/trumank/repak/releases/download/v$version/repak_cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/trumank/repak/releases/download/v$version/repak_cli-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

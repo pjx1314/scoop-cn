@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Molunerfinn/PicGo/releases/download/v3.0.3/PicGo-3.0.3-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Molunerfinn/PicGo/releases/download/v3.0.3/PicGo-3.0.3-x64.exe#/dl.7z",
             "hash": "4206dcd4a931886c6d6669fce1072dd158b5762ce30b6a8446ee85e2be724c63",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -13,7 +13,7 @@
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Molunerfinn/PicGo/releases/download/v3.0.3/PicGo-3.0.3-ia32.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Molunerfinn/PicGo/releases/download/v3.0.3/PicGo-3.0.3-ia32.exe#/dl.7z",
             "hash": "bf1d22a13693790ab87293ad56f711215f2d0a248c63ab838ec03d7fbd92c303",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
@@ -21,7 +21,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Molunerfinn/PicGo/releases/download/v3.0.3/PicGo-3.0.3-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Molunerfinn/PicGo/releases/download/v3.0.3/PicGo-3.0.3-arm64.exe#/dl.7z",
             "hash": "276464feaf0658773b04954893d57721b78adff38f82700db97fa6f17ca439a4",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -44,13 +44,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-$version-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-$version-x64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-$version-ia32.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-$version-ia32.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-$version-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-$version-arm64.exe#/dl.7z"
             }
         }
     }

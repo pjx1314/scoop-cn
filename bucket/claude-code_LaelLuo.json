@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/anthropics/claude-code/releases/download/v2.1.316/claude-win32-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/anthropics/claude-code/releases/download/v2.1.316/claude-win32-x64.zip",
             "hash": "c77cb13c50365de63ad3a0e09c915294a9d1657627b82a6fc3c1bdf327e6a346"
         }
     },
@@ -16,9 +16,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/anthropics/claude-code/releases/download/v$version/claude-win32-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/anthropics/claude-code/releases/download/v$version/claude-win32-x64.zip",
                 "hash": {
-                    "url": "https://gh-proxy.com/https://github.com/anthropics/claude-code/releases/download/v$version/SHASUMS256.txt",
+                    "url": "https://gh-proxy.org/https://github.com/anthropics/claude-code/releases/download/v$version/SHASUMS256.txt",
                     "regex": "([0-9a-f]{64})\\s+claude-win32-x64\\.zip"
                 }
             }

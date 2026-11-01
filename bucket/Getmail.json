@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/b0bac/GetMail/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/b0bac/GetMail/archive/refs/heads/master.zip",
     "hash": "f013211b2ea6ac66530754ebedfd6cce04e73d69178a9b4d896546f2d450a47e",
     "extract_dir": "GetMail-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/b0bac/GetMail/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/b0bac/GetMail/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

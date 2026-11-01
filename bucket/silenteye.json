@@ -6,7 +6,7 @@
     ],
     "homepage": "https://github.com/TajangSec/silenteye",
     "license": "unknow",
-    "url": "https://gh-proxy.com/https://github.com/TajangSec/silenteye/releases/download/0.4.1/silenteye.exe",
+    "url": "https://gh-proxy.org/https://github.com/TajangSec/silenteye/releases/download/0.4.1/silenteye.exe",
     "hash": "9e390811b09549328064e7e8e3692e907846b58d9c3a3c05764802e02b977ca2",
     "bin": "silenteye.exe",
     "shortcuts": [
@@ -17,6 +17,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/TajangSec/silenteye/releases/download/$version/silenteye.exe"
+        "url": "https://gh-proxy.org/https://github.com/TajangSec/silenteye/releases/download/$version/silenteye.exe"
     }
 }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v1.3.0/ctrtool-v1.3.0-win_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v1.3.0/ctrtool-v1.3.0-win_x64.zip",
             "hash": "8031dff3be72d0adb250fae1f969f27627e12a89ebc6dd074a15a75f87ddc949"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v1.3.0/ctrtool-v1.3.0-win_x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v1.3.0/ctrtool-v1.3.0-win_x86.zip",
             "hash": "1c1a3c520de8c9924bed4bd2165aa64f5752e36b4a1fcdfa85af062fa17bce75"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v$version/ctrtool-v$version-win_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v$version/ctrtool-v$version-win_x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v$version/ctrtool-v$version-win_x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v$version/ctrtool-v$version-win_x86.zip"
             }
         }
     }

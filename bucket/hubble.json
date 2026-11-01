@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cilium/hubble/releases/download/v1.20.2/hubble-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cilium/hubble/releases/download/v1.20.2/hubble-windows-amd64.tar.gz",
             "hash": "16cc33bd3314c8fc9781dee7002a24761e8f7a115f65d4b76b1f8445af5569fc"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cilium/hubble/releases/download/v1.20.2/hubble-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cilium/hubble/releases/download/v1.20.2/hubble-windows-arm64.tar.gz",
             "hash": "64e219f80b19045f964a91af537b3f89741e6fda73b0a005d2971b586e1c60de"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cilium/hubble/releases/download/v$version/hubble-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cilium/hubble/releases/download/v$version/hubble-windows-amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cilium/hubble/releases/download/v$version/hubble-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cilium/hubble/releases/download/v$version/hubble-windows-arm64.tar.gz"
             }
         },
         "hash": {

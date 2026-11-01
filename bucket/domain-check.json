@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/saidutt46/domain-check/releases/download/v1.2.1/domain-check-windows-x86_64.exe.zip",
-                "https://gh-proxy.com/https://github.com/saidutt46/domain-check/releases/download/v1.2.1/domain-check-mcp-windows-x86_64.exe.zip"
+                "https://gh-proxy.org/https://github.com/saidutt46/domain-check/releases/download/v1.2.1/domain-check-windows-x86_64.exe.zip",
+                "https://gh-proxy.org/https://github.com/saidutt46/domain-check/releases/download/v1.2.1/domain-check-mcp-windows-x86_64.exe.zip"
             ],
             "hash": [
                 "56ef080457b4fbcf9e04dd3d24ff357e756d6401c31477162f1d6705c36fba12",
@@ -24,8 +24,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/saidutt46/domain-check/releases/download/v$version/domain-check-windows-x86_64.exe.zip",
-                    "https://gh-proxy.com/https://github.com/saidutt46/domain-check/releases/download/v$version/domain-check-mcp-windows-x86_64.exe.zip"
+                    "https://gh-proxy.org/https://github.com/saidutt46/domain-check/releases/download/v$version/domain-check-windows-x86_64.exe.zip",
+                    "https://gh-proxy.org/https://github.com/saidutt46/domain-check/releases/download/v$version/domain-check-mcp-windows-x86_64.exe.zip"
                 ]
             }
         }

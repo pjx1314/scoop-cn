@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/crazy-max/undock/releases/download/v0.14.1/undock_0.14.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/crazy-max/undock/releases/download/v0.14.1/undock_0.14.1_windows_amd64.zip",
             "hash": "f5f0869aabd6b96febb3f43b20c1fff728ad85f4e4a548f1eada12ccf1a5ee42"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/crazy-max/undock/releases/download/v0.14.1/undock_0.14.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/crazy-max/undock/releases/download/v0.14.1/undock_0.14.1_windows_arm64.zip",
             "hash": "077176ed5479fa20108408d1a388e74ec545c80b2b2c77c0b800a7704b9b45ba"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/crazy-max/undock/releases/download/v$version/undock_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/crazy-max/undock/releases/download/v$version/undock_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/crazy-max/undock/releases/download/v$version/undock_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/crazy-max/undock/releases/download/v$version/undock_$version_windows_arm64.zip"
             }
         },
         "hash": {

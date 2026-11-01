@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v0.49.2/kbld-windows-amd64.exe#/kbld.exe",
+            "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v0.49.2/kbld-windows-amd64.exe#/kbld.exe",
             "hash": "b4984a18ce748f2f8ba39403ca0fcecd79d2e1086ba494ebe8fca1e24972522d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v0.49.2/kbld-windows-arm64.exe#/kbld.exe",
+            "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v0.49.2/kbld-windows-arm64.exe#/kbld.exe",
             "hash": "ee82e4b6bbc69e2638ec5294e9ce5c286240c851216e3ace38379e630be304f4"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v$version/kbld-windows-amd64.exe#/kbld.exe"
+                "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v$version/kbld-windows-amd64.exe#/kbld.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v$version/kbld-windows-arm64.exe#/kbld.exe"
+                "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/carvel-kbld/releases/download/v$version/kbld-windows-arm64.exe#/kbld.exe"
             }
         },
         "hash": {

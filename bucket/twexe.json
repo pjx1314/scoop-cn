@@ -11,7 +11,7 @@
     "bin": "twexe.exe",
     "persist": "twexe.bak",
     "checkver": {
-        "url": "https://gh-proxy.com/https://github.com/ihm4u/twexe/raw/gh-pages/rel/VERSION",
+        "url": "https://gh-proxy.org/https://github.com/ihm4u/twexe/raw/gh-pages/rel/VERSION",
         "regex": "([\\d.]+)"
     },
     "autoupdate": {

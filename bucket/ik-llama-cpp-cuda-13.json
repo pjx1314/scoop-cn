@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5574-45acbfc/ik_llama-main-b5574-45acbfc-bin-win-cuda-13.3-x64-avx2.zip",
-                "https://gh-proxy.com/https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5574-45acbfc/ik_llama-cudart-main-b5574-45acbfc-bin-win-cuda-13.3-x64-avx2.zip"
+                "https://gh-proxy.org/https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5574-45acbfc/ik_llama-main-b5574-45acbfc-bin-win-cuda-13.3-x64-avx2.zip",
+                "https://gh-proxy.org/https://github.com/Thireus/ik_llama.cpp/releases/download/main-b5574-45acbfc/ik_llama-cudart-main-b5574-45acbfc-bin-win-cuda-13.3-x64-avx2.zip"
             ],
             "hash": [
                 "5e1132deb3a168aa1e9cff210de743d51df436043f77ec096948031e4908cc97",
@@ -37,8 +37,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/Thireus/ik_llama.cpp/releases/download/main-$version/ik_llama-main-$version-bin-win-cuda-$matchCuda-x64-avx2.zip",
-                    "https://gh-proxy.com/https://github.com/Thireus/ik_llama.cpp/releases/download/main-$version/ik_llama-cudart-main-$version-bin-win-cuda-$matchCuda-x64-avx2.zip"
+                    "https://gh-proxy.org/https://github.com/Thireus/ik_llama.cpp/releases/download/main-$version/ik_llama-main-$version-bin-win-cuda-$matchCuda-x64-avx2.zip",
+                    "https://gh-proxy.org/https://github.com/Thireus/ik_llama.cpp/releases/download/main-$version/ik_llama-cudart-main-$version-bin-win-cuda-$matchCuda-x64-avx2.zip"
                 ]
             }
         },

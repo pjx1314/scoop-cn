@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/rememberber/MooTool#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/rememberber/MooTool/releases/download/next-electron-v1.3.6/MooTool-Next-Electron-1.3.6-win-x64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/rememberber/MooTool/releases/download/next-electron-v1.3.6/MooTool-Next-Electron-1.3.6-win-x64-setup.exe#/dl.7z",
     "hash": "4dd2165e9452bb4011097b7261278aed4e27eb53c5a78929a3c456db5bb65d11",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -45,6 +45,6 @@
         "regex": "next-electron-v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/rememberber/MooTool/releases/download/next-electron-v$version/MooTool-Next-Electron-$version-win-x64-setup.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/rememberber/MooTool/releases/download/next-electron-v$version/MooTool-Next-Electron-$version-win-x64-setup.exe#/dl.7z"
     }
 }

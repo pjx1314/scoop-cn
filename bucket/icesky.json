@@ -13,7 +13,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/spindriftpapilio/icesky/archive/refs/heads/main.zip#/icesky-source.zip",
+    "url": "https://gh-proxy.org/https://github.com/spindriftpapilio/icesky/archive/refs/heads/main.zip#/icesky-source.zip",
     "hash": "281357a6a56b7f233ad3de28d0b42c179110457c4f0c57feedcab970234e01e0",
     "extract_dir": "icesky-main",
     "pre_install": [
@@ -35,6 +35,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/spindriftpapilio/icesky/archive/refs/heads/main.zip#/icesky-source.zip"
+        "url": "https://gh-proxy.org/https://github.com/spindriftpapilio/icesky/archive/refs/heads/main.zip#/icesky-source.zip"
     }
 }

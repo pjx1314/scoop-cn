@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/shinyflvre/VRCNext/releases/download/v2026.62.3/VRCNext-win-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/shinyflvre/VRCNext/releases/download/v2026.62.3/VRCNext-win-Portable.zip",
             "hash": "594c6d48f66cf77be6549c533cc075426ccd247254e39d932fbda7690deb69f7"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/shinyflvre/VRCNext/releases/download/v$version/VRCNext-win-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/shinyflvre/VRCNext/releases/download/v$version/VRCNext-win-Portable.zip"
             }
         }
     }

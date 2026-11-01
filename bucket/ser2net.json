@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cminyard/ser2net/releases/download/v4.6.8/Ser2Net-4.6.8-windows.exe",
+            "url": "https://gh-proxy.org/https://github.com/cminyard/ser2net/releases/download/v4.6.8/Ser2Net-4.6.8-windows.exe",
             "hash": "6411447d04e3bb53a4618fe663f8715da66ca4c17183394a5db5ce44ad9472ff"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cminyard/ser2net/releases/download/v$version/Ser2Net-$version-windows.exe"
+                "url": "https://gh-proxy.org/https://github.com/cminyard/ser2net/releases/download/v$version/Ser2Net-$version-windows.exe"
             }
         }
     }

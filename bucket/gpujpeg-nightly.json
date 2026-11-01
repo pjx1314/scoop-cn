@@ -5,20 +5,20 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CESNET/GPUJPEG/releases/download/continuous/GPUJPEG-Windows-all.zip",
+            "url": "https://gh-proxy.org/https://github.com/CESNET/GPUJPEG/releases/download/continuous/GPUJPEG-Windows-all.zip",
             "hash": "082d707e0ebb86cc456c492003dcf8301eba4e94dd8fc51a7d2d7c62c5a6f58a"
         }
     },
     "extract_dir": "GPUJPEG",
     "bin": "bin\\gpujpegtool.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/gpujpeg-nightly/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/gpujpeg-nightly/state.json",
         "regex": "(?sm)\"version\":\\s*\"(.+?)\".*?\"runId\":\\s*\"(?<run>\\d+)\""
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CESNET/GPUJPEG/releases/download/continuous/GPUJPEG-Windows-all.zip"
+                "url": "https://gh-proxy.org/https://github.com/CESNET/GPUJPEG/releases/download/continuous/GPUJPEG-Windows-all.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/snownico0722/PaperTodo/releases/download/v4.0.0-beta1/PaperTodo-v4.0.0-beta1-win-x64-self-contained.exe#/PaperTodo.exe",
+            "url": "https://gh-proxy.org/https://github.com/snownico0722/PaperTodo/releases/download/v4.0.0-beta1/PaperTodo-v4.0.0-beta1-win-x64-self-contained.exe#/PaperTodo.exe",
             "hash": "bf2ee02a40d6f39f30f8b653a321b327b81c47a4963cd2b921d6ee292e70c3b0"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/snownico0722/PaperTodo/releases/download/v$version/PaperTodo-v$version-win-x64-self-contained.exe#/PaperTodo.exe"
+                "url": "https://gh-proxy.org/https://github.com/snownico0722/PaperTodo/releases/download/v$version/PaperTodo-v$version-win-x64-self-contained.exe#/PaperTodo.exe"
             }
         }
     }

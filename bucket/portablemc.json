@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/theorzr/portablemc/releases/download/v5.0.6/portablemc-5.0.6-windows-x86_64-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/theorzr/portablemc/releases/download/v5.0.6/portablemc-5.0.6-windows-x86_64-msvc.zip",
             "hash": "e693a0d05bbf87411ae5c0967e04c2f461ec2005cbbdf6536e4195ff3fafac89"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/theorzr/portablemc/releases/download/v5.0.6/portablemc-5.0.6-windows-i686-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/theorzr/portablemc/releases/download/v5.0.6/portablemc-5.0.6-windows-i686-msvc.zip",
             "hash": "a8ef5bdbe94221146015b0b22cc4da2c3efbbbd9142ec69821a5d4b692074033"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/theorzr/portablemc/releases/download/v$version/portablemc-$version-windows-x86_64-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/theorzr/portablemc/releases/download/v$version/portablemc-$version-windows-x86_64-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/theorzr/portablemc/releases/download/v$version/portablemc-$version-windows-i686-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/theorzr/portablemc/releases/download/v$version/portablemc-$version-windows-i686-msvc.zip"
             }
         }
     }

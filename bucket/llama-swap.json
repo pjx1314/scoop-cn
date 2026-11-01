@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mostlygeek/llama-swap/releases/download/v269/llama-swap_269_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mostlygeek/llama-swap/releases/download/v269/llama-swap_269_windows_amd64.zip",
             "hash": "6865a12e8961a0b84a36facee3f55518e39744da6cc262164e72d47464471fb8"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mostlygeek/llama-swap/releases/download/v$version/llama-swap_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mostlygeek/llama-swap/releases/download/v$version/llama-swap_$version_windows_amd64.zip"
             }
         },
         "hash": {

@@ -4,8 +4,8 @@
     "homepage": "https://github.com/lxgw/kose-font",
     "license": "OFL-1.1",
     "url": [
-        "https://gh-proxy.com/https://github.com/lxgw/kose-font/releases/download/v3.126/Xiaolai-Regular.ttf",
-        "https://gh-proxy.com/https://github.com/lxgw/kose-font/releases/download/v3.126/XiaolaiMono-Regular.ttf"
+        "https://gh-proxy.org/https://github.com/lxgw/kose-font/releases/download/v3.126/Xiaolai-Regular.ttf",
+        "https://gh-proxy.org/https://github.com/lxgw/kose-font/releases/download/v3.126/XiaolaiMono-Regular.ttf"
     ],
     "hash": [
         "e2f68daf0e72777a8cf58bc83de1b98634b251e537ddbfca24b0ae50d1802da2",
@@ -14,8 +14,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/lxgw/kose-font/releases/download/v$version/Xiaolai-Regular.ttf",
-            "https://gh-proxy.com/https://github.com/lxgw/kose-font/releases/download/v$version/XiaolaiMono-Regular.ttf"
+            "https://gh-proxy.org/https://github.com/lxgw/kose-font/releases/download/v$version/Xiaolai-Regular.ttf",
+            "https://gh-proxy.org/https://github.com/lxgw/kose-font/releases/download/v$version/XiaolaiMono-Regular.ttf"
         ]
     },
     "installer": {

@@ -6,13 +6,13 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/releases/download/v$version/jwt-brute-force-tool-windows-amd64.exe#/jwt-brute-force-tool.exe",
-            "https://gh-proxy.com/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/archive/refs/heads/main.zip"
+            "https://gh-proxy.org/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/releases/download/v$version/jwt-brute-force-tool-windows-amd64.exe#/jwt-brute-force-tool.exe",
+            "https://gh-proxy.org/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/archive/refs/heads/main.zip"
         ]
     },
     "url": [
-        "https://gh-proxy.com/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/releases/download/v1.0.0/jwt-brute-force-tool-windows-amd64.exe#/jwt-brute-force-tool.exe",
-        "https://gh-proxy.com/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/archive/refs/heads/main.zip"
+        "https://gh-proxy.org/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/releases/download/v1.0.0/jwt-brute-force-tool-windows-amd64.exe#/jwt-brute-force-tool.exe",
+        "https://gh-proxy.org/https://github.com/fightnvrgp/JWT-Brute-Force-Tool/archive/refs/heads/main.zip"
     ],
     "bin": "jwt-brute-force-tool.exe",
     "notes": [

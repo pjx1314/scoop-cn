@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v0.39.2/NoteGen_0.39.2_x64-setup.exe#/dl.7z",
             "hash": "283f73a39fdf06259b45e9a7915519fd30815f06bd0cc91b67d446fdadaa0b45"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/codexu/note-gen/releases/download/note-gen-v$version/NoteGen_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

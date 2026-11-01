@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/porjo/youtubeuploader/releases/download/v1.25.5/youtubeuploader_1.25.5_Windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/porjo/youtubeuploader/releases/download/v1.25.5/youtubeuploader_1.25.5_Windows_amd64.zip",
             "hash": "b766758df7c5dd44125ccfe567127080c51e9cce35b5e87252abab6d13c8b932"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/porjo/youtubeuploader/releases/download/v$version/youtubeuploader_$version_Windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/porjo/youtubeuploader/releases/download/v$version/youtubeuploader_$version_Windows_amd64.zip"
             }
         },
         "hash": {

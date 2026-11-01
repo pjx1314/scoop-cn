@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/clinlx/CN_GreenLumaGUI/releases/download/v1.7.2/CN_GreenLumaGUI.v1.7.2.26380.zip",
+            "url": "https://gh-proxy.org/https://github.com/clinlx/CN_GreenLumaGUI/releases/download/v1.7.2/CN_GreenLumaGUI.v1.7.2.26380.zip",
             "hash": "c47486547d6fcd4996e82f4b73f66b4b3ca3deafa6bffe5d9a1725ed41bba9ad"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/clinlx/CN_GreenLumaGUI/releases/download/v$match1/CN_GreenLumaGUI.v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/clinlx/CN_GreenLumaGUI/releases/download/v$match1/CN_GreenLumaGUI.v$version.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/1667-ai/1667/releases/download/v0.11.1/1667_0.11.1_windows-x64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/1667-ai/1667/releases/download/v0.11.1/1667_0.11.1_windows-x64.tar.gz",
             "hash": "8473e03a0ab7b067039de5cfbde94933b671957ac5c605b6a8f257d65ac3de45",
             "extract_dir": "1667_0.11.1_windows-x64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/1667-ai/1667/releases/download/v$version/1667_$version_windows-x64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/1667-ai/1667/releases/download/v$version/1667_$version_windows-x64.tar.gz",
                 "extract_dir": "1667_$version_windows-x64",
                 "hash": {
                     "url": "$baseurl/checksums.txt",

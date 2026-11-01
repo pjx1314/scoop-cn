@@ -3,7 +3,7 @@
     "description": "D-Eyes为M-SEC社区一款检测与响应工具",
     "homepage": "https://github.com/m-sec-org/d-eyes",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/m-sec-org/d-eyes/releases/download/v2.0.0/d-eyes-agent_windows_amd64.exe#/d-eyes.exe",
+    "url": "https://gh-proxy.org/https://github.com/m-sec-org/d-eyes/releases/download/v2.0.0/d-eyes-agent_windows_amd64.exe#/d-eyes.exe",
     "hash": "sha256:be48b6772d3d4c3a56bddf75e708a9e07589b411a030c5a1b53f06ccf9aa26bf",
     "bin": "d-eyes.exe",
     "checkver": {
@@ -12,7 +12,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/m-sec-org/d-eyes/releases/download/v$version/d-eyes-agent_windows_amd64.exe#/d-eyes.exe"
+        "url": "https://gh-proxy.org/https://github.com/m-sec-org/d-eyes/releases/download/v$version/d-eyes-agent_windows_amd64.exe#/d-eyes.exe"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vkbo/novelWriter/releases/download/v26.2.2/novelwriter-26.2.2-amd64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/vkbo/novelWriter/releases/download/v26.2.2/novelwriter-26.2.2-amd64-setup.exe",
             "hash": "710022c7afdd1fe958dd9f39d88be6f6816fbc10844e33df8f176a70ab32eaad"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vkbo/novelWriter/releases/download/v$version/novelwriter-$version-amd64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/vkbo/novelWriter/releases/download/v$version/novelwriter-$version-amd64-setup.exe"
             }
         }
     }

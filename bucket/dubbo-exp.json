@@ -6,7 +6,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/threedr3am/dubbo-exp/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/threedr3am/dubbo-exp/archive/refs/heads/master.zip",
     "hash": "b100a55decbc63bd7d6a15e81dc52e38d37ad4ed28dc13807b3e8e402621809f",
     "extract_dir": "dubbo-exp-master",
     "pre_install": [
@@ -30,7 +30,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/threedr3am/dubbo-exp/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/threedr3am/dubbo-exp/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

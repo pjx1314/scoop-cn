@@ -3,7 +3,7 @@
     "description": "在Burp两端部署基于mitmproxy的上下游代理，应对HTTP请求加密传输问题",
     "homepage": "https://github.com/yinsel/BurpGuard",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/yinsel/BurpGuard/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/yinsel/BurpGuard/archive/refs/heads/main.zip",
     "hash": "6EE7F055AEB4B317B8EE39A45D896A6A4FAC947394198C6C850CA8BD4E81E619",
     "extract_dir": "BurpGuard-main",
     "suggest": {
@@ -23,7 +23,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/yinsel/BurpGuard/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/yinsel/BurpGuard/archive/refs/heads/main.zip"
     },
     "notes": [
         "【工具类型】: 安全测试",

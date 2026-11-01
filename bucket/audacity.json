@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.7z",
+            "url": "https://gh-proxy.org/https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.7z",
             "hash": "9c5e0379626dee8a573af91ba5355311b9001dcf310294dd4dc9aa6887593d03"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.7z",
+            "url": "https://gh-proxy.org/https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.7z",
             "hash": "bafa562f9fc3960eae50ac64b656360b5bd2824af3396ed0809551a1f8eb716e"
         }
     },
@@ -42,10 +42,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-x86_64.7z"
+                "url": "https://gh-proxy.org/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-x86_64.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-arm64.7z"
+                "url": "https://gh-proxy.org/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-arm64.7z"
             }
         },
         "hash": {

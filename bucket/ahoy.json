@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ahoy-cli/ahoy/releases/download/v3.0.2/ahoy-bin-windows-amd64.exe#/ahoy.exe",
+            "url": "https://gh-proxy.org/https://github.com/ahoy-cli/ahoy/releases/download/v3.0.2/ahoy-bin-windows-amd64.exe#/ahoy.exe",
             "hash": "507fc33e081b5dfb8553d5bfec021b524f67331a31621004ff44fa717310d9e1"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ahoy-cli/ahoy/releases/download/v3.0.2/ahoy-bin-windows-arm64.exe#/ahoy.exe",
+            "url": "https://gh-proxy.org/https://github.com/ahoy-cli/ahoy/releases/download/v3.0.2/ahoy-bin-windows-arm64.exe#/ahoy.exe",
             "hash": "dc17dd3f5a361f9e63b189e9d9a66359d4028fb6e656053c176f010b7ff564db"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ahoy-cli/ahoy/releases/download/v$version/ahoy-bin-windows-amd64.exe#/ahoy.exe"
+                "url": "https://gh-proxy.org/https://github.com/ahoy-cli/ahoy/releases/download/v$version/ahoy-bin-windows-amd64.exe#/ahoy.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ahoy-cli/ahoy/releases/download/v$version/ahoy-bin-windows-arm64.exe#/ahoy.exe"
+                "url": "https://gh-proxy.org/https://github.com/ahoy-cli/ahoy/releases/download/v$version/ahoy-bin-windows-arm64.exe#/ahoy.exe"
             }
         }
     }

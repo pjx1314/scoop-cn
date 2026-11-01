@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pocket-id/pocket-id/releases/download/v2.19.1/pocket-id_windows_amd64.exe#/pocket-id.exe",
+            "url": "https://gh-proxy.org/https://github.com/pocket-id/pocket-id/releases/download/v2.19.1/pocket-id_windows_amd64.exe#/pocket-id.exe",
             "hash": "17c4929af9bd84e96bf601c0399f9409162137a24fc63d4c3ec9f537e0d54356"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/pocket-id/pocket-id/releases/download/v2.19.1/pocket-id_windows_arm64.exe#/pocket-id.exe",
+            "url": "https://gh-proxy.org/https://github.com/pocket-id/pocket-id/releases/download/v2.19.1/pocket-id_windows_arm64.exe#/pocket-id.exe",
             "hash": "f157430f62b518384dfaea54a04baad94026272b16caecd654f75e2b92805c58"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pocket-id/pocket-id/releases/download/v$version/pocket-id_windows_amd64.exe#/pocket-id.exe"
+                "url": "https://gh-proxy.org/https://github.com/pocket-id/pocket-id/releases/download/v$version/pocket-id_windows_amd64.exe#/pocket-id.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/pocket-id/pocket-id/releases/download/v$version/pocket-id_windows_arm64.exe#/pocket-id.exe"
+                "url": "https://gh-proxy.org/https://github.com/pocket-id/pocket-id/releases/download/v$version/pocket-id_windows_arm64.exe#/pocket-id.exe"
             }
         }
     }

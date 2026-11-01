@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.4/Flow-Launcher-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.4/Flow-Launcher-Portable.zip",
             "hash": "32cd448751863eca7a4fa9ee282bb6fe4e617ec1c8f23af707796a72279ba1d8"
         }
     },
@@ -26,7 +26,7 @@
         "github": "https://github.com/Flow-Launcher/Flow.Launcher"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v$version/Flow-Launcher-Portable.zip",
+        "url": "https://gh-proxy.org/https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v$version/Flow-Launcher-Portable.zip",
         "persist": [
             [
                 "app-$version\\UserData",

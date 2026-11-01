@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Wsine/feishu2md/releases/download/v2.4.5/feishu2md-v2.4.5-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Wsine/feishu2md/releases/download/v2.4.5/feishu2md-v2.4.5-windows-amd64.zip",
             "hash": "3f200ac8af42b1191cb092de79de0289edc3259d77b656dedc4ef421c36f441d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Wsine/feishu2md/releases/download/v$version/feishu2md-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Wsine/feishu2md/releases/download/v$version/feishu2md-v$version-windows-amd64.zip"
             }
         }
     }

@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.2/Stirling-PDF-windows-x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.2/Stirling-PDF-windows-x86_64.msi",
             "hash": "268f9e2301be1fae5168b538b9e2919d372ebb29ec607c463b74d0aaba564f70"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v$version/Stirling-PDF-windows-x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v$version/Stirling-PDF-windows-x86_64.msi"
             }
         }
     }

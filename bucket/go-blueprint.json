@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Melkeydev/go-blueprint/releases/download/v0.10.11/go-blueprint_0.10.11_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Melkeydev/go-blueprint/releases/download/v0.10.11/go-blueprint_0.10.11_Windows_x86_64.zip",
             "hash": "176e2bd9e59b4064277e2df064e630e4cc86e94f133dc8f8d3d0fec8a22c87cf"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Melkeydev/go-blueprint/releases/download/v0.10.11/go-blueprint_0.10.11_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Melkeydev/go-blueprint/releases/download/v0.10.11/go-blueprint_0.10.11_Windows_arm64.zip",
             "hash": "2b29c73da07b1c505671fa236486af9c01d032fc1a63a2680e5c137dfd01ed50"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Melkeydev/go-blueprint/releases/download/v$version/go-blueprint_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Melkeydev/go-blueprint/releases/download/v$version/go-blueprint_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Melkeydev/go-blueprint/releases/download/v$version/go-blueprint_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Melkeydev/go-blueprint/releases/download/v$version/go-blueprint_$version_Windows_arm64.zip"
             }
         },
         "hash": {

@@ -7,7 +7,7 @@
     "hash": "5a294f389d2642183aac9d3e54f3956f98d23c87a6e414a9216a59215ee7d5b2",
     "bin": "rla.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "rla.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

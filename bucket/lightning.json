@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Mizerd/lightning/releases/download/v0.10.1/Lightning-0.10.1-712ed6d-windows-x86_64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Mizerd/lightning/releases/download/v0.10.1/Lightning-0.10.1-712ed6d-windows-x86_64-portable.zip",
             "hash": "fd57345995fc6d21c94b8b8f03d7ed2d09de10f96c3126c611f60ced9e5d11cf"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Mizerd/lightning/releases/download/v$version/Lightning-$version-$match2-windows-x86_64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/Mizerd/lightning/releases/download/v$version/Lightning-$version-$match2-windows-x86_64-portable.zip",
                 "extract_dir": "Lightning"
             }
         },

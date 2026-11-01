@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aardio/Ghips/releases/download/1.3/Ghips.7z",
+            "url": "https://gh-proxy.org/https://github.com/aardio/Ghips/releases/download/1.3/Ghips.7z",
             "hash": "ea002e760941ccd356ed56e47aee834e347bb37ff5a88f0fea3617df42a29343"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aardio/Ghips/releases/download/$version/Ghips.7z"
+                "url": "https://gh-proxy.org/https://github.com/aardio/Ghips/releases/download/$version/Ghips.7z"
             }
         }
     }

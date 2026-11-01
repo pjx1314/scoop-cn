@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/deadlock-mod-manager/deadlock-mod-manager/releases/download/v2.2.0/Deadlock.Mod.Manager_2.2.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/deadlock-mod-manager/deadlock-mod-manager/releases/download/v2.2.0/Deadlock.Mod.Manager_2.2.0_x64-setup.exe#/dl.7z",
             "hash": "be810c70c00097e8b86f6a0250853b1518d77f708695fc064c27be4f09fcfa95"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/deadlock-mod-manager/deadlock-mod-manager/releases/download/v$version/Deadlock.Mod.Manager_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/deadlock-mod-manager/deadlock-mod-manager/releases/download/v$version/Deadlock.Mod.Manager_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

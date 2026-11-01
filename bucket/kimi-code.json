@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%402.4.1/kimi-code-win32-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%402.4.1/kimi-code-win32-x64.zip",
             "hash": "23d74ca9454755b9dac676ae8cac8e0a39b2bb96b9d9adc2093895eac1686557"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%402.4.1/kimi-code-win32-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%402.4.1/kimi-code-win32-arm64.zip",
             "hash": "af2ce55589d1dbd0205ef6174cd91e41d79ad1704d7bd812ec710e379311ffb0"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%40$version/kimi-code-win32-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%40$version/kimi-code-win32-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%40$version/kimi-code-win32-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai%2Fkimi-code%40$version/kimi-code-win32-arm64.zip"
             }
         },
         "hash": {

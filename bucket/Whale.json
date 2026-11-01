@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/usewhale/Whale/releases/download/v0.1.66/whale-windows-amd64.exe#/whale.exe",
+            "url": "https://gh-proxy.org/https://github.com/usewhale/Whale/releases/download/v0.1.66/whale-windows-amd64.exe#/whale.exe",
             "hash": "2692cc258f4a7098ab6179df7f1ce6092a6e99083a2db8cff9361b2aa5bf298f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/usewhale/Whale/releases/download/v0.1.66/whale-windows-arm64.exe#/whale.exe",
+            "url": "https://gh-proxy.org/https://github.com/usewhale/Whale/releases/download/v0.1.66/whale-windows-arm64.exe#/whale.exe",
             "hash": "fad80684ba4e2d2a3ca1219be98a183c0e7c8647e4575676fe6dbfeadb4fd95b"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/usewhale/Whale/releases/download/v$version/whale-windows-amd64.exe#/whale.exe"
+                "url": "https://gh-proxy.org/https://github.com/usewhale/Whale/releases/download/v$version/whale-windows-amd64.exe#/whale.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/usewhale/Whale/releases/download/v$version/whale-windows-arm64.exe#/whale.exe"
+                "url": "https://gh-proxy.org/https://github.com/usewhale/Whale/releases/download/v$version/whale-windows-arm64.exe#/whale.exe"
             }
         }
     }

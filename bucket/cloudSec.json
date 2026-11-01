@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/libaibaia/cloudSec/releases/download/v1.2.2/cloudSec-1.2.2-SNAPSHOT.jar#/cloudSec.jar",
+    "url": "https://gh-proxy.org/https://github.com/libaibaia/cloudSec/releases/download/v1.2.2/cloudSec-1.2.2-SNAPSHOT.jar#/cloudSec.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\cloudSec.bat\" '@pushd %~dp0",
@@ -19,7 +19,7 @@
     "bin": "cloudSec.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/libaibaia/cloudSec/releases/download/v$version/cloudSec-$version-SNAPSHOT.jar#/cloudSec.jar"
+        "url": "https://gh-proxy.org/https://github.com/libaibaia/cloudSec/releases/download/v$version/cloudSec-$version-SNAPSHOT.jar#/cloudSec.jar"
     },
     "notes": [
         "【工具类型】: 云安全工具",

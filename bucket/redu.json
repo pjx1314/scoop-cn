@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-x86_64.zip",
             "hash": "f3c8f55780e3ab1546fb270697dcfcfb65754d49f0b144c5dca2ad1cac41499c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-arm64.zip",
             "hash": "abce3d27104688ef49d21b24c7c435e2a40ca79b8fb3f2b47bd62df31a063dc4"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/drdo/redu/releases/download/v$version/redu-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/drdo/redu/releases/download/v$version/redu-$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/drdo/redu/releases/download/v$version/redu-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/drdo/redu/releases/download/v$version/redu-$version-windows-arm64.zip"
             }
         }
     }

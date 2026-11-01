@@ -5,7 +5,7 @@
     "license": "MIT|Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sstadick/hck/releases/download/v0.11.6/hck-windows-amd64.exe#/hck.exe",
+            "url": "https://gh-proxy.org/https://github.com/sstadick/hck/releases/download/v0.11.6/hck-windows-amd64.exe#/hck.exe",
             "hash": "0d35101f8d05bf7e7d35baee1ad7187e872f4529b23d7e6a7fae71450729c548"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sstadick/hck/releases/download/v$version/hck-windows-amd64.exe#/hck.exe"
+                "url": "https://gh-proxy.org/https://github.com/sstadick/hck/releases/download/v$version/hck-windows-amd64.exe#/hck.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/PrajwalVandana/maestro-cli/releases/download/2.0.5/maestro-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/PrajwalVandana/maestro-cli/releases/download/2.0.5/maestro-installer.exe#/dl.7z",
             "hash": "99ee02ffa62f393b6cf7ae5680f4dd07aafda54aa2dcc07b5eb3276750315664"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/PrajwalVandana/maestro-cli/releases/download/$version/maestro-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/PrajwalVandana/maestro-cli/releases/download/$version/maestro-installer.exe#/dl.7z"
             }
         }
     }

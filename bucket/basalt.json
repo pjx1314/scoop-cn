@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/erikjuhani/basalt/releases/download/basalt%2Fv0.13.0/basalt-0.13.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/erikjuhani/basalt/releases/download/basalt%2Fv0.13.0/basalt-0.13.0-x86_64-pc-windows-msvc.zip",
             "extract_dir": "basalt-0.13.0-x86_64-pc-windows-msvc",
             "hash": "9b97117349c4df05bf42467a94c225c0babdce2e6776291ec4ac603b15dced66"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/erikjuhani/basalt/releases/download/basalt%2Fv$version/basalt-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/erikjuhani/basalt/releases/download/basalt%2Fv$version/basalt-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "basalt-$version-x86_64-pc-windows-msvc"
             }
         },

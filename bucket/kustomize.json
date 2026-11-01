@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_amd64.zip",
             "hash": "763c4040ff01435bfce39661072452ebdf1cf2808bb91f5708ab4420834fbd42"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.8.3/kustomize_v5.8.3_windows_arm64.zip",
             "hash": "b86236917e649e2f9531899c519f333e554cd1fc0c87132b86b885bf315735dc"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_arm64.zip"
             }
         },
         "hash": {

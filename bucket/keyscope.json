@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SpectralOps/keyscope/releases/download/v1.4.0/keyscope-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/SpectralOps/keyscope/releases/download/v1.4.0/keyscope-x86_64-windows.zip",
             "extract_dir": "keyscope-x86_64-windows",
             "hash": "9392b93ca872505d6300007ab931d2092a181e63b1a23e2d0aaa8a40c468fe29"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SpectralOps/keyscope/releases/download/v$version/keyscope-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/SpectralOps/keyscope/releases/download/v$version/keyscope-x86_64-windows.zip"
             }
         }
     }

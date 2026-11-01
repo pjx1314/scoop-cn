@@ -5,11 +5,11 @@
     "license": " MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-windows-amd64.exe#/talosctl.exe",
+            "url": "https://gh-proxy.org/https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-windows-amd64.exe#/talosctl.exe",
             "hash": "45b25be0ceef02b55110a2858f2fcc4e2f711f8b3dcd64bbc3c842d45adfd696"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-windows-arm64.exe#/talosctl.exe",
+            "url": "https://gh-proxy.org/https://github.com/siderolabs/talos/releases/download/v1.14.5/talosctl-windows-arm64.exe#/talosctl.exe",
             "hash": "ceda84f8ab158d51685bb38345290f2e1eb81e722b56228be03817eb2c50d919"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/siderolabs/talos/releases/download/v$version/talosctl-windows-amd64.exe#/talosctl.exe"
+                "url": "https://gh-proxy.org/https://github.com/siderolabs/talos/releases/download/v$version/talosctl-windows-amd64.exe#/talosctl.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/siderolabs/talos/releases/download/v$version/talosctl-windows-arm64.exe#/talosctl.exe"
+                "url": "https://gh-proxy.org/https://github.com/siderolabs/talos/releases/download/v$version/talosctl-windows-arm64.exe#/talosctl.exe"
             }
         },
         "hash": {

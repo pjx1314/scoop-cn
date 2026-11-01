@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/foryujian/yjdirscan",
     "license": "unkown",
-    "url": "https://gh-proxy.com/https://github.com/foryujian/yjdirscan/releases/download/yjdirscan/yjdirscanv1.1.gui.zip",
+    "url": "https://gh-proxy.org/https://github.com/foryujian/yjdirscan/releases/download/yjdirscan/yjdirscanv1.1.gui.zip",
     "hash": "6f1dd9f1e061e33c48aac5871a0504f05ee31abc2574243a8a4b24b8fed9cfe0",
     "extract_dir": "yjdirscanv1.1(gui)",
     "bin": "御剑目录扫描专业版v1.1.exe",

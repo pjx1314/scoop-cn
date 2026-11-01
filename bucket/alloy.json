@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/grafana/alloy/releases/download/v1.21.3/alloy-windows-amd64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/grafana/alloy/releases/download/v1.21.3/alloy-windows-amd64.exe.zip",
             "hash": "f8d0157e794f643f576f1df425f8a1b3d18f101ea3fc68d9d49041dcad74d820"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/grafana/alloy/releases/download/v$version/alloy-windows-amd64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/grafana/alloy/releases/download/v$version/alloy-windows-amd64.exe.zip"
             }
         },
         "hash": {

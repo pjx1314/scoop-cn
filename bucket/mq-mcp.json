@@ -3,7 +3,7 @@
     "description": "MCP server for Markdown and HTML processing via mq query language",
     "homepage": "https://github.com/harehare/mq-mcp",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/harehare/mq-mcp/releases/download/v0.2.1/mq-mcp-x86_64-pc-windows-msvc.exe#/mq-mcp.exe",
+    "url": "https://gh-proxy.org/https://github.com/harehare/mq-mcp/releases/download/v0.2.1/mq-mcp-x86_64-pc-windows-msvc.exe#/mq-mcp.exe",
     "hash": "d300c4d9ca9ca5943ed8ca9dfc9d4e176f37218467bff351d3b9a17d323241d2",
     "bin": "mq-mcp.exe",
     "suggest": {
@@ -13,6 +13,6 @@
         "github": "https://github.com/harehare/mq-mcp"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/harehare/mq-mcp/releases/download/v$version/mq-mcp-x86_64-pc-windows-msvc.exe#/mq-mcp.exe"
+        "url": "https://gh-proxy.org/https://github.com/harehare/mq-mcp/releases/download/v$version/mq-mcp-x86_64-pc-windows-msvc.exe#/mq-mcp.exe"
     }
 }

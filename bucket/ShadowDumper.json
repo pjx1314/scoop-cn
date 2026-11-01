@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/Offensive-Panda/ShadowDumper",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/Offensive-Panda/ShadowDumper/releases/download/LsassDumping/ShadowDumper.exe",
+    "url": "https://gh-proxy.org/https://github.com/Offensive-Panda/ShadowDumper/releases/download/LsassDumping/ShadowDumper.exe",
     "hash": "",
     "bin": "ShadowDumper.exe"
 }

@@ -4,8 +4,8 @@
     "homepage": "https://github.com/fatedier/frp",
     "license": "Apache-2.0",
     "url": [
-        "https://gh-proxy.com/https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_amd64.zip",
-        "https://gh-proxy.com/https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_amd64.tar.gz"
+        "https://gh-proxy.org/https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_amd64.zip",
+        "https://gh-proxy.org/https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_amd64.tar.gz"
     ],
     "hash": [
         "b90074b2b6a1d792a7a40f085ac6d276bcab2d1bc60201f8a86ca53ce65ce821",
@@ -22,8 +22,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_windows_amd64.zip",
-            "https://gh-proxy.com/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_linux_amd64.tar.gz"
+            "https://gh-proxy.org/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_windows_amd64.zip",
+            "https://gh-proxy.org/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_linux_amd64.tar.gz"
         ],
         "extract_dir": [
             "frp_$version_windows_amd64",

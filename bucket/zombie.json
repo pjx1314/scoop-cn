@@ -7,8 +7,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/chainreactors/zombie/releases/download/v1.3.0/zombie_windows_arm64.exe",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/chainreactors/zombie/refs/heads/master/README.md"
+                "https://gh-proxy.org/https://github.com/chainreactors/zombie/releases/download/v1.3.0/zombie_windows_arm64.exe",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/chainreactors/zombie/refs/heads/master/README.md"
             ],
             "hash": [
                 "23cc224f86e6bc928ce366b4967ad999788585385a84289cd567d8e72a6bec8c",
@@ -23,8 +23,8 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/chainreactors/zombie/releases/download/v1.3.0/zombie_windows_386.exe",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/chainreactors/zombie/refs/heads/master/README.md"
+                "https://gh-proxy.org/https://github.com/chainreactors/zombie/releases/download/v1.3.0/zombie_windows_386.exe",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/chainreactors/zombie/refs/heads/master/README.md"
             ],
             "hash": [
                 "b406e2b839fec480823ca9c92f0e7e1abde7bb04c16a5488cc88ac229dcb7749",
@@ -39,8 +39,8 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/chainreactors/zombie/releases/download/v1.3.0/zombie_windows_arm64.exe",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/chainreactors/zombie/refs/heads/master/README.md"
+                "https://gh-proxy.org/https://github.com/chainreactors/zombie/releases/download/v1.3.0/zombie_windows_arm64.exe",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/chainreactors/zombie/refs/heads/master/README.md"
             ],
             "hash": [
                 "23cc224f86e6bc928ce366b4967ad999788585385a84289cd567d8e72a6bec8c",
@@ -57,13 +57,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chainreactors/zombie/releases/download/v$version/zombie_windows_arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/chainreactors/zombie/releases/download/v$version/zombie_windows_arm64.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/chainreactors/zombie/releases/download/v$version/zombie_windows_386.exe"
+                "url": "https://gh-proxy.org/https://github.com/chainreactors/zombie/releases/download/v$version/zombie_windows_386.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/chainreactors/zombie/releases/download/v$version/zombie_windows_arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/chainreactors/zombie/releases/download/v$version/zombie_windows_arm64.exe"
             }
         }
     }

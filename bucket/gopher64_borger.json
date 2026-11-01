@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gopher64/gopher64/releases/download/v1.1.42/gopher64-windows-x86_64.exe",
+            "url": "https://gh-proxy.org/https://github.com/gopher64/gopher64/releases/download/v1.1.42/gopher64-windows-x86_64.exe",
             "hash": "38ae758816bc26a255a0fb59197148001cc59c8b764af3439566147ee57cad68"
         }
     },
@@ -58,7 +58,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gopher64/gopher64/releases/download/v$version/gopher64-windows-x86_64.exe",
+                "url": "https://gh-proxy.org/https://github.com/gopher64/gopher64/releases/download/v$version/gopher64-windows-x86_64.exe",
                 "hash": {
                     "mode": "json",
                     "jsonpath": "$[0].assets[?(@.name == '$basename')].digest",

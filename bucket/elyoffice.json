@@ -3,7 +3,7 @@
     "description": "Seven offline-first desktop apps for documents, slides, sheets, PDF, mail, git and notes",
     "homepage": "https://office.elygpui.com",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/ELY-Open-Source/ElyOffice/releases/download/v0.1.13/ElyOffice-0.1.13-windows-x86_64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/ELY-Open-Source/ElyOffice/releases/download/v0.1.13/ElyOffice-0.1.13-windows-x86_64-setup.exe#/dl.7z",
     "hash": "6f8602e95a97a3e2a161461405ac20789c4c19ce687c83e1259543ef048dd407",
     "installer": {
         "script": [
@@ -50,6 +50,6 @@
         "github": "https://github.com/ELY-Open-Source/ElyOffice"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ELY-Open-Source/ElyOffice/releases/download/v$version/ElyOffice-$version-windows-x86_64-setup.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/ELY-Open-Source/ElyOffice/releases/download/v$version/ElyOffice-$version-windows-x86_64-setup.exe#/dl.7z"
     }
 }

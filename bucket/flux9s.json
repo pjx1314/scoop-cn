@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dgunzy/flux9s/releases/download/v1.5.1/flux9s-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dgunzy/flux9s/releases/download/v1.5.1/flux9s-windows-x86_64.zip",
             "hash": "36ecd4742891da89c5e1d7bb6a277297053e4585ab753a0ec1aa6d50638ed90c"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dgunzy/flux9s/releases/download/v$version/flux9s-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dgunzy/flux9s/releases/download/v$version/flux9s-windows-x86_64.zip"
             }
         },
         "hash": {

@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/asaotomo/ZipCracker/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/asaotomo/ZipCracker/archive/refs/heads/master.zip",
     "hash": "93d3f815346c8acd51353c4505d9cf9850973bb152ed271eaf812b020d76d1d3",
     "extract_dir": "ZipCracker-main",
     "pre_install": [
@@ -27,6 +27,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/asaotomo/ZipCracker/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/asaotomo/ZipCracker/archive/refs/heads/master.zip"
     }
 }

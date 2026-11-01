@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ahpxex/Aictionary/releases/download/v3.5.0/Aictionary-v3.5.0_windows_x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/ahpxex/Aictionary/releases/download/v3.5.0/Aictionary-v3.5.0_windows_x86_64.msi",
             "hash": "367bebc11eda7f6ab7bf05ad778293a09d2992920603ecf17e4140434d927dc2"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ahpxex/Aictionary/releases/download/v$version/Aictionary-v$version_windows_x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/ahpxex/Aictionary/releases/download/v$version/Aictionary-v$version_windows_x86_64.msi"
             }
         }
     }

@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/unix-ninja/shellfire/archive/refs/tags/v0.16.zip",
+    "url": "https://gh-proxy.org/https://github.com/unix-ninja/shellfire/archive/refs/tags/v0.16.zip",
     "hash": "d6a83a35a9555330545a1ddc94fc6480ba43927b25cf65177854bc9eb58c94aa",
     "extract_dir": "shellfire-0.16",
     "pre_install": [
@@ -21,7 +21,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/unix-ninja/shellfire/archive/refs/tags/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/unix-ninja/shellfire/archive/refs/tags/v$version.zip",
         "extract_dir": "shellfire-$version"
     }
 }

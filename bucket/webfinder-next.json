@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/Liqunkit/webfinder-next/raw/main/webfinder-next.jar",
+    "url": "https://gh-proxy.org/https://github.com/Liqunkit/webfinder-next/raw/main/webfinder-next.jar",
     "hash": "5661f72dc4f4a65202d74d10db65aeef8cc2bbb9cdadd651b552aaab70c89d9b",
     "pre_install": [
         "Set-Content \"$dir\\webfinder-next.bat\" '@pushd %~dp0",

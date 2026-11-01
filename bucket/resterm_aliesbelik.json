@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/unkn0wn-root/resterm/releases/download/v1.17.2/resterm_Windows_x86_64.exe#/resterm.exe",
+            "url": "https://gh-proxy.org/https://github.com/unkn0wn-root/resterm/releases/download/v1.17.2/resterm_Windows_x86_64.exe#/resterm.exe",
             "hash": "6b00859c19c0af1e407246c8e988b08515706e260019474090dfbf88c5a90c1e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/unkn0wn-root/resterm/releases/download/v1.17.2/resterm_Windows_arm64.exe#/resterm.exe",
+            "url": "https://gh-proxy.org/https://github.com/unkn0wn-root/resterm/releases/download/v1.17.2/resterm_Windows_arm64.exe#/resterm.exe",
             "hash": "fdd6ca76a1fca8be40ba101c938d007656437a8d10111bf15ba7a702a9c80119"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/unkn0wn-root/resterm/releases/download/v$version/resterm_Windows_x86_64.exe#/resterm.exe"
+                "url": "https://gh-proxy.org/https://github.com/unkn0wn-root/resterm/releases/download/v$version/resterm_Windows_x86_64.exe#/resterm.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/unkn0wn-root/resterm/releases/download/v$version/resterm_Windows_arm64.exe#/resterm.exe"
+                "url": "https://gh-proxy.org/https://github.com/unkn0wn-root/resterm/releases/download/v$version/resterm_Windows_arm64.exe#/resterm.exe"
             }
         },
         "hash": {

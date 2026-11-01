@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/excelano/xled/releases/download/v0.13.1/xled-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/excelano/xled/releases/download/v0.13.1/xled-x86_64-pc-windows-msvc.zip",
             "hash": "6b48c93a4ef06c8e2b86287b74c361696343b346568755db8347e329bc6583cc"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/excelano/xled/releases/download/v$version/xled-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/excelano/xled/releases/download/v$version/xled-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jolars/fatou/releases/download/v0.25.0/fatou-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jolars/fatou/releases/download/v0.25.0/fatou-x86_64-pc-windows-msvc.zip",
             "hash": "6c144850e31c21d5aff7e919522712f914b32ce171949a385422eb07c168a43e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jolars/fatou/releases/download/v0.25.0/fatou-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jolars/fatou/releases/download/v0.25.0/fatou-aarch64-pc-windows-msvc.zip",
             "hash": "a88824c5c9021b7fb9be782aaa73d0f0f8edefa98418004695157aaddf2c01b5"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jolars/fatou/releases/download/v$version/fatou-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jolars/fatou/releases/download/v$version/fatou-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jolars/fatou/releases/download/v$version/fatou-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jolars/fatou/releases/download/v$version/fatou-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

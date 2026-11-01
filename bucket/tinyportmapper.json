@@ -3,7 +3,7 @@
     "description": "A lightweight high-performance port mapping/forwarding utility using epoll, supports both TCP and UDP.",
     "homepage": "https://github.com/wangyu-/tinyPortMapper",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/wangyu-/tinyPortMapper/releases/download/20200818.0/tinymapper_binaries.tar.gz",
+    "url": "https://gh-proxy.org/https://github.com/wangyu-/tinyPortMapper/releases/download/20200818.0/tinymapper_binaries.tar.gz",
     "hash": "baa5987d3122a14c3752dbbf1cee5f47f0dc147b527771dc60986261dd54eadb",
     "pre_install": [
         "Get-ChildItem -Path \"$dir\" | Where-Object { $_.Name -NotLike '*.exe' } | Remove-Item -Recurse",
@@ -15,6 +15,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wangyu-/tinyPortMapper/releases/download/$version/tinymapper_binaries.tar.gz"
+        "url": "https://gh-proxy.org/https://github.com/wangyu-/tinyPortMapper/releases/download/$version/tinymapper_binaries.tar.gz"
     }
 }

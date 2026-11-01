@@ -9,13 +9,13 @@
     ],
     "homepage": "https://github.com/kimci86/bkcrack",
     "license": "Zlib",
-    "url": "https://gh-proxy.com/https://github.com/kimci86/bkcrack/releases/download/v1.8.1/bkcrack-1.8.1-win64.zip",
+    "url": "https://gh-proxy.org/https://github.com/kimci86/bkcrack/releases/download/v1.8.1/bkcrack-1.8.1-win64.zip",
     "hash": "b35ba316170486e827dd41be2a771db06c75a309e660efc87217418149ca498a",
     "extract_dir": "bkcrack-1.8.1-win64",
     "bin": "bkcrack.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kimci86/bkcrack/releases/download/v$version/bkcrack-$version-win64.zip",
+        "url": "https://gh-proxy.org/https://github.com/kimci86/bkcrack/releases/download/v$version/bkcrack-$version-win64.zip",
         "extract_dir": "bkcrack-$version-win64"
     }
 }

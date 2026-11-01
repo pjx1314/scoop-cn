@@ -6,7 +6,7 @@
     "persist": "config.json",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_Mod_Toolbox.7z",
+            "url": "https://gh-proxy.org/https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_Mod_Toolbox.7z",
             "hash": "2e3e6b40edcb8004a5640a99f961fe14655a150fed9f317ed63133ea41dff213"
         }
     },
@@ -20,6 +20,6 @@
         "github": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v$version/LLC_Mod_Toolbox.7z"
+        "url": "https://gh-proxy.org/https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v$version/LLC_Mod_Toolbox.7z"
     }
 }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_windows_amd64.zip",
             "hash": "e59cb7742278185493e30c2eb97cb318db8d7a58c28ee5e88c2a30c7630c0975"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_windows_arm64.zip",
             "hash": "9cc467dc39a44bbc12f01701e4acfa0999ba5c365f922e548b3577114e2dc6d5"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/steveyegge/beads/releases/download/v$version/beads_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/steveyegge/beads/releases/download/v$version/beads_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/steveyegge/beads/releases/download/v$version/beads_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/steveyegge/beads/releases/download/v$version/beads_$version_windows_arm64.zip"
             }
         },
         "hash": {

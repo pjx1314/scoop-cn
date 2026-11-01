@@ -11,10 +11,10 @@
         "python": "python"
     },
     "extract_dir": "RsaCtfTool-4ffadb014df02988a5325e4bfdf15a92f5dcd044",
-    "url": "https://gh-proxy.com/https://github.com/RsaCtfTool/RsaCtfTool/archive/4ffadb014df02988a5325e4bfdf15a92f5dcd044.zip",
+    "url": "https://gh-proxy.org/https://github.com/RsaCtfTool/RsaCtfTool/archive/4ffadb014df02988a5325e4bfdf15a92f5dcd044.zip",
     "hash": "79e59384ca555bb208064878e0e3db9edd2c2c4eb36b6f3dad1804c1447e52b8",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/RsaCtfTool/RsaCtfTool/archive/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/RsaCtfTool/RsaCtfTool/archive/$version.zip",
         "extract_dir": "RsaCtfTool-$version"
     },
     "post_install": "pip install -r (Join-Path $dir requirements.txt)",

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vmware/govmomi/releases/download/v0.56.2/govc_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vmware/govmomi/releases/download/v0.56.2/govc_Windows_x86_64.zip",
             "hash": "c9a050960da949317da230b0def5aa480a4138db96968d6919afd0c9a19f6b40"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/vmware/govmomi/releases/download/v0.56.2/govc_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vmware/govmomi/releases/download/v0.56.2/govc_Windows_arm64.zip",
             "hash": "ad285b036db3aadc8c902f33a7d563bde816fe000a2137fad912087a94d8c3b1"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vmware/govmomi/releases/download/v$version/govc_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vmware/govmomi/releases/download/v$version/govc_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/vmware/govmomi/releases/download/v$version/govc_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vmware/govmomi/releases/download/v$version/govc_Windows_arm64.zip"
             }
         },
         "hash": {

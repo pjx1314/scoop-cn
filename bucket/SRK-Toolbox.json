@@ -10,7 +10,7 @@
     ],
     "homepage": "https://github.com/Raka-loah/SRK-Toolbox",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/Raka-loah/SRK-Toolbox/releases/download/v10.21.0/SRK_Toolbox_v10.21.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/Raka-loah/SRK-Toolbox/releases/download/v10.21.0/SRK_Toolbox_v10.21.0.zip",
     "hash": "de0ec1c05f8c375466a3999cea7b164aa3ff3d118df07b69931ea55e4f084e87",
     "suggest": {
         "python": "uv"
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Raka-loah/SRK-Toolbox/releases/download/v$version/SRK_Toolbox_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/Raka-loah/SRK-Toolbox/releases/download/v$version/SRK_Toolbox_v$version.zip"
     }
 }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vosen/ZLUDA/releases/download/v6/zluda-windows-3fe1206.zip",
+            "url": "https://gh-proxy.org/https://github.com/vosen/ZLUDA/releases/download/v6/zluda-windows-3fe1206.zip",
             "hash": "fda8891c6fdfaba438f2eb0f9d749ffa2c1fddbdf225be2301f0d7a25e37208a"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vosen/ZLUDA/releases/download/v$version/zluda-windows-$matchSha.zip"
+                "url": "https://gh-proxy.org/https://github.com/vosen/ZLUDA/releases/download/v$version/zluda-windows-$matchSha.zip"
             }
         }
     }

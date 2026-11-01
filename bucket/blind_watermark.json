@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/guofei9987/blind_watermark/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/guofei9987/blind_watermark/archive/refs/heads/master.zip",
     "hash": "d984d8f15a30e50b087d0e4df5cade96b60da2755f7280d65f4cca1a9996e3df",
     "extract_dir":"blind_watermark-master",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/guofei9987/blind_watermark/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/guofei9987/blind_watermark/archive/refs/heads/master.zip"
     }
 }

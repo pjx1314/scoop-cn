@@ -8,10 +8,10 @@
         "For installation, see the instructions here: https://github.com/elishacloud/dxwrapper#installation",
         ""
     ],
-    "url": "https://gh-proxy.com/https://github.com/elishacloud/dxwrapper/releases/download/v1.9.8700.25/dxwrapper.zip",
+    "url": "https://gh-proxy.org/https://github.com/elishacloud/dxwrapper/releases/download/v1.9.8700.25/dxwrapper.zip",
     "hash": "e6aa4fc685115c8f73dee4ea2d446b6a1f8b57dd04db9889d2c6d1b6d7b8c825",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/elishacloud/dxwrapper/releases/download/v$version/dxwrapper.zip"
+        "url": "https://gh-proxy.org/https://github.com/elishacloud/dxwrapper/releases/download/v$version/dxwrapper.zip"
     }
 }

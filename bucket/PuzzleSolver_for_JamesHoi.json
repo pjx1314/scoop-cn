@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/JamesHoi/PuzzleSolver/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/JamesHoi/PuzzleSolver/archive/refs/heads/master.zip",
     "hash": "abd6fc1d6afc281af422a134a1a9af34ea9ebb9d9de95b146c9d8f38726e589e",
     "extract_dir": "PuzzleSolver-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/JamesHoi/PuzzleSolver/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/JamesHoi/PuzzleSolver/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

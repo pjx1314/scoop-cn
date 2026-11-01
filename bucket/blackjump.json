@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/tarihub/blackjump/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/tarihub/blackjump/archive/refs/heads/master.zip",
     "hash": "3c2b8ced7acaa51e4f42128945477063f1ace13b1e6e0e0f64298565ae2786c2",
     "extract_dir": "blackjump-main",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/tarihub/blackjump/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/tarihub/blackjump/archive/refs/heads/master.zip"
     }
 }

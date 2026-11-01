@@ -4,12 +4,12 @@
     "homepage": "https://sandboxie-plus.com/",
     "license": {
         "identifier": "GPL-3.0-or-later",
-        "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/raw/master/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/raw/master/LICENSE"
     },
     "notes": "Get Sandboxie Plus if you are a first-time user or want the latest features.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.0/Sandboxie-Classic-x64-v5.74.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.0/Sandboxie-Classic-x64-v5.74.0.exe#/dl.7z",
             "hash": "8ea779b2cf9ea2dbcb55b39b2d3f6d5e3662e6da663a43fb844b2c24b4906212"
         }
     },
@@ -49,7 +49,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Classic-x64-v$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/sandboxie-plus/Sandboxie/releases/download/$matchTag/Sandboxie-Classic-x64-v$version.exe#/dl.7z"
             }
         }
     }

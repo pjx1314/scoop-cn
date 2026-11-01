@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/drmortalwombat/oscar64/releases/download/v1.32.273/oscar64.zip",
+            "url": "https://gh-proxy.org/https://github.com/drmortalwombat/oscar64/releases/download/v1.32.273/oscar64.zip",
             "hash": "a68d255ab63f6aac12acd234689f6f4e4e5ebe6a04cae06a69072c9792d08ac8"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/drmortalwombat/oscar64/releases/download/v$version/oscar64.zip"
+                "url": "https://gh-proxy.org/https://github.com/drmortalwombat/oscar64/releases/download/v$version/oscar64.zip"
             }
         }
     }

@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b12024/llama-b12024-bin-win-rocm-10.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b12024/llama-b12024-bin-win-rocm-10.0-x64.zip",
             "hash": "fb92f2937f07b43ed38e3b07125c1d41d031d89f9aaf9d06df1044b703c2daa7"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-rocm-$matchRocm-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-rocm-$matchRocm-x64.zip"
             }
         }
     }

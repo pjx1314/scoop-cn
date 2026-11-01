@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kube-burner/kube-burner/releases/download/v2.8.7/kube-burner-V2.8.7-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kube-burner/kube-burner/releases/download/v2.8.7/kube-burner-V2.8.7-windows-x86_64.zip",
             "hash": "c65de0d5dd1483b67a3e682c9d876e99157598d6ee30be8575ed64bd88d2e05e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kube-burner/kube-burner/releases/download/v2.8.7/kube-burner-V2.8.7-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kube-burner/kube-burner/releases/download/v2.8.7/kube-burner-V2.8.7-windows-arm64.zip",
             "hash": "3b9fbb49756771e73b5f4588222f6170202f19ddcf74e8c35a4b37a12d2669c0"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kube-burner/kube-burner/releases/download/v$version/kube-burner-V$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kube-burner/kube-burner/releases/download/v$version/kube-burner-V$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kube-burner/kube-burner/releases/download/v$version/kube-burner-V$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kube-burner/kube-burner/releases/download/v$version/kube-burner-V$version-windows-arm64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MCDFsteve/NipaPlay-Reload/releases/download/v1.11.10/NipaPlay_1.11.10_Windows_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/MCDFsteve/NipaPlay-Reload/releases/download/v1.11.10/NipaPlay_1.11.10_Windows_x64.zip",
             "extract_dir": "NipaPlay_1.11.10_Windows_x64",
             "hash": "fcbf324d2fe37bc8912d39121ee9ebe3ee558af76778084eca571922fb6fc3dd"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MCDFsteve/NipaPlay-Reload/releases/download/v$version/NipaPlay_$version_Windows_x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/MCDFsteve/NipaPlay-Reload/releases/download/v$version/NipaPlay_$version_Windows_x64.zip",
                 "extract_dir": "NipaPlay_$version_Windows_x64"
             }
         }

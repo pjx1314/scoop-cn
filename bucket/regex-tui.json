@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vitor-mariano/regex-tui/releases/download/v0.8.0/regex-tui_v0.8.0_windows.amd64.exe#/regex-tui.exe",
+            "url": "https://gh-proxy.org/https://github.com/vitor-mariano/regex-tui/releases/download/v0.8.0/regex-tui_v0.8.0_windows.amd64.exe#/regex-tui.exe",
             "hash": "fb395e677a9845efa2ec8b5e912306b43853b88fa416d0dd2efa1c52f9914361"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/vitor-mariano/regex-tui/releases/download/v0.8.0/regex-tui_v0.8.0_windows.arm64.exe#/regex-tui.exe",
+            "url": "https://gh-proxy.org/https://github.com/vitor-mariano/regex-tui/releases/download/v0.8.0/regex-tui_v0.8.0_windows.arm64.exe#/regex-tui.exe",
             "hash": "99ec4aba2524009709bb0fe36c6b07c0dba5359aa14c2664f6aec661dd567f22"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vitor-mariano/regex-tui/releases/download/v$version/regex-tui_v$version_windows.amd64.exe#/regex-tui.exe"
+                "url": "https://gh-proxy.org/https://github.com/vitor-mariano/regex-tui/releases/download/v$version/regex-tui_v$version_windows.amd64.exe#/regex-tui.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/vitor-mariano/regex-tui/releases/download/v$version/regex-tui_v$version_windows.arm64.exe#/regex-tui.exe"
+                "url": "https://gh-proxy.org/https://github.com/vitor-mariano/regex-tui/releases/download/v$version/regex-tui_v$version_windows.arm64.exe#/regex-tui.exe"
             }
         }
     }

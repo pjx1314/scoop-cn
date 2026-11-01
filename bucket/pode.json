@@ -3,7 +3,7 @@
     "description": "A cross-platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers.",
     "homepage": "https://badgerati.github.io/Pode/",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/Badgerati/Pode/releases/download/v2.14.1/2.14.1-Binaries.zip",
+    "url": "https://gh-proxy.org/https://github.com/Badgerati/Pode/releases/download/v2.14.1/2.14.1-Binaries.zip",
     "hash": "85cca8d0446e5d57f57ba9fd859166845d4997a28b71142912b6b648a3f152c6",
     "psmodule": {
         "name": "Pode"
@@ -12,6 +12,6 @@
         "github": "https://github.com/Badgerati/Pode"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Badgerati/Pode/releases/download/v$version/$version-Binaries.zip"
+        "url": "https://gh-proxy.org/https://github.com/Badgerati/Pode/releases/download/v$version/$version-Binaries.zip"
     }
 }

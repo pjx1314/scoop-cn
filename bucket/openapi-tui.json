@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.tar.gz",
             "hash": "252ae369e38430206b0b08586413059db5dfd39d5242bdc3f3ce736a052a9dfb"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zaghaghi/openapi-tui/releases/download/$version/openapi-tui-$version-windows-x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/zaghaghi/openapi-tui/releases/download/$version/openapi-tui-$version-windows-x86_64.tar.gz"
             }
         }
     }

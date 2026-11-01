@@ -10,10 +10,10 @@
         ]
     },
     "checkver": "github",
-    "url": "https://gh-proxy.com/https://github.com/abc123info/BlueTeamTools/releases/download/v4.36/BlueTeam_V4.36.zip",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/BlueTeamTools/releases/download/v4.36/BlueTeam_V4.36.zip",
     "hash": "7f2c22943a1fa616e739f4f07c0ad28d944484e50cdd26acb2f5f02036387799",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/BlueTeamTools/releases/download/v$version/BlueTeam_V$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/BlueTeamTools/releases/download/v$version/BlueTeam_V$version.zip"
     },
     "bin": [
         [

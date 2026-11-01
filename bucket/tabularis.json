@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TabularisDB/tabularis/releases/download/v0.30.0/tabularis_0.30.0_x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/TabularisDB/tabularis/releases/download/v0.30.0/tabularis_0.30.0_x64-portable.zip",
             "hash": "44b0e6a237d9d852eaff4651263ab9cc295c24f3f0acdc301926add275e443d5"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TabularisDB/tabularis/releases/download/v$version/tabularis_$version_x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/TabularisDB/tabularis/releases/download/v$version/tabularis_$version_x64-portable.zip"
             }
         }
     }

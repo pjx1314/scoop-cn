@@ -3,7 +3,7 @@
     "description": "Merlin - 跨平台HTTP/2 C2命令控制框架",
     "homepage": "https://github.com/Ne0nd0g/merlin",
     "license": "GPL-3.0-only",
-    "url": "https://gh-proxy.com/https://github.com/Ne0nd0g/merlin/releases/download/v2.2.2/merlinServer-Windows-x64.7z#/merlinServer.7z",
+    "url": "https://gh-proxy.org/https://github.com/Ne0nd0g/merlin/releases/download/v2.2.2/merlinServer-Windows-x64.7z#/merlinServer.7z",
     "hash": "6a93f70be0720d1ca3c4938f79fbef947c0be21d94b61a634d6a2a7061334983",
     "bin": [
         [
@@ -14,7 +14,7 @@
     "persist": "data",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Ne0nd0g/merlin/releases/download/v$version/merlinServer-Windows-x64.7z#/merlinServer.7z"
+        "url": "https://gh-proxy.org/https://github.com/Ne0nd0g/merlin/releases/download/v$version/merlinServer-Windows-x64.7z#/merlinServer.7z"
     },
     "pre_install": [
         "7z x -y $dir\\merlinServer.7z -pmerlin $('-o' + $dir) | Out-Null",

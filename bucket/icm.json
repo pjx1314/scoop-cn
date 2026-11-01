@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rtk-ai/icm/releases/download/icm-v0.11.5/icm-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/rtk-ai/icm/releases/download/icm-v0.11.5/icm-x86_64-pc-windows-msvc.zip",
             "hash": "01de8e5f6fab458916238f33c50bb453bf2747743e7e476ff6ebdcd991b5be25"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rtk-ai/icm/releases/download/icm-v$version/icm-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/rtk-ai/icm/releases/download/icm-v$version/icm-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

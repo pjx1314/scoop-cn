@@ -5,7 +5,7 @@
     "license": "NOASSERTION",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ErikHellman/txt/releases/download/v0.8.2/txt-v0.8.2-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ErikHellman/txt/releases/download/v0.8.2/txt-v0.8.2-x86_64-pc-windows-msvc.zip",
             "hash": "28b39857218b8e6338b35821561ddd175e150cc00d12b4fee5d63ae75139e5cf"
         }
     },
@@ -16,9 +16,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ErikHellman/txt/releases/download/v$version/txt-v$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/ErikHellman/txt/releases/download/v$version/txt-v$version-x86_64-pc-windows-msvc.zip",
                 "hash": {
-                    "url": "https://gh-proxy.com/https://github.com/ErikHellman/txt/releases/download/v$version/checksums.txt"
+                    "url": "https://gh-proxy.org/https://github.com/ErikHellman/txt/releases/download/v$version/checksums.txt"
                 }
             }
         }

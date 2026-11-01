@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/letr007/CCTVVideoDownloader/releases/download/v4.5.5/CCTVVideoDownloader.v4.5.5.win.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/letr007/CCTVVideoDownloader/releases/download/v4.5.5/CCTVVideoDownloader.v4.5.5.win.x64.zip",
             "hash": "c49171f12067c3048590eac9875f4bfa4a524388f1a805eb2150d0452960dc5d"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/letr007/CCTVVideoDownloader/releases/download/v$version/CCTVVideoDownloader.v$version.win.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/letr007/CCTVVideoDownloader/releases/download/v$version/CCTVVideoDownloader.v$version.win.x64.zip"
             }
         },
         "hash": {

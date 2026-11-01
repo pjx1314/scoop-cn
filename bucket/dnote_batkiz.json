@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/dnote/dnote/releases/download/cli-v0.17.0/dnote_0.17.0_windows_amd64.tar.gz",
             "hash": "afd2b95833b5791f2b3b464e1a14c95e128a851b34bcc6cf2d2361a0ee10e1d4"
         }
     },
@@ -17,9 +17,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dnote/dnote/releases/download/cli-v$version/dnote_$version_windows_amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/dnote/dnote/releases/download/cli-v$version/dnote_$version_windows_amd64.tar.gz",
                 "hash": {
-                    "url": "https://gh-proxy.com/https://github.com/dnote/dnote/releases/download/cli-v$version/dnote_$version_checksums.txt",
+                    "url": "https://gh-proxy.org/https://github.com/dnote/dnote/releases/download/cli-v$version/dnote_$version_checksums.txt",
                     "mode": "extract"
                 }
             }

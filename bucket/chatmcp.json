@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/daodao97/chatmcp/releases/download/v0.0.76/chatmcp-0.0.76-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/daodao97/chatmcp/releases/download/v0.0.76/chatmcp-0.0.76-windows.zip",
             "hash": "d48a281f9cc973ae2f2a8a006ec20214d5ca31b535da588e0c8026b3af507d56"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/daodao97/chatmcp/releases/download/v$version/chatmcp-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/daodao97/chatmcp/releases/download/v$version/chatmcp-$version-windows.zip"
             }
         }
     }

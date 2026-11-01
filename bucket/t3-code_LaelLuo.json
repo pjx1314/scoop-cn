@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pingdotgg/t3code/releases/download/v0.1.6/T3-Code-0.1.6-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/pingdotgg/t3code/releases/download/v0.1.6/T3-Code-0.1.6-x64.exe#/dl.7z",
             "hash": "8cff5c90fdc976c0bdef86074a8cde9c3784af8de2091759514cd9f8f1457405",
             "pre_install": [
                 "#region scoop-portable-profile",
@@ -258,7 +258,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/pingdotgg/t3code/releases/download/v0.1.6/T3-Code-0.1.6-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/pingdotgg/t3code/releases/download/v0.1.6/T3-Code-0.1.6-arm64.exe#/dl.7z",
             "hash": "4655d6c5ee307145ae046739ca6149004f61eacbbcd4375daf8db7ed5d5afc35",
             "pre_install": [
                 "#region scoop-portable-profile",
@@ -525,14 +525,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pingdotgg/t3code/releases/download/v$version/T3-Code-$version-x64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/pingdotgg/t3code/releases/download/v$version/T3-Code-$version-x64.exe#/dl.7z",
                 "hash": {
                     "url": "https://api.github.com/repos/pingdotgg/t3code/releases/tags/v$version",
                     "jsonpath": "$.assets[?(@.name == 'T3-Code-$version-x64.exe')].digest"
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/pingdotgg/t3code/releases/download/v$version/T3-Code-$version-arm64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/pingdotgg/t3code/releases/download/v$version/T3-Code-$version-arm64.exe#/dl.7z",
                 "hash": {
                     "url": "https://api.github.com/repos/pingdotgg/t3code/releases/tags/v$version",
                     "jsonpath": "$.assets[?(@.name == 'T3-Code-$version-arm64.exe')].digest"

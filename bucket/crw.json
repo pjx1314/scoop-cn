@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/us/crw/releases/download/v0.39.1/crw-win32-x64.zip",
-                "https://gh-proxy.com/https://github.com/us/crw/releases/download/v0.39.1/crw-mcp-win32-x64.zip",
-                "https://gh-proxy.com/https://github.com/us/crw/releases/download/v0.39.1/crw-server-win32-x64.zip"
+                "https://gh-proxy.org/https://github.com/us/crw/releases/download/v0.39.1/crw-win32-x64.zip",
+                "https://gh-proxy.org/https://github.com/us/crw/releases/download/v0.39.1/crw-mcp-win32-x64.zip",
+                "https://gh-proxy.org/https://github.com/us/crw/releases/download/v0.39.1/crw-server-win32-x64.zip"
             ],
             "hash": [
                 "a6d997a34f04cd0d589078352dc166e0ed53bbce623209cbf4ca8109d19bb1da",
@@ -18,9 +18,9 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/us/crw/releases/download/v0.39.1/crw-win32-arm64.zip",
-                "https://gh-proxy.com/https://github.com/us/crw/releases/download/v0.39.1/crw-mcp-win32-arm64.zip",
-                "https://gh-proxy.com/https://github.com/us/crw/releases/download/v0.39.1/crw-server-win32-arm64.zip"
+                "https://gh-proxy.org/https://github.com/us/crw/releases/download/v0.39.1/crw-win32-arm64.zip",
+                "https://gh-proxy.org/https://github.com/us/crw/releases/download/v0.39.1/crw-mcp-win32-arm64.zip",
+                "https://gh-proxy.org/https://github.com/us/crw/releases/download/v0.39.1/crw-server-win32-arm64.zip"
             ],
             "hash": [
                 "eaf5f93266bc0b4eb8198e436be99f01d60a800cb6310d6d6b02ca2f9f2b8b3a",
@@ -41,16 +41,16 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/us/crw/releases/download/v$version/crw-win32-x64.zip",
-                    "https://gh-proxy.com/https://github.com/us/crw/releases/download/v$version/crw-mcp-win32-x64.zip",
-                    "https://gh-proxy.com/https://github.com/us/crw/releases/download/v$version/crw-server-win32-x64.zip"
+                    "https://gh-proxy.org/https://github.com/us/crw/releases/download/v$version/crw-win32-x64.zip",
+                    "https://gh-proxy.org/https://github.com/us/crw/releases/download/v$version/crw-mcp-win32-x64.zip",
+                    "https://gh-proxy.org/https://github.com/us/crw/releases/download/v$version/crw-server-win32-x64.zip"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/us/crw/releases/download/v$version/crw-win32-arm64.zip",
-                    "https://gh-proxy.com/https://github.com/us/crw/releases/download/v$version/crw-mcp-win32-arm64.zip",
-                    "https://gh-proxy.com/https://github.com/us/crw/releases/download/v$version/crw-server-win32-arm64.zip"
+                    "https://gh-proxy.org/https://github.com/us/crw/releases/download/v$version/crw-win32-arm64.zip",
+                    "https://gh-proxy.org/https://github.com/us/crw/releases/download/v$version/crw-mcp-win32-arm64.zip",
+                    "https://gh-proxy.org/https://github.com/us/crw/releases/download/v$version/crw-server-win32-arm64.zip"
                 ]
             }
         },

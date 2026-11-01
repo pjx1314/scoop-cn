@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aovestdipaperino/tokensave/releases/download/v7.16.0/tokensave-v7.16.0-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/aovestdipaperino/tokensave/releases/download/v7.16.0/tokensave-v7.16.0-x86_64-windows.zip",
             "hash": "43532f8130a9ea964b431b5d521b55e065ebc6cde02b3d7a7f9a1caea402fa3c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/aovestdipaperino/tokensave/releases/download/v7.16.0/tokensave-v7.16.0-aarch64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/aovestdipaperino/tokensave/releases/download/v7.16.0/tokensave-v7.16.0-aarch64-windows.zip",
             "hash": "e90fc4d5a8d73ac4a3344398931bbf8a2ea677239fee62c7310933e8d67ce013"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-x86_64-windows.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-aarch64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-aarch64-windows.zip"
             }
         }
     }

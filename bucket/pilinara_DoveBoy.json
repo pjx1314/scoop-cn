@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Starfallan/PiliNara/releases/download/2.6.1.1/PiliNara_windows_2.1.6+6077_x64_setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/Starfallan/PiliNara/releases/download/2.6.1.1/PiliNara_windows_2.1.6+6077_x64_setup.exe",
             "hash": "3a87fb172de17a72a7e2c3f11298b14ac48019ecc92dda099a8d273f99acffb0"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Starfallan/PiliNara/releases/download/$matchTag/PiliNara_windows_$match1+$match2_x64_setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/Starfallan/PiliNara/releases/download/$matchTag/PiliNara_windows_$match1+$match2_x64_setup.exe"
             }
         }
     }

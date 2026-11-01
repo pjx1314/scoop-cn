@@ -26,7 +26,7 @@
     "post_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Force -Recurse -ErrorAction SilentlyContinue",
     "persist": "fsm.ini",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/linux-reader/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/linux-reader/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

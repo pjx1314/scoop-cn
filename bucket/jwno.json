@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/agent-kilo/jwno/releases/download/v0.9.16/jwno.exe",
-                "https://gh-proxy.com/https://github.com/agent-kilo/jwno/raw/refs/tags/v0.9.16/example/tutorial.janet",
-                "https://gh-proxy.com/https://github.com/agent-kilo/jwno/raw/refs/tags/v0.9.16/example/example-config.janet"
+                "https://gh-proxy.org/https://github.com/agent-kilo/jwno/releases/download/v0.9.16/jwno.exe",
+                "https://gh-proxy.org/https://github.com/agent-kilo/jwno/raw/refs/tags/v0.9.16/example/tutorial.janet",
+                "https://gh-proxy.org/https://github.com/agent-kilo/jwno/raw/refs/tags/v0.9.16/example/example-config.janet"
             ],
             "hash": [
                 "b4ba82b9a78413b61beae20d61fa63a43b53cb10245aaccb5dcdf4707466857e",
@@ -36,9 +36,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/agent-kilo/jwno/releases/download/v$version/jwno.exe",
-                    "https://gh-proxy.com/https://github.com/agent-kilo/jwno/raw/refs/tags/v$version/example/tutorial.janet",
-                    "https://gh-proxy.com/https://github.com/agent-kilo/jwno/raw/refs/tags/v$version/example/example-config.janet"
+                    "https://gh-proxy.org/https://github.com/agent-kilo/jwno/releases/download/v$version/jwno.exe",
+                    "https://gh-proxy.org/https://github.com/agent-kilo/jwno/raw/refs/tags/v$version/example/tutorial.janet",
+                    "https://gh-proxy.org/https://github.com/agent-kilo/jwno/raw/refs/tags/v$version/example/example-config.janet"
                 ]
             }
         }

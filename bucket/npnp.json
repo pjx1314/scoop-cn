@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ref42/npnp/releases/download/v3.1.0/npnp-v3.1.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ref42/npnp/releases/download/v3.1.0/npnp-v3.1.0-windows-x86_64.zip",
             "hash": "217b3bbffe0bccd60649562c3901322f21eb7f74d0925fceadc73656ba6cbd25"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ref42/npnp/releases/download/v3.1.0/npnp-v3.1.0-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ref42/npnp/releases/download/v3.1.0/npnp-v3.1.0-windows-aarch64.zip",
             "hash": "564cf38fc96f50593fe87d6a774142e4fcb3c4652aaa648232068bd59a622fa5"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ref42/npnp/releases/download/v$version/npnp-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ref42/npnp/releases/download/v$version/npnp-v$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ref42/npnp/releases/download/v$version/npnp-v$version-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ref42/npnp/releases/download/v$version/npnp-v$version-windows-aarch64.zip"
             }
         }
     }

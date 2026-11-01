@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/UniClipboard/UniClipboard/releases/download/v1.5.0/uniclipboard-cli-1.5.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/UniClipboard/UniClipboard/releases/download/v1.5.0/uniclipboard-cli-1.5.0-x86_64-pc-windows-msvc.zip",
             "hash": "e0a15c0a2af6bca566fb4e5e634ede18fe837f3cf3dec5f295d4693d3533211b"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/UniClipboard/UniClipboard/releases/download/v$version/uniclipboard-cli-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/UniClipboard/UniClipboard/releases/download/v$version/uniclipboard-cli-$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

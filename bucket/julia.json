@@ -17,7 +17,7 @@
     "extract_dir": "julia-1.13.3",
     "bin": "bin\\julia.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://github.com/JuliaLang/www.julialang.org/raw/main/config.md",
+        "url": "https://gh-proxy.org/https://github.com/JuliaLang/www.julialang.org/raw/main/config.md",
         "regex": "(?m:^stable_release *= *\"([0-9.]+)\"$)"
     },
     "autoupdate": {

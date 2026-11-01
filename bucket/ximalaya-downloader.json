@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/844704781/ximalaya_downloader/releases/download/v1.0.5/xmd-win.exe#/xmd.exe",
+            "url": "https://gh-proxy.org/https://github.com/844704781/ximalaya_downloader/releases/download/v1.0.5/xmd-win.exe#/xmd.exe",
             "hash": "506ae69fbe04c5f31b24e30e5d1bc0f3fbffe34d7fe6a8f5171538efcb27fb48"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/844704781/ximalaya_downloader/releases/download/v$version/xmd-win.exe#/xmd.exe"
+                "url": "https://gh-proxy.org/https://github.com/844704781/ximalaya_downloader/releases/download/v$version/xmd-win.exe#/xmd.exe"
             }
         }
     }

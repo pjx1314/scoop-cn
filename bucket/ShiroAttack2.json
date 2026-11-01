@@ -10,10 +10,10 @@
         ]
     },
     "checkver": "github",
-    "url": "https://gh-proxy.com/https://github.com/SummerSec/ShiroAttack2/releases/download/v5.1.1/shiro_attack-5.1.1-zulu-8-jfx.jar#/shiro_attack.jar",
+    "url": "https://gh-proxy.org/https://github.com/SummerSec/ShiroAttack2/releases/download/v5.1.1/shiro_attack-5.1.1-zulu-8-jfx.jar#/shiro_attack.jar",
     "hash": "96de9b150ec72d2ddf0ab58a9f61daa6bbde856c94cb9eb813d2208fe378d4a8",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/SummerSec/ShiroAttack2/releases/download/v$version/shiro_attack-$version-zulu-8-jfx.jar#/shiro_attack.jar"
+        "url": "https://gh-proxy.org/https://github.com/SummerSec/ShiroAttack2/releases/download/v$version/shiro_attack-$version-zulu-8-jfx.jar#/shiro_attack.jar"
     },
     "bin": "shiro_attack.jar"
 }

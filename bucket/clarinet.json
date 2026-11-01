@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stx-labs/clarinet/releases/download/v4.0.0/clarinet-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stx-labs/clarinet/releases/download/v4.0.0/clarinet-windows-x64.zip",
             "hash": "c4c831e3ddb540471492eb3cb578e62cb8db9cc7871f2450f111cea47f7825b1"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stx-labs/clarinet/releases/download/v$version/clarinet-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stx-labs/clarinet/releases/download/v$version/clarinet-windows-x64.zip"
             }
         }
     }

@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/Sinflower/UberWolf/releases/download/v0.6.4/UberWolf.exe",
-                "https://gh-proxy.com/https://github.com/Sinflower/UberWolf/releases/download/v0.6.4/UberWolfCli.exe"
+                "https://gh-proxy.org/https://github.com/Sinflower/UberWolf/releases/download/v0.6.4/UberWolf.exe",
+                "https://gh-proxy.org/https://github.com/Sinflower/UberWolf/releases/download/v0.6.4/UberWolfCli.exe"
             ],
             "hash": [
                 "8e352d74ff9e450cfb7d073ab2e535535bfe7dfdbaf1b6bf24bd4c90d0ba1f65",
@@ -27,8 +27,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/Sinflower/UberWolf/releases/download/v$version/UberWolf.exe",
-                    "https://gh-proxy.com/https://github.com/Sinflower/UberWolf/releases/download/v$version/UberWolfCli.exe"
+                    "https://gh-proxy.org/https://github.com/Sinflower/UberWolf/releases/download/v$version/UberWolf.exe",
+                    "https://gh-proxy.org/https://github.com/Sinflower/UberWolf/releases/download/v$version/UberWolfCli.exe"
                 ]
             }
         }

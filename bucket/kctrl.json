@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/carvel-dev/kapp-controller/releases/download/v0.60.10/kctrl-windows-amd64.exe#/kctrl.exe",
+            "url": "https://gh-proxy.org/https://github.com/carvel-dev/kapp-controller/releases/download/v0.60.10/kctrl-windows-amd64.exe#/kctrl.exe",
             "hash": "b568f0c67ee7ccd7d49d8095c9e6380a9d1905c9ca4b9aff0ad6dbbe0e538afe"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/carvel-dev/kapp-controller/releases/download/v$version/kctrl-windows-amd64.exe#/kctrl.exe"
+                "url": "https://gh-proxy.org/https://github.com/carvel-dev/kapp-controller/releases/download/v$version/kctrl-windows-amd64.exe#/kctrl.exe"
             }
         },
         "hash": {

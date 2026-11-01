@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bountyyfi/lonkero/releases/download/v3.7.3/lonkero-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bountyyfi/lonkero/releases/download/v3.7.3/lonkero-windows-x64.zip",
             "hash": "91efecc22d2135fa9dae34df9e8dc4cebf19fcbecf7ae3e1d8801b81a1571260"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bountyyfi/lonkero/releases/download/v$version/lonkero-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bountyyfi/lonkero/releases/download/v$version/lonkero-windows-x64.zip"
             }
         },
         "hash": {

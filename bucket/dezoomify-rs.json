@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lovasoa/dezoomify-rs/releases/download/v2.20.0/dezoomify-rs.exe",
+            "url": "https://gh-proxy.org/https://github.com/lovasoa/dezoomify-rs/releases/download/v2.20.0/dezoomify-rs.exe",
             "hash": "85401a4ff4b9f00b17a10847443a381afa5ea54acc2adf36acf6dd9d44de7e40"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lovasoa/dezoomify-rs/releases/download/v$version/dezoomify-rs.exe"
+                "url": "https://gh-proxy.org/https://github.com/lovasoa/dezoomify-rs/releases/download/v$version/dezoomify-rs.exe"
             }
         }
     }

@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Rem0o/FanControl.Releases",
     "license": "Unknown",
     "changelog": "https://github.com/Rem0o/FanControl.Releases/releases",
-    "url": "https://gh-proxy.com/https://github.com/Rem0o/FanControl.Releases/raw/V284/FanControl.zip",
+    "url": "https://gh-proxy.org/https://github.com/Rem0o/FanControl.Releases/raw/V284/FanControl.zip",
     "hash": "c631dd2605ca8d52027af74cc5b6df0079b171c56531b96907aa8fcf9dac1784",
     "pre_install": "if(!(Test-Path \"$dir/userConfig.json\")) { Add-Content \"$dir/userConfig.json\" $null }",
     "shortcuts": [
@@ -21,6 +21,6 @@
         "github": "https://github.com/Rem0o/FanControl.Releases"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Rem0o/FanControl.Releases/raw/V$version/FanControl.zip"
+        "url": "https://gh-proxy.org/https://github.com/Rem0o/FanControl.Releases/raw/V$version/FanControl.zip"
     }
 }

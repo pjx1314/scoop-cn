@@ -5,11 +5,11 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zucchiniEvader/kopi/releases/download/v0.2.7/kopi-0.2.7-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/zucchiniEvader/kopi/releases/download/v0.2.7/kopi-0.2.7-windows-amd64.tar.gz",
             "hash": "26bd1391ad3c67b1539f9b921e8dbd2367e37c8537bdaf8ba4031d8db797e91d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zucchiniEvader/kopi/releases/download/v0.2.7/kopi-0.2.7-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/zucchiniEvader/kopi/releases/download/v0.2.7/kopi-0.2.7-windows-arm64.tar.gz",
             "hash": "e19052957ce8bae50daf4162af5ab02ee10d4609a373b69ae63c09fdbef1563d"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zucchiniEvader/kopi/releases/download/v$version/kopi-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/zucchiniEvader/kopi/releases/download/v$version/kopi-$version-windows-amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/zucchiniEvader/kopi/releases/download/v$version/kopi-$version-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/zucchiniEvader/kopi/releases/download/v$version/kopi-$version-windows-arm64.tar.gz"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/moltis-org/moltis/releases/download/20261023.01/moltis-20261023.01-x86_64-pc-windows-msvc.exe#/moltis.exe",
+            "url": "https://gh-proxy.org/https://github.com/moltis-org/moltis/releases/download/20261023.01/moltis-20261023.01-x86_64-pc-windows-msvc.exe#/moltis.exe",
             "hash": "2f54970f2ccf61b5aae2730046deb4b7e46cb1f9f940492098ab5b79d13da4ff"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/moltis-org/moltis/releases/download/$version/moltis-$version-x86_64-pc-windows-msvc.exe#/moltis.exe"
+                "url": "https://gh-proxy.org/https://github.com/moltis-org/moltis/releases/download/$version/moltis-$version-x86_64-pc-windows-msvc.exe#/moltis.exe"
             }
         },
         "hash": {

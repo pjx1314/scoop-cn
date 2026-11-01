@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubevirt/kubevirt/releases/download/v1.9.1/virtctl-v1.9.1-windows-amd64.exe#/virtctl.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubevirt/kubevirt/releases/download/v1.9.1/virtctl-v1.9.1-windows-amd64.exe#/virtctl.exe",
             "hash": "61b4973367501bb92f9832385bdb725bc603e58630772c4eba3a5fa92a31f4c8"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubevirt/kubevirt/releases/download/v$version/virtctl-v$version-windows-amd64.exe#/virtctl.exe"
+                "url": "https://gh-proxy.org/https://github.com/kubevirt/kubevirt/releases/download/v$version/virtctl-v$version-windows-amd64.exe#/virtctl.exe"
             }
         }
     }

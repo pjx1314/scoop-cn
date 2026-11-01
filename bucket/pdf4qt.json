@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JakubMelka/PDF4QT/releases/download/v1.6.0.0/PDF4QT-Windows-1.6.0.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/JakubMelka/PDF4QT/releases/download/v1.6.0.0/PDF4QT-Windows-1.6.0.0.zip",
             "hash": "6a9e400d2dce4b3063b49eb08b67658c4025257522464a76c5aaecddb5296dd5"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/JakubMelka/PDF4QT/releases/download/v$version/PDF4QT-Windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/JakubMelka/PDF4QT/releases/download/v$version/PDF4QT-Windows-$version.zip"
             }
         }
     }

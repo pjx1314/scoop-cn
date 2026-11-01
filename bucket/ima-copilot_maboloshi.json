@@ -60,7 +60,7 @@
     ],
     "checkver": {
         "script": [
-            "$prefix = 'https://gh-proxy.com/https://raw.githubusercontent.com/SpecterShell/Dumplings/main/Tasks/Tencent.ima-copilot'",
+            "$prefix = 'https://gh-proxy.org/https://raw.githubusercontent.com/SpecterShell/Dumplings/main/Tasks/Tencent.ima-copilot'",
             "$stateYamlUrl = $prefix + '/State.yaml'",
             "$stateContent = (Invoke-WebRequest -Uri $stateYamlUrl -UseBasicParsing).Content",
             "$logFileUrl = \"$prefix/$stateContent\"",
@@ -72,7 +72,7 @@
     "autoupdate": {
         "url": "https://app-dl.ima.qq.com/win_channel/$matchName#/dl.7z",
         "hash": {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/t/Tencent/ima-copilot/$version/Tencent.ima-copilot.installer.yaml",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/t/Tencent/ima-copilot/$version/Tencent.ima-copilot.installer.yaml",
             "regex": "InstallerSha256:\\s+([a-fA-F0-9]{64})"
         }
     }

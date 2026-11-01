@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/rocky/python-uncompyle6/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/rocky/python-uncompyle6/archive/refs/heads/master.zip",
     "hash": "1bd996ff8e28d9f7aa517aa251ccf70ee92a378888733cef4bea46eec47a204a",
     "extract_dir": "python-uncompyle6-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/rocky/python-uncompyle6/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/rocky/python-uncompyle6/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

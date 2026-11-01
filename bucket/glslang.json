@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KhronosGroup/glslang/releases/download/16.6.0/glslang-16.6.0-windows-x86_64-release.zip",
+            "url": "https://gh-proxy.org/https://github.com/KhronosGroup/glslang/releases/download/16.6.0/glslang-16.6.0-windows-x86_64-release.zip",
             "hash": "82bf434e69b9bb4829de7e2b4bc2c5e7a7861e53d66cf75e5cc70f5f694a8d9b"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KhronosGroup/glslang/releases/download/$version/glslang-$version-windows-x86_64-release.zip"
+                "url": "https://gh-proxy.org/https://github.com/KhronosGroup/glslang/releases/download/$version/glslang-$version-windows-x86_64-release.zip"
             }
         }
     }

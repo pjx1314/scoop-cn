@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/heptameta/project-meta/releases/download/v1.115.0/Heptabase-Setup-1.115.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/heptameta/project-meta/releases/download/v1.115.0/Heptabase-Setup-1.115.0.exe#/dl.7z",
             "hash": "sha512:45ebf5957342208462b36918cba7c1bdd8e9995ba92b059cd8873477e003b64bba84c1de80a6ba3b45375efaf69d4a87ab82d7558c9542804331f6a2fe12d925",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/heptameta/project-meta/releases/download/v$version/Heptabase-Setup-$version.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/heptameta/project-meta/releases/download/v$version/Heptabase-Setup-$version.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "sha512:\\s+$base64"

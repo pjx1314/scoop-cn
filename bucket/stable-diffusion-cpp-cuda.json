@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-1031-c6dfa9d/sd-master-c6dfa9d-bin-win-cuda12-x64.zip",
-                "https://gh-proxy.com/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-1031-c6dfa9d/cudart-sd-bin-win-cu12-x64.zip"
+                "https://gh-proxy.org/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-1031-c6dfa9d/sd-master-c6dfa9d-bin-win-cuda12-x64.zip",
+                "https://gh-proxy.org/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-1031-c6dfa9d/cudart-sd-bin-win-cu12-x64.zip"
             ],
             "hash": [
                 "b1754e73934f4e1c1cc61d6228ebff44624c8a528a9ab850ad07d5179a3dbbac",
@@ -28,8 +28,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-$matchBuild-$matchCommit/sd-master-$matchCommit-bin-win-cuda12-x64.zip",
-                    "https://gh-proxy.com/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-$matchBuild-$matchCommit/cudart-sd-bin-win-cu12-x64.zip"
+                    "https://gh-proxy.org/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-$matchBuild-$matchCommit/sd-master-$matchCommit-bin-win-cuda12-x64.zip",
+                    "https://gh-proxy.org/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-$matchBuild-$matchCommit/cudart-sd-bin-win-cu12-x64.zip"
                 ]
             }
         }

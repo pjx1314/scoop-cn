@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/formulahendry/acp-ui/releases/download/v0.1.16/acp-ui_0.1.16_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/formulahendry/acp-ui/releases/download/v0.1.16/acp-ui_0.1.16_x64-setup.exe#/dl.7z",
             "hash": "a0226e96f61484a5aa438e4cab334f1998526bd7b57e6d5435b2db537bcab149"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/formulahendry/acp-ui/releases/download/v$version/acp-ui_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/formulahendry/acp-ui/releases/download/v$version/acp-ui_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

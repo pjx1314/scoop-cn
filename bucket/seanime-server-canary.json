@@ -9,7 +9,7 @@
     ],
     "url": [
         "https://seanime.app/api/updates/nightly/seanime-3.10.4_Windows_x86_64.zip",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/Rinkerbel/assets/refs/heads/main/scoopbucket/seanime-logo.ico"
+        "https://gh-proxy.org/https://raw.githubusercontent.com/Rinkerbel/assets/refs/heads/main/scoopbucket/seanime-logo.ico"
     ],
     "hash": [
         "d732aa23ff8216d9527eec4b3aa62210aa246e31e6abf2bfc5fdcd920e979399",

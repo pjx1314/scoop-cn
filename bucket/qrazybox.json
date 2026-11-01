@@ -3,7 +3,7 @@
     "description": "二维码分析和恢复工具包 ",
     "homepage": "https://github.com/Merricx/qrazybox",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/Merricx/qrazybox/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Merricx/qrazybox/archive/refs/heads/master.zip",
     "hash": "c127f3ac518d2e2340852ea1690002e0a12be4f7af5e3476603839438c3bbd22",
     "extract_dir": "qrazybox-master",
     "pre_install": [
@@ -24,7 +24,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Merricx/qrazybox/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Merricx/qrazybox/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 二维码工具",

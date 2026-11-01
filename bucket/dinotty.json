@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xichan96/dinotty/releases/download/v0.29.2/Dinotty_0.29.2_x64-portable.exe#/Dinotty.exe",
+            "url": "https://gh-proxy.org/https://github.com/xichan96/dinotty/releases/download/v0.29.2/Dinotty_0.29.2_x64-portable.exe#/Dinotty.exe",
             "hash": "84bb80c4a4306b44f66fc11e43372a4eb6fa41d0a9af11d914a1eec6ce0f1acb"
         }
     },
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xichan96/dinotty/releases/download/v$version/Dinotty_$version_x64-portable.exe#/Dinotty.exe"
+                "url": "https://gh-proxy.org/https://github.com/xichan96/dinotty/releases/download/v$version/Dinotty_$version_x64-portable.exe#/Dinotty.exe"
             }
         },
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/xichan96/dinotty/releases/download/v$version/checksums.txt",
+            "url": "https://gh-proxy.org/https://github.com/xichan96/dinotty/releases/download/v$version/checksums.txt",
             "regex": "$basename.*?([a-f0-9]{64})"
         }
     }

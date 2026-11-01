@@ -11,7 +11,7 @@
     "license": "UNKNOWN",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/knownsec/shellcodeloader/releases/download/v1.1/shellcodeLoader.7z",
+            "url": "https://gh-proxy.org/https://github.com/knownsec/shellcodeloader/releases/download/v1.1/shellcodeLoader.7z",
             "hash": "6d3306fc2d31395d104c846584a1169c3545935db20f5dc577c297f3763bcd7a"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/knownsec/shellcodeloader/releases/download/v$version/shellcodeLoader.7z"
+                "url": "https://gh-proxy.org/https://github.com/knownsec/shellcodeloader/releases/download/v$version/shellcodeLoader.7z"
             }
         }
     }

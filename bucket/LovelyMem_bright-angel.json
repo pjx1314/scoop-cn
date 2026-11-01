@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Tokeii0/LovelyMem/archive/refs/tags/v2.5.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/Tokeii0/LovelyMem/archive/refs/tags/v2.5.0.zip",
     "hash": "bb11c9a858e392965b400c8838a0007021774b63463c27a113194d4900b5d99f",
     "extract_dir": "LovelyMem-2.5.0",
     "pre_install": [
@@ -37,7 +37,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Tokeii0/LovelyMem/archive/refs/tags/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/Tokeii0/LovelyMem/archive/refs/tags/v$version.zip",
         "extract_dir": "LovelyMem-$version"
     }
 }

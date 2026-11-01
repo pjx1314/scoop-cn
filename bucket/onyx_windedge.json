@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/onyx-dot-app/onyx/releases/download/v5.0.3/Onyx_x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/onyx-dot-app/onyx/releases/download/v5.0.3/Onyx_x64.msi",
             "hash": "4fa1756faca3ee7d46caeb8daafa7a9e790ecfc641a8d573dc97b6dfd521a26f"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/onyx-dot-app/onyx/releases/download/v$version/Onyx_x64.msi",
+                "url": "https://gh-proxy.org/https://github.com/onyx-dot-app/onyx/releases/download/v$version/Onyx_x64.msi",
                 "extract_dir": "PFiles\\Onyx"
             }
         }

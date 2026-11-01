@@ -5,7 +5,7 @@
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eolix/photosuite/releases/download/v0.9.21/photosuite-0.9.21-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/eolix/photosuite/releases/download/v0.9.21/photosuite-0.9.21-windows-x64-portable.zip",
             "hash": "e4e3202163179dc4efa24844e5fdc657f65528853023f0377823455f33bb1b10"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eolix/photosuite/releases/download/v$version/photosuite-$version-windows-x64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/eolix/photosuite/releases/download/v$version/photosuite-$version-windows-x64-portable.zip",
                 "extract_dir": "photosuite-$version-windows-x64-portable"
             }
         },

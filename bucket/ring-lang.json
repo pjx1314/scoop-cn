@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ring-lang/ring/releases/download/v1.27/Ring_1.27_Windows_64bit.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ring-lang/ring/releases/download/v1.27/Ring_1.27_Windows_64bit.exe#/dl.7z",
             "hash": "6e8e0b1c7309372f58f2a16b48015d787539657f78f82212aae81f1dc29ade9d"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ring-lang/ring/releases/download/v1.27/Ring_1.27_Windows_32bit.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ring-lang/ring/releases/download/v1.27/Ring_1.27_Windows_32bit.exe#/dl.7z",
             "hash": "8026b17137d93734f0872154b0e07541d7432424451d0062f54a6492dc46bd09"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ring-lang/ring/releases/download/v$version/Ring_$version_Windows_64bit.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ring-lang/ring/releases/download/v$version/Ring_$version_Windows_64bit.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ring-lang/ring/releases/download/v$version/Ring_$version_Windows_32bit.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ring-lang/ring/releases/download/v$version/Ring_$version_Windows_32bit.exe#/dl.7z"
             }
         }
     }

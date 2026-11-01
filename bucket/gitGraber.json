@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/hisxo/gitGraber/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/hisxo/gitGraber/archive/refs/heads/master.zip",
     "extract_dir": "gitGraber-master",
     "pre_install": [
         "Set-Content \"$dir\\gitGraber.bat\" '@pushd %~dp0",

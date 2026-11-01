@@ -3,7 +3,7 @@
     "description": "CyberChef-MCP - 为 AI 助手提供 CyberChef 数据处理能力的 MCP 服务器",
     "homepage": "https://github.com/doublegate/CyberChef-MCP",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/doublegate/CyberChef-MCP/archive/refs/tags/v4.2.0.zip#/cyberchef-mcp.archive",
+    "url": "https://gh-proxy.org/https://github.com/doublegate/CyberChef-MCP/archive/refs/tags/v4.2.0.zip#/cyberchef-mcp.archive",
     "hash": "0dc526a6020f12d38abb1b4e73afaa914ff15ab69edaac2f3d0be1fa5b61c446",
     "suggest": {
         "nodejs": "main/nodejs"
@@ -21,7 +21,7 @@
     "bin": "cyberchef-mcp.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/doublegate/CyberChef-MCP/archive/refs/tags/v$version.zip#/cyberchef-mcp.archive"
+        "url": "https://gh-proxy.org/https://github.com/doublegate/CyberChef-MCP/archive/refs/tags/v$version.zip#/cyberchef-mcp.archive"
     },
     "notes": [
         "【工具类型】: MCP 服务",

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/WilliamSchack/Spotify-Downloader/releases/download/v1.11.9/Spotify.Downloader.Portable.Windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/WilliamSchack/Spotify-Downloader/releases/download/v1.11.9/Spotify.Downloader.Portable.Windows.zip",
             "hash": "b3ef39b0bf1b97ed6be467868d3dfa17df4fefe2af99adb65c551117408637d6"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/WilliamSchack/Spotify-Downloader/releases/download/v$version/Spotify.Downloader.Portable.Windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/WilliamSchack/Spotify-Downloader/releases/download/v$version/Spotify.Downloader.Portable.Windows.zip"
             }
         }
     }

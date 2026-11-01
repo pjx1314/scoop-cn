@@ -5,11 +5,11 @@
 	"license": "GPL-3.0",
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/RareDevs/Rare/releases/download/1.12.0.237/Rare-1.12.0.237-x86_64.msi",
+			"url": "https://gh-proxy.org/https://github.com/RareDevs/Rare/releases/download/1.12.0.237/Rare-1.12.0.237-x86_64.msi",
 			"hash": "f5e764f761896ea8cfb0b3805758101b6c2618deb0c5a57375c6135fade14e7a"
 		},
 		"arm64": {
-			"url": "https://gh-proxy.com/https://github.com/RareDevs/Rare/releases/download/1.12.0.237/Rare-1.12.0.237-arm64.msi",
+			"url": "https://gh-proxy.org/https://github.com/RareDevs/Rare/releases/download/1.12.0.237/Rare-1.12.0.237-arm64.msi",
 			"hash": "cf54f956d874be1724ce23f647a46e5dcd3f4f6f9aa74ede6786ce3465ade1dd"
 		}
 	},
@@ -28,11 +28,11 @@
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
-				"url": "https://gh-proxy.com/https://github.com/RareDevs/Rare/releases/download/$version/Rare-$version-x86_64.msi",
+				"url": "https://gh-proxy.org/https://github.com/RareDevs/Rare/releases/download/$version/Rare-$version-x86_64.msi",
 				"hash": "$matchX64hash"
 			},
 			"arm64": {
-				"url": "https://gh-proxy.com/https://github.com/RareDevs/Rare/releases/download/$version/Rare-$version-arm64.msi",
+				"url": "https://gh-proxy.org/https://github.com/RareDevs/Rare/releases/download/$version/Rare-$version-arm64.msi",
 				"hash": "$matchArmhash"
 			}
 		}

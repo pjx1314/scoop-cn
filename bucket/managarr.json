@@ -4,15 +4,15 @@
     "homepage": "https://github.com/Dark-Alex-17/managarr",
     "license": {
         "identifier": "Non-commercial",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Dark-Alex-17/managarr/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Dark-Alex-17/managarr/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Dark-Alex-17/managarr/releases/download/v0.8.2/managarr-windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Dark-Alex-17/managarr/releases/download/v0.8.2/managarr-windows.tar.gz",
             "hash": "8d259feb82ec31c9aab6e17f9d79f363aac85a8886533ef8d014a975f5530595"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Dark-Alex-17/managarr/releases/download/v0.8.2/managarr-windows-aarch64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Dark-Alex-17/managarr/releases/download/v0.8.2/managarr-windows-aarch64.tar.gz",
             "hash": "f9661a402a89b608e51b10313575869a890b036fed221979c527c7cacd1fc45a"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Dark-Alex-17/managarr/releases/download/v$version/managarr-windows.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Dark-Alex-17/managarr/releases/download/v$version/managarr-windows.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Dark-Alex-17/managarr/releases/download/v$version/managarr-windows-aarch64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Dark-Alex-17/managarr/releases/download/v$version/managarr-windows-aarch64.tar.gz"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dongdongbh/Mindwtr/releases/download/v1.3.7/mindwtr_1.3.7_windows_x64_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/dongdongbh/Mindwtr/releases/download/v1.3.7/mindwtr_1.3.7_windows_x64_portable.zip",
             "hash": "38b3ea8b5ff66b5ed2144a2cf6889cdf0f0561a8cc33539f17dbbd832fd69fec"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dongdongbh/Mindwtr/releases/download/v$version/mindwtr_$version_windows_x64_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/dongdongbh/Mindwtr/releases/download/v$version/mindwtr_$version_windows_x64_portable.zip"
             }
         },
         "hash": {

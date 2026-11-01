@@ -5,7 +5,7 @@
 	"license": "Unknown",
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/killkimno/MORT/releases/download/1.318/MORT.1.318v.-.20260815.zip",
+			"url": "https://gh-proxy.org/https://github.com/killkimno/MORT/releases/download/1.318/MORT.1.318v.-.20260815.zip",
 			"hash": "531cb45f58002650caf0d574f61ddd33e105d1750d7a1ab286061121684e370e"
 		}
 	},

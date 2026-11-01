@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BND-1/horseMD/releases/download/v0.14.0/HorseMD-Setup-0.14.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/BND-1/horseMD/releases/download/v0.14.0/HorseMD-Setup-0.14.0.exe#/dl.7z",
             "hash": "sha512:48360a5c50980f96c35ad1a5c937a71083e1d72cf9490ab0cc64c7e3af9aeed87855fabf0439f2bbb2d028492c731f49bf1711d4b680a17507f045a32379e30f",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BND-1/horseMD/releases/download/v$version/$matchFile#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/BND-1/horseMD/releases/download/v$version/$matchFile#/dl.7z"
             }
         },
         "hash": {

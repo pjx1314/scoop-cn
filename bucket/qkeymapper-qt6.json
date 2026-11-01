@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0 license",
         "url": "https://github.com/Zalafina/QKeyMapper#GPL-3.0-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/Zalafina/QKeyMapper/releases/download/v1.5.0.20261018/QKeyMapper_v1.5.0.20261018_Qt6_x64.zip",
+    "url": "https://gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v1.5.0.20261018/QKeyMapper_v1.5.0.20261018_Qt6_x64.zip",
     "hash": "588ca6f0e15a9cf14cdb3301bdb28f335b053f576c7c240fb03a0666688a9986",
     "extract_dir": "QKeyMapper_Qt6_x64",
     "bin": "QKeyMapper.exe",
@@ -23,6 +23,6 @@
         "regex": "/releases/download/v(?<tag>[\\d._]+)/QKeyMapper_v([\\d.]+)_Qt6_x64\\.zip"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Zalafina/QKeyMapper/releases/download/v$matchTag/QKeyMapper_v$version_Qt6_x64.zip"
+        "url": "https://gh-proxy.org/https://github.com/Zalafina/QKeyMapper/releases/download/v$matchTag/QKeyMapper_v$version_Qt6_x64.zip"
     }
 }

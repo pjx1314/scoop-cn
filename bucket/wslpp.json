@@ -11,7 +11,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HobaiRiku/wsl2-auto-portproxy/releases/download/v1.1.0/wslpp.exe",
+            "url": "https://gh-proxy.org/https://github.com/HobaiRiku/wsl2-auto-portproxy/releases/download/v1.1.0/wslpp.exe",
             "hash": "ea00fb8b96b079e8b583c938dddff48ae72ffb775640c1e93272645a82c12f08"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HobaiRiku/wsl2-auto-portproxy/releases/download/v$version/wslpp.exe"
+                "url": "https://gh-proxy.org/https://github.com/HobaiRiku/wsl2-auto-portproxy/releases/download/v$version/wslpp.exe"
             }
         }
     }

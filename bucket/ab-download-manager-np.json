@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/amir1376/ab-download-manager/releases/download/v1.11.2/ABDownloadManager_1.11.2_windows_x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/amir1376/ab-download-manager/releases/download/v1.11.2/ABDownloadManager_1.11.2_windows_x64.exe#/dl.7z",
             "hash": "9fc61e062b2abd140f83de77af3282384d6740e315a9772b597b6f733c549774"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/amir1376/ab-download-manager/releases/download/v$version/ABDownloadManager_$version_windows_x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/amir1376/ab-download-manager/releases/download/v$version/ABDownloadManager_$version_windows_x64.exe#/dl.7z"
             }
         }
     }

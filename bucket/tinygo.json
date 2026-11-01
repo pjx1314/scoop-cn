@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tinygo-org/tinygo/releases/download/v0.44.0/tinygo0.44.0.windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tinygo-org/tinygo/releases/download/v0.44.0/tinygo0.44.0.windows-amd64.zip",
             "hash": "b2c1672260a7c81e239bb5febb9ee114be752416c0a584b913a361001e7bd03b"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tinygo-org/tinygo/releases/download/v$version/tinygo$version.windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tinygo-org/tinygo/releases/download/v$version/tinygo$version.windows-amd64.zip"
             }
         }
     }

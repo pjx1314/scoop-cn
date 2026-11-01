@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/foryujian/yujianportscan",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/foryujian/yujianportscan/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/foryujian/yujianportscan/archive/refs/heads/master.zip",
     "extract_dir": "YujianPortScan-master",
     "post_install": [
         "7z x \"$dir\\yujianportscan2020(beta).rar\" -p1 -o\"$dir\" -y",

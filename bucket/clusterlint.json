@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/digitalocean/clusterlint/releases/download/v0.16.0/clusterlint-v0.16.0-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/digitalocean/clusterlint/releases/download/v0.16.0/clusterlint-v0.16.0-windows-amd64.tar.gz",
             "hash": "a4d70e87edc05944f47fb14629e66d29903ee20bc79f7eb67927de114187fe2d"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/digitalocean/clusterlint/releases/download/v0.16.0/clusterlint-v0.16.0-windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/digitalocean/clusterlint/releases/download/v0.16.0/clusterlint-v0.16.0-windows-386.tar.gz",
             "hash": "a4d70e87edc05944f47fb14629e66d29903ee20bc79f7eb67927de114187fe2d"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/digitalocean/clusterlint/releases/download/v$version/clusterlint-v$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/digitalocean/clusterlint/releases/download/v$version/clusterlint-v$version-windows-amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/digitalocean/clusterlint/releases/download/v$version/clusterlint-v$version-windows-386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/digitalocean/clusterlint/releases/download/v$version/clusterlint-v$version-windows-386.tar.gz"
             }
         },
         "hash": {

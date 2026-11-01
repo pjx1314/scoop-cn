@@ -3,7 +3,7 @@
     "homepage": "https://thingsboard.io/",
     "description": "Open-source IoT Platform.Device management, data collection, processing and visualization for your IoT solution.",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/thingsboard-windows-4.4.0.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/thingsboard/thingsboard/releases/download/v4.4.0.2/thingsboard-windows-4.4.0.2.zip",
     "hash": "0a03dba456d9a8c79a6630fa1b55d45683b9027f94e77cd02b42abb6b3707608",
     "depends": "main/temurin17-jre",
     "extract_dir": "thingsboard",
@@ -34,6 +34,6 @@
         "github": "https://github.com/thingsboard/thingsboard"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/thingsboard/thingsboard/releases/download/v$version/thingsboard-windows-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/thingsboard/thingsboard/releases/download/v$version/thingsboard-windows-$version.zip"
     }
 }

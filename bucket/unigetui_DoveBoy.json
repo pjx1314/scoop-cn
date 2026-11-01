@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/Devolutions/UniGetUI#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe",
+    "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe",
     "hash": "3d4e471fc85784c47220df75d14932b52b05a670390a919de611426f81a96755",
     "innosetup": true,
     "pre_install": [
@@ -35,7 +35,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.exe",
+        "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.Installer.exe",
         "hash": {
             "url": "$baseurl/checksums.txt"
         }

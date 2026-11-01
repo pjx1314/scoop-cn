@@ -3,7 +3,7 @@
     "description": "Log4j-check - Log4j漏洞检测BurpSuite插件，支持CVE-2021-44228和RC1绕过",
     "homepage": "https://github.com/bigsizeme/Log4j-check",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bigsizeme/Log4j-check/main/Log4J-Check-1.0.1-SNAPSHOT-jar-with-dependencies.jar",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bigsizeme/Log4j-check/main/Log4J-Check-1.0.1-SNAPSHOT-jar-with-dependencies.jar",
     "hash": "093b670a8387cea3b06e598256885be71e3a290407aed1fcb37f88bdde54cc16",
     "suggest": {
         "java": "sec/oraclejdk8"
@@ -14,7 +14,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bigsizeme/Log4j-check/main/Log4J-Check-1.0.1-SNAPSHOT-jar-with-dependencies.jar"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bigsizeme/Log4j-check/main/Log4J-Check-1.0.1-SNAPSHOT-jar-with-dependencies.jar"
     },
     "notes": [
         "【工具类型】: Burp Suite扩展",

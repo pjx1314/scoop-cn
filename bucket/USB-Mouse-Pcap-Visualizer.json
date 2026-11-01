@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer/archive/refs/heads/main.zip",
     "hash": "3636997880e2b21468fbbf33931dcb2e5535a4a619e56cb1d34b6af3c9411edb",
     "extract_dir": "USB-Mouse-Pcap-Visualizer-main",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer/archive/refs/heads/main.zip"
     }
 }

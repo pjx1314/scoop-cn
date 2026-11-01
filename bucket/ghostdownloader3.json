@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.6/Ghost-Downloader-v4.4.6-Windows-x86_64-Setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.6/Ghost-Downloader-v4.4.6-Windows-x86_64-Setup.exe",
             "hash": "d4cc459f396a27f89c8c35155a040bcd73e06fecb5e9ce71ae38ec329866ae4c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.6/Ghost-Downloader-v4.4.6-Windows-arm64-Setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.4.6/Ghost-Downloader-v4.4.6-Windows-arm64-Setup.exe",
             "hash": "217bec7baac7df5ad702404912dddc3a8fdc21a9349f39ace531a6a04b43d8d9"
         }
     },
@@ -41,10 +41,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v$version/Ghost-Downloader-v$version-Windows-x86_64-Setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v$version/Ghost-Downloader-v$version-Windows-x86_64-Setup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v$matchArm64/Ghost-Downloader-v$matchArm64-Windows-arm64-Setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v$matchArm64/Ghost-Downloader-v$matchArm64-Windows-arm64-Setup.exe"
             }
         }
     }

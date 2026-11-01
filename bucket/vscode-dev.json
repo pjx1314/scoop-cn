@@ -1,5 +1,5 @@
 {
-    "$schema": "https://gh-proxy.com/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "$schema": "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "version": "1.145.0-caeec36",
     "description": "Visual Studio Code is a lightweight but powerful source code editor (Insiders, Portable Edition).",
     "homepage": "https://code.visualstudio.com/",

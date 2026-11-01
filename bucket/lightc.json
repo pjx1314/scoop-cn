@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Chunyu33/light-c/releases/download/v2.18.0/LightC_2.18.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Chunyu33/light-c/releases/download/v2.18.0/LightC_2.18.0_x64-setup.exe#/dl.7z",
             "hash": "a53765dbb2045dcea2b40ac918d0f6ba2205107cd9371f84f116f7aeec5f2fcc",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse"
         }
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Chunyu33/light-c/releases/download/v$version/LightC_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Chunyu33/light-c/releases/download/v$version/LightC_$version_x64-setup.exe#/dl.7z"
             }
         },
         "hash": {

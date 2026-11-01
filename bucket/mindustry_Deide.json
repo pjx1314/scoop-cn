@@ -7,8 +7,8 @@
         "url": "https://github.com/Anuken/Mindustry/blob/master/LICENSE"
     },
     "url": [
-        "https://gh-proxy.com/https://github.com/Anuken/Mindustry/releases/download/v160.7/Mindustry.jar",
-        "https://gh-proxy.com/https://github.com/Anuken/Mindustry/releases/download/v142/server-release.jar",
+        "https://gh-proxy.org/https://github.com/Anuken/Mindustry/releases/download/v160.7/Mindustry.jar",
+        "https://gh-proxy.org/https://github.com/Anuken/Mindustry/releases/download/v142/server-release.jar",
         "https://i.imgur.com/Y4Q1ECd.png"
     ],
     "pre_install": [
@@ -48,6 +48,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Anuken/Mindustry/releases/download/v$version/Mindustry.jar"
+        "url": "https://gh-proxy.org/https://github.com/Anuken/Mindustry/releases/download/v$version/Mindustry.jar"
     }
 }

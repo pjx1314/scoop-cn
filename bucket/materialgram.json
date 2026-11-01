@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kukuruzka165/materialgram/releases/download/v7.3.1.1/win64_materialgram_v7.3.1.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/kukuruzka165/materialgram/releases/download/v7.3.1.1/win64_materialgram_v7.3.1.1.zip",
             "hash": "820a0ea3593cf66309520f67b0248e3deac784d5d5a405e093866a0aa49f16ff"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kukuruzka165/materialgram/releases/download/v$version/win64_materialgram_v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/kukuruzka165/materialgram/releases/download/v$version/win64_materialgram_v$version.zip"
             }
         }
     }

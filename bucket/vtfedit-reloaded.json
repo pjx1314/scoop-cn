@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Sky-rym/VTFEdit-Reloaded/releases/download/2.1.10/VTFEdit_Reloaded_v2.1.10.zip",
+            "url": "https://gh-proxy.org/https://github.com/Sky-rym/VTFEdit-Reloaded/releases/download/2.1.10/VTFEdit_Reloaded_v2.1.10.zip",
             "hash": "9b221a3f3e00502275f5eda79305ec4bcb0032dc7905620cd02d4f74992ba4d7"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Sky-rym/VTFEdit-Reloaded/releases/download/$version/VTFEdit_Reloaded_v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/Sky-rym/VTFEdit-Reloaded/releases/download/$version/VTFEdit_Reloaded_v$version.zip"
             }
         }
     }

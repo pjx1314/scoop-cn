@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/megakraken/FFmpegThumbnails/releases/download/v1.2.0/FFmpegThumbnails.exe",
+            "url": "https://gh-proxy.org/https://github.com/megakraken/FFmpegThumbnails/releases/download/v1.2.0/FFmpegThumbnails.exe",
             "hash": "1f147917335ba0fe2f1a43a44e977766cf32abe2f5f7664ae26ec09e17a4cc22"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/megakraken/FFmpegThumbnails/releases/download/v$version/FFmpegThumbnails.exe",
+                "url": "https://gh-proxy.org/https://github.com/megakraken/FFmpegThumbnails/releases/download/v$version/FFmpegThumbnails.exe",
                 "hash": {
                     "mode": "extract",
                     "url": "https://github.com/megakraken/FFmpegThumbnails/releases/expanded_assets/v$version",

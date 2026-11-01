@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dmtrKovalenko/fff/releases/download/v0.11.0/fff-mcp-x86_64-pc-windows-msvc.exe#/fff-mcp.exe",
+            "url": "https://gh-proxy.org/https://github.com/dmtrKovalenko/fff/releases/download/v0.11.0/fff-mcp-x86_64-pc-windows-msvc.exe#/fff-mcp.exe",
             "hash": "7a40439b06a33880487661b519f116a6a6d48b1c684bce79adfd5666875f23fd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dmtrKovalenko/fff/releases/download/v0.11.0/fff-mcp-aarch64-pc-windows-msvc.exe#/fff-mcp.exe",
+            "url": "https://gh-proxy.org/https://github.com/dmtrKovalenko/fff/releases/download/v0.11.0/fff-mcp-aarch64-pc-windows-msvc.exe#/fff-mcp.exe",
             "hash": "6525ac801df272906f372502707f4a9812c440ace5549ddc7810570d4ca5aced"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dmtrKovalenko/fff/releases/download/v$version/fff-mcp-x86_64-pc-windows-msvc.exe#/fff-mcp.exe"
+                "url": "https://gh-proxy.org/https://github.com/dmtrKovalenko/fff/releases/download/v$version/fff-mcp-x86_64-pc-windows-msvc.exe#/fff-mcp.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/dmtrKovalenko/fff/releases/download/v$version/fff-mcp-aarch64-pc-windows-msvc.exe#/fff-mcp.exe"
+                "url": "https://gh-proxy.org/https://github.com/dmtrKovalenko/fff/releases/download/v$version/fff-mcp-aarch64-pc-windows-msvc.exe#/fff-mcp.exe"
             }
         },
         "hash": {

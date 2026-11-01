@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bitwarden/clients/releases/download/cli-v2026.10.1/bw-oss-windows-2026.10.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/bitwarden/clients/releases/download/cli-v2026.10.1/bw-oss-windows-2026.10.1.zip",
             "hash": "8ec2a4235c6c8db93cf42b444161882842e28f14dd6116369dea61efde8a418f"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bitwarden/clients/releases/download/cli-v$version/bw-oss-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/bitwarden/clients/releases/download/cli-v$version/bw-oss-windows-$version.zip"
             }
         }
     }

@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/memcached_exporter/releases/download/v0.18.0/memcached_exporter-0.18.0.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/memcached_exporter/releases/download/v0.18.0/memcached_exporter-0.18.0.windows-amd64.tar.gz",
             "hash": "49d435e01f4d000a5dce99baf7941fda69c54fc2dddb7102ab360c9c2d2e556e",
             "extract_dir": "memcached_exporter-0.18.0.windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/memcached_exporter/releases/download/v0.18.0/memcached_exporter-0.18.0.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/memcached_exporter/releases/download/v0.18.0/memcached_exporter-0.18.0.windows-386.tar.gz",
             "hash": "1045180bb26f3fa94ce9e6709b6563728edd501989f3a1e2998d9ec04511174f",
             "extract_dir": "memcached_exporter-0.18.0.windows-386"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-amd64.tar.gz",
                 "extract_dir": "memcached_exporter-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-386.tar.gz",
                 "extract_dir": "memcached_exporter-$version.windows-386"
             }
         },

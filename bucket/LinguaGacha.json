@@ -6,7 +6,7 @@
     "##": "No LICENSE file in upstream repo; classified as Freeware per author's usage terms in README.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/neavo/LinguaGacha/releases/download/MANUAL_BUILD_v0.132.1/LinguaGacha_v0.132.1_Windows_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/neavo/LinguaGacha/releases/download/MANUAL_BUILD_v0.132.1/LinguaGacha_v0.132.1_Windows_x64.zip",
             "hash": "8b4cb859ff5f7c73a99f35b298f2ae03a7b0ff88b7dc9bb7ed8555b47f5624c5"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/neavo/LinguaGacha/releases/download/MANUAL_BUILD_v$version/LinguaGacha_v$version_Windows_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/neavo/LinguaGacha/releases/download/MANUAL_BUILD_v$version/LinguaGacha_v$version_Windows_x64.zip"
             }
         }
     }

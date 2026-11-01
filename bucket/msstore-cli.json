@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/msstore-cli/releases/download/v0.4.3/MSStoreCLI-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/msstore-cli/releases/download/v0.4.3/MSStoreCLI-win-x64.zip",
             "hash": "c5fb008b616f96b1b55f1d52e4e0a5dd8f6c156129b5f52f9b97ec0eed11bd57"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/msstore-cli/releases/download/v0.4.3/MSStoreCLI-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/msstore-cli/releases/download/v0.4.3/MSStoreCLI-win-arm64.zip",
             "hash": "a155073b1e51576f5e40fe6a7cd722aab5b06b098dec7aa7360b94b131a3a52e"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/msstore-cli/releases/download/v$version/MSStoreCLI-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/msstore-cli/releases/download/v$version/MSStoreCLI-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/msstore-cli/releases/download/v$version/MSStoreCLI-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/msstore-cli/releases/download/v$version/MSStoreCLI-win-arm64.zip"
             }
         },
         "hash": {

@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/vsdwef/StarCodeSecurity/releases/download/V1.2/StarCodeSecurity.rar",
+    "url": "https://gh-proxy.org/https://github.com/vsdwef/StarCodeSecurity/releases/download/V1.2/StarCodeSecurity.rar",
     "pre_install": [
         "Set-Content \"$dir\\StarCodeSecurity.bat\" '@pushd %~dp0",
         "@call oraclejre8",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/vsdwef/StarCodeSecurity/releases/download/V$version/StarCodeSecurity.rar"
+        "url": "https://gh-proxy.org/https://github.com/vsdwef/StarCodeSecurity/releases/download/V$version/StarCodeSecurity.rar"
     }
 }

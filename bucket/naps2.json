@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cyanfish/naps2/releases/download/v8.6.0/naps2-8.6.0-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cyanfish/naps2/releases/download/v8.6.0/naps2-8.6.0-win-x64.zip",
             "hash": "5337339764a948722a7b1d3286116ad486a633c13ec006c81eee3a99b9af12e2"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cyanfish/naps2/releases/download/v$version/naps2-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cyanfish/naps2/releases/download/v$version/naps2-$version-win-x64.zip"
             }
         }
     }

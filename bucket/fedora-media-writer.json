@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FedoraQt/MediaWriter/releases/download/5.3.2/FedoraMediaWriter-win64-5.3.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/FedoraQt/MediaWriter/releases/download/5.3.2/FedoraMediaWriter-win64-5.3.2.exe#/dl.7z",
             "hash": "f53e0c1108f83a99ad0d7a9aee846822093b1afe595c78f13b22ba779d9f4bd4"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FedoraQt/MediaWriter/releases/download/$version/FedoraMediaWriter-win64-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/FedoraQt/MediaWriter/releases/download/$version/FedoraMediaWriter-win64-$version.exe#/dl.7z"
             }
         }
     }

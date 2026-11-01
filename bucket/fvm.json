@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/leoafarias/fvm/releases/download/4.3.2/fvm-4.3.2-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/leoafarias/fvm/releases/download/4.3.2/fvm-4.3.2-windows-x64.zip",
             "bin": "fvm.exe",
             "hash": "97696d118ad35bf25dc91fd28c70bb3d77b6d1fee6658fbd744e838b5f81da4a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/leoafarias/fvm/releases/download/4.3.2/fvm-4.3.2-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/leoafarias/fvm/releases/download/4.3.2/fvm-4.3.2-windows-arm64.zip",
             "bin": "fvm.bat",
             "hash": "ea10b12a756d0b66476f303f47a1169c662c84b9a98a6debd7529ee564ec6869"
         }
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/leoafarias/fvm/releases/download/$version/fvm-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/leoafarias/fvm/releases/download/$version/fvm-$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/leoafarias/fvm/releases/download/$version/fvm-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/leoafarias/fvm/releases/download/$version/fvm-$version-windows-arm64.zip"
             }
         }
     }

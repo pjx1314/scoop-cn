@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Syngnat/GoNavi/releases/download/v1.2.0/gonavi-cli_1.2.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v1.2.0/gonavi-cli_1.2.0_windows_amd64.zip",
             "hash": "9dd93457bc8184cb0744856994d22e56d1b1af6dfbaadfe9a679cb5e87231cc6"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Syngnat/GoNavi/releases/download/v1.2.0/gonavi-cli_1.2.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v1.2.0/gonavi-cli_1.2.0_windows_arm64.zip",
             "hash": "69923616321878f9db824c975dd5703824cd7426cd137b68336cf364d20db4e2"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Syngnat/GoNavi/releases/download/v$version/gonavi-cli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v$version/gonavi-cli_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Syngnat/GoNavi/releases/download/v$version/gonavi-cli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v$version/gonavi-cli_$version_windows_arm64.zip"
             }
         },
         "hash": {

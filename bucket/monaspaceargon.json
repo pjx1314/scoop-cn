@@ -3,13 +3,13 @@
     "description": "An innovative superfamily of fonts for code - Humanist sans",
     "license": "OFL-1.1",
     "homepage": "https://monaspace.githubnext.com/",
-    "url": "https://gh-proxy.com/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceArgonVarVF%5Bwght,wdth,slnt%5D.ttf",
+    "url": "https://gh-proxy.org/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceArgonVarVF%5Bwght,wdth,slnt%5D.ttf",
     "hash": "b5f47ed2ac609fb78289e2e7f0c0706d5462b4bbb2f94c82721c078b1bbe0c03",
     "checkver": {
         "github": "https://github.com/githubnext/monaspace"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceArgonVarVF%5Bwght,wdth,slnt%5D.ttf"
+        "url": "https://gh-proxy.org/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceArgonVarVF%5Bwght,wdth,slnt%5D.ttf"
     },
     "installer": {
         "script": [

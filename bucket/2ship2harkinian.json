@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Win64.zip",
             "hash": "a46664a01623ad5d7cc82d29a9889699f6a98c9501c7a959a089f34380c1f078"
         }
     },
@@ -56,7 +56,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HarbourMasters/2ship2harkinian/releases/download/$version/2Ship-$matchMajorname-$matchMinorname-Win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/HarbourMasters/2ship2harkinian/releases/download/$version/2Ship-$matchMajorname-$matchMinorname-Win64.zip"
             }
         }
     }

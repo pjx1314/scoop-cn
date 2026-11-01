@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.3-1/JupyterLab-Setup-Windows-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.6.3-1/JupyterLab-Setup-Windows-x64.exe#/dl.7z",
             "hash": "2229631ee9355d8be01aa10f3da4d50dcea5c14fcac105d92361bad926f42be5",
             "installer": {
                 "script": "7z x $original_dir/PLUGINSDIR/app-64.7z -o\"$original_dir\""
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/JupyterLab-Setup-Windows-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v$version/JupyterLab-Setup-Windows-x64.exe#/dl.7z"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/ssh-audit.exe",
+            "url": "https://gh-proxy.org/https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/ssh-audit.exe",
             "hash": "8fbacc731e8e3dc850204e8eefa909baed219bc3f90b83905c8421ca3ad25177"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jtesta/ssh-audit/releases/download/v$version/ssh-audit.exe"
+                "url": "https://gh-proxy.org/https://github.com/jtesta/ssh-audit/releases/download/v$version/ssh-audit.exe"
             }
         }
     }

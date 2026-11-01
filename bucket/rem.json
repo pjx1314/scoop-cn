@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/liriliri/rem/releases/download/v1.5.0/REM-1.5.0-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/liriliri/rem/releases/download/v1.5.0/REM-1.5.0-win-x64.exe#/dl.7z",
             "hash": "1599dd87ec2aeb3578ccabaab2c1834a0d80cb8b8fc73b9f4035fa777a9b92ae",
             "pre_install": "Expand-7zipArchive -Removal \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         }
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/liriliri/rem/releases/download/v$version/REM-$version-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/liriliri/rem/releases/download/v$version/REM-$version-win-x64.exe#/dl.7z"
             }
         }
     }

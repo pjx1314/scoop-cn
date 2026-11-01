@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/johannesjo/super-productivity/releases/download/v19.3.1/Super-Productivity-Setup-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/johannesjo/super-productivity/releases/download/v19.3.1/Super-Productivity-Setup-x64.exe#/dl.7z",
             "hash": "9f44405f4e5cbddcedd5554114d47831909e6f565b50c08a8585f4ad7d202500",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -13,7 +13,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/johannesjo/super-productivity/releases/download/v19.3.1/Super-Productivity-Setup-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/johannesjo/super-productivity/releases/download/v19.3.1/Super-Productivity-Setup-arm64.exe#/dl.7z",
             "hash": "9f44405f4e5cbddcedd5554114d47831909e6f565b50c08a8585f4ad7d202500",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -48,10 +48,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/johannesjo/super-productivity/releases/download/v$version/Super-Productivity-Setup-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/johannesjo/super-productivity/releases/download/v$version/Super-Productivity-Setup-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/johannesjo/super-productivity/releases/download/v$version/Super-Productivity-Setup-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/johannesjo/super-productivity/releases/download/v$version/Super-Productivity-Setup-arm64.exe#/dl.7z"
             }
         },
         "hash": {

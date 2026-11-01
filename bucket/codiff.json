@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nkzw-tech/codiff/releases/download/v1.18.3/Codiff-win32-x64-1.18.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/nkzw-tech/codiff/releases/download/v1.18.3/Codiff-win32-x64-1.18.3.zip",
             "hash": "627f6f13c5e645280a440ffdeedb34cfeabdadc5c2696d241285cabfff2059d9"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nkzw-tech/codiff/releases/download/v$version/Codiff-win32-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/nkzw-tech/codiff/releases/download/v$version/Codiff-win32-x64-$version.zip"
             }
         }
     }

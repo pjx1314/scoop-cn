@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zeux/meshoptimizer/releases/download/v1.3/gltfpack-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/zeux/meshoptimizer/releases/download/v1.3/gltfpack-windows.zip",
             "hash": "f6e9c09d66af23da3da71b86f0652d2413e81c734e0aecd1cd3d0e6e6e8645c0"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zeux/meshoptimizer/releases/download/v$version/gltfpack-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/zeux/meshoptimizer/releases/download/v$version/gltfpack-windows.zip"
             }
         }
     }

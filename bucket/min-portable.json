@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows.zip",
             "hash": "6659766134e4d45bd75ac385390b02cea8284a58b37a9f60af2e193a9e04b3d5"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows-ia32.zip",
+            "url": "https://gh-proxy.org/https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows-ia32.zip",
             "hash": "006cc08184f1d5582268804a87e81e811792270c51e68a37aef8123dd9f1cde3"
         }
     },
@@ -41,10 +41,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows-ia32.zip"
+                "url": "https://gh-proxy.org/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows-ia32.zip"
             }
         },
         "extract_dir": "Min-v$version"

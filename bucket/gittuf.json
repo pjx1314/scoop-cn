@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gittuf/gittuf/releases/download/v0.17.0/gittuf_0.17.0_windows_amd64.exe#/gittuf.exe",
+            "url": "https://gh-proxy.org/https://github.com/gittuf/gittuf/releases/download/v0.17.0/gittuf_0.17.0_windows_amd64.exe#/gittuf.exe",
             "hash": "1110b1edc3b0f84710f76ba88405bfb7c2442b7ef4ef02141b5d7e7448f886b2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/gittuf/gittuf/releases/download/v0.17.0/gittuf_0.17.0_windows_arm64.exe#/gittuf.exe",
+            "url": "https://gh-proxy.org/https://github.com/gittuf/gittuf/releases/download/v0.17.0/gittuf_0.17.0_windows_arm64.exe#/gittuf.exe",
             "hash": "a271e95fc5f6caf5530d3a0f3f1e783da89443d179bbf01fe74c31d6d2d3c178"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gittuf/gittuf/releases/download/v$version/gittuf_$version_windows_amd64.exe#/gittuf.exe"
+                "url": "https://gh-proxy.org/https://github.com/gittuf/gittuf/releases/download/v$version/gittuf_$version_windows_amd64.exe#/gittuf.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/gittuf/gittuf/releases/download/v$version/gittuf_$version_windows_arm64.exe#/gittuf.exe"
+                "url": "https://gh-proxy.org/https://github.com/gittuf/gittuf/releases/download/v$version/gittuf_$version_windows_arm64.exe#/gittuf.exe"
             }
         }
     }

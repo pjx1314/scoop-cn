@@ -5,26 +5,26 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rancher/k3k/releases/download/v1.2.0/k3kcli-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rancher/k3k/releases/download/v1.2.0/k3kcli-windows-amd64.zip",
             "hash": "934d11e6c80cb3c9dcf14eff3208e28a11e08bf063ffc82340efe297072c9c97"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/rancher/k3k/releases/download/v1.2.0/k3kcli-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rancher/k3k/releases/download/v1.2.0/k3kcli-windows-arm64.zip",
             "hash": "2b7f9d192b123859be12033bf2ab607a916c958a323c9f1c0fab63050980507f"
         }
     },
     "bin": "k3kcli.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://github.com/rancher/k3k/raw/refs/heads/main/charts/k3k/Chart.yaml",
+        "url": "https://gh-proxy.org/https://github.com/rancher/k3k/raw/refs/heads/main/charts/k3k/Chart.yaml",
         "regex": "appVersion:\\s*v(.+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rancher/k3k/releases/download/v$version/k3kcli-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rancher/k3k/releases/download/v$version/k3kcli-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/rancher/k3k/releases/download/v$version/k3kcli-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rancher/k3k/releases/download/v$version/k3kcli-windows-arm64.zip"
             }
         },
         "hash": {

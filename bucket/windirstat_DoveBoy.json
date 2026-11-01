@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x64.msi",
             "hash": "96c4c4beb63c7c5ad6b1a206f96560d7a9a2b6063f3cd175a82f392977a9af5d"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x86.msi",
+            "url": "https://gh-proxy.org/https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x86.msi",
             "hash": "077bdbbe2909db10020d8cc00dfdd7765ccf13babb0bc2fb7e32667041671c94"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-arm64.msi",
+            "url": "https://gh-proxy.org/https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-arm64.msi",
             "hash": "4b6867dffbb0687cabfcf0a89031c95a0cbb40b36615bb73dad80e4804d59f71"
         }
     },
@@ -36,13 +36,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/windirstat/windirstat/releases/download/release/v$version/WinDirStat-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/windirstat/windirstat/releases/download/release/v$version/WinDirStat-x64.msi"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/windirstat/windirstat/releases/download/release/v$version/WinDirStat-x86.msi"
+                "url": "https://gh-proxy.org/https://github.com/windirstat/windirstat/releases/download/release/v$version/WinDirStat-x86.msi"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/windirstat/windirstat/releases/download/release/v$version/WinDirStat-arm64.msi"
+                "url": "https://gh-proxy.org/https://github.com/windirstat/windirstat/releases/download/release/v$version/WinDirStat-arm64.msi"
             }
         },
         "hash": {

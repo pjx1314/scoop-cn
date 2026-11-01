@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/alemidev/scope-tui/releases/download/v0.3.5/scope-tui-v0.3.5-win32-x64.exe#/scope-tui.exe",
+            "url": "https://gh-proxy.org/https://github.com/alemidev/scope-tui/releases/download/v0.3.5/scope-tui-v0.3.5-win32-x64.exe#/scope-tui.exe",
             "hash": "a389d1866370707fbca8460830ef6fb0a56724c2d7799ec23323a8e4a0808ebc"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/alemidev/scope-tui/releases/download/v$version/scope-tui-v$version-win32-x64.exe#/scope-tui.exe"
+                "url": "https://gh-proxy.org/https://github.com/alemidev/scope-tui/releases/download/v$version/scope-tui-v$version-win32-x64.exe#/scope-tui.exe"
             }
         }
     }

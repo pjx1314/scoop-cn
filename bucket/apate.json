@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Weidows/apate/releases/download/v2.0.0/apate-windows-amd64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Weidows/apate/releases/download/v2.0.0/apate-windows-amd64.exe",
             "hash": "fb67b075e81bd3519fff15aec67b175b0279311b38e20d8bcdde8b089c011058"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Weidows/apate/releases/download/v$version/apate-windows-amd64.exe",
+                "url": "https://gh-proxy.org/https://github.com/Weidows/apate/releases/download/v$version/apate-windows-amd64.exe",
                 "hash": {
                     "mode": "download"
                 }

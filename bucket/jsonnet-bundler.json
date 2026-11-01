@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-windows-amd64.exe#/jb.exe",
+            "url": "https://gh-proxy.org/https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-windows-amd64.exe#/jb.exe",
             "hash": "6af1455edfc92db1ace049e251df50ac04fcde497df3b98e716caf2652555984"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v$version/jb-windows-amd64.exe#/jb.exe"
+                "url": "https://gh-proxy.org/https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v$version/jb-windows-amd64.exe#/jb.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ProvableHQ/snarkOS/releases/download/v4.12.1/aleo-v4.12.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ProvableHQ/snarkOS/releases/download/v4.12.1/aleo-v4.12.1-x86_64-pc-windows-msvc.zip",
             "hash": "454cc0b9c3bc013c001f2237074c67f25be4ef755c66391c2532e5758001ca49"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ProvableHQ/snarkOS/releases/download/v$version/aleo-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ProvableHQ/snarkOS/releases/download/v$version/aleo-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

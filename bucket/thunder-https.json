@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/helloworldpxy/thunder-https/releases/download/v2.0/Thunder.HTTPS.Setup.2.0.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/helloworldpxy/thunder-https/releases/download/v2.0/Thunder.HTTPS.Setup.2.0.0.exe#/dl.7z",
             "hash": "1a7deb1a93a7549e06ca1a89adb9c61dae6a18b12c2aee6b3d8c0d462b088e06",
             "pre_install": "Remove-Item \"$dir\\`$*\" -Force -Recurse"
         }
@@ -48,7 +48,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/helloworldpxy/thunder-https/releases/download/v$version/$matchFile#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/helloworldpxy/thunder-https/releases/download/v$version/$matchFile#/dl.7z"
             }
         }
     }

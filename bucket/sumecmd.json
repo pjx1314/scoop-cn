@@ -7,7 +7,7 @@
     "hash": "85b4694651b2059aac4ccfa5b8ae08c286435b433b86652452ad92bc20d1de64",
     "bin": "SumECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "SumECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

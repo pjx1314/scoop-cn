@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mrusme/neonmodem/releases/download/v2.1.0/neonmodem_2.1.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mrusme/neonmodem/releases/download/v2.1.0/neonmodem_2.1.0_windows_amd64.zip",
             "hash": "0e8558c3c334d906742867fbbdcfca65597a8d3f3effb8a1bc8be7a22ec73d40"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/mrusme/neonmodem/releases/download/v2.1.0/neonmodem_2.1.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/mrusme/neonmodem/releases/download/v2.1.0/neonmodem_2.1.0_windows_386.zip",
             "hash": "ef6fd65eb6ccb7261facd1cd53df425efbc48ef8523d2ea8cf9cbad4cfc768af"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/mrusme/neonmodem/releases/download/v2.1.0/neonmodem_2.1.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mrusme/neonmodem/releases/download/v2.1.0/neonmodem_2.1.0_windows_arm64.zip",
             "hash": "c19459d54eda0b031599558528f07d39d62d4645522cfd95ceeb79dfff6109ec"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mrusme/neonmodem/releases/download/v$version/neonmodem_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mrusme/neonmodem/releases/download/v$version/neonmodem_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/mrusme/neonmodem/releases/download/v$version/neonmodem_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/mrusme/neonmodem/releases/download/v$version/neonmodem_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/mrusme/neonmodem/releases/download/v$version/neonmodem_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mrusme/neonmodem/releases/download/v$version/neonmodem_$version_windows_arm64.zip"
             }
         },
         "hash": {

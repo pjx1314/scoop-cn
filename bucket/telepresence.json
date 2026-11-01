@@ -16,7 +16,7 @@
         "winfsp": "main/winfsp-np"
     },
     "checkver": {
-        "url": "https://gh-proxy.com/https://github.com/datawire/homebrew-blackbird/raw/master/Formula/telepresence.rb",
+        "url": "https://gh-proxy.org/https://github.com/datawire/homebrew-blackbird/raw/master/Formula/telepresence.rb",
         "regex": "/amd64/([\\d.]+)/telepresence"
     },
     "autoupdate": {

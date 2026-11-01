@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/denislupookov/altersend/releases/download/v2.0.0/AlterSend-win32-x64-2.0.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/denislupookov/altersend/releases/download/v2.0.0/AlterSend-win32-x64-2.0.0.zip",
             "hash": "de266f5ce0fcc17d94a0aaeb9c0387393a54d23cd145f5de611e2f0f49e76bc2"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/denislupookov/altersend/releases/download/v$version/AlterSend-win32-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/denislupookov/altersend/releases/download/v$version/AlterSend-win32-x64-$version.zip"
             }
         }
     }

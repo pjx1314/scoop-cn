@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nepnep39/neofetch-win/releases/download/v1.3.1/neofetch.exe",
+            "url": "https://gh-proxy.org/https://github.com/nepnep39/neofetch-win/releases/download/v1.3.1/neofetch.exe",
             "hash": "dd0a3eea212907ec2758ad5f7b03b4a40b95c53d61084f6791cceb874d57680b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nepnep39/neofetch-win/releases/download/v$version/neofetch.exe"
+                "url": "https://gh-proxy.org/https://github.com/nepnep39/neofetch-win/releases/download/v$version/neofetch.exe"
             }
         }
     }

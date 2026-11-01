@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/DataDog/pup/releases/download/v2.3.10/pup_2.3.10_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/DataDog/pup/releases/download/v2.3.10/pup_2.3.10_Windows_x86_64.zip",
             "hash": "a281ea3bb6cf4a803d4b1cd8dc158caee94b0967193f296b3cfb2a36808e64ed"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/DataDog/pup/releases/download/v$version/pup_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/DataDog/pup/releases/download/v$version/pup_$version_Windows_x86_64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/63BeetleSmurf/PinnyNotes/releases/download/v1.17.0/PinnyNotes-Portable-1.17.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/63BeetleSmurf/PinnyNotes/releases/download/v1.17.0/PinnyNotes-Portable-1.17.0-x64.zip",
             "hash": "a3b738bac336bb8d2076280a15db135122c66e2157d76ddcf0d672f558ec1de1"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/63BeetleSmurf/PinnyNotes/releases/download/v$version/PinnyNotes-Portable-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/63BeetleSmurf/PinnyNotes/releases/download/v$version/PinnyNotes-Portable-$version-x64.zip"
             }
         }
     }

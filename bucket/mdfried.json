@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried.exe",
+            "url": "https://gh-proxy.org/https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried.exe",
             "hash": "1a75d62dcf13428c2040c3955e682d23250ebcd0934e751c9edba4c06f6233cc"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/benjajaja/mdfried/releases/download/v$version/mdfried.exe"
+                "url": "https://gh-proxy.org/https://github.com/benjajaja/mdfried/releases/download/v$version/mdfried.exe"
             }
         }
     }

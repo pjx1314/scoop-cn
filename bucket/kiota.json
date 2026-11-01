@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/kiota/releases/download/v1.37.0/win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.37.0/win-x64.zip",
             "hash": "b3202635c2d0845b4f69cfcfc4237414b3afa02ef08b1fbd351b6b83e8a9c1fa"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/kiota/releases/download/v1.37.0/win-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.37.0/win-x86.zip",
             "hash": "77b2c417f209fab62f61d4827bef14f705fd92a12bc256f1af8cf6980f15490f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/kiota/releases/download/v1.37.0/win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v1.37.0/win-arm64.zip",
             "hash": "55345e27d4a0a78c16a049bd97da833479d5c17aa8e1e01d59ff36186eff9bae"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/kiota/releases/download/v$version/win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/kiota/releases/download/v$version/win-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-x86.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/kiota/releases/download/v$version/win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/kiota/releases/download/v$version/win-arm64.zip"
             }
         }
     }

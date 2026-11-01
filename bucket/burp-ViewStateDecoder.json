@@ -12,7 +12,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/raise-isayan/ViewStateDecoder/releases/download/v3.1.1.0/ViewStateDecoder_v3.1.1.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/raise-isayan/ViewStateDecoder/releases/download/v3.1.1.0/ViewStateDecoder_v3.1.1.0.zip",
     "hash": "21259aab1ba23944d7bfa1c0652e2ec0d4fb85fc94e15574220e29236831410d",
     "extract_dir": "release",
     "pre_install": [
@@ -25,7 +25,7 @@
     "bin": "ViewStateDecoder.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/raise-isayan/ViewStateDecoder/releases/download/v$version/ViewStateDecoder_v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/raise-isayan/ViewStateDecoder/releases/download/v$version/ViewStateDecoder_v$version.zip",
         "extract_dir": "release"
     }
 }

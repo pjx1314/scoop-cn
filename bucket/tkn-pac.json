@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v0.52.0/tkn-pac_0.52.0_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v0.52.0/tkn-pac_0.52.0_windows_x86_64.zip",
             "hash": "b0b53bb2f4086d7ca54dd2182176b32c1bcc791808be503f688bb2c8c494c6dd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v0.52.0/tkn-pac_0.52.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v0.52.0/tkn-pac_0.52.0_windows_arm64.zip",
             "hash": "c35f60c8337bdbada328cbefe7241f76eeaf9baac25f55a17a7b9f24f81fba31"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v$version/tkn-pac_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v$version/tkn-pac_$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v$version/tkn-pac_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/openshift-pipelines/pipelines-as-code/releases/download/v$version/tkn-pac_$version_windows_arm64.zip"
             }
         },
         "hash": {

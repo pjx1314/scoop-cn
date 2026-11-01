@@ -3,7 +3,7 @@
     "description": "A cross-platform software for keeping your notes in a tree.",
     "homepage": "http://jenyay.net/Outwiker/English",
     "license": "GPL-3.0-only",
-    "url": "https://gh-proxy.com/https://github.com/Jenyay/outwiker/releases/download/4.1.0-stable/outwiker_4.1.0_win_all_plugins.7z",
+    "url": "https://gh-proxy.org/https://github.com/Jenyay/outwiker/releases/download/4.1.0-stable/outwiker_4.1.0_win_all_plugins.7z",
     "hash": "7b86db2e2ee5abcdc62bc24312cf5a0431430383ab5d531973dfb05736fff6a3",
     "shortcuts": [
         [
@@ -22,6 +22,6 @@
         "regex": "Repository/\\d+/(.+?)-stable<"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Jenyay/outwiker/releases/download/$version-stable/outwiker_$version_win_all_plugins.7z"
+        "url": "https://gh-proxy.org/https://github.com/Jenyay/outwiker/releases/download/$version-stable/outwiker_$version_win_all_plugins.7z"
     }
 }

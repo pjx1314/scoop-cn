@@ -5,7 +5,7 @@
     "version": "0.60.8.3",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iquiw/aspell-binary/releases/download/v0.60.8.3/aspell-0.60.8.3.7z",
+            "url": "https://gh-proxy.org/https://github.com/iquiw/aspell-binary/releases/download/v0.60.8.3/aspell-0.60.8.3.7z",
             "hash": "323563024f451a6f2cbd79c563f670ac48d7e4347d2c7852d761cb681a954a6e"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iquiw/aspell-binary/releases/download/v$version/aspell-$version.7z"
+                "url": "https://gh-proxy.org/https://github.com/iquiw/aspell-binary/releases/download/v$version/aspell-$version.7z"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/skytable/skytable/releases/download/v0.8.4/sky-bundle-v0.8.4-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/skytable/skytable/releases/download/v0.8.4/sky-bundle-v0.8.4-x86_64-windows.zip",
             "hash": "d579869f7b56453a6a353dc9d693be262412b48c0db11de345e5a7b380ed8a79"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/skytable/skytable/releases/download/v0.8.4/sky-bundle-v0.8.4-i686-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/skytable/skytable/releases/download/v0.8.4/sky-bundle-v0.8.4-i686-windows.zip",
             "hash": "fb2914399ff229e5d91312872c49e18eeffe9cf59e27ef33d5af5505663f43e1"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/skytable/skytable/releases/download/v$version/sky-bundle-v$version-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/skytable/skytable/releases/download/v$version/sky-bundle-v$version-x86_64-windows.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/skytable/skytable/releases/download/v$version/sky-bundle-v$version-i686-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/skytable/skytable/releases/download/v$version/sky-bundle-v$version-i686-windows.zip"
             }
         }
     }

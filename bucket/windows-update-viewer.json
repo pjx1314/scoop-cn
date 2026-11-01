@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Timthreetwelve/WUView/releases/download/v0.8.0/WindowsUpdateViewer_0.8.0_SC_x64_Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Timthreetwelve/WUView/releases/download/v0.8.0/WindowsUpdateViewer_0.8.0_SC_x64_Portable.zip",
             "hash": "79245165c7d5a7aceb12b2b1e30d434f806076621833217bea44b9bb46ee19b1"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Timthreetwelve/WUView/releases/download/v0.8.0/WindowsUpdateViewer_0.8.0_SC_x86_Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Timthreetwelve/WUView/releases/download/v0.8.0/WindowsUpdateViewer_0.8.0_SC_x86_Portable.zip",
             "hash": "9daf3b36775b6deed740f8761bb649d678416e3c72833c364e8cc0d7b8a8d8ea"
         }
     },
@@ -43,10 +43,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Timthreetwelve/WUView/releases/download/v$version/WindowsUpdateViewer_$version_SC_x64_Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/Timthreetwelve/WUView/releases/download/v$version/WindowsUpdateViewer_$version_SC_x64_Portable.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Timthreetwelve/WUView/releases/download/v$version/WindowsUpdateViewer_$version_SC_x86_Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/Timthreetwelve/WUView/releases/download/v$version/WindowsUpdateViewer_$version_SC_x86_Portable.zip"
             }
         }
     }

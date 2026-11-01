@@ -10,11 +10,11 @@
     ],
     "homepage": "https://github.com/darkfiv/DouSql",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/darkfiv/DouSql/releases/download/V3.0.10/DouSql-3.0.10.jar#/DouSql.jar",
+    "url": "https://gh-proxy.org/https://github.com/darkfiv/DouSql/releases/download/V3.0.10/DouSql-3.0.10.jar#/DouSql.jar",
     "hash": "4cfdd9b13a813d39329718dc0208c72f4b996df4c728af8d4bcf906651339b2e",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/darkfiv/DouSql/releases/download/V$version/DouSql-$version.jar#/DouSql.jar"
+        "url": "https://gh-proxy.org/https://github.com/darkfiv/DouSql/releases/download/V$version/DouSql-$version.jar#/DouSql.jar"
     }
 }
 

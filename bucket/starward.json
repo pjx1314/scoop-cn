@@ -5,7 +5,7 @@
     "license": "MIT license",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Scighost/Starward/releases/download/0.18.2/Starward_Portable_0.18.2_x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/Scighost/Starward/releases/download/0.18.2/Starward_Portable_0.18.2_x64.7z",
             "hash": "8fafdda9e1d3dc6a9976a79c228de8781e999cfe2a9d7f33051fbb2a014d5d89",
             "extract_dir": "Starward"
         }
@@ -31,6 +31,6 @@
         "github": "https://github.com/Scighost/Starward"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Scighost/Starward/releases/download/$version/Starward_Portable_$version_x64.7z"
+        "url": "https://gh-proxy.org/https://github.com/Scighost/Starward/releases/download/$version/Starward_Portable_$version_x64.7z"
     }
 }

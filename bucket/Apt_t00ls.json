@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/White-hua/Apt_t00ls/releases/download/v0.7/apt.zip",
+    "url": "https://gh-proxy.org/https://github.com/White-hua/Apt_t00ls/releases/download/v0.7/apt.zip",
     "hash": "af9238caaf8dfe867bbf4bc625485657b4b277e319ba788a5809a3c7ae129d3d",
     "pre_install": [
         "Set-Content \"$dir\\Apt_t00ls.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/White-hua/Apt_t00ls/releases/download/v$version/apt.zip"
+        "url": "https://gh-proxy.org/https://github.com/White-hua/Apt_t00ls/releases/download/v$version/apt.zip"
     }
 }

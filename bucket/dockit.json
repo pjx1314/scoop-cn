@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/geek-fun/dockit/releases/download/v2.0.1/DocKit_2.0.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/geek-fun/dockit/releases/download/v2.0.1/DocKit_2.0.1_x64-setup.exe#/dl.7z",
             "hash": "fd7e841f2b83a6fc6c8ea8eeab4225aa794e0ddebc877a1871be6004d747e9c1"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/geek-fun/dockit/releases/download/v$version/DocKit_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/geek-fun/dockit/releases/download/v$version/DocKit_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

@@ -4,7 +4,7 @@
     "version": "v12.1.4-20260921-e46d08667b",
     "license": "Apache-2.0",
     "hash": "808affad1691e3b34d99d56718c73b626fd6d552fe6c0df9f5f9f93cee87f8b5",
-    "url": "https://gh-proxy.com/https://github.com/NyaMisty/ghidra_mod-ci/releases/download/stable-2026-09-21-e46d08667b/ghidra_12.1.4_DEV_20260921.zip",
+    "url": "https://gh-proxy.org/https://github.com/NyaMisty/ghidra_mod-ci/releases/download/stable-2026-09-21-e46d08667b/ghidra_12.1.4_DEV_20260921.zip",
     "extract_dir": "ghidra_12.1.4_DEV",
     "bin": [
         [
@@ -34,7 +34,7 @@
         "replace": "v${ver}-${date}-${commit}"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/NyaMisty/ghidra_mod-ci/releases/download/stable-$matchRelease-$matchCommit/ghidra_$matchVer_DEV_$matchDate.zip",
+        "url": "https://gh-proxy.org/https://github.com/NyaMisty/ghidra_mod-ci/releases/download/stable-$matchRelease-$matchCommit/ghidra_$matchVer_DEV_$matchDate.zip",
         "extract_dir": "ghidra_$matchVer_DEV"
     }
 }

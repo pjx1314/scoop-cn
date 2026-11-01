@@ -3,7 +3,7 @@
     "description": "Persian poet and poetry database",
     "homepage": "https://github.com/ganjoor/desktop",
     "license": "GNU-2",
-    "url": "https://gh-proxy.com/https://github.com/ganjoor/desktop/releases/download/v3.1/GanjoorSetup-3.1.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/ganjoor/desktop/releases/download/v3.1/GanjoorSetup-3.1.exe#/dl.7z",
     "hash": "d5240ab7ff5b854ace688db32d7670b0adb7a584e42600efd4f7e3022162dc17",
     "architecture": {
         "64bit": {
@@ -34,7 +34,7 @@
     "persist": "ganjoor.s3db",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ganjoor/desktop/releases/download/v$version/GanjoorSetup-$version.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/ganjoor/desktop/releases/download/v$version/GanjoorSetup-$version.exe#/dl.7z",
         "hash": {
             "mode": "github"
         }

@@ -6,7 +6,7 @@
         "identifier": "AGPL-3.0 license",
         "url": "https://github.com/open-ani/ani#AGPL-3.0-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/open-ani/ani/releases/download/v5.5.0-alpha02/ani-5.5.0-alpha02-windows-x86_64.zip",
+    "url": "https://gh-proxy.org/https://github.com/open-ani/ani/releases/download/v5.5.0-alpha02/ani-5.5.0-alpha02-windows-x86_64.zip",
     "hash": "4693c7e4e78632b933e120620be58cbd5d26d7e1c60d18f59641ea5f58737e59",
     "extract_dir": "Ani",
     "installer": {
@@ -38,6 +38,6 @@
         "regex": "/releases/tag/v([\\d.]+-[\\w]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/open-ani/ani/releases/download/v$version/ani-$version-windows-x86_64.zip"
+        "url": "https://gh-proxy.org/https://github.com/open-ani/ani/releases/download/v$version/ani-$version-windows-x86_64.zip"
     }
 }

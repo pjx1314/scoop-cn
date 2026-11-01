@@ -3,7 +3,7 @@
     "description": "ILSpy MCP Server - 为 AI 助手提供 .NET 程序集反编译与分析能力的 MCP 服务器",
     "homepage": "https://github.com/bivex/ILSpy-Mcp",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/bivex/ILSpy-Mcp/releases/download/v1.0.3/ILSpyMcp.Server.1.0.3.nupkg#/ilspymcp.zip",
+    "url": "https://gh-proxy.org/https://github.com/bivex/ILSpy-Mcp/releases/download/v1.0.3/ILSpyMcp.Server.1.0.3.nupkg#/ilspymcp.zip",
     "hash": "sha256:401bb0a3c253ad63036010dc1ec82774eeb9b8e43d132b52e3ccd7824da8bf99",
     "suggest": {
         "dotnet": "dotnet-sdk"
@@ -18,7 +18,7 @@
     "bin": "ilspy-mcp.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bivex/ILSpy-Mcp/releases/download/v$version/ILSpyMcp.Server.$version.nupkg#/ilspymcp.zip"
+        "url": "https://gh-proxy.org/https://github.com/bivex/ILSpy-Mcp/releases/download/v$version/ILSpyMcp.Server.$version.nupkg#/ilspymcp.zip"
     },
     "notes": [
         "【工具类型】: MCP 服务",

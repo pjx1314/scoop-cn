@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-2.32.0/lumen-2.32.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-2.32.0/lumen-2.32.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "ead168baeb1c0c5310939cc8edc65c4e15554fd2524ca8329bd809859c305fec"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-2.32.0/lumen-2.32.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-2.32.0/lumen-2.32.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "1a183aa9e2c7e1ddf96cc9b0473d66c3938191f823863d68c80ed16dd096d8bd"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-$version/lumen-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-$version/lumen-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-$version/lumen-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/lumen-$version/lumen-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

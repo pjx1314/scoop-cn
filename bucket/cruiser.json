@@ -6,7 +6,7 @@
     "suggest": {
         "jre": "temurin-lts-jre"
     },
-    "url": "https://gh-proxy.com/https://github.com/devemux86/cruiser/releases/download/5.9.18/cruiser-5.9.18.zip",
+    "url": "https://gh-proxy.org/https://github.com/devemux86/cruiser/releases/download/5.9.18/cruiser-5.9.18.zip",
     "hash": "a5775a452130f912d6e34bf80fa10294d5e041d8983385acf46cae53e6c92b36",
     "extract_dir": "cruiser",
     "shortcuts": [
@@ -21,6 +21,6 @@
         "github": "https://github.com/devemux86/cruiser"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/devemux86/cruiser/releases/download/$version/cruiser-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/devemux86/cruiser/releases/download/$version/cruiser-$version.zip"
     }
 }

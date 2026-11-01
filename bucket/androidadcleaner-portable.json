@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v0.3.0/AndroidAdCleaner-0.3.0-windows-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v0.3.0/AndroidAdCleaner-0.3.0-windows-portable.zip",
             "hash": "6526dc1d5e2235d2213c611baaba417d0fe32947380e9d0ae6e9f3aa1b4bcab6"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v$version/AndroidAdCleaner-$version-windows-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v$version/AndroidAdCleaner-$version-windows-portable.zip"
             }
         },
         "hash": {

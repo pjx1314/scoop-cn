@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/EutropicAI/Final2x/releases/download/v4.1.0/Final2x-windows-x64-unpacked.7z",
+            "url": "https://gh-proxy.org/https://github.com/EutropicAI/Final2x/releases/download/v4.1.0/Final2x-windows-x64-unpacked.7z",
             "hash": "dd198f3df1c7f34d5694696f56b111bcff1e21c7359597a2c26a62959191352c"
         }
     },
@@ -35,7 +35,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/EutropicAI/Final2x/releases/download/v$version/$matchFile"
+                "url": "https://gh-proxy.org/https://github.com/EutropicAI/Final2x/releases/download/v$version/$matchFile"
             }
         }
     }

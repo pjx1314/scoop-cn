@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/anderseknert/kube-review/releases/download/v0.5.0/kube-review-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/anderseknert/kube-review/releases/download/v0.5.0/kube-review-windows-amd64.zip",
             "hash": "354d5b47b104c4efd9011ab4c1607329f121f8b3788218f5af70a2f68ab558ac"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/anderseknert/kube-review/releases/download/v$version/kube-review-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/anderseknert/kube-review/releases/download/v$version/kube-review-windows-amd64.zip"
             }
         }
     }

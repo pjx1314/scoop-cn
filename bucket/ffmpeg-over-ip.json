@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v6.0.0/windows-amd64-ffmpeg-over-ip-client.zip",
-                "https://gh-proxy.com/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v6.0.0/windows-amd64-ffmpeg-over-ip-server.zip"
+                "https://gh-proxy.org/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v6.0.0/windows-amd64-ffmpeg-over-ip-client.zip",
+                "https://gh-proxy.org/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v6.0.0/windows-amd64-ffmpeg-over-ip-server.zip"
             ],
             "hash": [
                 "ed8171280a044672cd98273c2dc4bc248cdb7aa37fb32c888b291b3989de554d",
@@ -24,8 +24,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v$version/windows-amd64-ffmpeg-over-ip-client.zip",
-                    "https://gh-proxy.com/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v$version/windows-amd64-ffmpeg-over-ip-server.zip"
+                    "https://gh-proxy.org/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v$version/windows-amd64-ffmpeg-over-ip-client.zip",
+                    "https://gh-proxy.org/https://github.com/steelbrain/ffmpeg-over-ip/releases/download/v$version/windows-amd64-ffmpeg-over-ip-server.zip"
                 ]
             }
         }

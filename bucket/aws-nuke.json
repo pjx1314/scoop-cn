@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ekristen/aws-nuke/releases/download/v3.68.3/aws-nuke-v3.68.3-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ekristen/aws-nuke/releases/download/v3.68.3/aws-nuke-v3.68.3-windows-amd64.zip",
             "hash": "79347973979105189f5aa7660a2a56ff0dbaf4c50c474d7e1aa4c2fe94cf61b8"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ekristen/aws-nuke/releases/download/v$version/aws-nuke-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ekristen/aws-nuke/releases/download/v$version/aws-nuke-v$version-windows-amd64.zip"
             }
         },
         "hash": {

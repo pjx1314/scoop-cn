@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LambdaBytes/sping/releases/download/v1.8.0/sping-v1.8.0-windows-x86_64.exe#/sping.exe",
+            "url": "https://gh-proxy.org/https://github.com/LambdaBytes/sping/releases/download/v1.8.0/sping-v1.8.0-windows-x86_64.exe#/sping.exe",
             "hash": "a730fa840ea282ea2229f0c6fc8abce1499f92ef6e56038166e6320c5f90b4c2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LambdaBytes/sping/releases/download/v$version/sping-v$version-windows-x86_64.exe#/sping.exe"
+                "url": "https://gh-proxy.org/https://github.com/LambdaBytes/sping/releases/download/v$version/sping-v$version-windows-x86_64.exe#/sping.exe"
             }
         },
         "hash": {

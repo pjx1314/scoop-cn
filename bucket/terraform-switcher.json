@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/warrensbox/terraform-switcher/releases/download/v1.20.0/terraform-switcher_v1.20.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/warrensbox/terraform-switcher/releases/download/v1.20.0/terraform-switcher_v1.20.0_windows_386.zip",
             "hash": "ed18a90c40df2384290ba5099e0a6fc20463f71fb25496378863edfc3bcf3992"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/warrensbox/terraform-switcher/releases/download/v1.20.0/terraform-switcher_v1.20.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/warrensbox/terraform-switcher/releases/download/v1.20.0/terraform-switcher_v1.20.0_windows_amd64.zip",
             "hash": "93c096b0653435de0ca2df670684e8451d8641ee79c2182629e89c69ac403cde"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/warrensbox/terraform-switcher/releases/download/v$version/terraform-switcher_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/warrensbox/terraform-switcher/releases/download/v$version/terraform-switcher_v$version_windows_386.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/warrensbox/terraform-switcher/releases/download/v$version/terraform-switcher_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/warrensbox/terraform-switcher/releases/download/v$version/terraform-switcher_v$version_windows_amd64.zip"
             }
         }
     }

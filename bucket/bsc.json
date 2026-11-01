@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/IlyaGrebnov/libbsc/releases/download/v3.4.0/bsc-3.4.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/IlyaGrebnov/libbsc/releases/download/v3.4.0/bsc-3.4.0-x64.zip",
             "hash": "2b535dff6e16699279582a06447d30f1bdc895f7a56c844ee43c1038befe7a3a"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/IlyaGrebnov/libbsc/releases/download/v$version/bsc-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/IlyaGrebnov/libbsc/releases/download/v$version/bsc-$version-x64.zip"
             }
         }
     }

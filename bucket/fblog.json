@@ -5,11 +5,11 @@
     "license": "WTFPL",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-4.17.0/fblog-4.17.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-4.17.0/fblog-4.17.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "3edc5ae3ced66f1a6e65c19f1c03febff28ba0b3b0d5fee69e18102e4b5d552e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-4.17.0/fblog-4.17.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-4.17.0/fblog-4.17.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "b95f423e71bf87eedf2086f153f25af785122814a24c6c35928393fcf5eb7b6e"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-$version/fblog-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-$version/fblog-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-$version/fblog-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/fblog-$version/fblog-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

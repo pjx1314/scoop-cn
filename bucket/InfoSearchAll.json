@@ -8,7 +8,7 @@
             "self/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/ExpLangcn/InfoSearchAll/releases/download/V1.2/InfoSearchAll_JDK8.zip",
+    "url": "https://gh-proxy.org/https://github.com/ExpLangcn/InfoSearchAll/releases/download/V1.2/InfoSearchAll_JDK8.zip",
     "hash": "ed0c54ece5c5e9cdaf1a88f0087f48f883a899498af989ace7bba08a238aa795",
     "pre_install": [
         "Set-Content \"$dir\\InfoSearchAll.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ExpLangcn/InfoSearchAll/releases/download/V$version/InfoSearchAll_JDK8.zip"
+        "url": "https://gh-proxy.org/https://github.com/ExpLangcn/InfoSearchAll/releases/download/V$version/InfoSearchAll_JDK8.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

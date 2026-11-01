@@ -6,11 +6,11 @@
     "innosetup": true,
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/reviu-dev/reviu/releases/download/v1.7.0/Reviu-1.7.0-windows-x86_64.exe",
+            "url": "https://gh-proxy.org/https://github.com/reviu-dev/reviu/releases/download/v1.7.0/Reviu-1.7.0-windows-x86_64.exe",
             "hash": "b3b0aafe630abe25e7380bdd8cac9f157da1211edb18fb7257d378f083ba2b81"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/reviu-dev/reviu/releases/download/v1.7.0/Reviu-1.7.0-windows-aarch64.exe",
+            "url": "https://gh-proxy.org/https://github.com/reviu-dev/reviu/releases/download/v1.7.0/Reviu-1.7.0-windows-aarch64.exe",
             "hash": "9ac7621dd5f12604efa1b8b3e86ac75ec430f459df3fd526979a770287dd4f9a"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/reviu-dev/reviu/releases/download/v$version/Reviu-$version-windows-x86_64.exe"
+                "url": "https://gh-proxy.org/https://github.com/reviu-dev/reviu/releases/download/v$version/Reviu-$version-windows-x86_64.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/reviu-dev/reviu/releases/download/v$version/Reviu-$version-windows-aarch64.exe"
+                "url": "https://gh-proxy.org/https://github.com/reviu-dev/reviu/releases/download/v$version/Reviu-$version-windows-aarch64.exe"
             }
         }
     }

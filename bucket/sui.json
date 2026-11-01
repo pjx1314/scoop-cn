@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MystenLabs/sui/releases/download/testnet-v1.83.0/sui-testnet-v1.83.0-windows-x86_64.tgz",
+            "url": "https://gh-proxy.org/https://github.com/MystenLabs/sui/releases/download/testnet-v1.83.0/sui-testnet-v1.83.0-windows-x86_64.tgz",
             "hash": "8481c38f7a9c2bbbad6c33e6449640f2efb663a22be254f3a0960f29fb122fac"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MystenLabs/sui/releases/download/testnet-v$version/sui-testnet-v$version-windows-x86_64.tgz"
+                "url": "https://gh-proxy.org/https://github.com/MystenLabs/sui/releases/download/testnet-v$version/sui-testnet-v$version-windows-x86_64.tgz"
             }
         }
     }

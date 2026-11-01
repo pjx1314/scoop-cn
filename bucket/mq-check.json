@@ -3,7 +3,7 @@
     "description": "Syntax and semantic checker for mq (jq-like Markdown processor)",
     "homepage": "https://mqlang.org/",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v0.10.0/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe",
+    "url": "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v0.10.0/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe",
     "hash": "9833d6ff58211ddc63001ef596ce5d167aae685cf47b33d1baa57bc3cb28fb58",
     "bin": "mq-check.exe",
     "suggest": {
@@ -13,6 +13,6 @@
         "github": "https://github.com/harehare/mq"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/harehare/mq/releases/download/v$version/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe"
+        "url": "https://gh-proxy.org/https://github.com/harehare/mq/releases/download/v$version/mq-check-x86_64-pc-windows-msvc.exe#/mq-check.exe"
     }
 }

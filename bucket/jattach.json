@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip",
             "hash": "d021e861cf3c1172497b419786d96836d91506a55ce1d067cd3ffff4ed50a3ff"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
             }
         }
     }

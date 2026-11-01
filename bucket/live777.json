@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v0.10.2/live777-v0.10.2-x86_64-pc-windows-msvc.zip",
-                "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v0.10.2/whepfrom-v0.10.2-x86_64-pc-windows-msvc.exe#/whepfrom.exe",
-                "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v0.10.2/whipinto-v0.10.2-x86_64-pc-windows-msvc.exe#/whipinto.exe"
+                "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v0.10.2/live777-v0.10.2-x86_64-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v0.10.2/whepfrom-v0.10.2-x86_64-pc-windows-msvc.exe#/whepfrom.exe",
+                "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v0.10.2/whipinto-v0.10.2-x86_64-pc-windows-msvc.exe#/whipinto.exe"
             ],
             "extract_dir": "live777-v0.10.2-x86_64-pc-windows-msvc",
             "hash": [
@@ -19,9 +19,9 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v0.10.2/live777-v0.10.2-i686-pc-windows-msvc.zip",
-                "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v0.10.2/whepfrom-v0.10.2-i686-pc-windows-msvc.exe#/whepfrom.exe",
-                "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v0.10.2/whipinto-v0.10.2-x86_64-pc-windows-msvc.exe#/whipinto.exe"
+                "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v0.10.2/live777-v0.10.2-i686-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v0.10.2/whepfrom-v0.10.2-i686-pc-windows-msvc.exe#/whepfrom.exe",
+                "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v0.10.2/whipinto-v0.10.2-x86_64-pc-windows-msvc.exe#/whipinto.exe"
             ],
             "extract_dir": "live777-v0.10.2-i686-pc-windows-msvc",
             "hash": [
@@ -41,17 +41,17 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v$version/live777-v$version-x86_64-pc-windows-msvc.zip",
-                    "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v$version/whepfrom-v$version-x86_64-pc-windows-msvc.exe#/whepfrom.exe",
-                    "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v$version/whipinto-v$version-x86_64-pc-windows-msvc.exe#/whipinto.exe"
+                    "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v$version/live777-v$version-x86_64-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v$version/whepfrom-v$version-x86_64-pc-windows-msvc.exe#/whepfrom.exe",
+                    "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v$version/whipinto-v$version-x86_64-pc-windows-msvc.exe#/whipinto.exe"
                 ],
                 "extract_dir": "live777-v$version-x86_64-pc-windows-msvc"
             },
             "32bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v$version/live777-v$version-i686-pc-windows-msvc.zip",
-                    "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v$version/whepfrom-v$version-i686-pc-windows-msvc.exe#/whepfrom.exe",
-                    "https://gh-proxy.com/https://github.com/binbat/live777/releases/download/v$version/whipinto-v$version-x86_64-pc-windows-msvc.exe#/whipinto.exe"
+                    "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v$version/live777-v$version-i686-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v$version/whepfrom-v$version-i686-pc-windows-msvc.exe#/whepfrom.exe",
+                    "https://gh-proxy.org/https://github.com/binbat/live777/releases/download/v$version/whipinto-v$version-x86_64-pc-windows-msvc.exe#/whipinto.exe"
                 ],
                 "extract_dir": "live777-v$version-i686-pc-windows-msvc"
             }

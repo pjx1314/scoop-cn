@@ -5,7 +5,7 @@
     "license": "LGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kunkundi/crossdesk/releases/download/v1.7.4-20261030/crossdesk-win-x64-v1.7.4-20261030.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/kunkundi/crossdesk/releases/download/v1.7.4-20261030/crossdesk-win-x64-v1.7.4-20261030.exe#/dl.7z",
             "hash": "2284aab2e95fe775aa5ebc9d2d565dc3e305da73171b4fcd82b9b80a6b8cbe5b"
         }
     },
@@ -177,7 +177,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kunkundi/crossdesk/releases/download/v$version/crossdesk-win-x64-v$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/kunkundi/crossdesk/releases/download/v$version/crossdesk-win-x64-v$version.exe#/dl.7z"
             }
         }
     },

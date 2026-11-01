@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/shack2/skyscorpion/releases/download/1.0.release.20210322/V1.0.20210322.zip",
+    "url": "https://gh-proxy.org/https://github.com/shack2/skyscorpion/releases/download/1.0.release.20210322/V1.0.20210322.zip",
     "hash": "cb928044b91859b7d6b6ea33600388e2d2b6802f3d77319b2543e4a130143780",
     "pre_install": [
         "Get-ChildItem \"$dir\" '天蝎权限管理工具.jar' | Select-Object -First 1 | Rename-Item -NewName 'skyscorpion.jar'",

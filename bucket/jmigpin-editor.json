@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jmigpin/editor/releases/download/v3.14.0/editor3.14.0-win-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jmigpin/editor/releases/download/v3.14.0/editor3.14.0-win-amd64.zip",
             "hash": "d58e8205eb6cf2f7db5e47fb0d15e07dbcd9d39e294d0a2155e6eaccec0b6f56"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jmigpin/editor/releases/download/v$version/editor$version-win-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jmigpin/editor/releases/download/v$version/editor$version-win-amd64.zip"
             }
         }
     }

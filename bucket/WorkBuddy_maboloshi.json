@@ -55,7 +55,7 @@
     ],
     "checkver": {
         "script": [
-            "$prefix = 'https://gh-proxy.com/https://raw.githubusercontent.com/SpecterShell/Dumplings/main/Tasks/Tencent.WorkBuddy'",
+            "$prefix = 'https://gh-proxy.org/https://raw.githubusercontent.com/SpecterShell/Dumplings/main/Tasks/Tencent.WorkBuddy'",
             "$stateYamlUrl = $prefix + '/State.yaml'",
             "$stateContent = (Invoke-WebRequest -Uri $stateYamlUrl -UseBasicParsing).Content",
             "$logFileUrl = \"$prefix/$stateContent\"",
@@ -69,7 +69,7 @@
             "64bit": {
                 "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/$matchName#/dl.7z",
                 "hash": {
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/t/Tencent/WorkBuddy/$majorVersion.$minorVersion.$patchVersion/Tencent.WorkBuddy.installer.yaml",
+                    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/t/Tencent/WorkBuddy/$majorVersion.$minorVersion.$patchVersion/Tencent.WorkBuddy.installer.yaml",
                     "regex": "InstallerSha256:\\s+([a-fA-F0-9]{64})"
                 }
             }

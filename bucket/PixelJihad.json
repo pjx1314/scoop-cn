@@ -3,7 +3,7 @@
     "description": "A JavaScript steganography tool",
     "homepage": "https://github.com/oakes/PixelJihad",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/oakes/PixelJihad/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/oakes/PixelJihad/archive/refs/heads/master.zip",
     "hash": "6a69be2a60c865de5a99478f27bf8dab56846d64cf26820e24185cf29d8abf49",
     "extract_dir": "PixelJihad-master",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/oakes/PixelJihad/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/oakes/PixelJihad/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 隐写工具",

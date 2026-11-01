@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/livekit/livekit-cli/releases/download/v2.19.2/lk_2.19.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/livekit/livekit-cli/releases/download/v2.19.2/lk_2.19.2_windows_amd64.zip",
             "hash": "3a76873bd0a593d03b1305499ae0e468a242742eb3bfbfac737f27f1d00be139"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/livekit/livekit-cli/releases/download/v2.19.2/lk_2.19.2_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/livekit/livekit-cli/releases/download/v2.19.2/lk_2.19.2_windows_arm64.zip",
             "hash": "6ebd93f83a47632839ff65bb5d871bbd5348b938775df8a9e961112dd7111e2d"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/livekit/livekit-cli/releases/download/v$version/lk_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/livekit/livekit-cli/releases/download/v$version/lk_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/livekit/livekit-cli/releases/download/v$version/lk_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/livekit/livekit-cli/releases/download/v$version/lk_$version_windows_arm64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee7.2.6/AiNiee7.2.6-Windows-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee7.2.6/AiNiee7.2.6-Windows-Portable.zip",
             "hash": "1ed7b3284dc277b8e7ee6b333dab59b2571ba8a0c1f022d028d762eeff6ffa66"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee$version/AiNiee$version-Windows-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee$version/AiNiee$version-Windows-Portable.zip"
             }
         }
     }

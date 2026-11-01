@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dankrusi/WindowsVirtualDesktopHelper/releases/download/v2.1/WindowsVirtualDesktopHelper.Executable.v2.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/dankrusi/WindowsVirtualDesktopHelper/releases/download/v2.1/WindowsVirtualDesktopHelper.Executable.v2.1.zip",
             "hash": "83009b54786fbff11390c59ab17cd84013cb3cb10c00e25cf4157f27004e9830"
         }
     },
@@ -17,7 +17,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/dankrusi/WindowsVirtualDesktopHelper/releases/download/v$version/WindowsVirtualDesktopHelper.Executable.v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/dankrusi/WindowsVirtualDesktopHelper/releases/download/v$version/WindowsVirtualDesktopHelper.Executable.v$version.zip",
         "hash": {
             "url": "$url.sha256"
         }

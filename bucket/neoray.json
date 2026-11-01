@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hismailbulut/Neoray/releases/download/v0.2.7/neoray-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/hismailbulut/Neoray/releases/download/v0.2.7/neoray-windows.zip",
             "hash": "313d33a76d8709da7e9b43862ad5b54ff87abc936aab11bfda01d2cc92eb7a01"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hismailbulut/Neoray/releases/download/v$version/neoray-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/hismailbulut/Neoray/releases/download/v$version/neoray-windows.zip"
             }
         }
     }

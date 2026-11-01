@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip",
     "hash": "05191e3dacd92989fbe178a4b691fec9b05184793d3a114952c475dda25a11c9",
     "extract_dir": "Ingram-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

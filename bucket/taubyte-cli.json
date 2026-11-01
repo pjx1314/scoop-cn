@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/taubyte/tau-cli/releases/download/v0.1.16/tau-cli_0.1.16_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/taubyte/tau-cli/releases/download/v0.1.16/tau-cli_0.1.16_windows_amd64.tar.gz",
             "hash": "639b9979aad2169ff6711592e848f2924cdac0e95f7745a2a1b35cd350059d04"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/taubyte/tau-cli/releases/download/v$version/tau-cli_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/taubyte/tau-cli/releases/download/v$version/tau-cli_$version_windows_amd64.tar.gz"
             }
         }
     }

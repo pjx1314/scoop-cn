@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/g0h4n/RustHound-CE/releases/download/v2.5.30/rusthound-ce-Windows-msvc-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/g0h4n/RustHound-CE/releases/download/v2.5.30/rusthound-ce-Windows-msvc-x86_64.zip",
             "hash": "fd2c86390f8b07c7849efd1494b5d2adac8dc1b2c1bcbc99347dc1fa98a5f996"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/g0h4n/RustHound-CE/releases/download/v$version/rusthound-ce-Windows-msvc-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/g0h4n/RustHound-CE/releases/download/v$version/rusthound-ce-Windows-msvc-x86_64.zip"
             }
         },
         "hash": {

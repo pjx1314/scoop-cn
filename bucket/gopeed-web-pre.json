@@ -5,17 +5,17 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/gopeed-web-v2.0.0-beta.3-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/gopeed-web-v2.0.0-beta.3-windows-amd64.zip",
             "hash": "703bd5fc1ed710e7f04ccf038893da4b97a9b408b83230e6c0ac3d6e2794b14d",
             "extract_dir": "gopeed-web-v2.0.0-beta.3-windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/gopeed-web-v2.0.0-beta.3-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/gopeed-web-v2.0.0-beta.3-windows-386.zip",
             "hash": "ef51a2611ba66b638c07e775f514d4b39c64ab2fa4ce2468bfae0a8b8c09b718",
             "extract_dir": "gopeed-web-v2.0.0-beta.3-windows-386"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/gopeed-web-v2.0.0-beta.3-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v2.0.0-beta.3/gopeed-web-v2.0.0-beta.3-windows-arm64.zip",
             "hash": "f84647824d29012e8746aee96c4f02979c6ba1f4bf1878a10406cfb0b06976a1",
             "extract_dir": "gopeed-web-v2.0.0-beta.3-windows-arm64"
         }
@@ -37,15 +37,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-amd64.zip",
                 "extract_dir": "gopeed-web-v$version-windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-386.zip",
+                "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-386.zip",
                 "extract_dir": "gopeed-web-v$version-windows-386"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-arm64.zip",
                 "extract_dir": "gopeed-web-v$version-windows-arm64"
             }
         }

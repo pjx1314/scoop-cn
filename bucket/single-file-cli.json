@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gildas-lormeau/single-file-cli/releases/download/v2.21.0/single-file.exe",
+            "url": "https://gh-proxy.org/https://github.com/gildas-lormeau/single-file-cli/releases/download/v2.21.0/single-file.exe",
             "hash": "b82703079b99b7fbc66db7394b8b574c0a5a15dd61eb6f6439af8e53f04ca51b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gildas-lormeau/single-file-cli/releases/download/v$version/single-file.exe"
+                "url": "https://gh-proxy.org/https://github.com/gildas-lormeau/single-file-cli/releases/download/v$version/single-file.exe"
             }
         }
     }

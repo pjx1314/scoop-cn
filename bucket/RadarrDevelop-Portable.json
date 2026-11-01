@@ -6,11 +6,11 @@
     "changelog": "https://github.com/Radarr/Radarr/releases",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Radarr/Radarr/releases/download/v7.0.0.10815/Radarr.develop.7.0.0.10815.windows-core-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Radarr/Radarr/releases/download/v7.0.0.10815/Radarr.develop.7.0.0.10815.windows-core-x64.zip",
             "hash": "b080a23f8958813db3dcafe7439e715b74c700be482ac8730d1c34c667b1860e"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Radarr/Radarr/releases/download/v7.0.0.10815/Radarr.develop.7.0.0.10815.windows-core-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/Radarr/Radarr/releases/download/v7.0.0.10815/Radarr.develop.7.0.0.10815.windows-core-x86.zip",
             "hash": "c5c6403cd443165b644ac776cbb43e100594b91d49cdc3752625c5433f046161"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Radarr/Radarr/releases/download/v$version/Radarr.develop.$version.windows-core-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Radarr/Radarr/releases/download/v$version/Radarr.develop.$version.windows-core-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Radarr/Radarr/releases/download/v$version/Radarr.develop.$version.windows-core-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/Radarr/Radarr/releases/download/v$version/Radarr.develop.$version.windows-core-x86.zip"
             }
         }
     }

@@ -6,7 +6,7 @@
     "notes": "Run '$dir\\AddAssociation.bat' with admin privilege to configure file association and Sublime Text syntax support.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TLCFEM/suanPan/releases/download/suanPan-v4.2/suanPan-win-mkl-vtk.zip",
+            "url": "https://gh-proxy.org/https://github.com/TLCFEM/suanPan/releases/download/suanPan-v4.2/suanPan-win-mkl-vtk.zip",
             "hash": "0b9c3b3056d660b652fc11554a5c5b85821303f3336ef0aabfbef662923f48b1"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TLCFEM/suanPan/releases/download/suanPan-v$version/suanPan-win-mkl-vtk.zip"
+                "url": "https://gh-proxy.org/https://github.com/TLCFEM/suanPan/releases/download/suanPan-v$version/suanPan-win-mkl-vtk.zip"
             }
         },
         "hash": {

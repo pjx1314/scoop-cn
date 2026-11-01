@@ -3,7 +3,7 @@
     "description": "World of Warcraft addon updater.",
     "homepage": "https://wowup.io/",
     "license": "GPL-3.0-or-later",
-    "url": "https://gh-proxy.com/https://github.com/WowUp/WowUp/releases/download/v2.24.1/WowUp-Setup-2.24.1.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/WowUp/WowUp/releases/download/v2.24.1/WowUp-Setup-2.24.1.exe#/dl.7z",
     "hash": "sha512:164b6e963367fd2b68d576f2024bc70da4e9c8a3821b4ef5465567c8570deb3c243734383b33f1b94505b6b38f1b6aadd5609976592e495d63729bcfc841e88f",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
@@ -22,7 +22,7 @@
         "github": "https://github.com/WowUp/WowUp"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/WowUp/WowUp/releases/download/v$version/WowUp-Setup-$version.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/WowUp/WowUp/releases/download/v$version/WowUp-Setup-$version.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/latest.yml",
             "find": "sha512:\\s+(.*)"

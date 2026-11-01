@@ -3,7 +3,7 @@
     "description": "TProxer是一个Burp Suite扩展，用于自动化寻找基于路径的反向代理SSRF漏洞",
     "homepage": "https://github.com/ethicalhackingplayground/TProxer",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/ethicalhackingplayground/TProxer/archive/refs/heads/main.zip#/TProxer.zip",
+    "url": "https://gh-proxy.org/https://github.com/ethicalhackingplayground/TProxer/archive/refs/heads/main.zip#/TProxer.zip",
     "hash": "sha256:CBBC41BBC6376BB6DE880D5D2FCB46F4C1E8C31FE2805695DECC91EE316BC0B8",
     "extract_dir": "TProxer-main",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ethicalhackingplayground/TProxer/archive/refs/heads/main.zip#/TProxer.zip"
+        "url": "https://gh-proxy.org/https://github.com/ethicalhackingplayground/TProxer/archive/refs/heads/main.zip#/TProxer.zip"
     },
     "notes": [
         "【工具类型】: Burp Suite扩展",

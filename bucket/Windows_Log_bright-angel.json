@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/Fheidt12/Windows_Log",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/Fheidt12/Windows_Log/releases/download/WinLog_Check_V3.4.1/WinLogCheckV3.4.1.exe#/WinLogCheck.exe",
+    "url": "https://gh-proxy.org/https://github.com/Fheidt12/Windows_Log/releases/download/WinLog_Check_V3.4.1/WinLogCheckV3.4.1.exe#/WinLogCheck.exe",
     "hash": "b5a67d6c70c1e412c7fb99ed80af92509f92554388c6f8c1e758551117773617",
     "bin": "WinLogCheck.exe",
     "shortcuts": [
@@ -24,6 +24,6 @@
         "regex": "WinLog_Check_V([\\d\\.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Fheidt12/Windows_Log/releases/download/WinLog_Check_V$version/WinLogCheckV$version.exe#/WinLogCheck.exe"
+        "url": "https://gh-proxy.org/https://github.com/Fheidt12/Windows_Log/releases/download/WinLog_Check_V$version/WinLogCheckV$version.exe#/WinLogCheck.exe"
     }
 }

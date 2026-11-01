@@ -5,7 +5,7 @@
     "license": "https://github.com/intiface/intiface-central/blob/main/LICENSE.md",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/intiface/intiface-central/releases/download/v3.2.2%2B46/intiface-central-v3.2.2-win-x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/intiface/intiface-central/releases/download/v3.2.2%2B46/intiface-central-v3.2.2-win-x64.exe",
             "hash": "fa8dfce3f9da58f8a217ca8301fb9edddc752741dabb3162f9d8661c24c83d7f"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/intiface/intiface-central/releases/download/$matchFilepath"
+                "url": "https://gh-proxy.org/https://github.com/intiface/intiface-central/releases/download/$matchFilepath"
             }
         }
     }

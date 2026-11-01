@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.8.13/AdvancedSettings-5.8.13.7z",
+            "url": "https://gh-proxy.org/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v5.8.13/AdvancedSettings-5.8.13.7z",
             "hash": "992062893f244427abea40320b2d60074530a778acc3de4ff530e64327a43e80"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v$version/AdvancedSettings-$version.7z"
+                "url": "https://gh-proxy.org/https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases/download/v$version/AdvancedSettings-$version.7z"
             }
         }
     }

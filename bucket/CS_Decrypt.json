@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/5ime/CS_Decrypt/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/5ime/CS_Decrypt/archive/refs/heads/master.zip",
     "hash": "41c94920d3d9edde0a58f967090372db2615437bef83baf4d3886e7dde33c3ae",
     "extract_dir": "CS_Decrypt-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/5ime/CS_Decrypt/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/5ime/CS_Decrypt/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

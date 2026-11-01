@@ -6,7 +6,7 @@
     "suggest": {
         "Python": "python"
     },
-    "url": "https://gh-proxy.com/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip",
     "hash": "ddf112542e1faf4ae81fcdb06dfa239f6178925cf8ec49289ba59686fc7c8f64",
     "pre_install": [
         "Set-Content \"$dir\\Ingram.bat\" '@pushd %~dp0",
@@ -26,6 +26,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/jorhelp/Ingram/archive/refs/heads/master.zip"
     }
 }

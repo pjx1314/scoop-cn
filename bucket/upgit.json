@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pluveto/upgit/releases/download/v0.3.0/upgit_win_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pluveto/upgit/releases/download/v0.3.0/upgit_win_amd64.zip",
             "hash": "4e90d8b65b712102022f5f8d7005cff74d750771b07ea33943415c75f3d052b6"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/pluveto/upgit/releases/download/v0.3.0/upgit_win_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/pluveto/upgit/releases/download/v0.3.0/upgit_win_386.zip",
             "hash": "d156d398b22f8b268d5f323427283f3dc9a75abf44b1072ad05b69e8ad72bae8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/pluveto/upgit/releases/download/v0.3.0/upgit_win_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pluveto/upgit/releases/download/v0.3.0/upgit_win_arm64.zip",
             "hash": "b8b5fade70fcd435130edfe0d32f953416469f48acb4c19951aaf9f22f77d13e"
         }
     },
@@ -23,13 +23,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pluveto/upgit/releases/download/v$version/upgit_win_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pluveto/upgit/releases/download/v$version/upgit_win_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/pluveto/upgit/releases/download/v$version/upgit_win_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/pluveto/upgit/releases/download/v$version/upgit_win_386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/pluveto/upgit/releases/download/v$version/upgit_win_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pluveto/upgit/releases/download/v$version/upgit_win_arm64.zip"
             }
         }
     }

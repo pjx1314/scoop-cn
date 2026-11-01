@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/songloft-org/songloft-player/releases/download/v2.13.6/songloft-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/songloft-org/songloft-player/releases/download/v2.13.6/songloft-windows-x64.zip",
             "hash": "15137f547eeba070b535dc6ee0e6095f831c120ff46a7e3518ee1f8582a9b71e"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/songloft-org/songloft-player/releases/download/v$version/songloft-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/songloft-org/songloft-player/releases/download/v$version/songloft-windows-x64.zip"
             }
         }
     }

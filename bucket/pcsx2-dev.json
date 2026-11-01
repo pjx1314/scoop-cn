@@ -16,7 +16,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/PCSX2/pcsx2/releases/download/v2.9.152/pcsx2-v2.9.152-windows-x64-Qt.7z",
+            "url": "https://gh-proxy.org/https://github.com/PCSX2/pcsx2/releases/download/v2.9.152/pcsx2-v2.9.152-windows-x64-Qt.7z",
             "hash": "014f3d9a585e4c1a43aa0c475297d31520965b670f351b511b55bd581258f723"
         }
     },
@@ -69,7 +69,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/PCSX2/pcsx2/releases/download/v$version/pcsx2-v$version-windows-x64-Qt.7z"
+                "url": "https://gh-proxy.org/https://github.com/PCSX2/pcsx2/releases/download/v$version/pcsx2-v$version-windows-x64-Qt.7z"
             }
         }
     }

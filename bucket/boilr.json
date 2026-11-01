@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/PhilipK/BoilR/releases/download/v.1.11.0/windows_BoilR.exe",
+            "url": "https://gh-proxy.org/https://github.com/PhilipK/BoilR/releases/download/v.1.11.0/windows_BoilR.exe",
             "hash": "b8a2e79020385ea0f301bebd5353a251e20f7b1bda792ed46a09ad82aebd8bb7"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/PhilipK/BoilR/releases/download/v.$version/windows_BoilR.exe"
+                "url": "https://gh-proxy.org/https://github.com/PhilipK/BoilR/releases/download/v.$version/windows_BoilR.exe"
             }
         }
     }

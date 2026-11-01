@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/builtbybel/FluentCleaner/releases/download/26.08.01/FluentCleaner-win-x64.zip",
-                "https://gh-proxy.com/https://github.com/builtbybel/FluentCleaner/releases/download/26.08.01/Custom.zip"
+                "https://gh-proxy.org/https://github.com/builtbybel/FluentCleaner/releases/download/26.08.01/FluentCleaner-win-x64.zip",
+                "https://gh-proxy.org/https://github.com/builtbybel/FluentCleaner/releases/download/26.08.01/Custom.zip"
             ],
             "hash": [
                 "58e6de7f70c4b60ea358b05ac0d128476708a73ba42f072acd17a0c1a162609f",
@@ -33,8 +33,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/builtbybel/FluentCleaner/releases/download/$version/FluentCleaner-win-x64.zip",
-                    "https://gh-proxy.com/https://github.com/builtbybel/FluentCleaner/releases/download/$version/Custom.zip"
+                    "https://gh-proxy.org/https://github.com/builtbybel/FluentCleaner/releases/download/$version/FluentCleaner-win-x64.zip",
+                    "https://gh-proxy.org/https://github.com/builtbybel/FluentCleaner/releases/download/$version/Custom.zip"
                 ]
             }
         }

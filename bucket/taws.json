@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/huseyinbabal/taws/releases/download/v1.3.0-rc.8/taws-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/huseyinbabal/taws/releases/download/v1.3.0-rc.8/taws-x86_64-pc-windows-msvc.zip",
             "hash": "ae5bad57f0e885941baa1f41fbb5d4ad7da1d38c33c8e5573e9833cd284a4b7a"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/huseyinbabal/taws/releases/download/v$version/taws-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/huseyinbabal/taws/releases/download/v$version/taws-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

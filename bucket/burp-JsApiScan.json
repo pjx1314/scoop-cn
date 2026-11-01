@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/sulab999/JsApiScan",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/sulab999/JsApiScan/releases/download/v0.1/JsApiScan-0.1-SNAPSHOT-all.jar#/JsApiScan.jar",
+    "url": "https://gh-proxy.org/https://github.com/sulab999/JsApiScan/releases/download/v0.1/JsApiScan-0.1-SNAPSHOT-all.jar#/JsApiScan.jar",
     "hash": "",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sulab999/JsApiScan/releases/download/v$version/JsApiScan-$version-all.jar#/JsApiScan.jar"
+        "url": "https://gh-proxy.org/https://github.com/sulab999/JsApiScan/releases/download/v$version/JsApiScan-$version-all.jar#/JsApiScan.jar"
     }
 }

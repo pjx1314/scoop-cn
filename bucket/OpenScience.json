@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/synthetic-sciences/openscience/releases/download/v2.0.153/openscience-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/synthetic-sciences/openscience/releases/download/v2.0.153/openscience-windows-x64.zip",
             "hash": "611eb1313ec3732c4952dad6c384d73116aa7df320b88196499ef7acee8aeb9a"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/synthetic-sciences/openscience/releases/download/v$version/openscience-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/synthetic-sciences/openscience/releases/download/v$version/openscience-windows-x64.zip"
             }
         },
         "hash": {

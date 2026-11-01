@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/deminimis/Minimal-eReader/releases/download/v1.1.1/Minimal-eReader_Portable_v1.1.1_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/deminimis/Minimal-eReader/releases/download/v1.1.1/Minimal-eReader_Portable_v1.1.1_x64.zip",
             "extract_dir": "Minimal eReader v1.1.1",
             "hash": "c644206bedcaaad40ace46e60c5fe9785fa20ce929912672199a0fe248bfb926"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/deminimis/Minimal-eReader/releases/download/v$version/Minimal-eReader_Portable_v$version_x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/deminimis/Minimal-eReader/releases/download/v$version/Minimal-eReader_Portable_v$version_x64.zip",
                 "extract_dir": "Minimal eReader v$version"
             }
         }

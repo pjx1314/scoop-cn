@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/guilhermeprokisch/see/releases/download/v0.10.1/see-cat-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/guilhermeprokisch/see/releases/download/v0.10.1/see-cat-x86_64-pc-windows-msvc.zip",
             "hash": "ac1a341084f58f36cfd423776722db1f1afa93a33bed2a7de09bcdaa310b788c"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/guilhermeprokisch/see/releases/download/v$version/see-cat-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/guilhermeprokisch/see/releases/download/v$version/see-cat-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

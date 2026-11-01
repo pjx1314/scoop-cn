@@ -4,8 +4,8 @@
     "homepage": "https://github.com/yz0x1/cloud-asset-hub",
     "license": "MIT",
     "url": [
-        "https://gh-proxy.com/https://github.com/yz0x1/cloud-asset-hub/releases/download/v0.2.0/CloudAssetHub-0.2.0-portable.exe#/dl.7z",
-        "https://gh-proxy.com/https://github.com/yz0x1/cloud-asset-hub/archive/refs/tags/v0.2.0.zip#/cloud-asset-hub-source.zip"
+        "https://gh-proxy.org/https://github.com/yz0x1/cloud-asset-hub/releases/download/v0.2.0/CloudAssetHub-0.2.0-portable.exe#/dl.7z",
+        "https://gh-proxy.org/https://github.com/yz0x1/cloud-asset-hub/archive/refs/tags/v0.2.0.zip#/cloud-asset-hub-source.zip"
     ],
     "hash": [
         "14aa5149f8ab764656a9f5b0d542ab2fd0717d0dd2144850de7e71c6a27516d2",
@@ -24,8 +24,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/yz0x1/cloud-asset-hub/releases/download/v$version/CloudAssetHub-$version-portable.exe#/dl.7z",
-            "https://gh-proxy.com/https://github.com/yz0x1/cloud-asset-hub/archive/refs/tags/v$version.zip#/cloud-asset-hub-source.zip"
+            "https://gh-proxy.org/https://github.com/yz0x1/cloud-asset-hub/releases/download/v$version/CloudAssetHub-$version-portable.exe#/dl.7z",
+            "https://gh-proxy.org/https://github.com/yz0x1/cloud-asset-hub/archive/refs/tags/v$version.zip#/cloud-asset-hub-source.zip"
         ]
     },
     "notes": [

@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/AgonySec/ThinkPHPGUI/releases/download/ThinkPHPGUI_V1/ThinkPHPGUI.jar",
+    "url": "https://gh-proxy.org/https://github.com/AgonySec/ThinkPHPGUI/releases/download/ThinkPHPGUI_V1/ThinkPHPGUI.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\ThinkphpGUI_for_AgonySec.bat\" '@pushd %~dp0",
@@ -35,6 +35,6 @@
         "regex": "ThinkPHPGUI_V([\\d\\.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AgonySec/ThinkPHPGUI/releases/download/ThinkPHPGUI_V$version/ThinkPHPGUI.jar"
+        "url": "https://gh-proxy.org/https://github.com/AgonySec/ThinkPHPGUI/releases/download/ThinkPHPGUI_V$version/ThinkPHPGUI.jar"
     }
 }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cyberark/summon/releases/download/v0.13.1/summon-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cyberark/summon/releases/download/v0.13.1/summon-windows-amd64.zip",
             "hash": "0b6774327bef79358f0925afcad492d24a488dd33152e9009aa619f2c9331c14"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cyberark/summon/releases/download/v$version/summon-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cyberark/summon/releases/download/v$version/summon-windows-amd64.zip"
             }
         },
         "hash": {

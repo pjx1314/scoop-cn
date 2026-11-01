@@ -13,7 +13,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.2/Stirling-PDF.jar",
+            "url": "https://gh-proxy.org/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v3.2.2/Stirling-PDF.jar",
             "hash": "34ea9dda52f1432baa0a21cafc785005de1df5280d481e3352cc246e6b8c71e1"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v$version/Stirling-PDF.jar"
+                "url": "https://gh-proxy.org/https://github.com/Stirling-Tools/Stirling-PDF/releases/download/v$version/Stirling-PDF.jar"
             }
         }
     }

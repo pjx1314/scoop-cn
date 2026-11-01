@@ -4,8 +4,8 @@
     "homepage": "https://github.com/chainreactors/gogo",
     "license": "UNKNOWN",
     "url": [
-        "https://gh-proxy.com/https://github.com/chainreactors/gogo/releases/download/v2.15.0/gogo_windows_amd64.exe#/gogo.exe",
-        "https://gh-proxy.com/https://github.com/chainreactors/gogo/releases/download/v2.15.0/gogo_linux_amd64#/gogo"
+        "https://gh-proxy.org/https://github.com/chainreactors/gogo/releases/download/v2.15.0/gogo_windows_amd64.exe#/gogo.exe",
+        "https://gh-proxy.org/https://github.com/chainreactors/gogo/releases/download/v2.15.0/gogo_linux_amd64#/gogo"
     ],
     "hash": [
         "c3f56039ca1b647d2f64a4c541877638d8d39631eeea7a23f9595cf578a46d87",
@@ -15,8 +15,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/chainreactors/gogo/releases/download/v$version/gogo_windows_amd64.exe#/gogo.exe",
-            "https://gh-proxy.com/https://github.com/chainreactors/gogo/releases/download/v$version/gogo_linux_amd64#/gogo"
+            "https://gh-proxy.org/https://github.com/chainreactors/gogo/releases/download/v$version/gogo_windows_amd64.exe#/gogo.exe",
+            "https://gh-proxy.org/https://github.com/chainreactors/gogo/releases/download/v$version/gogo_linux_amd64#/gogo"
         ]
     },
     "notes": [

@@ -6,7 +6,7 @@
     "changelog": "https://github.com/aandrew-me/tgpt/releases",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aandrew-me/tgpt/releases/download/v2.15.0/tgpt-amd64.exe#/tgpt.exe",
+            "url": "https://gh-proxy.org/https://github.com/aandrew-me/tgpt/releases/download/v2.15.0/tgpt-amd64.exe#/tgpt.exe",
             "hash": "9974d187c0e920da9e1a8e9e7d4ad9f138e1919ab1615a2d5bc6675a58162d31"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aandrew-me/tgpt/releases/download/v$version/tgpt-amd64.exe#/tgpt.exe"
+                "url": "https://gh-proxy.org/https://github.com/aandrew-me/tgpt/releases/download/v$version/tgpt-amd64.exe#/tgpt.exe"
             }
         }
     }

@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/ojuschugh1/sqz/releases/download/v2.1.1/sqz-v2.1.1-x86_64-pc-windows-msvc.zip",
-                "https://gh-proxy.com/https://github.com/ojuschugh1/sqz/releases/download/v2.1.1/sqz-mcp-v2.1.1-x86_64-pc-windows-msvc.zip"
+                "https://gh-proxy.org/https://github.com/ojuschugh1/sqz/releases/download/v2.1.1/sqz-v2.1.1-x86_64-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/ojuschugh1/sqz/releases/download/v2.1.1/sqz-mcp-v2.1.1-x86_64-pc-windows-msvc.zip"
             ],
             "hash": [
                 "3f28bb4c4ae56914112e94e8bd9db0ad622e302392d859dde90aa4dbf8b3b4da",
@@ -24,8 +24,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/ojuschugh1/sqz/releases/download/v$version/sqz-v$version-x86_64-pc-windows-msvc.zip",
-                    "https://gh-proxy.com/https://github.com/ojuschugh1/sqz/releases/download/v$version/sqz-mcp-v$version-x86_64-pc-windows-msvc.zip"
+                    "https://gh-proxy.org/https://github.com/ojuschugh1/sqz/releases/download/v$version/sqz-v$version-x86_64-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/ojuschugh1/sqz/releases/download/v$version/sqz-mcp-v$version-x86_64-pc-windows-msvc.zip"
                 ]
             }
         }

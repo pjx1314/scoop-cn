@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_amd64.zip",
             "hash": "e39da026e347c1bf6571101641c3af3491093df007efe1636a31a9495e1499ee"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_arm64.zip",
             "hash": "fdd1975831a02b128b06357f8f3eed7dc8b3ffc31ac611a4caaa44845a345489"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/floatpane/matcha/releases/download/v$version/matcha_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/floatpane/matcha/releases/download/v$version/matcha_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/floatpane/matcha/releases/download/v$version/matcha_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/floatpane/matcha/releases/download/v$version/matcha_$version_windows_arm64.zip"
             }
         },
         "hash": {

@@ -4,7 +4,7 @@
     "homepage": "https://rephial.org/",
     "license": "GPL-2.0",
     "notes": "Configuration files cannot be persisted, but will be retained during the update",
-    "url": "https://gh-proxy.com/https://github.com/angband/angband/releases/download/4.2.6-258-ge473720ed/Angband-4.2.6-258-ge473720ed-win.zip",
+    "url": "https://gh-proxy.org/https://github.com/angband/angband/releases/download/4.2.6-258-ge473720ed/Angband-4.2.6-258-ge473720ed-win.zip",
     "hash": "bbf6d9b71ac4d0e5e8f49e05c0d6ec61dd2f969bac225f5a8924165a2da465cf",
     "extract_dir": "angband-4.2.6-258-ge473720ed",
     "post_install": [
@@ -39,7 +39,7 @@
         "jsonpath": "$[?(@.prerelease == true)].tag_name"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/angband/angband/releases/download/$version/Angband-$version-win.zip",
+        "url": "https://gh-proxy.org/https://github.com/angband/angband/releases/download/$version/Angband-$version-win.zip",
         "extract_dir": "angband-$version"
     }
 }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/RedwindA/gotify-desktop/releases/download/v0.3.10/Gotify-Desktop-0.3.10-windows-amd64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/RedwindA/gotify-desktop/releases/download/v0.3.10/Gotify-Desktop-0.3.10-windows-amd64-setup.exe#/dl.7z",
             "hash": "f9ad1074116ce757a541ceb5d1eeaa78c2c8113ce4406685bce80eaf53340687"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/RedwindA/gotify-desktop/releases/download/v$version/Gotify-Desktop-$version-windows-amd64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/RedwindA/gotify-desktop/releases/download/v$version/Gotify-Desktop-$version-windows-amd64-setup.exe#/dl.7z"
             }
         },
         "hash": {

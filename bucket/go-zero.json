@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv1.10.2/goctl-v1.10.2-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv1.10.2/goctl-v1.10.2-windows-amd64.zip",
             "hash": "md5:90178cac9f989352c1a63eee0365c1d3"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv1.10.2/goctl-v1.10.2-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv1.10.2/goctl-v1.10.2-windows-386.zip",
             "hash": "md5:3773e11430f3e6a04569a71f887f0ae3"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv1.10.2/goctl-v1.10.2-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv1.10.2/goctl-v1.10.2-windows-arm64.zip",
             "hash": "md5:12b76425783ad80e51d7cb18ddc6f08a"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv$version/goctl-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv$version/goctl-v$version-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv$version/goctl-v$version-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv$version/goctl-v$version-windows-386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv$version/goctl-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zeromicro/go-zero/releases/download/tools%2Fgoctl%2Fv$version/goctl-v$version-windows-arm64.zip"
             }
         },
         "hash": {

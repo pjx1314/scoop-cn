@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/angels520/rebeyond-Mode/releases/download/rebeyond-3.3.2-mac/rebeyond-3.3.2-win.7z#/rebeyond.7ztmp",
+    "url": "https://gh-proxy.org/https://github.com/angels520/rebeyond-Mode/releases/download/rebeyond-3.3.2-mac/rebeyond-3.3.2-win.7z#/rebeyond.7ztmp",
     "post_install": [
         "7z x \"$dir\\rebeyond.7ztmp\" -pHelloWord -o\"$dir\" -y",
         "Move-Item -Path \"$dir\\rebeyond-3.3.2-重新打包\\*\" -Destination \"$dir\" -Force",

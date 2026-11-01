@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chaxiu/OpenCompare/releases/download/v0.2.15/OpenCompare-Setup-0.2.15.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/chaxiu/OpenCompare/releases/download/v0.2.15/OpenCompare-Setup-0.2.15.exe#/dl.7z",
             "hash": "25d2e8e5b2da23619908a2119d8da34eb440010ec2c0d6295c05ac69b4e8efc9"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chaxiu/OpenCompare/releases/download/v$version/OpenCompare-Setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/chaxiu/OpenCompare/releases/download/v$version/OpenCompare-Setup-$version.exe#/dl.7z"
             }
         }
     }

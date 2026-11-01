@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/fnmsd/MySQL_Fake_Server/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/fnmsd/MySQL_Fake_Server/archive/refs/heads/master.zip",
     "hash": "28f64ac7a2fcc4b2fabf7247b9a6235e36b100222590e6b7453c1dee4fb081f1",
     "extract_dir": "MySQL_Fake_Server-master",
     "pre_install": [
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/fnmsd/MySQL_Fake_Server/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/fnmsd/MySQL_Fake_Server/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

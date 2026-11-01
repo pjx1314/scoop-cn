@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/minamijoyo/hcledit/releases/download/v0.2.19/hcledit_0.2.19_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/minamijoyo/hcledit/releases/download/v0.2.19/hcledit_0.2.19_windows_amd64.tar.gz",
             "hash": "351ebdfd914e5c25032ea7141b88beb87e236889537b93a4d99d3d58f62b9055"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/minamijoyo/hcledit/releases/download/v0.2.19/hcledit_0.2.19_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/minamijoyo/hcledit/releases/download/v0.2.19/hcledit_0.2.19_windows_arm64.tar.gz",
             "hash": "078d9ca645a129f49c14b44b2bac789d16fa2d7257a6801cb17e9fc56c8fbc0a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/minamijoyo/hcledit/releases/download/v$version/hcledit_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/minamijoyo/hcledit/releases/download/v$version/hcledit_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/minamijoyo/hcledit/releases/download/v$version/hcledit_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/minamijoyo/hcledit/releases/download/v$version/hcledit_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

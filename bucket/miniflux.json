@@ -2,7 +2,7 @@
     "homepage": "https://miniflux.app/",
     "license": "Apache-2.0",
     "version": "2.2.10",
-    "url": "https://gh-proxy.com/https://github.com/miniflux/v2/releases/download/2.2.10/miniflux-windows-amd64.exe#/miniflux.exe",
+    "url": "https://gh-proxy.org/https://github.com/miniflux/v2/releases/download/2.2.10/miniflux-windows-amd64.exe#/miniflux.exe",
     "hash": "e1962bf3b095949a12e0cf430a683766e50acf46dd144650194350c5e42684df",
     "bin": "miniflux.exe",
     "checkver": {
@@ -13,6 +13,6 @@
         ]
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/miniflux/v2/releases/download/$version/miniflux-windows-amd64.exe#/miniflux.exe"
+        "url": "https://gh-proxy.org/https://github.com/miniflux/v2/releases/download/$version/miniflux-windows-amd64.exe#/miniflux.exe"
     }
 }

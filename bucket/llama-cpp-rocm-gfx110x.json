@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/lemonade-sdk/llamacpp-rocm/releases/download/b1335/llama-b1335-windows-rocm-gfx110X-x64.zip",
+			"url": "https://gh-proxy.org/https://github.com/lemonade-sdk/llamacpp-rocm/releases/download/b1335/llama-b1335-windows-rocm-gfx110X-x64.zip",
 			"hash": "95951d2003024c27d857ba2d3565853ec3d9dae3261ce84ae37e1229b3edd18b"
 		}
 	},
@@ -18,7 +18,7 @@
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
-				"url": "https://gh-proxy.com/https://github.com/lemonade-sdk/llamacpp-rocm/releases/download/$version/llama-$version-windows-rocm-gfx110X-x64.zip"
+				"url": "https://gh-proxy.org/https://github.com/lemonade-sdk/llamacpp-rocm/releases/download/$version/llama-$version-windows-rocm-gfx110X-x64.zip"
 			}
 		}
 	}

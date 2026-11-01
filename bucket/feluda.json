@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-1.18.0/feluda-1.18.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-1.18.0/feluda-1.18.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "3ac56bc8eae0a586ae2e9d578c1f5bc774d28e81ed348bbf1388e98e0461e4f6"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-1.18.0/feluda-1.18.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-1.18.0/feluda-1.18.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "60912987662b9a715b958879789a06aaf0b92062aa0fda887bc68f120901be5b"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-$version/feluda-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-$version/feluda-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-$version/feluda-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/feluda-$version/feluda-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

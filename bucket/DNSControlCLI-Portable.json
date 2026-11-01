@@ -6,7 +6,7 @@
     "changelog": "https://github.com/StackExchange/dnscontrol/releases",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/StackExchange/dnscontrol/releases/download/v5.7.1/dnscontrol_5.7.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/StackExchange/dnscontrol/releases/download/v5.7.1/dnscontrol_5.7.1_windows_amd64.zip",
             "hash": "45fbf6f85afb3f83e7526c0f61a25dcd9a5d7c4718969fa8747275f8404eb639"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/StackExchange/dnscontrol/releases/download/v$version/dnscontrol_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/StackExchange/dnscontrol/releases/download/v$version/dnscontrol_$version_windows_amd64.zip"
             }
         },
         "hash": {

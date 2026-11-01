@@ -12,7 +12,7 @@
     "suggest": {
         "python": "miniconda3"
     },
-    "url": "https://gh-proxy.com/https://github.com/evilcos/xssor2/archive/refs/heads/master.zip#/xssor2.zip",
+    "url": "https://gh-proxy.org/https://github.com/evilcos/xssor2/archive/refs/heads/master.zip#/xssor2.zip",
     "hash": "7668aaefc64b925380ebbf67b0b42076955efb301318dad3543ee4a294941918",
     "extract_dir": "xssor2-master",
     "pre_install": "Set-Content \"$dir\\xssor2.bat\" '@pushd %~dp0', '@call activate python2env', '@python manage.py runserver 0.0.0.0:8000 %*', '@popd' -Encoding Ascii",
@@ -24,6 +24,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/evilcos/xssor2/archive/refs/heads/master.zip#/xssor2.zip"
+        "url": "https://gh-proxy.org/https://github.com/evilcos/xssor2/archive/refs/heads/master.zip#/xssor2.zip"
     }
 }

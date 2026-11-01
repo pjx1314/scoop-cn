@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/OrangeWatermelon/ctf-wscan/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/OrangeWatermelon/ctf-wscan/archive/refs/heads/master.zip",
     "hash": "ea36e45b403d18d8b491277e355fd2812fb249c4383c48c87fe859675f48aa75",
     "extract_dir": "ctf-wscan-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/OrangeWatermelon/ctf-wscan/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/OrangeWatermelon/ctf-wscan/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/inkeep/open-knowledge/releases/download/v0.89.1/OpenKnowledge-Setup-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/inkeep/open-knowledge/releases/download/v0.89.1/OpenKnowledge-Setup-x64.exe#/dl.7z",
             "hash": "sha512:d7799b2a43d3edefa74120011db05d486c068263f962ffeb4724c1e8a255a7562aa87bbd68f0eb1a228bd2a7f2bd7379e85d585b64fbdd13711fedee6da9b769",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.zip\" \"$dir\"",
@@ -13,7 +13,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/inkeep/open-knowledge/releases/download/v0.89.1/OpenKnowledge-Setup-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/inkeep/open-knowledge/releases/download/v0.89.1/OpenKnowledge-Setup-arm64.exe#/dl.7z",
             "hash": "sha512:ac300d049e6324125422a07cddac921ebe213c7d39adac69768e713882d8a4a475bb178ea9c9d16a53428cea50a29a79e1b023867743d233ff4115259e770bba",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.zip\" \"$dir\"",
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/inkeep/open-knowledge/releases/download/v$version/OpenKnowledge-Setup-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/inkeep/open-knowledge/releases/download/v$version/OpenKnowledge-Setup-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/inkeep/open-knowledge/releases/download/v$version/OpenKnowledge-Setup-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/inkeep/open-knowledge/releases/download/v$version/OpenKnowledge-Setup-arm64.exe#/dl.7z"
             }
         },
         "hash": {

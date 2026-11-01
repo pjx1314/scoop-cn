@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aquasecurity/trivy/releases/download/v0.76.1/trivy_0.76.1_windows-64bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/aquasecurity/trivy/releases/download/v0.76.1/trivy_0.76.1_windows-64bit.zip",
             "hash": "1051f49cb22d5284f43425f72aad9cda63ca12ceb92e7caa06903490c82dc9bf"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aquasecurity/trivy/releases/download/v$version/trivy_$version_windows-64bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/aquasecurity/trivy/releases/download/v$version/trivy_$version_windows-64bit.zip"
             }
         },
         "hash": {

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v2.0.1/Clash.Nyanpasu_2.0.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v2.0.1/Clash.Nyanpasu_2.0.1_x64-setup.exe#/dl.7z",
             "hash": "c0614aa0df4749068bf8fc9a9d3fcd3e8632843af454a8b649c47f2b38797a41"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v2.0.1/Clash.Nyanpasu_2.0.1_arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v2.0.1/Clash.Nyanpasu_2.0.1_arm64-setup.exe#/dl.7z",
             "hash": "c447f1383a9fbb3031577ddfec3be37034cf5d91e1f090e93248a2013be89f36"
         }
     },
@@ -56,10 +56,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v$version/Clash.Nyanpasu_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v$version/Clash.Nyanpasu_$version_x64-setup.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v$version/Clash.Nyanpasu_$version_arm64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/v$version/Clash.Nyanpasu_$version_arm64-setup.exe#/dl.7z"
             }
         }
     }

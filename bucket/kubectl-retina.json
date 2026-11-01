@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-windows-amd64-v1.3.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-windows-amd64-v1.3.1.zip",
             "hash": "90d15476b914b116e309783fa3cd0fb96522b4218a3e1cb389ac0f39a5e24527"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-windows-arm64-v1.3.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-windows-arm64-v1.3.1.zip",
             "hash": "c1dcbafd98a6d990c570572e553a873ce772333bb1c550d44dfe40dfd6f7715d"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/retina/releases/download/v$version/kubectl-retina-windows-amd64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/retina/releases/download/v$version/kubectl-retina-windows-amd64-v$version.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/retina/releases/download/v$version/kubectl-retina-windows-arm64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/retina/releases/download/v$version/kubectl-retina-windows-arm64-v$version.zip"
             }
         },
         "hash": {

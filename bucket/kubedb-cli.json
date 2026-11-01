@@ -4,11 +4,11 @@
     "homepage": "https://kubedb.com/docs/latest/setup/install/kubectl_plugin/",
     "license": {
         "identifier": "AppsCode-Community-1.0.0",
-        "url": "https://gh-proxy.com/https://github.com/appscode/licenses/raw/1.0.0/AppsCode-Community-1.0.0.md"
+        "url": "https://gh-proxy.org/https://github.com/appscode/licenses/raw/1.0.0/AppsCode-Community-1.0.0.md"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubedb/cli/releases/download/v0.68.0/kubectl-dba-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubedb/cli/releases/download/v0.68.0/kubectl-dba-windows-amd64.zip",
             "hash": "8b1f609e52c06a4159cecf2b2c277dd9f21207a178170ddacdb07ba960ca6fe1"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubedb/cli/releases/download/v$version/kubectl-dba-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubedb/cli/releases/download/v$version/kubectl-dba-windows-amd64.zip"
             }
         },
         "hash": {

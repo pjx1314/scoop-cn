@@ -14,7 +14,7 @@
             "ruby"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/digininja/CeWL/archive/refs/tags/6.2.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/digininja/CeWL/archive/refs/tags/6.2.1.zip",
     "hash": "e1cd7a2130e955dbc3824277698c5522447df145f8bfb10886c2cd60579d639e",
     "extract_dir": "CeWL-6.2.1",
     "pre_install": [
@@ -30,6 +30,6 @@
     "bin": "CeWL.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/digininja/CeWL/archive/refs/tags/$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/digininja/CeWL/archive/refs/tags/$version.zip"
     }
 }

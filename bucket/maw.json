@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Moyf/moys-asr-workflow/releases/download/v1.9.0/MAW-Windows-x64-v1.9.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/Moyf/moys-asr-workflow/releases/download/v1.9.0/MAW-Windows-x64-v1.9.0.zip",
             "hash": "3bc95aa0799fe349ffefac09ba4f3f6db71563e9a03584199675a2c5dfe38530"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Moyf/moys-asr-workflow/releases/download/v$version/MAW-Windows-x64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/Moyf/moys-asr-workflow/releases/download/v$version/MAW-Windows-x64-v$version.zip"
             }
         }
     }

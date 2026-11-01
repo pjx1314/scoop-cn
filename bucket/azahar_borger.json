@@ -5,7 +5,7 @@
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-windows-msys2-2126.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-windows-msys2-2126.2.zip",
             "hash": "aa6d4c631c883355e50f5f62fd26a0e053d63e4cc29b8ded6b3b7d175ec3864e"
         }
     },
@@ -32,7 +32,7 @@
         "github": "https://github.com/azahar-emu/azahar"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/azahar-emu/azahar/releases/download/$version/azahar-windows-msys2-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/azahar-emu/azahar/releases/download/$version/azahar-windows-msys2-$version.zip",
         "extract_dir": "azahar-windows-msys2-$version"
     }
 }

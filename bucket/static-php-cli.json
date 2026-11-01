@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/crazywhalecc/static-php-cli/releases/download/2.8.5/spc-windows-x64.exe#/spc.exe",
+            "url": "https://gh-proxy.org/https://github.com/crazywhalecc/static-php-cli/releases/download/2.8.5/spc-windows-x64.exe#/spc.exe",
             "hash": "425b54ab857e21409c1fd9b818899ffebabd1e2817ef0a0ed5ae8a3d9f5b463b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/crazywhalecc/static-php-cli/releases/download/$version/spc-windows-x64.exe#/spc.exe"
+                "url": "https://gh-proxy.org/https://github.com/crazywhalecc/static-php-cli/releases/download/$version/spc-windows-x64.exe#/spc.exe"
             }
         }
     }

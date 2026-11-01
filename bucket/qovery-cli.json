@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Qovery/qovery-cli/releases/download/v1.176.0/qovery-cli_1.176.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Qovery/qovery-cli/releases/download/v1.176.0/qovery-cli_1.176.0_windows_amd64.zip",
             "hash": "b941600c56f79f04d2b6b1ea292e5341e0143187a7942c788bd7d7f6311d3d67"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Qovery/qovery-cli/releases/download/v1.176.0/qovery-cli_1.176.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Qovery/qovery-cli/releases/download/v1.176.0/qovery-cli_1.176.0_windows_arm64.zip",
             "hash": "389b36f2bc4af0398a732c8967d68b76fb631454e0cbc9a0980da170f686e105"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Qovery/qovery-cli/releases/download/v$version/qovery-cli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Qovery/qovery-cli/releases/download/v$version/qovery-cli_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Qovery/qovery-cli/releases/download/v$version/qovery-cli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Qovery/qovery-cli/releases/download/v$version/qovery-cli_$version_windows_arm64.zip"
             }
         },
         "hash": {

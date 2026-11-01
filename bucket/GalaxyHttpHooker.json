@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/outlaws-bai/GalaxyHttpHooker/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/outlaws-bai/GalaxyHttpHooker/archive/refs/heads/master.zip",
     "hash": "",
     "extract_dir": "GalaxyHttpHooker-main",
     "checkver": {
@@ -15,7 +15,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/outlaws-bai/GalaxyHttpHooker/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/outlaws-bai/GalaxyHttpHooker/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 网络工具",

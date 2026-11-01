@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/columnar-tech/dbc/releases/download/v0.3.1/dbc-windows-amd64-0.3.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/columnar-tech/dbc/releases/download/v0.3.1/dbc-windows-amd64-0.3.1.zip",
             "hash": "873eed805cce64a94f991436c4513052f1a5ff56eb1cfbf97e68d0ccde638763"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/columnar-tech/dbc/releases/download/v$version/dbc-windows-amd64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/columnar-tech/dbc/releases/download/v$version/dbc-windows-amd64-$version.zip"
             }
         },
         "hash": {

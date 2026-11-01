@@ -6,7 +6,7 @@
     "suggest": {
         "java": "sec/oraclejdk8"
     },
-    "url": "https://gh-proxy.com/https://github.com/R4gd0ll/I-Wanna-Get-All/releases/download/I-Wanna-Get-All-vFinal-patch1/IWannaGetAll-vFinal-release.zip",
+    "url": "https://gh-proxy.org/https://github.com/R4gd0ll/I-Wanna-Get-All/releases/download/I-Wanna-Get-All-vFinal-patch1/IWannaGetAll-vFinal-release.zip",
     "hash": "sha256:3fa95754817e9beb330ddcaf6f05d112574633534c1d2dc46ca478fedb201e3d",
     "pre_install": [
         "Set-Content \"$dir\\IWannaGetAll.bat\" '@pushd %~dp0', '@call oraclejdk8', '@start powershell -Command \"java.exe -jar IWannaGetAll.jar %*\"', '@popd' -Encoding Ascii"
@@ -23,7 +23,7 @@
         "jsonpath": "$.tag_name"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/R4gd0ll/I-Wanna-Get-All/releases/download/$matchTag/IWannaGetAll-vFinal-release.zip"
+        "url": "https://gh-proxy.org/https://github.com/R4gd0ll/I-Wanna-Get-All/releases/download/$matchTag/IWannaGetAll-vFinal-release.zip"
     },
     "notes": [
         "【工具类型】: Java工具",

@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/kelvinBen/AppInfoScanner/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/kelvinBen/AppInfoScanner/archive/refs/heads/master.zip",
     "hash": "4e0760ba5eb29b83650dad6eb0c85801b1dddd2a917ae608f4f4e8913b155b50",
     "pre_install": [
         "Set-Content \"$dir\\AppInfoScanner.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kelvinBen/AppInfoScanner/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/kelvinBen/AppInfoScanner/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

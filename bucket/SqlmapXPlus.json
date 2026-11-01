@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/co01cat/SqlmapXPlus/archive/refs/tags/v1.6-sqlmapxplus.zip",
+    "url": "https://gh-proxy.org/https://github.com/co01cat/SqlmapXPlus/archive/refs/tags/v1.6-sqlmapxplus.zip",
     "hash": "7b5a638bbb81c80af7c2ad053ce8bf7d1a43cba83ca07859ca5fed73767f53ea",
     "extract_dir": "SqlmapXPlus-1.6-sqlmapxplus",
     "pre_install": [
@@ -27,7 +27,7 @@
         "regex": "v([\\d.]+)-sqlmapxplus"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/co01cat/SqlmapXPlus/archive/refs/tags/v$version-sqlmapxplus.zip",
+        "url": "https://gh-proxy.org/https://github.com/co01cat/SqlmapXPlus/archive/refs/tags/v$version-sqlmapxplus.zip",
         "extract_dir": "SqlmapXPlus-$version-sqlmapxplus"
     }
 }

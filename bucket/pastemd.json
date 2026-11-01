@@ -6,7 +6,7 @@
     "notes": "It's a lightweight tray app bundled with Pandoc",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/RICHQAQ/PasteMD/releases/download/v0.1.7.4/PasteMD_pandoc-Setup_v0.1.7.4.exe",
+            "url": "https://gh-proxy.org/https://github.com/RICHQAQ/PasteMD/releases/download/v0.1.7.4/PasteMD_pandoc-Setup_v0.1.7.4.exe",
             "hash": "868f5eb585b74f437d40e61b5ea1e2e6130f5a2a1cd19b0b1d145dc65af11e4a"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/RICHQAQ/PasteMD/releases/download/v$version/PasteMD_pandoc-Setup_v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/RICHQAQ/PasteMD/releases/download/v$version/PasteMD_pandoc-Setup_v$version.exe"
             }
         }
     }

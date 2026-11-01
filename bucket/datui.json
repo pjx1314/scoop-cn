@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/derekwisong/datui/releases/download/v0.4.15/datui-v0.4.15-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/derekwisong/datui/releases/download/v0.4.15/datui-v0.4.15-x86_64-pc-windows-msvc.zip",
             "hash": "aff79c06955a4988ca7cdaf592740f102e43055fbd9836f36fd362122d826a2e"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/derekwisong/datui/releases/download/v$version/datui-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/derekwisong/datui/releases/download/v$version/datui-v$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

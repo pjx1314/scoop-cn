@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/dyboy2017/TScan/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/dyboy2017/TScan/archive/refs/heads/master.zip",
     "hash": "c0637f4c8b7a364408fb795702dd67010c50aaa7da5baaad5c5cf0abfc4e5129",
     "pre_install": [
         "Set-Content \"$dir\\TScan.bat\" '@pushd %~dp0",
@@ -31,7 +31,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/dyboy2017/TScan/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/dyboy2017/TScan/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

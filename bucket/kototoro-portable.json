@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kototoro-app/Kototoro/releases/download/v2.3.4/Kototoro-2.3.4-windows-x64-release.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kototoro-app/Kototoro/releases/download/v2.3.4/Kototoro-2.3.4-windows-x64-release.zip",
             "hash": "c1fc8fc1da24e84fadff04f55288cbf8b0e33b73c1e2ab2789d8ddc3d259f745"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kototoro-app/Kototoro/releases/download/v$version/Kototoro-$version-windows-x64-release.zip"
+                "url": "https://gh-proxy.org/https://github.com/Kototoro-app/Kototoro/releases/download/v$version/Kototoro-$version-windows-x64-release.zip"
             }
         }
     }

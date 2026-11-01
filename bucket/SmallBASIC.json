@@ -3,7 +3,7 @@
     "description": "A simple BASIC language interpreter",
     "license": "GPL-3.0-or-later",
     "version": "12.33",
-    "url": "https://gh-proxy.com/https://github.com/smallbasic/SmallBASIC/releases/download/v12_33_win/SmallBASIC_12.33_Win.zip",
+    "url": "https://gh-proxy.org/https://github.com/smallbasic/SmallBASIC/releases/download/v12_33_win/SmallBASIC_12.33_Win.zip",
     "hash": "2794908adf0a8cf670e674d38983bc395ff3cb42cfebeb96925614f26aaaf020",
     "extract_dir": "SmallBASIC_12.33_Win",
     "bin": [
@@ -33,7 +33,7 @@
         "replace": "${1}.${2}"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/smallbasic/SmallBASIC/releases/download/v$underscoreVersion_win/SmallBASIC_$version_Win.zip",
+        "url": "https://gh-proxy.org/https://github.com/smallbasic/SmallBASIC/releases/download/v$underscoreVersion_win/SmallBASIC_$version_Win.zip",
         "extract_dir": "SmallBASIC_$version_Win"
     }
 }

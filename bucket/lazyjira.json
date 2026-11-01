@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_windows_amd64.zip",
             "hash": "aa1261fcdb1e5d70c7a71895e49b915b0c093901397cda36ec5256553ab0c625"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_windows_arm64.zip",
             "hash": "058c5a568c35e4ad3f544fa1a35c21d95fb3888f914d8634f5a81849540da15d"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/textfuel/lazyjira/releases/download/v$version/lazyjira_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/textfuel/lazyjira/releases/download/v$version/lazyjira_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/textfuel/lazyjira/releases/download/v$version/lazyjira_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/textfuel/lazyjira/releases/download/v$version/lazyjira_windows_arm64.zip"
             }
         },
         "hash": {

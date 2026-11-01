@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Lexikos/AutoHotkey_L/releases/download/v2.0.31/AutoHotkey_2.0.31_setup.exe#/setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/Lexikos/AutoHotkey_L/releases/download/v2.0.31/AutoHotkey_2.0.31_setup.exe#/setup.exe",
             "hash": "9224a3bd1757088320bf04c51efa43511160766bfee8d6555168293cd54b4c16",
             "installer": {
                 "script": "Start-Process -Wait \"$dir\\setup.exe\" \"/S /x64 /uiAccess=0 /IsHostApp=1 /D=$dir\" -Verb RunAs",
@@ -23,7 +23,7 @@
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Lexikos/AutoHotkey_L/releases/download/v2.0.31/AutoHotkey_2.0.31_setup.exe#/setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/Lexikos/AutoHotkey_L/releases/download/v2.0.31/AutoHotkey_2.0.31_setup.exe#/setup.exe",
             "hash": "9224a3bd1757088320bf04c51efa43511160766bfee8d6555168293cd54b4c16",
             "installer": {
                 "script": "Start-Process -Wait \"$dir\\setup.exe\" \"/S /U32 /uiAccess=0 /IsHostApp=1 /D=$dir\" -Verb RunAs",
@@ -47,10 +47,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Lexikos/AutoHotkey_L/releases/download/v$version/AutoHotkey_$version_setup.exe#/setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/Lexikos/AutoHotkey_L/releases/download/v$version/AutoHotkey_$version_setup.exe#/setup.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Lexikos/AutoHotkey_L/releases/download/v$version/AutoHotkey_$version_setup.exe#/setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/Lexikos/AutoHotkey_L/releases/download/v$version/AutoHotkey_$version_setup.exe#/setup.exe"
             }
         }
     }

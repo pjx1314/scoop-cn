@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/wapiti-scanner/wapiti/releases/download/3.3.2/wapiti3-3.3.2.tar.gz",
+    "url": "https://gh-proxy.org/https://github.com/wapiti-scanner/wapiti/releases/download/3.3.2/wapiti3-3.3.2.tar.gz",
     "hash": "51fc7ec9a1e637af6edb0b4c85fcddbef583ec3f693f1e5ad3c5029c066281a0",
     "extract_dir": "wapiti3-3.3.2",
     "post_install": [
@@ -21,7 +21,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wapiti-scanner/wapiti/releases/download/$version/wapiti3-$version.tar.gz",
+        "url": "https://gh-proxy.org/https://github.com/wapiti-scanner/wapiti/releases/download/$version/wapiti3-$version.tar.gz",
         "extract_dir": "wapiti3-$version"
     }
 }

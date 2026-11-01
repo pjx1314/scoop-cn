@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/fire-keeper/BlindWatermark/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/fire-keeper/BlindWatermark/archive/refs/heads/master.zip",
     "hash": "1953a0dcbfd813b9988a3b3cda80c0a2913dfe6fdaf094640cb3892f1db0980d",
     "extract_dir": "BlindWatermark-master",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/fire-keeper/BlindWatermark/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/fire-keeper/BlindWatermark/archive/refs/heads/master.zip"
     }
 }

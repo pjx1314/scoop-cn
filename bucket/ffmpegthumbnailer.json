@@ -12,7 +12,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dirkvdb/ffmpegthumbnailer/releases/download/v2.4.1/ffmpegthumbnailer-windows-mingw64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dirkvdb/ffmpegthumbnailer/releases/download/v2.4.1/ffmpegthumbnailer-windows-mingw64.zip",
             "hash": "579929192636caf5093f1f756a3c749285768e5b1fbf35a2c7cfa89b10a60a82"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dirkvdb/ffmpegthumbnailer/releases/download/v$version/ffmpegthumbnailer-windows-mingw64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dirkvdb/ffmpegthumbnailer/releases/download/v$version/ffmpegthumbnailer-windows-mingw64.zip"
             }
         }
     }

@@ -7,7 +7,7 @@
     "hash": "44756b06b26a12775182471a2166181b0bf78f51941f9ef4eb3a8d351282b580",
     "bin": "bstrings.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "bstrings.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

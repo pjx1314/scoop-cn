@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chrishrb/go-grip/releases/download/v0.11.0/go-grip-v0.11.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/chrishrb/go-grip/releases/download/v0.11.0/go-grip-v0.11.0-windows-amd64.zip",
             "hash": "md5:3b539eec9d9bcdfe1844cf5a67123b4a"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/chrishrb/go-grip/releases/download/v0.11.0/go-grip-v0.11.0-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/chrishrb/go-grip/releases/download/v0.11.0/go-grip-v0.11.0-windows-386.zip",
             "hash": "md5:f998293251f621e07b72bc04e9c83716"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/chrishrb/go-grip/releases/download/v0.11.0/go-grip-v0.11.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/chrishrb/go-grip/releases/download/v0.11.0/go-grip-v0.11.0-windows-arm64.zip",
             "hash": "md5:2c4e3f2132bd3a1c2ceed74d6750ed49"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chrishrb/go-grip/releases/download/v$version/go-grip-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/chrishrb/go-grip/releases/download/v$version/go-grip-v$version-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/chrishrb/go-grip/releases/download/v$version/go-grip-v$version-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/chrishrb/go-grip/releases/download/v$version/go-grip-v$version-windows-386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/chrishrb/go-grip/releases/download/v$version/go-grip-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/chrishrb/go-grip/releases/download/v$version/go-grip-v$version-windows-arm64.zip"
             }
         },
         "hash": {

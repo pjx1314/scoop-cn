@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Ch1ngg/JWTPyCrack/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Ch1ngg/JWTPyCrack/archive/refs/heads/master.zip",
     "hash": "56b96dc82f3088428201031bc718ab9156f850564931e299dc42b52fe0cfddac",
     "extract_dir": "JWTPyCrack-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Ch1ngg/JWTPyCrack/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Ch1ngg/JWTPyCrack/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 密码破解工具",

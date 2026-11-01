@@ -4,7 +4,7 @@
     "homepage": "https://github.com/DavidXanatos/TaskExplorer",
     "license": "GPL-3.0-only",
     "changelog": "https://github.com/DavidXanatos/TaskExplorer/releases",
-    "url": "https://gh-proxy.com/https://github.com/DavidXanatos/TaskExplorer/releases/download/v2.0.1/TaskExplorer-v2.0.1.exe",
+    "url": "https://gh-proxy.org/https://github.com/DavidXanatos/TaskExplorer/releases/download/v2.0.1/TaskExplorer-v2.0.1.exe",
     "hash": "9bc3996ab828fb8d13cae2a2d405d9fa414925b202cc685dfdb81d5d2555522d",
     "architecture": {
         "64bit": {
@@ -27,6 +27,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/DavidXanatos/TaskExplorer/releases/download/v$version/TaskExplorer-v$version.exe"
+        "url": "https://gh-proxy.org/https://github.com/DavidXanatos/TaskExplorer/releases/download/v$version/TaskExplorer-v$version.exe"
     }
 }

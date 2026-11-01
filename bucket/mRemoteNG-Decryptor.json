@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/ybdt/mRemoteNG-Decryptor/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/ybdt/mRemoteNG-Decryptor/archive/refs/heads/master.zip",
     "hash": "f68f1eb79c38bcd1c57473e6b094c4217942a8aeafbb8d0476c762f1a15a485e",
     "extract_dir": "mRemoteNG-Decryptor-main",
     "pre_install": [
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ybdt/mRemoteNG-Decryptor/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/ybdt/mRemoteNG-Decryptor/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 密码工具",

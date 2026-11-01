@@ -6,11 +6,11 @@
     "notes": "Run 'tg' in a terminal with at least 40x10 cells",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iebb/termgram/releases/download/v0.1.48/termgram-0.1.48-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/iebb/termgram/releases/download/v0.1.48/termgram-0.1.48-windows.zip",
             "hash": "e869a67c4617540e3e44a7413ee75f88a9a02d6e51dc69448b312af6e013f4ee"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/iebb/termgram/releases/download/v0.1.48/termgram-0.1.48-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/iebb/termgram/releases/download/v0.1.48/termgram-0.1.48-windows-aarch64.zip",
             "hash": "d7f949d9fb118d6451fef46bfd4309110c0c4bab7f6cb38f2acdd8a99990a183"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iebb/termgram/releases/download/v$version/termgram-$version-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/iebb/termgram/releases/download/v$version/termgram-$version-windows.zip",
                 "hash": {
                     "mode": "extract",
                     "url": "https://github.com/iebb/termgram/releases/expanded_assets/v$version",
@@ -29,7 +29,7 @@
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/iebb/termgram/releases/download/v$version/termgram-$version-windows-aarch64.zip",
+                "url": "https://gh-proxy.org/https://github.com/iebb/termgram/releases/download/v$version/termgram-$version-windows-aarch64.zip",
                 "hash": {
                     "mode": "extract",
                     "url": "https://github.com/iebb/termgram/releases/expanded_assets/v$version",

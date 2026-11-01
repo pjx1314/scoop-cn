@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/s0rg/crawley/releases/download/v1.7.20/crawley_v1.7.20_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/s0rg/crawley/releases/download/v1.7.20/crawley_v1.7.20_windows_x86_64.zip",
             "hash": "0fb595180b6eb13e76d485050d48c68fd0dd0e724fb8fb973b332e19f1fb722e"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/s0rg/crawley/releases/download/v$version/crawley_v$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/s0rg/crawley/releases/download/v$version/crawley_v$version_windows_x86_64.zip"
             }
         },
         "hash": {

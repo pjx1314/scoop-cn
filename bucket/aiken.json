@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aiken-lang/aiken/releases/download/v1.1.24/aiken-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/aiken-lang/aiken/releases/download/v1.1.24/aiken-x86_64-pc-windows-msvc.tar.gz",
             "extract_dir": "aiken-x86_64-pc-windows-msvc",
             "hash": "3eebf327cfcc191371d97110aac2131af978314e874af7d82f3963cb4a88c714"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aiken-lang/aiken/releases/download/v$version/aiken-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/aiken-lang/aiken/releases/download/v$version/aiken-x86_64-pc-windows-msvc.tar.gz"
             }
         },
         "hash": {

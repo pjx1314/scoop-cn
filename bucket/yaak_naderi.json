@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mountain-loop/yaak/releases/download/v2026.9.0/Yaak_2026.9.0_x64-setup.exe/#dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v2026.9.0/Yaak_2026.9.0_x64-setup.exe/#dl.7z",
             "hash": "af45e72c91b86b9d005d477f9e87b03d4b7310001e26362abf1f97418fa1d720"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/mountain-loop/yaak/releases/download/v2026.9.0/Yaak_2026.9.0_arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v2026.9.0/Yaak_2026.9.0_arm64-setup.exe#/dl.7z",
             "hash": "1ba591487d0324101d19d6e1d3528143bdae6ad005bdc3c9fbbf4224c515931b"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mountain-loop/yaak/releases/download/v$version/Yaak_$version_x64-setup.exe/#dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v$version/Yaak_$version_x64-setup.exe/#dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/mountain-loop/yaak/releases/download/v$version/Yaak_$version_arm64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v$version/Yaak_$version_arm64-setup.exe#/dl.7z"
             }
         }
     }

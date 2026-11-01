@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/saucelabs/forwarder/releases/download/v1.6.3/forwarder-1.6.3_windows.x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/saucelabs/forwarder/releases/download/v1.6.3/forwarder-1.6.3_windows.x86_64.zip",
             "hash": "1c2a2b7dbdd5da3972e960d67baac12405346e509248577ff1608077cc8de24b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/saucelabs/forwarder/releases/download/v1.6.3/forwarder-1.6.3_windows.aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/saucelabs/forwarder/releases/download/v1.6.3/forwarder-1.6.3_windows.aarch64.zip",
             "hash": "8ae16932dfc0cad3052a2ced243f53344400fa378c8b756b6ff4c7665ca71189"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/saucelabs/forwarder/releases/download/v$version/forwarder-$version_windows.x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/saucelabs/forwarder/releases/download/v$version/forwarder-$version_windows.x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/saucelabs/forwarder/releases/download/v$version/forwarder-$version_windows.aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/saucelabs/forwarder/releases/download/v$version/forwarder-$version_windows.aarch64.zip"
             }
         },
         "hash": {

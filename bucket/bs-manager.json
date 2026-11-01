@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Zagrios/bs-manager/releases/download/v1.6.0/bs-manager-1.6.0-x64.nsis.7z",
+            "url": "https://gh-proxy.org/https://github.com/Zagrios/bs-manager/releases/download/v1.6.0/bs-manager-1.6.0-x64.nsis.7z",
             "hash": "a19f58c51626223e0ea73a237abf163a82ac59462d9f19a4903b576db850f7fa"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Zagrios/bs-manager/releases/download/v$version/bs-manager-$version-x64.nsis.7z"
+                "url": "https://gh-proxy.org/https://github.com/Zagrios/bs-manager/releases/download/v$version/bs-manager-$version-x64.nsis.7z"
             }
         }
     }

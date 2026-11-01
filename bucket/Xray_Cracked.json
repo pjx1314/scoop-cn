@@ -10,9 +10,9 @@
     "homepage": "https://github.com/NHPT/Xray_Cracked",
     "license": "UNKNOWN",
     "url": [
-        "https://gh-proxy.com/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_windows_amd64.exe",
-        "https://gh-proxy.com/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_linux_amd64",
-        "https://gh-proxy.com/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray-license.lic"
+        "https://gh-proxy.org/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_windows_amd64.exe",
+        "https://gh-proxy.org/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_linux_amd64",
+        "https://gh-proxy.org/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray-license.lic"
     ],
     "hash": [
         "0f5e62026e74e038e789655b7a4a497e0190899adedb9e1865c4dc68148855e6",
@@ -35,9 +35,9 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_windows_amd64.exe",
-            "https://gh-proxy.com/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_linux_amd64",
-            "https://gh-proxy.com/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray-license.lic"
+            "https://gh-proxy.org/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_windows_amd64.exe",
+            "https://gh-proxy.org/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray_linux_amd64",
+            "https://gh-proxy.org/https://github.com/NHPT/Xray_Cracked/releases/download/v1.9.11/xray-license.lic"
         ]
     }
 }

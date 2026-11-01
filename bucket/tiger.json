@@ -9,7 +9,7 @@
         "【适用场景】: 渗透测试、红队工具、漏洞扫描",
         "【技术特点】: Windows可执行文件，命令行工具，需要解压密码"
     ],
-    "url": "https://gh-proxy.com/https://github.com/qiuluo-oss/Tiger/releases/download/v1.1.0/Tiger_V1.1.0.zip#/Tiger.zip1",
+    "url": "https://gh-proxy.org/https://github.com/qiuluo-oss/Tiger/releases/download/v1.1.0/Tiger_V1.1.0.zip#/Tiger.zip1",
     "pre_install": [
         "7z x \"$dir\\Tiger.zip1\" -pluosige -o\"$dir\" -y",
         "Remove-Item \"$dir\\Tiger.zip1\" -Force"
@@ -17,6 +17,6 @@
     "hash": "",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/qiuluo-oss/Tiger/releases/download/v$version/Tiger_V$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/qiuluo-oss/Tiger/releases/download/v$version/Tiger_V$version.zip"
     }
 }

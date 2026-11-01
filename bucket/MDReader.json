@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Neilooo/md-reader/releases/download/v0.3.12/MD-Reader-0.3.12-windows-x64-portable.exe#/md-reader.exe",
+            "url": "https://gh-proxy.org/https://github.com/Neilooo/md-reader/releases/download/v0.3.12/MD-Reader-0.3.12-windows-x64-portable.exe#/md-reader.exe",
             "hash": "ee9204fd9e90019540735f1ffa7e76e16ed00925094d84477688d15641743c21"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Neilooo/md-reader/releases/download/v$version/MD-Reader-$version-windows-x64-portable.exe#/md-reader.exe"
+                "url": "https://gh-proxy.org/https://github.com/Neilooo/md-reader/releases/download/v$version/MD-Reader-$version-windows-x64-portable.exe#/md-reader.exe"
             }
         }
     }

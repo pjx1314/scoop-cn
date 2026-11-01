@@ -13,7 +13,7 @@
     "suggest": {
         "js": "nodejs"
     },
-    "url": "https://gh-proxy.com/https://github.com/threecha/wxappUnpacker/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/threecha/wxappUnpacker/archive/refs/heads/master.zip",
     "hash": "00eb145a07f6f4076d7dc23d16fce07946c7f0f30852bbc0dbdfb9a8f3c96a73",
     "extract_dir": "wxappUnpacker-main",
     "pre_install": "Set-Content \"$dir\\wxappUnpacker.bat\" '@pushd %~dp0', '@node wuWxapkg.js %*', '@popd' -Encoding Ascii",
@@ -25,6 +25,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/threecha/wxappUnpacker/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/threecha/wxappUnpacker/archive/refs/heads/master.zip"
     }
 }

@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_windows_amd64.zip",
             "extract_dir": "bed_v0.2.9_windows_amd64",
             "hash": "545ab8c7614f4a6c1d89a6597464ad8da92c2bdbdecf21e1522f61bd8580cb2e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_windows_arm64.zip",
             "extract_dir": "bed_v0.2.9_windows_arm64",
             "hash": "524d9d50dba5d85d7edf60938fb46e83d6e90e6e1b0951e057dea0f5b51d7b8a"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/itchyny/bed/releases/download/v$version/bed_v$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/itchyny/bed/releases/download/v$version/bed_v$version_windows_amd64.zip",
                 "extract_dir": "bed_v$version_windows_amd64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/itchyny/bed/releases/download/v$version/bed_v$version_windows_arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/itchyny/bed/releases/download/v$version/bed_v$version_windows_arm64.zip",
                 "extract_dir": "bed_v$version_windows_arm64"
             }
         }

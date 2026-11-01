@@ -7,7 +7,7 @@
     "hash": "0d5a0c9bd9aeba6738fabbb5bfa2ca360f924949eeb02fc55d9bc8bf3dcc88f3",
     "bin": "PECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "PECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

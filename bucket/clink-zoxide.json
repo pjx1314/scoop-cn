@@ -6,7 +6,7 @@
     "suggest": {
         "Clink": "clink"
     },
-    "url": "https://gh-proxy.com/https://github.com/shunsambongi/clink-zoxide/raw/refs/heads/master/zoxide.lua",
+    "url": "https://gh-proxy.org/https://github.com/shunsambongi/clink-zoxide/raw/refs/heads/master/zoxide.lua",
     "hash": "b799546480f022e930a22031875c95c4df287bf4c1d1ddabf849a70ef1de2ec5",
     "installer": {
         "script": [

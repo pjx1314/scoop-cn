@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nuthx/subtitle-renamer/releases/download/2.3.1/subtitle-renamer_2.3.1_windows_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/nuthx/subtitle-renamer/releases/download/2.3.1/subtitle-renamer_2.3.1_windows_x64.zip",
             "hash": "669639ef02c4f87b0d0c9cf9bd4c9a7ec158f3371fd3e22f2239f46e22074bc3"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nuthx/subtitle-renamer/releases/download/$version/subtitle-renamer_$version_windows_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/nuthx/subtitle-renamer/releases/download/$version/subtitle-renamer_$version_windows_x64.zip"
             }
         }
     }

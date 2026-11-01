@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/resend/resend-cli/releases/download/v2.26.2/resend-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/resend/resend-cli/releases/download/v2.26.2/resend-windows-x64.zip",
             "hash": "c264b4f9902d24d0034674b1f7b89a28d0e834afd6f38e95e995db5452fa543f"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/resend/resend-cli/releases/download/v$version/resend-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/resend/resend-cli/releases/download/v$version/resend-windows-x64.zip"
             }
         }
     }

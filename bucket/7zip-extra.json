@@ -6,7 +6,7 @@
         "identifier": "Freeware,LGPL-2.0-only,BSD-3-Clause",
         "url": "https://www.7-zip.org/license.txt"
     },
-    "url": "https://gh-proxy.com/https://github.com/ip7z/7zip/releases/download/23.01/7z2301-extra.7z",
+    "url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/23.01/7z2301-extra.7z",
     "hash": "db3a1cbe57a26fac81b65c6a2d23feaecdeede3e4c1fe8fb93a7b91d72d1094c",
     "architecture": {
         "64bit": {

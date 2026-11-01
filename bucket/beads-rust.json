@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Dicklesworthstone/beads_rust/releases/download/v0.7.6/br-0.7.6-windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Dicklesworthstone/beads_rust/releases/download/v0.7.6/br-0.7.6-windows_amd64.zip",
             "hash": "ae1a33be770d535ee509cff5e8e735ab43fa315f70f391eb25c1ed0bd7fc2484"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Dicklesworthstone/beads_rust/releases/download/v$version/br-$version-windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Dicklesworthstone/beads_rust/releases/download/v$version/br-$version-windows_amd64.zip"
             }
         },
         "hash": {

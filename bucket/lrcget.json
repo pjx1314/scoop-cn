@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tranxuanthang/lrcget/releases/download/2.2.1/LRCGET_2.2.1_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/tranxuanthang/lrcget/releases/download/2.2.1/LRCGET_2.2.1_x64_en-US.msi",
             "hash": "14b610cca59cb16ab6e3ccaaff3278d43b89fb93b208ba2484330ab5e4c6c4c4"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tranxuanthang/lrcget/releases/download/$version/LRCGET_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/tranxuanthang/lrcget/releases/download/$version/LRCGET_$version_x64_en-US.msi"
             }
         }
     }

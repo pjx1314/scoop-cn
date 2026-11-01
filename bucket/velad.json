@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.zip",
             "extract_dir": "windows-amd64",
             "hash": "b8ce8178635862860c26ac761f2912875861b369272384804b3e68e5b654032b"
         }
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubevela/velad/releases/download/v$version/velad-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubevela/velad/releases/download/v$version/velad-v$version-windows-amd64.zip"
             }
         }
     }

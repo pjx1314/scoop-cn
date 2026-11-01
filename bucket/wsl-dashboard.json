@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/owu/wsl-dashboard/releases/download/v0.13.0/WSLDashboard.0.13.0.Portable.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/owu/wsl-dashboard/releases/download/v0.13.0/WSLDashboard.0.13.0.Portable.x64.zip",
             "hash": "804f7f047f723031124c87765c659fabcba9784a5874e170746935984ee5d19d"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/owu/wsl-dashboard/releases/download/v$version/WSLDashboard.$version.Portable.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/owu/wsl-dashboard/releases/download/v$version/WSLDashboard.$version.Portable.x64.zip"
             }
         }
     }

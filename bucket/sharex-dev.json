@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ShareX/DevBuilds/releases/download/v22.0.0.1791/ShareX-22.0.0.1791-portable-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ShareX/DevBuilds/releases/download/v22.0.0.1791/ShareX-22.0.0.1791-portable-x64.zip",
             "hash": "e9db807a21856562f06400c8cef0de7c8dcff21ec0dece5ec5524110124b849c"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ShareX/DevBuilds/releases/download/v$version/ShareX-$version-portable-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ShareX/DevBuilds/releases/download/v$version/ShareX-$version-portable-x64.zip"
             }
         },
         "hash": {

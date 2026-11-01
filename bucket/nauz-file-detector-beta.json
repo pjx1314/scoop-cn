@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win64_portable_1.0.0_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win64_portable_1.0.0_x64.zip",
             "hash": "56f1fc2c6f2f4625d83ac51adaaa1814f116be9865a51a8e9ba22546143cc502"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win32_portable_1.0.0_x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win32_portable_1.0.0_x86.zip",
             "hash": "f6363dd241cdbca0a2225d44e21111712e458bd1077eb0e7481d0f2370fb0527"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win64_portable_$matchMain_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win64_portable_$matchMain_x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win32_portable_$matchMain_x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/Nauz-File-Detector/releases/download/Beta/NauzFileDetector_win32_portable_$matchMain_x86.zip"
             }
         }
     }

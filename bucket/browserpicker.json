@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mortenn/BrowserPicker/releases/download/v3.2.5/Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/mortenn/BrowserPicker/releases/download/v3.2.5/Portable.zip",
             "hash": "7cdfe1d820fd3dc6c962fe6c79843cbaf182b0c67542b594a5936a0a471d95a9"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mortenn/BrowserPicker/releases/download/v$version/Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/mortenn/BrowserPicker/releases/download/v$version/Portable.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/anza-xyz/agave/releases/download/v4.3.2/solana-release-x86_64-pc-windows-msvc.tar.bz2",
+            "url": "https://gh-proxy.org/https://github.com/anza-xyz/agave/releases/download/v4.3.2/solana-release-x86_64-pc-windows-msvc.tar.bz2",
             "hash": "ce29128589045fe1964e9d5c064ea5f2a58151f707bae4d5bab345a3725e0f09",
             "extract_dir": "solana-release"
         }
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/anza-xyz/agave/releases/download/v$version/solana-release-x86_64-pc-windows-msvc.tar.bz2"
+                "url": "https://gh-proxy.org/https://github.com/anza-xyz/agave/releases/download/v$version/solana-release-x86_64-pc-windows-msvc.tar.bz2"
             }
         }
     }

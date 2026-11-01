@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/0xceba/burp_variables",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/0xceba/burp_variables/releases/download/v1.2.0/burp_variables-1.2.0.jar#/burp_variables.jar",
+    "url": "https://gh-proxy.org/https://github.com/0xceba/burp_variables/releases/download/v1.2.0/burp_variables-1.2.0.jar#/burp_variables.jar",
     "hash": "537aa86cdce265467c62e11d94fbcc082adb7d54c2bab6ff145f044a34f9bb9a",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/0xceba/burp_variables/releases/download/v$version/burp_variables-$version.jar#/burp_variables.jar"
+        "url": "https://gh-proxy.org/https://github.com/0xceba/burp_variables/releases/download/v$version/burp_variables-$version.jar#/burp_variables.jar"
     }
 }

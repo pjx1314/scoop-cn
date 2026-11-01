@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jnnbimo/RayDock/releases/download/v0.1.4/RayDock-0.1.4-windows-amd64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/jnnbimo/RayDock/releases/download/v0.1.4/RayDock-0.1.4-windows-amd64-portable.zip",
             "hash": "8e65476fd03b63fb55de22a3779fccb95cbe9796dd54aacda782b9c6237efe2e"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jnnbimo/RayDock/releases/download/v$version/RayDock-$version-windows-amd64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/jnnbimo/RayDock/releases/download/v$version/RayDock-$version-windows-amd64-portable.zip"
             }
         },
         "hash": {

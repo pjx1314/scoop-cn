@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Rhacknarok/hacksguard/releases/download/0.3/x86_64-pc-windows-gnu-hacksguard.exe#/hacksguard.exe",
+            "url": "https://gh-proxy.org/https://github.com/Rhacknarok/hacksguard/releases/download/0.3/x86_64-pc-windows-gnu-hacksguard.exe#/hacksguard.exe",
             "hash": "b0ab26744c8bb25f10ef36be8107b42c93cb12e87a3cb272a2fe28b1e51c582d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Rhacknarok/hacksguard/releases/download/$version/x86_64-pc-windows-gnu-hacksguard.exe#/hacksguard.exe"
+                "url": "https://gh-proxy.org/https://github.com/Rhacknarok/hacksguard/releases/download/$version/x86_64-pc-windows-gnu-hacksguard.exe#/hacksguard.exe"
             }
         }
     }

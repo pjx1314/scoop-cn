@@ -5,7 +5,7 @@
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Y2Z/monolith/releases/download/v2.11.7/monolith-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/Y2Z/monolith/releases/download/v2.11.7/monolith-cli.exe",
             "hash": "1ccaa35ce0b787ff29925c4cc8844a1bb49e1f850a587ceabbcab79e37bebc0b"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Y2Z/monolith/releases/download/v$version/monolith-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/Y2Z/monolith/releases/download/v$version/monolith-cli.exe"
             }
         }
     }

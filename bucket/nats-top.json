@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nats-io/nats-top/releases/download/v0.6.5/nats-top_0.6.5_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/nats-io/nats-top/releases/download/v0.6.5/nats-top_0.6.5_windows_amd64.tar.gz",
             "hash": "48089bfc9bccb6b7dcc0a9f7c16e443ed61a24f72201919b39f6c137ca62aa5e"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/nats-io/nats-top/releases/download/v0.6.5/nats-top_0.6.5_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/nats-io/nats-top/releases/download/v0.6.5/nats-top_0.6.5_windows_386.tar.gz",
             "hash": "57810f9e7fac8311d9ba241ae82a42fa4a93060795b0a8f78f855ed5985f5c58"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/nats-io/nats-top/releases/download/v0.6.5/nats-top_0.6.5_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/nats-io/nats-top/releases/download/v0.6.5/nats-top_0.6.5_windows_arm64.tar.gz",
             "hash": "e21c1091d4555ef5c1c53b2ddaa83f446d43101cba989e69009c70d71a538761"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nats-io/nats-top/releases/download/v$version/nats-top_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/nats-io/nats-top/releases/download/v$version/nats-top_$version_windows_amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/nats-io/nats-top/releases/download/v$version/nats-top_$version_windows_386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/nats-io/nats-top/releases/download/v$version/nats-top_$version_windows_386.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/nats-io/nats-top/releases/download/v$version/nats-top_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/nats-io/nats-top/releases/download/v$version/nats-top_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

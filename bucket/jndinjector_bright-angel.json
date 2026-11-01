@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/rebeyond/JNDInjector/releases/download/JNDInjector_v1.1/JNDInjector_v1.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/rebeyond/JNDInjector/releases/download/JNDInjector_v1.1/JNDInjector_v1.1.zip",
     "hash": "f05c55ee034974f10a592c69467c81ab31954dfe6f8c4b7a503e1ed7314ecd75",
     "pre_install": [
         "Set-Content \"$dir\\jndinjector.bat\" '@pushd %~dp0",
@@ -35,6 +35,6 @@
         "regex": "/JNDInjector_v([\\d.]+)\\.zip"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/rebeyond/JNDInjector/releases/download/JNDInjector_v$version/JNDInjector_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/rebeyond/JNDInjector/releases/download/JNDInjector_v$version/JNDInjector_v$version.zip"
     }
 }

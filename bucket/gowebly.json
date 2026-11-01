@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gowebly/gowebly/releases/download/v3.1.1/gowebly_3.1.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gowebly/gowebly/releases/download/v3.1.1/gowebly_3.1.1_windows_amd64.zip",
             "hash": "43c13c8a40836f91f6c21d6ef62bf342452b5aec703482c5bfa6abbccb1bef79"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/gowebly/gowebly/releases/download/v3.1.1/gowebly_3.1.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gowebly/gowebly/releases/download/v3.1.1/gowebly_3.1.1_windows_arm64.zip",
             "hash": "923bf6509b4625cf5a9d25f5acb77101bb6e421a8d39e3e8975a80554351ca4c"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gowebly/gowebly/releases/download/v$version/gowebly_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/gowebly/gowebly/releases/download/v$version/gowebly_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/gowebly/gowebly/releases/download/v$version/gowebly_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/gowebly/gowebly/releases/download/v$version/gowebly_$version_windows_arm64.zip"
             }
         },
         "hash": {

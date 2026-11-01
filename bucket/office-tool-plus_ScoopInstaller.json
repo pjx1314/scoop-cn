@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip",
             "hash": "e1f22e79ffd565a9a8341012b094c80167058f12d95c6c5d3fa8201b3db8213a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_arm64.zip",
             "hash": "c722d58d8db85b1ae5a5792179b11181372774e561292bbd7541abaf57618669"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_v$version_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_v$version_x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_v$version_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_v$version_arm64.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Taiko2k/Tauon/releases/download/v13.1.1/TauonMusicBox-windows.7z",
+            "url": "https://gh-proxy.org/https://github.com/Taiko2k/Tauon/releases/download/v13.1.1/TauonMusicBox-windows.7z",
             "hash": "e9a2a9919c71266a36ed565b0c0270d5edfb9d12a026438b1a57a637854e1721"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Taiko2k/Tauon/releases/download/v$version/TauonMusicBox-windows.7z"
+                "url": "https://gh-proxy.org/https://github.com/Taiko2k/Tauon/releases/download/v$version/TauonMusicBox-windows.7z"
             }
         }
     }

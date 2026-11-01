@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/uuksu/RPGMakerDecrypter/releases/download/v3.0.4/RPGMakerDecrypter-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/uuksu/RPGMakerDecrypter/releases/download/v3.0.4/RPGMakerDecrypter-cli.exe",
             "hash": "34cd16998a57d5d844e941d739be5b721abeb2392b971bbf540247b254712cf9"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/uuksu/RPGMakerDecrypter/releases/download/v$version/RPGMakerDecrypter-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/uuksu/RPGMakerDecrypter/releases/download/v$version/RPGMakerDecrypter-cli.exe"
             }
         }
     }

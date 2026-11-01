@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/saber-notes/saber/releases/download/v1.37.1/SaberInstaller_v1.37.1.exe",
+            "url": "https://gh-proxy.org/https://github.com/saber-notes/saber/releases/download/v1.37.1/SaberInstaller_v1.37.1.exe",
             "hash": "3be8c17d80965448b844691c0a4ae64f5b834d0e55f1e2b7c8386497a3a821ab"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/saber-notes/saber/releases/download/v$matchTag/SaberInstaller_v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/saber-notes/saber/releases/download/v$matchTag/SaberInstaller_v$version.exe"
             }
         }
     }

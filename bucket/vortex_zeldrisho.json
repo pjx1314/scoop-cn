@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Nexus-Mods/Vortex/releases/download/v2.9.1/vortex-setup-2.9.1.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Nexus-Mods/Vortex/releases/download/v2.9.1/vortex-setup-2.9.1.exe#/dl.7z",
             "hash": "4bc4797b1f65a1fdffc2b22530d2ff3609b89f304b94f36481a3e44cb79d8395"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Nexus-Mods/Vortex/releases/download/v$version/vortex-setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Nexus-Mods/Vortex/releases/download/v$version/vortex-setup-$version.exe#/dl.7z"
             }
         }
     }

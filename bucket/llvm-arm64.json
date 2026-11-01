@@ -5,7 +5,7 @@
     "license": "NCSA",
     "architecture": {
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-23.1.4/LLVM-23.1.4-woa64.msi",
+            "url": "https://gh-proxy.org/https://github.com/llvm/llvm-project/releases/download/llvmorg-23.1.4/LLVM-23.1.4-woa64.msi",
             "hash": "b484f54264400f0a75b63704b1068da8086f0b14625575f6efea08813109b068"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-woa64.msi"
+                "url": "https://gh-proxy.org/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-woa64.msi"
             }
         }
     }

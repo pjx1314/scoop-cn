@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chmouel/gosmee/releases/download/v0.32.1/gosmee_0.32.1_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/chmouel/gosmee/releases/download/v0.32.1/gosmee_0.32.1_windows_x86_64.zip",
             "hash": "c06bf0ab6c135099e93c950b499191b286a67f8f6d25fe358b941e779628abc9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/chmouel/gosmee/releases/download/v0.32.1/gosmee_0.32.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/chmouel/gosmee/releases/download/v0.32.1/gosmee_0.32.1_windows_arm64.zip",
             "hash": "224fcdf3e39af52c92862fe7aad1f1a187bad768b5374001f00a83118fe98933"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chmouel/gosmee/releases/download/v$version/gosmee_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/chmouel/gosmee/releases/download/v$version/gosmee_$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/chmouel/gosmee/releases/download/v$version/gosmee_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/chmouel/gosmee/releases/download/v$version/gosmee_$version_windows_arm64.zip"
             }
         },
         "hash": {

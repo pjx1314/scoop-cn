@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "main/openjdk"
     },
-    "url": "https://gh-proxy.com/https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/quarkus-cli-3.40.1.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/quarkus-cli-3.40.1.1.zip",
     "extract_dir": "quarkus-cli-3.40.1.1",
     "hash": "cd1120ea641d7064203c1ee69361e35e870ea4e3a458aea84bfcfabdeffd4747",
     "bin": "bin\\quarkus.bat",
@@ -16,7 +16,7 @@
         "regex": "([\\d+\\.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/quarkusio/quarkus/releases/download/$version/quarkus-cli-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/quarkusio/quarkus/releases/download/$version/quarkus-cli-$version.zip",
         "extract_dir": "quarkus-cli-$version",
         "hash": {
             "url": "$baseurl/checksums_sha256.txt"

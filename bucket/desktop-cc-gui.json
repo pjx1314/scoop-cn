@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v1.2.0/CC.GUI_1.2.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v1.2.0/CC.GUI_1.2.0_x64-setup.exe#/dl.7z",
             "hash": "dc9848f465c2172301f5542c98d8fd27f1efe6dd48f3942be072ab3ab9b5ab60"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v$version/CC.GUI_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/zhukunpenglinyutong/desktop-cc-gui/releases/download/v$version/CC.GUI_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

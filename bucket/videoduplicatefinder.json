@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/0x90d/videoduplicatefinder/releases/download/v4.1.1/GUI-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/0x90d/videoduplicatefinder/releases/download/v4.1.1/GUI-win-x64.zip",
             "hash": "516be461af61a137fa355975971d7ee6645cfdd7d60b1bfa1a6f6f75bee457d1"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/0x90d/videoduplicatefinder/releases/download/v4.1.1/GUI-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/0x90d/videoduplicatefinder/releases/download/v4.1.1/GUI-win-arm64.zip",
             "hash": "9afd882444eb405a086e78b0c4164866962bdc3432391a7aab7d393da40f03bd"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/0x90d/videoduplicatefinder/releases/download/v$version/GUI-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/0x90d/videoduplicatefinder/releases/download/v$version/GUI-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/0x90d/videoduplicatefinder/releases/download/v$version/GUI-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/0x90d/videoduplicatefinder/releases/download/v$version/GUI-win-arm64.zip"
             }
         }
     }

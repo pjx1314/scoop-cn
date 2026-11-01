@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/pitchfork/releases/download/v2.33.0/pitchfork-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/pitchfork/releases/download/v2.33.0/pitchfork-x86_64-pc-windows-msvc.zip",
             "hash": "803d14a32eedc4264d82db711ca31eb257244d870fe915c96b63c62efbc7e450"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/pitchfork/releases/download/v2.33.0/pitchfork-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/pitchfork/releases/download/v2.33.0/pitchfork-aarch64-pc-windows-msvc.zip",
             "hash": "4c45ce5b71087563e2326313e50486cc40b656cf917669feaf9966b2c94ec8bb"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/pitchfork/releases/download/v$version/pitchfork-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/pitchfork/releases/download/v$version/pitchfork-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/pitchfork/releases/download/v$version/pitchfork-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/pitchfork/releases/download/v$version/pitchfork-aarch64-pc-windows-msvc.zip"
             }
         }
     }

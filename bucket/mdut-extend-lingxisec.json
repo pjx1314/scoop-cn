@@ -10,7 +10,7 @@
     ],
     "homepage": "https://github.com/lingxisec/MDUT-Extend-lingxisec",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/lingxisec/MDUT-Extend-lingxisec/releases/download/1.4.0/MDUT-Extend-lingxisec-v1.4.0.zip#/mdut-extend-lingxisec.zip",
+    "url": "https://gh-proxy.org/https://github.com/lingxisec/MDUT-Extend-lingxisec/releases/download/1.4.0/MDUT-Extend-lingxisec-v1.4.0.zip#/mdut-extend-lingxisec.zip",
     "hash": "sha256:f9872a657309e818f9f2582dec2c0cb3663b5de0849f158d660e0bf5691ac282",
     "suggest": {
         "java": "sec/oraclejdk8"
@@ -31,6 +31,6 @@
     "persist": "data.db",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lingxisec/MDUT-Extend-lingxisec/releases/download/$version/MDUT-Extend-lingxisec-v$version.zip#/mdut-extend-lingxisec.zip"
+        "url": "https://gh-proxy.org/https://github.com/lingxisec/MDUT-Extend-lingxisec/releases/download/$version/MDUT-Extend-lingxisec-v$version.zip#/mdut-extend-lingxisec.zip"
     }
 }

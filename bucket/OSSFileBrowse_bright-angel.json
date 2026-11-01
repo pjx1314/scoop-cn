@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/jdr2021/OSSFileBrowse/releases/download/v1.1/OSSFileBrowse-1.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/jdr2021/OSSFileBrowse/releases/download/v1.1/OSSFileBrowse-1.1.zip",
     "hash": "f8bccc9947449f650cb8a93780fa94ccd659f0fcfc4113ca07132bcf46dbdf45",
     "pre_install": [
         "Get-ChildItem \"$dir\" 'OSSFileBrowse*.jar' | Select-Object -First 1 | Rename-Item -NewName 'OSSFileBrowse.jar'",
@@ -26,7 +26,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jdr2021/OSSFileBrowse/releases/download/v$version/OSSFileBrowse-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/jdr2021/OSSFileBrowse/releases/download/v$version/OSSFileBrowse-$version.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

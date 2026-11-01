@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Virtual-Browser/VirtualBrowser/releases/download/2.4.0/VirtualBrowser.Setup.2.4.0.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Virtual-Browser/VirtualBrowser/releases/download/2.4.0/VirtualBrowser.Setup.2.4.0.exe#/dl.7z",
             "hash": "ce698c04f04728b22ba9e2154b976c91cf936f71874c01190520da3d9fe2cf41",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Virtual-Browser/VirtualBrowser/releases/download/$version/VirtualBrowser.Setup.$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Virtual-Browser/VirtualBrowser/releases/download/$version/VirtualBrowser.Setup.$version.exe#/dl.7z"
             }
         }
     },

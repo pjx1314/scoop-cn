@@ -5,7 +5,7 @@
     "version": "0.2.17",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/happier-dev/happier/releases/download/cli-v0.2.17/happier-v0.2.17-windows-x64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/happier-dev/happier/releases/download/cli-v0.2.17/happier-v0.2.17-windows-x64.tar.gz",
             "hash": "38304ad45e478b890eda0bf7f2ee7ec0e3c52151c62dc1f414cc695f2d0fb286",
             "extract_dir": "happier-v0.2.17-windows-x64"
         }
@@ -17,13 +17,13 @@
         ]
     },
     "checkver": {
-        "url": "https://gh-proxy.com/https://github.com/happier-dev/happier/releases/download/cli-stable/windows-x64.json",
+        "url": "https://gh-proxy.org/https://github.com/happier-dev/happier/releases/download/cli-stable/windows-x64.json",
         "jsonpath": "version"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/happier-dev/happier/releases/download/cli-v$version/happier-v$version-windows-x64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/happier-dev/happier/releases/download/cli-v$version/happier-v$version-windows-x64.tar.gz",
                 "extract_dir": "happier-v$version-windows-x64"
             }
         }

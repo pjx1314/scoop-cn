@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lathe-cli/lathe/releases/download/v0.6.5/lathe_0.6.5_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lathe-cli/lathe/releases/download/v0.6.5/lathe_0.6.5_windows_amd64.zip",
             "hash": "0ce276284576b699980406c7a65e399be2ddf4db031f8433f719ef07db400118"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/lathe-cli/lathe/releases/download/v0.6.5/lathe_0.6.5_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lathe-cli/lathe/releases/download/v0.6.5/lathe_0.6.5_windows_arm64.zip",
             "hash": "33ca619c979c1b9408137815b012646e0adcce88eab73c1dd9d2cd4073056c0a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lathe-cli/lathe/releases/download/v$version/lathe_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lathe-cli/lathe/releases/download/v$version/lathe_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/lathe-cli/lathe/releases/download/v$version/lathe_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lathe-cli/lathe/releases/download/v$version/lathe_$version_windows_arm64.zip"
             }
         },
         "hash": {

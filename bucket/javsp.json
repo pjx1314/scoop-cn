@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Yuukiy/JavSP/releases/download/v1.8/JavSP-v1.8-Windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Yuukiy/JavSP/releases/download/v1.8/JavSP-v1.8-Windows-amd64.zip",
             "hash": "05a20badb26808a83f47926e9e76e0003280c7da929f1ce080e569c95445801a"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Yuukiy/JavSP/releases/download/v$version/JavSP-v$version-Windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Yuukiy/JavSP/releases/download/v$version/JavSP-v$version-Windows-amd64.zip"
             }
         }
     }

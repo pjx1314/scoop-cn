@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v0.1.2606/magpie-cli-windows-amd64.exe#/magpie-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v0.1.2606/magpie-cli-windows-amd64.exe#/magpie-cli.exe",
             "hash": "4b83bf7022aa30959f321591b087b3aed426dae8038302a57bde743659a72db8"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v0.1.2606/magpie-cli-windows-arm64.exe#/magpie-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v0.1.2606/magpie-cli-windows-arm64.exe#/magpie-cli.exe",
             "hash": "625dff5ea51cd084ffb0f0db700f3942f0ba26bb3edfed6eac5d54401d6e8e96"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-cli-windows-amd64.exe#/magpie-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-cli-windows-amd64.exe#/magpie-cli.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-cli-windows-arm64.exe#/magpie-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-cli-windows-arm64.exe#/magpie-cli.exe"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Feromond/budget_tracker_tui/releases/download/v1.7.0/budget-tracker-1.7.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/Feromond/budget_tracker_tui/releases/download/v1.7.0/budget-tracker-1.7.0-x86_64-pc-windows-msvc.zip",
             "hash": "3a48e292efee95d5366f5fdbaf33e4bbf4f3ab350bde67b056fc6fe1b531a68b",
             "extract_dir": "budget-tracker-1.7.0-x86_64-pc-windows-msvc"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Feromond/budget_tracker_tui/releases/download/v$version/budget-tracker-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/Feromond/budget_tracker_tui/releases/download/v$version/budget-tracker-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "budget-tracker-$version-x86_64-pc-windows-msvc"
             }
         },

@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-amd64.zip",
             "hash": "fa2955fcc7b2baec1bf94aa47d68426002e9c4c807926fabf7784f332cec2102"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-386.zip",
             "hash": "af7bb255c8313396fd7bce899c254d53c01f13f30ffc99974718b444755ca7ee"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/digitalocean/doctl/releases/download/v2.1.0/doctl-2.1.0-windows-arm64.zip",
             "hash": "9645af15bb8bf618ae177faabe98c107b2535bf25fbe707fcc123c42428e9a5a"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/digitalocean/doctl/releases/download/v$version/doctl-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/digitalocean/doctl/releases/download/v$version/doctl-$version-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/digitalocean/doctl/releases/download/v$version/doctl-$version-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/digitalocean/doctl/releases/download/v$version/doctl-$version-windows-386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/digitalocean/doctl/releases/download/v$version/doctl-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/digitalocean/doctl/releases/download/v$version/doctl-$version-windows-arm64.zip"
             }
         },
         "hash": {

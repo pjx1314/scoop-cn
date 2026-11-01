@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/nicolas-carolo/houndsploit/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/nicolas-carolo/houndsploit/archive/refs/heads/master.zip",
     "extract_dir": "houndsploit-master",
     "post_install": [
         "powershell.exe -ExecutionPolicy Bypass -File \"$dir\\install_db_windows.ps1\"",

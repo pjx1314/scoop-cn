@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/rememberber/MooTool#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/rememberber/MooTool/releases/download/v1.8.7/MooTool-1.8.7-windows-x64.zip",
+    "url": "https://gh-proxy.org/https://github.com/rememberber/MooTool/releases/download/v1.8.7/MooTool-1.8.7-windows-x64.zip",
     "hash": "9f6bbedc1234da8f7d71e5a58289d8c7f034688a072c2fcba8578da021841bfc",
     "extract_dir": "MooTool",
     "bin": "MooTool.exe",
@@ -23,6 +23,6 @@
         "regex": "releases/download/v([\\d.]+)/MooTool-([\\d.]+)-windows"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/rememberber/MooTool/releases/download/v$version/MooTool-$version-windows-x64.zip"
+        "url": "https://gh-proxy.org/https://github.com/rememberber/MooTool/releases/download/v$version/MooTool-$version-windows-x64.zip"
     }
 }

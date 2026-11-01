@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jolars/badness/releases/download/v0.28.0/badness-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jolars/badness/releases/download/v0.28.0/badness-x86_64-pc-windows-msvc.zip",
             "hash": "2c7e3ba9b8ebc6c1b07c604b6a6eb950db8cf353ec7d6ea5daf634ea4dffe783"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jolars/badness/releases/download/v0.28.0/badness-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jolars/badness/releases/download/v0.28.0/badness-aarch64-pc-windows-msvc.zip",
             "hash": "4c68f6f42955a4807ba05276df32241472dbb912df494baa52dd1ea3b27e5b65"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jolars/badness/releases/download/v$version/badness-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jolars/badness/releases/download/v$version/badness-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jolars/badness/releases/download/v$version/badness-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jolars/badness/releases/download/v$version/badness-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

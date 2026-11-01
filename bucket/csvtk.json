@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/shenwei356/csvtk/releases/download/v0.38.0/csvtk_windows_amd64.exe.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/shenwei356/csvtk/releases/download/v0.38.0/csvtk_windows_amd64.exe.tar.gz",
             "hash": "md5:24bd5bbb4fae0a67af09546e79500352"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/shenwei356/csvtk/releases/download/v$version/csvtk_windows_amd64.exe.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/shenwei356/csvtk/releases/download/v$version/csvtk_windows_amd64.exe.tar.gz"
             }
         },
         "hash": {

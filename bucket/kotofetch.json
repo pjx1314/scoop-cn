@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hxpe-dev/kotofetch/releases/download/v0.2.23/kotofetch.exe",
+            "url": "https://gh-proxy.org/https://github.com/hxpe-dev/kotofetch/releases/download/v0.2.23/kotofetch.exe",
             "hash": "fba370a24a5053dea56755da36e68242ccde579beef207368c3fd116215a7ef6"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hxpe-dev/kotofetch/releases/download/v$version/kotofetch.exe"
+                "url": "https://gh-proxy.org/https://github.com/hxpe-dev/kotofetch/releases/download/v$version/kotofetch.exe"
             }
         }
     }

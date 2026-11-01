@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/milu001/sm234_decrypt_gui",
     "license": "unkown",
-    "url": "https://gh-proxy.com/https://github.com/milu001/sm234_decrypt_gui/releases/download/v2.0/SM_Decrypt_v2.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/milu001/sm234_decrypt_gui/releases/download/v2.0/SM_Decrypt_v2.0.zip",
     "hash": "2db4c3214e1cddce7fed9ae5b6ce78e013abe84007b23b153f1a4d9e86657130",
     "pre_install": "Get-ChildItem \"$dir\" '国密(SM)系列加解密工具*.exe' | Select-Object -First 1 | Rename-Item -NewName '国密(SM)系列加解密工具.exe'",
     "bin": "国密(SM)系列加解密工具.exe",
@@ -21,6 +21,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/milu001/sm234_decrypt_gui/releases/download/v$version/SM_Decrypt_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/milu001/sm234_decrypt_gui/releases/download/v$version/SM_Decrypt_v$version.zip"
     }
 }

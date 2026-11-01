@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/w-digital-scanner/w13scan/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/w-digital-scanner/w13scan/archive/refs/heads/master.zip",
     "hash": "fb7cceb6d3ae78448104f8eb1f455923213cd33a52394629971f2a58b40fe7e0",
     "extract_dir": "w13scan-master",
     "pre_install": [
@@ -37,6 +37,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/w-digital-scanner/w13scan/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/w-digital-scanner/w13scan/archive/refs/heads/master.zip"
     }
 }

@@ -3,7 +3,7 @@
     "description": " Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码 ",
     "homepage": "https://github.com/jar-analyzer/jar-analyzer",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/jar-analyzer/jar-analyzer/releases/download/6.3/jar-analyzer-6.3-windows-full.zip",
+    "url": "https://gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/6.3/jar-analyzer-6.3-windows-full.zip",
     "hash": "881e1515fec1d5b85fac12a07a347660306e9d139212352a05f5b189e4639cf9",
     "shortcuts": [
         [
@@ -14,7 +14,7 @@
     "extract_dir": "jar-analyzer-6.3-windows-full",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jar-analyzer/jar-analyzer/releases/download/$version/jar-analyzer-$version-windows-full.zip",
+        "url": "https://gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/$version/jar-analyzer-$version-windows-full.zip",
         "extract_dir": "jar-analyzer-$version-windows-full"
     },
     "notes": [

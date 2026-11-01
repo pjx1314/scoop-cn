@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eq1024/WinPaste/releases/download/v1.9.3/WinPaste_1.9.3_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/eq1024/WinPaste/releases/download/v1.9.3/WinPaste_1.9.3_x64-setup.exe#/dl.7z",
             "hash": "49d1bed07dd30ee529587eeca20fcb4306bdd7dce44b8bb785df086f4df94a27"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eq1024/WinPaste/releases/download/v$matchDot$version/WinPaste_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/eq1024/WinPaste/releases/download/v$matchDot$version/WinPaste_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

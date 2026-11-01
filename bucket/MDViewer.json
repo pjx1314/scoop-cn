@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CreateChance/mdviewer/releases/download/v0.1.9/mdviewer_0.1.9_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/CreateChance/mdviewer/releases/download/v0.1.9/mdviewer_0.1.9_x64_en-US.msi",
             "hash": "f95d4695a9566384962af93f10749621bd1a2421f633f567d9b418b156bc81e5"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CreateChance/mdviewer/releases/download/v$version/mdviewer_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/CreateChance/mdviewer/releases/download/v$version/mdviewer_$version_x64_en-US.msi"
             }
         }
     }

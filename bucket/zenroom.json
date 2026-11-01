@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dyne/Zenroom/releases/download/v5.38.1/zenroom-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dyne/Zenroom/releases/download/v5.38.1/zenroom-win64.zip",
             "hash": "4fdd539674343d9999c2c9781431fbcaf5aa457b1cc7400f64dc80bb772f7443",
             "extract_dir": "zenroom-win64"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dyne/Zenroom/releases/download/v$version/zenroom-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dyne/Zenroom/releases/download/v$version/zenroom-win64.zip"
             }
         }
     }

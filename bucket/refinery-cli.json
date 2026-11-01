@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-0.10.0/refinery_cli-0.10.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-0.10.0/refinery_cli-0.10.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "d8135a8e5b9ff7b26eec6460c3b9d41bda1e71d6ad46269ec9b40ba88ef64de7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-0.10.0/refinery_cli-0.10.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-0.10.0/refinery_cli-0.10.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "44e38f69e6ed842a6baa82c8534e9911af55a8e401c9f0ab4d37a96f86f459dc"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-$version/refinery_cli-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-$version/refinery_cli-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-$version/refinery_cli-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/refinery_cli-$version/refinery_cli-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

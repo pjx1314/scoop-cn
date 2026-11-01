@@ -16,12 +16,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-6.1.0/Nugget-Doom-6.1.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-6.1.0/Nugget-Doom-6.1.0-win64.zip",
             "hash": "b7084d242985818da75622fcd2c6b7cc728ce1eb120d7fb77905ae902a8ccbcb",
             "extract_dir": "Nugget-Doom-6.1.0-win64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-6.1.0/Nugget-Doom-6.1.0-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-6.1.0/Nugget-Doom-6.1.0-win32.zip",
             "hash": "7b60f69ce1f2dceecc9581898e504dd76ab63b6f79aac50f30fe9c4f1d4de437",
             "extract_dir": "Nugget-Doom-6.1.0-win32"
         }
@@ -60,11 +60,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-$version/Nugget-Doom-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-$version/Nugget-Doom-$version-win64.zip",
                 "extract_dir": "Nugget-Doom-$version-win64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-$version/Nugget-Doom-$version-win32.zip",
+                "url": "https://gh-proxy.org/https://github.com/MrAlaux/Nugget-Doom/releases/download/nugget-doom-$version/Nugget-Doom-$version-win32.zip",
                 "extract_dir": "Nugget-Doom-$version-win32"
             }
         }

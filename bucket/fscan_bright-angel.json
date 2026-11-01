@@ -9,8 +9,8 @@
         "regex": "v?([\\d.]+)"
     },
     "url": [
-        "https://gh-proxy.com/https://github.com/shadow1ng/fscan/releases/download/v2.2.1/fscan_2.2.1_windows_x64.exe#/fscan.exe",
-        "https://gh-proxy.com/https://github.com/shadow1ng/fscan/releases/download/v2.2.1/fscan_2.2.1_linux_x64#/fscan"
+        "https://gh-proxy.org/https://github.com/shadow1ng/fscan/releases/download/v2.2.1/fscan_2.2.1_windows_x64.exe#/fscan.exe",
+        "https://gh-proxy.org/https://github.com/shadow1ng/fscan/releases/download/v2.2.1/fscan_2.2.1_linux_x64#/fscan"
     ],
     "hash": [
         "6ca24d63d6586edebd4086288bc52f07b49c1a6f7d51c44439d095e3af77986b",
@@ -22,8 +22,8 @@
     ],
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/shadow1ng/fscan/releases/download/v$version/fscan_$version_windows_x64.exe#/fscan.exe",
-            "https://gh-proxy.com/https://github.com/shadow1ng/fscan/releases/download/v$version/fscan_$version_linux_x64#/fscan"
+            "https://gh-proxy.org/https://github.com/shadow1ng/fscan/releases/download/v$version/fscan_$version_windows_x64.exe#/fscan.exe",
+            "https://gh-proxy.org/https://github.com/shadow1ng/fscan/releases/download/v$version/fscan_$version_linux_x64#/fscan"
         ]
     },
     "notes": [

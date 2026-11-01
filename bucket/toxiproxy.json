@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/Shopify/toxiproxy/releases/download/v2.13.0/toxiproxy-server-windows-amd64.exe#/toxiproxy-server.exe",
-                "https://gh-proxy.com/https://github.com/Shopify/toxiproxy/releases/download/v2.13.0/toxiproxy-cli-windows-amd64.exe#/toxiproxy-cli.exe"
+                "https://gh-proxy.org/https://github.com/Shopify/toxiproxy/releases/download/v2.13.0/toxiproxy-server-windows-amd64.exe#/toxiproxy-server.exe",
+                "https://gh-proxy.org/https://github.com/Shopify/toxiproxy/releases/download/v2.13.0/toxiproxy-cli-windows-amd64.exe#/toxiproxy-cli.exe"
             ],
             "hash": [
                 "04b710eefd7690c89f7cc67289e3e14618f1ff3c26e4a5f752a34a879b895bab",
@@ -24,8 +24,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/Shopify/toxiproxy/releases/download/v$version/toxiproxy-server-windows-amd64.exe#/toxiproxy-server.exe",
-                    "https://gh-proxy.com/https://github.com/Shopify/toxiproxy/releases/download/v$version/toxiproxy-cli-windows-amd64.exe#/toxiproxy-cli.exe"
+                    "https://gh-proxy.org/https://github.com/Shopify/toxiproxy/releases/download/v$version/toxiproxy-server-windows-amd64.exe#/toxiproxy-server.exe",
+                    "https://gh-proxy.org/https://github.com/Shopify/toxiproxy/releases/download/v$version/toxiproxy-cli-windows-amd64.exe#/toxiproxy-cli.exe"
                 ]
             }
         },

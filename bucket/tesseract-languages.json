@@ -8,7 +8,7 @@
         "After updating \"tesseract\" please run \"scoop reset tesseract-languages\" to update the environment variable!"
     ],
     "depends": "main/tesseract",
-    "url": "https://gh-proxy.com/https://github.com/tesseract-ocr/tessdata_fast/archive/4.1.0.zip#/dl.7z_",
+    "url": "https://gh-proxy.org/https://github.com/tesseract-ocr/tessdata_fast/archive/4.1.0.zip#/dl.7z_",
     "hash": "46ae18d17bd9583392ae7c047b751846233d4e030264a551e71ff4f25e035548",
     "pre_install": [
         "# Use the -snl- switch to ignore symbolic link errors during decompression.",
@@ -19,6 +19,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/tesseract-ocr/tessdata_fast/archive/$version.zip#/dl.7z_"
+        "url": "https://gh-proxy.org/https://github.com/tesseract-ocr/tessdata_fast/archive/$version.zip#/dl.7z_"
     }
 }

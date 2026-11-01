@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vicinaehq/vicinae/releases/download/v0.29.2/vicinae-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/vicinaehq/vicinae/releases/download/v0.29.2/vicinae-x64-portable.zip",
             "hash": "8bf37efa99d3abbbe63215a75fe3681ab0ce81a9db96d56ccc4264b42e82c97c"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vicinaehq/vicinae/releases/download/v$version/vicinae-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/vicinaehq/vicinae/releases/download/v$version/vicinae-x64-portable.zip"
             }
         }
     }

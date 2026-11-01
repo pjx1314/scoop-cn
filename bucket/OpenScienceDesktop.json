@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ai4s-research/open-science/releases/download/v0.7.1/Open.Science_0.7.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ai4s-research/open-science/releases/download/v0.7.1/Open.Science_0.7.1_x64-setup.exe#/dl.7z",
             "hash": "beb7e2b611064e82a275dcb3e4087d33c7f56fa4e32863924a7681dd5b1e185e"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ai4s-research/open-science/releases/download/v$version/Open.Science_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ai4s-research/open-science/releases/download/v$version/Open.Science_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/jas502n/oracleShell/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/jas502n/oracleShell/archive/refs/heads/master.zip",
     "hash": "c994d42ca0a0c2965ae5073a29cb250df0d7441dc8eb9dd6392c9695615ef03a",
     "extract_dir": "oracleShell-master",
     "pre_install": [
@@ -30,7 +30,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jas502n/oracleShell/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/jas502n/oracleShell/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

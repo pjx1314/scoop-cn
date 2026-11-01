@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/heng30/prux/releases/download/v1.3.0/prux-v1.3.0-x86_64-windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/heng30/prux/releases/download/v1.3.0/prux-v1.3.0-x86_64-windows.tar.gz",
             "hash": "8cf6257c33a0cec12d046cb410158b4cc484997e7a7cd3fb12e72224c5d2bbd4"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/heng30/prux/releases/download/v$version/prux-v$version-x86_64-windows.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/heng30/prux/releases/download/v$version/prux-v$version-x86_64-windows.tar.gz"
             }
         }
     }

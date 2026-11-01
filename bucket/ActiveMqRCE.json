@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/Hutt0n0/ActiveMqRCE/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Hutt0n0/ActiveMqRCE/archive/refs/heads/master.zip",
     "hash": "90b8e17972ccc45b8fe08b1fe00994c9ff7600cbb5accfc56b9dc5ede0e39962",
     "pre_install": [
         "Set-Content \"$dir\\ActiveMqRCE.bat\" '@pushd %~dp0",
@@ -33,6 +33,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Hutt0n0/ActiveMqRCE/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Hutt0n0/ActiveMqRCE/archive/refs/heads/master.zip"
     }
 }

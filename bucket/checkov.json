@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bridgecrewio/checkov/releases/download/3.4.0/checkov_windows_X86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bridgecrewio/checkov/releases/download/3.4.0/checkov_windows_X86_64.zip",
             "hash": "f7425deb2f9f8e2eebf9bab9ec2833975502fa864f09243fdd14f7249954e300"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bridgecrewio/checkov/releases/download/$version/checkov_windows_X86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bridgecrewio/checkov/releases/download/$version/checkov_windows_X86_64.zip"
             }
         }
     }

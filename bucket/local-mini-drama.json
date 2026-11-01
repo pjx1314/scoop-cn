@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xuanyustudio/LocalMiniDrama/releases/download/v1.2.8/LocalMiniDrama.1.2.8.exe",
+            "url": "https://gh-proxy.org/https://github.com/xuanyustudio/LocalMiniDrama/releases/download/v1.2.8/LocalMiniDrama.1.2.8.exe",
             "hash": "e0075607c56cd00d59ac7a1e7f91fff0c406749dc897d3e70a3079fbb981d1f3"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xuanyustudio/LocalMiniDrama/releases/download/v$version/LocalMiniDrama.$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/xuanyustudio/LocalMiniDrama/releases/download/v$version/LocalMiniDrama.$version.exe"
             }
         },
         "shortcuts": [

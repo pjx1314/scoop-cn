@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eugenioenko/ttt/releases/download/v1.10.0/ttt-windows-amd64.exe#/ttt.exe",
+            "url": "https://gh-proxy.org/https://github.com/eugenioenko/ttt/releases/download/v1.10.0/ttt-windows-amd64.exe#/ttt.exe",
             "hash": "a746640a2816470f2af27cc8a94d35d6e79baab289d7d59aa36247ae98a22b31"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eugenioenko/ttt/releases/download/v$version/ttt-windows-amd64.exe#/ttt.exe"
+                "url": "https://gh-proxy.org/https://github.com/eugenioenko/ttt/releases/download/v$version/ttt-windows-amd64.exe#/ttt.exe"
             }
         }
     }

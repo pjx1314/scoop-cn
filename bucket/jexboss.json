@@ -8,7 +8,7 @@
             "miniconda3"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/joaomatosf/jexboss/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/joaomatosf/jexboss/archive/refs/heads/master.zip",
     "hash": "ee73acc169abbd1788b29439962e1a737bca202baa5f3ff2f0c32170a63077ba",
     "extract_dir": "jexboss-master",
     "pre_install": [
@@ -27,7 +27,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/joaomatosf/jexboss/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/joaomatosf/jexboss/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

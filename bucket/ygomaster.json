@@ -1,14 +1,14 @@
 {
     "version": "1.79",
     "extract_dir": "YgoMaster",
-    "url": "https://gh-proxy.com/https://github.com/pixeltris/YgoMaster/releases/download/v1.79/YgoMaster-v1.79.zip",
+    "url": "https://gh-proxy.org/https://github.com/pixeltris/YgoMaster/releases/download/v1.79/YgoMaster-v1.79.zip",
     "hash": "7db5727eb2aa6c2828fd9febfc95232ef7cdae5af2a5f4b59745618cb51bb8f4",
     "bin": "",
     "homepage": "https://github.com/pixeltris/YgoMaster",
     "license": "MIT",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pixeltris/YgoMaster/releases/download/v$version/YgoMaster-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/pixeltris/YgoMaster/releases/download/v$version/YgoMaster-v$version.zip"
     },
     "post_install": [
         ". $bucketsdir/sniffer/scripts/find_steam_game_folder.ps1",

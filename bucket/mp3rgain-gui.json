@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/M-Igashi/mp3rgain/releases/download/v3.15.0/mp3rgui-v3.15.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/M-Igashi/mp3rgain/releases/download/v3.15.0/mp3rgui-v3.15.0-windows-x86_64.zip",
             "hash": "e3778025909d0f43afbf7fb51711190735ca7a131fcba2fb38a91ab93f506ea1"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/M-Igashi/mp3rgain/releases/download/v3.15.0/mp3rgui-v3.15.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/M-Igashi/mp3rgain/releases/download/v3.15.0/mp3rgui-v3.15.0-windows-arm64.zip",
             "hash": "8637bdb1e73477fb2c6352ac095c61c785bfaa1dab028a85fd4e03695e92dd2f"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/M-Igashi/mp3rgain/releases/download/v$version/mp3rgui-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/M-Igashi/mp3rgain/releases/download/v$version/mp3rgui-v$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/M-Igashi/mp3rgain/releases/download/v$version/mp3rgui-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/M-Igashi/mp3rgain/releases/download/v$version/mp3rgui-v$version-windows-arm64.zip"
             }
         },
         "hash": {

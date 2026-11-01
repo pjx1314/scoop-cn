@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/vladko312/SSTImap/archive/refs/tags/v1.4.zip",
+    "url": "https://gh-proxy.org/https://github.com/vladko312/SSTImap/archive/refs/tags/v1.4.zip",
     "hash": "97aabae3c4f76f99809dc347a650b6aa81a45a3bcb8d647b86e715a20d6d53fe",
     "extract_dir": "SSTImap-1.4",
     "pre_install": [
@@ -27,7 +27,7 @@
     "bin": "sstimap.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/vladko312/SSTImap/archive/refs/tags/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/vladko312/SSTImap/archive/refs/tags/v$version.zip",
         "extract_dir": "SSTImap-$version"
     }
 }

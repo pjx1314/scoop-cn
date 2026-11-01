@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Odizinne/QontrolPanel/releases/download/1.11.1/QontrolPanel_win64_msvc2022.zip",
+            "url": "https://gh-proxy.org/https://github.com/Odizinne/QontrolPanel/releases/download/1.11.1/QontrolPanel_win64_msvc2022.zip",
             "hash": "26d23bf981e09dcfe89d3ac0ca3e58a2e822d0e58988b0593884e7c64f648253"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Odizinne/QontrolPanel/releases/download/$version/QontrolPanel_win64_msvc2022.zip"
+                "url": "https://gh-proxy.org/https://github.com/Odizinne/QontrolPanel/releases/download/$version/QontrolPanel_win64_msvc2022.zip"
             }
         }
     }

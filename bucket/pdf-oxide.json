@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yfedoseev/pdf_oxide/releases/download/v0.3.78/pdf_oxide-windows-x86_64-0.3.78.zip",
+            "url": "https://gh-proxy.org/https://github.com/yfedoseev/pdf_oxide/releases/download/v0.3.78/pdf_oxide-windows-x86_64-0.3.78.zip",
             "hash": "f0e3e36d88ac70d25336650edcd538efc30f90a25e223a117fa952fe093a9462"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yfedoseev/pdf_oxide/releases/download/v$version/pdf_oxide-windows-x86_64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/yfedoseev/pdf_oxide/releases/download/v$version/pdf_oxide-windows-x86_64-$version.zip"
             }
         }
     }

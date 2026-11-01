@@ -5,7 +5,7 @@
     "license": "BSL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/geode-sdk/cli/releases/download/v4.0.0/geode-cli-v4.0.0-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/geode-sdk/cli/releases/download/v4.0.0/geode-cli-v4.0.0-win.zip",
             "hash": "c929e53ecd33f51830ca416876420b18276fb99b424e96bcaf833ee5e5a83a95"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/geode-sdk/cli/releases/download/v$version/geode-cli-v$version-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/geode-sdk/cli/releases/download/v$version/geode-cli-v$version-win.zip"
             }
         }
     }

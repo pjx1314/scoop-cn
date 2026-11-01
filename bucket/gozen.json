@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/VoylinsGamedevJourney/gozen/releases/download/v0.9.4-alpha/GoZen_Windows_v0.9.4-alpha.zip#/outer.zip",
+            "url": "https://gh-proxy.org/https://github.com/VoylinsGamedevJourney/gozen/releases/download/v0.9.4-alpha/GoZen_Windows_v0.9.4-alpha.zip#/outer.zip",
             "hash": "b736e59efd1d8d4d3d912ddc56b80378cf3d5e684b7ea6b1a5997f279f70c8af"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/VoylinsGamedevJourney/gozen/releases/download/v$version/GoZen_Windows_v$version.zip#/outer.zip"
+                "url": "https://gh-proxy.org/https://github.com/VoylinsGamedevJourney/gozen/releases/download/v$version/GoZen_Windows_v$version.zip#/outer.zip"
             }
         }
     }

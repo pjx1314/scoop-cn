@@ -5,7 +5,7 @@
     "license": "MIT|Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/boa-dev/boa/releases/download/v0.22/boa-x86_64-pc-windows-msvc.exe#/boa.exe",
+            "url": "https://gh-proxy.org/https://github.com/boa-dev/boa/releases/download/v0.22/boa-x86_64-pc-windows-msvc.exe#/boa.exe",
             "hash": "aa2ad32bc334827a7d956a52b261e185323863ac7f4093c62af27378a7b79c79"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/boa-dev/boa/releases/download/v$version/boa-x86_64-pc-windows-msvc.exe#/boa.exe"
+                "url": "https://gh-proxy.org/https://github.com/boa-dev/boa/releases/download/v$version/boa-x86_64-pc-windows-msvc.exe#/boa.exe"
             }
         }
     }

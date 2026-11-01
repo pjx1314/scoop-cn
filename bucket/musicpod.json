@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ubuntu-flutter-community/musicpod/releases/download/v3.1.1/musicpod-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/ubuntu-flutter-community/musicpod/releases/download/v3.1.1/musicpod-setup.exe",
             "hash": "9c6569bf20d210f74f0b797a40bab4511d0618141246412be8cb1d14d20573e9"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ubuntu-flutter-community/musicpod/releases/download/v$version/musicpod-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/ubuntu-flutter-community/musicpod/releases/download/v$version/musicpod-setup.exe"
             }
         }
     }

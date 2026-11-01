@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aardappel/lobster/releases/download/v2026.8/lobster_windows_release.zip",
+            "url": "https://gh-proxy.org/https://github.com/aardappel/lobster/releases/download/v2026.8/lobster_windows_release.zip",
             "hash": "addfa697506973ff720c0b89d7e23241206f8474321659a6b971aa8aadd5ab9d"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aardappel/lobster/releases/download/v$version/lobster_windows_release.zip"
+                "url": "https://gh-proxy.org/https://github.com/aardappel/lobster/releases/download/v$version/lobster_windows_release.zip"
             }
         }
     }

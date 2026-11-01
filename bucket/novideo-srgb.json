@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only|LGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ledoge/novideo_srgb/releases/download/v4.2-fix/release.zip",
+            "url": "https://gh-proxy.org/https://github.com/ledoge/novideo_srgb/releases/download/v4.2-fix/release.zip",
             "hash": "7900e6a8d3f75443cff17e6665188938a76568fb3901f782aa4270f5b22d9e6f"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ledoge/novideo_srgb/releases/download/v$version/release.zip"
+                "url": "https://gh-proxy.org/https://github.com/ledoge/novideo_srgb/releases/download/v$version/release.zip"
             }
         }
     }

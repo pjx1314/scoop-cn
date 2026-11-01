@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/wzv5/pping/releases/download/v0.8.7/pping_0.8.7_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/wzv5/pping/releases/download/v0.8.7/pping_0.8.7_Windows_x86_64.zip",
             "hash": "feb41ccfc86bb519a3b71f0f28daf3ab90bbe0800fbffa53f63e93a612a58144"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/wzv5/pping/releases/download/v0.8.7/pping_0.8.7_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/wzv5/pping/releases/download/v0.8.7/pping_0.8.7_Windows_i386.zip",
             "hash": "f972ca593f32f41d2b672e7d55ae07605cb71b604c7df456add20c2b537c9cc9"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/wzv5/pping/releases/download/v$version/pping_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/wzv5/pping/releases/download/v$version/pping_$version_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/wzv5/pping/releases/download/v$version/pping_$version_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/wzv5/pping/releases/download/v$version/pping_$version_Windows_i386.zip"
             }
         },
         "hash": {

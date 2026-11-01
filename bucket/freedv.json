@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/drowe67/freedv-gui/releases/download/v2.4.1/FreeDV-2.4.1-windows-x86_64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/drowe67/freedv-gui/releases/download/v2.4.1/FreeDV-2.4.1-windows-x86_64.exe#/dl.7z",
             "hash": "d4108c4b0243221bc22c227e220e65cd9eb57ce06150dd0258778cd194cfcab0"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/drowe67/freedv-gui/releases/download/v$version/FreeDV-$version-windows-x86_64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/drowe67/freedv-gui/releases/download/v$version/FreeDV-$version-windows-x86_64.exe#/dl.7z"
             }
         }
     }

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/icsharpcode/ILSpy/releases/download/v11.2/ILSpy_windows_11.2.0.10050-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/icsharpcode/ILSpy/releases/download/v11.2/ILSpy_windows_11.2.0.10050-arm64.zip",
             "hash": "b668e18e47bbe5319c5a78c5aa606b1d57f317440cee556ecbb95f8f14f35b2e"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/icsharpcode/ILSpy/releases/download/v11.2/ILSpy_windows_11.2.0.10050-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/icsharpcode/ILSpy/releases/download/v11.2/ILSpy_windows_11.2.0.10050-x64.zip",
             "hash": "828cf2796e35ffb2f3b56e9736a4c8a711520dde3f781a7bf47cb460c17db980"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/icsharpcode/ILSpy/releases/download/v$matchTag/ILSpy_windows_$version-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/icsharpcode/ILSpy/releases/download/v$matchTag/ILSpy_windows_$version-arm64.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/icsharpcode/ILSpy/releases/download/v$matchTag/ILSpy_windows_$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/icsharpcode/ILSpy/releases/download/v$matchTag/ILSpy_windows_$version-x64.zip"
             }
         }
     }

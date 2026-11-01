@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CyberTimon/RapidRAW/releases/download/v1.6.7/01_RapidRAW_v1.6.7_windows_x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/CyberTimon/RapidRAW/releases/download/v1.6.7/01_RapidRAW_v1.6.7_windows_x64.exe#/dl.7z",
             "hash": "ad1c82c63507406c0f3fb26082583a52e619c18e3b72a44b7ec986b9593ea255"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CyberTimon/RapidRAW/releases/download/v$version/01_RapidRAW_v$version_windows_x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/CyberTimon/RapidRAW/releases/download/v$version/01_RapidRAW_v$version_windows_x64.exe#/dl.7z"
             }
         }
     }

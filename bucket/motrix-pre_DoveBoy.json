@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v2.0.0-beta.52/Motrix-Setup-2.0.0-beta.52.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/agalwood/Motrix/releases/download/v2.0.0-beta.52/Motrix-Setup-2.0.0-beta.52.exe#/dl.7z",
             "hash": "sha512:9161e492b5c3ed899075b0b9e60c72ebb6854dce66b7b6dad2124595079d1f14e1f58307d3528b7482415459362c31c1b795e9718f5b4cac3c71a5904a8983fe",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-Setup-$version.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/agalwood/Motrix/releases/download/v$version/Motrix-Setup-$version.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/beta.yml",
                     "regex": "sha512:\\s+$base64"

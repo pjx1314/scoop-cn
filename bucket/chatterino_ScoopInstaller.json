@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Chatterino/chatterino2/releases/download/v2.5.6/Chatterino.Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Chatterino/chatterino2/releases/download/v2.5.6/Chatterino.Portable.zip",
             "hash": "7256ef095959a1e56ffee9573260d79878d87d24dff8486025b7da241b99bc3d"
         }
     },
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Chatterino/chatterino2/releases/download/v$version/Chatterino.Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/Chatterino/chatterino2/releases/download/v$version/Chatterino.Portable.zip"
             }
         },
         "extract_dir": "chatterino$majorVersion"

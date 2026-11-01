@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/quantumsheep/sshs/releases/download/4.8.0/sshs-windows-amd64.exe#/sshs.exe",
+            "url": "https://gh-proxy.org/https://github.com/quantumsheep/sshs/releases/download/4.8.0/sshs-windows-amd64.exe#/sshs.exe",
             "hash": "4e249f479adee078b411dab9f5455d0bfa24476c5f1a9e95c3627fb36af701e7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/quantumsheep/sshs/releases/download/4.8.0/sshs-windows-arm64.exe#/sshs.exe",
+            "url": "https://gh-proxy.org/https://github.com/quantumsheep/sshs/releases/download/4.8.0/sshs-windows-arm64.exe#/sshs.exe",
             "hash": "ab788195c48499dfe13de072de1661cfc3b59e43e05eeb152bf4be50d4ff0cd1"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/quantumsheep/sshs/releases/download/$version/sshs-windows-amd64.exe#/sshs.exe"
+                "url": "https://gh-proxy.org/https://github.com/quantumsheep/sshs/releases/download/$version/sshs-windows-amd64.exe#/sshs.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/quantumsheep/sshs/releases/download/$version/sshs-windows-arm64.exe#/sshs.exe"
+                "url": "https://gh-proxy.org/https://github.com/quantumsheep/sshs/releases/download/$version/sshs-windows-arm64.exe#/sshs.exe"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "description": "WinPaletter: Advanced Windows Appearance Editor",
     "homepage": "https://github.com/Abdelrhman-AK/WinPaletter",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/Abdelrhman-AK/WinPaletter/releases/download/v1.1.0.0/WinPaletter.zip",
+    "url": "https://gh-proxy.org/https://github.com/Abdelrhman-AK/WinPaletter/releases/download/v1.1.0.0/WinPaletter.zip",
     "hash": "60447bef911ceb287c72b5dbac5d06dff8c2a14ad7bbe940ec1e279ddd216771",
     "shortcuts": [
         [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Abdelrhman-AK/WinPaletter/releases/download/v$version/WinPaletter.zip"
+        "url": "https://gh-proxy.org/https://github.com/Abdelrhman-AK/WinPaletter/releases/download/v$version/WinPaletter.zip"
     }
 }

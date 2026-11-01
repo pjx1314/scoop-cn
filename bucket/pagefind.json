@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Pagefind/pagefind/releases/download/v1.6.0/pagefind-v1.6.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Pagefind/pagefind/releases/download/v1.6.0/pagefind-v1.6.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "11fc76e8efec23bae11b7100fbf596438b59cc6da2097cf63f3a8ced3802f270"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Pagefind/pagefind/releases/download/v1.6.0/pagefind-v1.6.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Pagefind/pagefind/releases/download/v1.6.0/pagefind-v1.6.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "579c02beb9c98edc096b30bb226566847c5779b1c0f4b3071286603552e236a0"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Pagefind/pagefind/releases/download/v$version/pagefind-v$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Pagefind/pagefind/releases/download/v$version/pagefind-v$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Pagefind/pagefind/releases/download/v$version/pagefind-v$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Pagefind/pagefind/releases/download/v$version/pagefind-v$version-aarch64-pc-windows-msvc.tar.gz"
             }
         },
         "hash": {

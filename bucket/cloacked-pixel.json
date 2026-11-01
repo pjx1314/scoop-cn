@@ -8,7 +8,7 @@
             "miniconda3"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/livz/cloacked-pixel/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/livz/cloacked-pixel/archive/refs/heads/master.zip",
     "hash": "30307ff5fcbe65130ac52cb9ff088ddf20144c73e13a7102b8d9112d942766c9",
     "extract_dir": "cloacked-pixel-master",
     "pre_install": [
@@ -24,7 +24,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/livz/cloacked-pixel/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/livz/cloacked-pixel/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

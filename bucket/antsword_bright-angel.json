@@ -3,7 +3,7 @@
     "description": "AntSword - 蚁剑，一款开源的跨平台WebShell管理工具",
     "homepage": "https://github.com/AntSwordProject/antSword",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/AntSwordProject/antSword/archive/refs/tags/2.1.16.zip#/antsword.archive",
+    "url": "https://gh-proxy.org/https://github.com/AntSwordProject/antSword/archive/refs/tags/2.1.16.zip#/antsword.archive",
     "hash": "sha256:414B6B71EAC3ED22BC5139FA41E46BCC0BD9067420206EFB4B51DB04CFDE2A6C",
     "suggest": {
         "nodejs": "main/nodejs"
@@ -16,7 +16,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AntSwordProject/antSword/archive/refs/tags/$version.zip#/antsword.archive"
+        "url": "https://gh-proxy.org/https://github.com/AntSwordProject/antSword/archive/refs/tags/$version.zip#/antsword.archive"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

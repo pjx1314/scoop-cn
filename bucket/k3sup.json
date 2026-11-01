@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe",
+            "url": "https://gh-proxy.org/https://github.com/alexellis/k3sup/releases/download/0.13.14/k3sup.exe",
             "hash": "13be55f63be59f579df89a5df070b1d1be07292aae2612ccbb97318ade9c6018"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/alexellis/k3sup/releases/download/$version/k3sup.exe",
+                "url": "https://gh-proxy.org/https://github.com/alexellis/k3sup/releases/download/$version/k3sup.exe",
                 "hash": {
                     "url": "$url.sha256"
                 }

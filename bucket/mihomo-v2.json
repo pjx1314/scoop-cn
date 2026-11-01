@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-windows-amd64-v2-v1.19.33.zip",
+            "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.33/mihomo-windows-amd64-v2-v1.19.33.zip",
             "hash": "e997417c2d50c45c314448e4749c52b912323f493f2580e475af7f9bda3dbf64"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-v2-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-v2-v$version.zip"
             }
         }
     }

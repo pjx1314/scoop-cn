@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/VictoriaMetrics/VictoriaTraces/releases/download/v0.12.1/victoria-traces-windows-amd64-v0.12.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/VictoriaMetrics/VictoriaTraces/releases/download/v0.12.1/victoria-traces-windows-amd64-v0.12.1.zip",
             "pre_install": "Get-ChildItem \"$dir\" '*.exe' | ForEach-Object { Rename-Item $_.Fullname ($_.Name -Replace '-windows-amd64-prod') }",
             "hash": "8ed98871f22690aa04a7f1b36e5e107cccdb4e31a94ad0f43f8df0dd7e335d10"
         }
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/VictoriaMetrics/VictoriaTraces/releases/download/v$version/victoria-traces-windows-amd64-v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/VictoriaMetrics/VictoriaTraces/releases/download/v$version/victoria-traces-windows-amd64-v$version.zip",
                 "hash": {
                     "url": "$baseurl/victoria-traces-windows-amd64-v$version_checksums.txt"
                 }

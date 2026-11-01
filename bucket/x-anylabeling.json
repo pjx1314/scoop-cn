@@ -12,7 +12,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.0/X-AnyLabeling-v4.3.0-Windows-CPU-Setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/CVHub520/X-AnyLabeling/releases/download/v4.3.0/X-AnyLabeling-v4.3.0-Windows-CPU-Setup.exe",
             "hash": "cfb08db0c1b34221714234bf84b81507b7a717fa06291808df4fe2d1dd0e6a8d"
         }
     },
@@ -35,7 +35,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CVHub520/X-AnyLabeling/releases/download/v$version/X-AnyLabeling-v$version-Windows-CPU-Setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/CVHub520/X-AnyLabeling/releases/download/v$version/X-AnyLabeling-v$version-Windows-CPU-Setup.exe"
             }
         },
         "hash": {

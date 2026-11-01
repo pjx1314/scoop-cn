@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.zip",
             "hash": "92be741d5868abb3ae5a3cff109a8679b674c65fa53186cf044968e026c13282"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bgreenwell/lstr/releases/download/v$version/lstr-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/bgreenwell/lstr/releases/download/v$version/lstr-x86_64-pc-windows-msvc.zip"
             }
         }
     }

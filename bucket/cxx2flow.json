@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Enter-tainer/cxx2flow/releases/download/v0.6.3/cxx2flow-windows-amd64.exe#/cxx2flow.exe",
+            "url": "https://gh-proxy.org/https://github.com/Enter-tainer/cxx2flow/releases/download/v0.6.3/cxx2flow-windows-amd64.exe#/cxx2flow.exe",
             "hash": "ccafe9409acc5ec852468b916c9e462fe2109092bd3a86a563f786ebb1ac6450"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Enter-tainer/cxx2flow/releases/download/v$version/cxx2flow-windows-amd64.exe#/cxx2flow.exe"
+                "url": "https://gh-proxy.org/https://github.com/Enter-tainer/cxx2flow/releases/download/v$version/cxx2flow-windows-amd64.exe#/cxx2flow.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ikemen-engine/Ikemen-GO/releases/download/v1.0.0/Ikemen_GO-v1.0.0-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/ikemen-engine/Ikemen-GO/releases/download/v1.0.0/Ikemen_GO-v1.0.0-windows.zip",
             "hash": "9338eaeb68599ceb13b0867819a091ea3f92eba58077e800b4540b7a1f9c3731"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ikemen-engine/Ikemen-GO/releases/download/v$version/Ikemen_GO-v$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/ikemen-engine/Ikemen-GO/releases/download/v$version/Ikemen_GO-v$version-windows.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/inlets/mixctl/releases/download/0.1.5/mixctl.exe",
+            "url": "https://gh-proxy.org/https://github.com/inlets/mixctl/releases/download/0.1.5/mixctl.exe",
             "hash": "108052f3db7471383878d80f947e6f6195710ea66a98dddee6d8ec7bdbef64b3"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/inlets/mixctl/releases/download/$version/mixctl.exe"
+                "url": "https://gh-proxy.org/https://github.com/inlets/mixctl/releases/download/$version/mixctl.exe"
             }
         },
         "hash": {

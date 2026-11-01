@@ -5,12 +5,12 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zerx-lab/FluxDown/releases/download/v0.6.6-rc.1/FluxDown-CLI-0.6.6-rc.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v0.6.6-rc.1/FluxDown-CLI-0.6.6-rc.1-windows-x64.zip",
             "extract_dir": "fluxdown-cli-0.6.6-rc.1-windows-x64",
             "hash": "228a754ac3437c76138a9bce1bf846b23e73fc705cc793dd839b59432ae83e9b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zerx-lab/FluxDown/releases/download/v0.6.6-rc.1/FluxDown-CLI-0.6.6-rc.1-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v0.6.6-rc.1/FluxDown-CLI-0.6.6-rc.1-windows-arm64.zip",
             "extract_dir": "fluxdown-cli-0.6.6-rc.1-windows-arm64",
             "hash": "6780c76b7370d31fff14de7c137a3e3cd0547d746129b740885b89fe27c97663"
         }
@@ -23,11 +23,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-CLI-$version-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-CLI-$version-windows-x64.zip",
                 "extract_dir": "fluxdown-cli-$version-windows-x64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-CLI-$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-CLI-$version-windows-arm64.zip",
                 "extract_dir": "fluxdown-cli-$version-windows-arm64"
             }
         },

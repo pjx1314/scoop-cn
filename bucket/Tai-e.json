@@ -12,7 +12,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/pascal-lab/Tai-e/releases/download/v0.5.4/tai-e-all-0.5.4.jar#/tai-e.jar",
+    "url": "https://gh-proxy.org/https://github.com/pascal-lab/Tai-e/releases/download/v0.5.4/tai-e-all-0.5.4.jar#/tai-e.jar",
     "pre_install": [
         "Set-Content \"$dir\\tai-e.bat\" '@pushd %~dp0",
         "@call oraclejre8",
@@ -28,6 +28,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pascal-lab/Tai-e/releases/download/v$version/tai-e-all-$version.jar#/tai-e.jar"
+        "url": "https://gh-proxy.org/https://github.com/pascal-lab/Tai-e/releases/download/v$version/tai-e-all-$version.jar#/tai-e.jar"
     }
 }

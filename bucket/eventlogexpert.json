@@ -4,7 +4,7 @@
     "description": "A Windows Event Log viewer for tech support and IT professionals.",
     "homepage": "https://github.com/microsoft/EventLogExpert",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/microsoft/EventLogExpert/releases/download/v26.10.28.1091/EventLogExpert_26.10.28.1091.msixbundle#/EventLogExpert.msixbundle",
+    "url": "https://gh-proxy.org/https://github.com/microsoft/EventLogExpert/releases/download/v26.10.28.1091/EventLogExpert_26.10.28.1091.msixbundle#/EventLogExpert.msixbundle",
     "hash": "2259d69fda18d5de30023db96f048d87103fb8d1f18561ed697ee5a1c7127580",
     "installer": {
         "script": [
@@ -29,6 +29,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/microsoft/EventLogExpert/releases/download/v$version/EventLogExpert_$version.msixbundle#/EventLogExpert.msixbundle"
+        "url": "https://gh-proxy.org/https://github.com/microsoft/EventLogExpert/releases/download/v$version/EventLogExpert_$version.msixbundle#/EventLogExpert.msixbundle"
     }
 }

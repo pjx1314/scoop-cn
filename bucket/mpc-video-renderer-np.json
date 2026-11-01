@@ -6,7 +6,7 @@
     "suggest": {
         "Media Player Classic - Home Cinema fork": "main/mpc-hc-fork"
     },
-    "url": "https://gh-proxy.com/https://github.com/Aleksoid1978/VideoRenderer/releases/download/0.11.1/MpcVideoRenderer-0.11.1.2636.zip",
+    "url": "https://gh-proxy.org/https://github.com/Aleksoid1978/VideoRenderer/releases/download/0.11.1/MpcVideoRenderer-0.11.1.2636.zip",
     "hash": "c7cb676590c6c6d923f48c68f8bca1171fbb579e89a8ebd7afc7aeba13cf4601",
     "architecture": {
         "64bit": {
@@ -31,6 +31,6 @@
         "regex": "MPC Video Renderer ([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Aleksoid1978/VideoRenderer/releases/download/$matchHead/MpcVideoRenderer-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/Aleksoid1978/VideoRenderer/releases/download/$matchHead/MpcVideoRenderer-$version.zip"
     }
 }

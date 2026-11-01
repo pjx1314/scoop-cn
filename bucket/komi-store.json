@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kurikomi-labs/komi-store/releases/download/v1.9.4/Komi-Store-1.9.4.msi",
+            "url": "https://gh-proxy.org/https://github.com/kurikomi-labs/komi-store/releases/download/v1.9.4/Komi-Store-1.9.4.msi",
             "hash": "1fae8a17182c3ce0897377c352ea66e61103b6c3a9c4d748aeb208cfd7d556c8"
         }
     },
@@ -49,7 +49,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kurikomi-labs/komi-store/releases/download/v$version/Komi-Store-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/kurikomi-labs/komi-store/releases/download/v$version/Komi-Store-$version.msi"
             }
         }
     }

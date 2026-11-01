@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/chaitin/xray-plugins",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/chaitin/xray-plugins/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/chaitin/xray-plugins/archive/refs/heads/master.zip",
     "hash": "179de6745e0a7eb26a91d73fddc03597bf97dc7f5ed6dc11a76ddb01b749380c",
     "extract_dir": "xray-plugins-main",
     "pre_install": [
@@ -24,6 +24,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/chaitin/xray-plugins/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/chaitin/xray-plugins/archive/refs/heads/master.zip"
     }
 }

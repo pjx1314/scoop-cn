@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-x86_64-pc-windows-msvc.zip",
             "hash": "e065f43522186d7f58d82d503a372df9b033316fc5f9ee08bd7e262c37633da2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/graykode/abtop/releases/download/v0.5.5/abtop-aarch64-pc-windows-msvc.zip",
             "hash": "5858f5c7a2f37f0a31e8150b7fbce0dbbad7468273cb59e64eb788bab8803b76"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/graykode/abtop/releases/download/v$version/abtop-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/graykode/abtop/releases/download/v$version/abtop-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/graykode/abtop/releases/download/v$version/abtop-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/graykode/abtop/releases/download/v$version/abtop-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

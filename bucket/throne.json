@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/throneproj/Throne/releases/download/1.4.0-beta.4/Throne-1.4.0-beta.4-windows64.zip",
+            "url": "https://gh-proxy.org/https://github.com/throneproj/Throne/releases/download/1.4.0-beta.4/Throne-1.4.0-beta.4-windows64.zip",
             "hash": "f721d97ca1ed971034cdd9f3651d6e1f428e4433007e0c8b36b6e33b49eb6842"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/throneproj/Throne/releases/download/1.4.0-beta.4/Throne-1.4.0-beta.4-windows32.zip",
+            "url": "https://gh-proxy.org/https://github.com/throneproj/Throne/releases/download/1.4.0-beta.4/Throne-1.4.0-beta.4-windows32.zip",
             "hash": "968fa5672bdd104c13feb0cf1f48ad5e83dba68c7816fbea52c33f473f9552ca"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/throneproj/Throne/releases/download/1.4.0-beta.4/Throne-1.4.0-beta.4-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/throneproj/Throne/releases/download/1.4.0-beta.4/Throne-1.4.0-beta.4-windows-arm64.zip",
             "hash": "c2201371e6e48d00797b4f6fa3dc0d766ffdf13315b4a7d604a68ca45ced1f70"
         }
     },
@@ -38,13 +38,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows64.zip"
+                "url": "https://gh-proxy.org/https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows32.zip"
+                "url": "https://gh-proxy.org/https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows32.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows-arm64.zip"
             }
         }
     }

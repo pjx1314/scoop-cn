@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/hk/releases/download/v2.11.0/hk-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/hk/releases/download/v2.11.0/hk-x86_64-pc-windows-msvc.zip",
             "hash": "cb62de9ffb3d8265c513f194769c7b5575671f7bbfad3fab9529db54a0a32e14"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/hk/releases/download/v2.11.0/hk-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/hk/releases/download/v2.11.0/hk-aarch64-pc-windows-msvc.zip",
             "hash": "0a4dbdf75984786e9661ffac69c0b75734e6711f3a1b82850ce54dcc86601519"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/hk/releases/download/v$version/hk-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/hk/releases/download/v$version/hk-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/hk/releases/download/v$version/hk-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/hk/releases/download/v$version/hk-aarch64-pc-windows-msvc.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kimwalisch/primecount/releases/download/v8.8/primecount-8.8-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kimwalisch/primecount/releases/download/v8.8/primecount-8.8-win-x64.zip",
             "hash": "490e5131024289dc0bfc5086ff22ca4e486533eddc6d763855dba0a466d57a99"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kimwalisch/primecount/releases/download/v8.8/primecount-8.8-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kimwalisch/primecount/releases/download/v8.8/primecount-8.8-win-arm64.zip",
             "hash": "80086d11bc358c4da0034b5d89a828049370c20903dd3cd1095bd6d61430d8bd"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kimwalisch/primecount/releases/download/v$version/primecount-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kimwalisch/primecount/releases/download/v$version/primecount-$version-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kimwalisch/primecount/releases/download/v$version/primecount-$version-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kimwalisch/primecount/releases/download/v$version/primecount-$version-win-arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rojo-rbx/rojo/releases/download/v7.7.1/rojo-7.7.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rojo-rbx/rojo/releases/download/v7.7.1/rojo-7.7.1-windows-x86_64.zip",
             "hash": "d4dfa3493a1613a43fc87312d6dac660d7c8bf38e6a99aa5dcd0d26154ba0b82"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rojo-rbx/rojo/releases/download/v$version/rojo-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rojo-rbx/rojo/releases/download/v$version/rojo-$version-windows-x86_64.zip"
             }
         }
     }

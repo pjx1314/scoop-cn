@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/control-theory/gonzo/releases/download/v0.4.3/gonzo-0.4.3-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/control-theory/gonzo/releases/download/v0.4.3/gonzo-0.4.3-windows-amd64.zip",
             "hash": "cdbcf27e6ed46b775f76049ebaa8ad9f027fdc7a32c995e6fae26603f7925816"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/control-theory/gonzo/releases/download/v$version/gonzo-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/control-theory/gonzo/releases/download/v$version/gonzo-$version-windows-amd64.zip"
             }
         },
         "hash": {

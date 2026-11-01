@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/opengrep/opengrep/releases/download/v1.33.1/opengrep_windows_x86.exe#/opengrep.exe",
+            "url": "https://gh-proxy.org/https://github.com/opengrep/opengrep/releases/download/v1.33.1/opengrep_windows_x86.exe#/opengrep.exe",
             "hash": "132e606e071bdd3928286fddc893198a6106a90820d46e21197e0ace1a23e0c1"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/opengrep/opengrep/releases/download/v$version/opengrep_windows_x86.exe#/opengrep.exe"
+                "url": "https://gh-proxy.org/https://github.com/opengrep/opengrep/releases/download/v$version/opengrep_windows_x86.exe#/opengrep.exe"
             }
         }
     }

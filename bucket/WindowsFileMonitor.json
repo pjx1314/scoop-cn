@@ -9,7 +9,7 @@
         "【技术特点】: Windows可执行文件，实时监控文件变化"
     ],
     "license": "unknow",
-    "url": "https://gh-proxy.com/https://github.com/shack2/WindowsFileMonitor/releases/download/1.0/WindowsFileMonitorV1.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/shack2/WindowsFileMonitor/releases/download/1.0/WindowsFileMonitorV1.0.zip",
     "hash": "c470976350f4433fd6388c667fefc5ab144897c7a83bcdacdf77e64254855c87",
     "bin": "WindowsFileMonitor.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/shack2/WindowsFileMonitor/releases/download/$version/WindowsFileMonitorV$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/shack2/WindowsFileMonitor/releases/download/$version/WindowsFileMonitorV$version.zip"
     }
 }

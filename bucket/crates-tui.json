@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ratatui/crates-tui/releases/download/v0.1.7/crates-tui-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ratatui/crates-tui/releases/download/v0.1.7/crates-tui-x86_64-pc-windows-msvc.zip",
             "hash": "2219b50adaf5caabcc4a56bc9b9f137b246120b857b8603c403f7d8769cace56"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ratatui/crates-tui/releases/download/v$version/crates-tui-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ratatui/crates-tui/releases/download/v$version/crates-tui-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

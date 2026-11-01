@@ -6,7 +6,7 @@
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hiddify/hiddify-app/releases/download/v5.3.0/Hiddify-Windows-Portable-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/hiddify/hiddify-app/releases/download/v5.3.0/Hiddify-Windows-Portable-x64.zip",
             "hash": "c672bf1d6862c2b71723eb9c297774e776dd52369d21a12a0dab6eb21ccbef3a"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hiddify/hiddify-app/releases/download/v$version/Hiddify-Windows-Portable-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/hiddify/hiddify-app/releases/download/v$version/Hiddify-Windows-Portable-x64.zip"
             }
         }
     },

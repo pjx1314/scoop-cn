@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dosbox-staging/dosbox-staging/releases/download/v0.83.0/dosbox-staging-windows-x64-v0.83.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/dosbox-staging/dosbox-staging/releases/download/v0.83.0/dosbox-staging-windows-x64-v0.83.0.zip",
             "hash": "725b915e325a6d410ce30a10989fd492fdad07f6611fff40ff77f160478810f4",
             "extract_dir": "dosbox-staging-v0.83.0"
         }
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dosbox-staging/dosbox-staging/releases/download/v$version/dosbox-staging-windows-x64-v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/dosbox-staging/dosbox-staging/releases/download/v$version/dosbox-staging-windows-x64-v$version.zip",
                 "extract_dir": "dosbox-staging-v$version"
             }
         }

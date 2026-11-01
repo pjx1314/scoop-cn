@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://gh-proxy.com/https://github.com/Dicklesworthstone/coding_agent_session_search/releases/download/v0.10.0/cass-windows-amd64.zip",
+      "url": "https://gh-proxy.org/https://github.com/Dicklesworthstone/coding_agent_session_search/releases/download/v0.10.0/cass-windows-amd64.zip",
       "hash": "e7c4f1f3d2f566b215f467df0f7ac0e2b15004adeba9d1d6213c2c2e25c52ab2"
     }
   },
@@ -16,9 +16,9 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://gh-proxy.com/https://github.com/Dicklesworthstone/coding_agent_session_search/releases/download/v$version/cass-windows-amd64.zip",
+        "url": "https://gh-proxy.org/https://github.com/Dicklesworthstone/coding_agent_session_search/releases/download/v$version/cass-windows-amd64.zip",
         "hash": {
-          "url": "https://gh-proxy.com/https://github.com/Dicklesworthstone/coding_agent_session_search/releases/download/v$version/$basename.sha256",
+          "url": "https://gh-proxy.org/https://github.com/Dicklesworthstone/coding_agent_session_search/releases/download/v$version/$basename.sha256",
           "regex": "([a-fA-F0-9]{64})\\s+$basename"
         }
       }

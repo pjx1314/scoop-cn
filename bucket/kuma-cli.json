@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BigBoot/AutoKuma/releases/download/v2.0.0/kuma-windows.exe#/kuma.exe",
+            "url": "https://gh-proxy.org/https://github.com/BigBoot/AutoKuma/releases/download/v2.0.0/kuma-windows.exe#/kuma.exe",
             "hash": "52c91da5ec22a42ad3c9ea09c3bbacd145a303b5c8456e21c69b96ca0f7624c0"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BigBoot/AutoKuma/releases/download/v$version/kuma-windows.exe#/kuma.exe"
+                "url": "https://gh-proxy.org/https://github.com/BigBoot/AutoKuma/releases/download/v$version/kuma-windows.exe#/kuma.exe"
             }
         }
     }

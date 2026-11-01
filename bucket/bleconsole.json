@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sensboston/BLEConsole/releases/download/v2.1.0/BLEConsole.exe",
+            "url": "https://gh-proxy.org/https://github.com/sensboston/BLEConsole/releases/download/v2.1.0/BLEConsole.exe",
             "hash": "9e36212803161314451158ab0ae117f63169cd00d35b26a147e1787fdb070068"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sensboston/BLEConsole/releases/download/v$version/BLEConsole.exe"
+                "url": "https://gh-proxy.org/https://github.com/sensboston/BLEConsole/releases/download/v$version/BLEConsole.exe"
             }
         }
     }

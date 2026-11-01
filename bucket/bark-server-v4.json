@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Finb/bark-server/releases/download/v2.3.9/bark-server_windows_amd64_v4.exe#/bark-server.exe",
+            "url": "https://gh-proxy.org/https://github.com/Finb/bark-server/releases/download/v2.3.9/bark-server_windows_amd64_v4.exe#/bark-server.exe",
             "hash": "82842e902bfae9842b9cf54d8c3d50e20275a7b2ed1cd2b0739971e1428585fd"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Finb/bark-server/releases/download/v$version/bark-server_windows_amd64_v4.exe#/bark-server.exe"
+                "url": "https://gh-proxy.org/https://github.com/Finb/bark-server/releases/download/v$version/bark-server_windows_amd64_v4.exe#/bark-server.exe"
             }
         }
     }

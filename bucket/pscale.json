@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/planetscale/cli/releases/download/v0.348.0/pscale_0.348.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/planetscale/cli/releases/download/v0.348.0/pscale_0.348.0_windows_amd64.zip",
             "hash": "6d105b5feb3c65045b2884b771da3f8750f504a59709688b44ceba8e65e96ee4"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/planetscale/cli/releases/download/v0.348.0/pscale_0.348.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/planetscale/cli/releases/download/v0.348.0/pscale_0.348.0_windows_386.zip",
             "hash": "8294e9ee3c7b550cbcabff15a573f7e9742a5e45ea2a226be986e134383b9a69"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/planetscale/cli/releases/download/v$version/pscale_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/planetscale/cli/releases/download/v$version/pscale_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/planetscale/cli/releases/download/v$version/pscale_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/planetscale/cli/releases/download/v$version/pscale_$version_windows_386.zip"
             }
         },
         "hash": {

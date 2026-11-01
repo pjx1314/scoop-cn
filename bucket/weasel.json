@@ -3,7 +3,7 @@
     "description": "Rime for Windows",
     "homepage": "https://rime.im/",
     "license": "GPL-3.0-or-later",
-    "url": "https://gh-proxy.com/https://github.com/rime/weasel/releases/download/0.17.4/weasel-0.17.4.0-installer.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/rime/weasel/releases/download/0.17.4/weasel-0.17.4.0-installer.exe#/dl.7z",
     "hash": "",
     "installer": {
         "script": [
@@ -21,6 +21,6 @@
         "regex": "weasel-([\\d.]+)-installer.exe"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/rime/weasel/releases/download/$matchHead/weasel-$version-installer.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/rime/weasel/releases/download/$matchHead/weasel-$version-installer.exe#/dl.7z"
     }
 }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TIMER-err/qplayer/releases/download/v1.9.6/QPlayer-windows-x64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/TIMER-err/qplayer/releases/download/v1.9.6/QPlayer-windows-x64-setup.exe",
             "hash": "c5581a499cc65ea1b70d5048b498ca548f4df58c366e893154ae92e824d0d909"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TIMER-err/qplayer/releases/download/v$version/QPlayer-windows-x64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/TIMER-err/qplayer/releases/download/v$version/QPlayer-windows-x64-setup.exe"
             }
         }
     }

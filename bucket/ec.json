@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-amd64.exe#/ec.exe",
+            "url": "https://gh-proxy.org/https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-amd64.exe#/ec.exe",
             "hash": "70f19f2d770ad692449f6af20f6c83e34a6618c718323a52355deb90c9d484cf"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-arm64.exe#/ec.exe",
+            "url": "https://gh-proxy.org/https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-arm64.exe#/ec.exe",
             "hash": "c15ac4ec63d3d16390a0e66cf823ed2af32848dd6a21bdbbc3d0f1520354fc74"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chojs23/ec/releases/download/v$version/ec-windows-amd64.exe#/ec.exe"
+                "url": "https://gh-proxy.org/https://github.com/chojs23/ec/releases/download/v$version/ec-windows-amd64.exe#/ec.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/chojs23/ec/releases/download/v$version/ec-windows-arm64.exe#/ec.exe"
+                "url": "https://gh-proxy.org/https://github.com/chojs23/ec/releases/download/v$version/ec-windows-arm64.exe#/ec.exe"
             }
         },
         "hash": {

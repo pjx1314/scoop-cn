@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/dwisiswant0/apkleaks/archive/refs/tags/v2.6.3.zip",
+    "url": "https://gh-proxy.org/https://github.com/dwisiswant0/apkleaks/archive/refs/tags/v2.6.3.zip",
     "extract_dir": "apkleaks-2.6.3",
     "hash": "b41279727ea3df3e9a0d88e26f9dc6d869702842dccf5a8633e74b5fe20aaae6",
     "pre_install": [
@@ -27,7 +27,7 @@
     "bin": "apkleaks.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/dwisiswant0/apkleaks/archive/refs/tags/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/dwisiswant0/apkleaks/archive/refs/tags/v$version.zip",
         "extract_dir": "apkleaks-$version"
     }
 }

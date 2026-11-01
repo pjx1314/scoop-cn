@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ldqk/ImageSearch/releases/download/7.1/MediaTrace_win_x64_7.1_with-runtime.7z",
+            "url": "https://gh-proxy.org/https://github.com/ldqk/ImageSearch/releases/download/7.1/MediaTrace_win_x64_7.1_with-runtime.7z",
             "hash": "bf9e97dd12877d037c8dd6cedef168e11c243749cdc1a4fa221cf0891d57b9de"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ldqk/ImageSearch/releases/download/$version/MediaTrace_win_x64_$version_with-runtime.7z"
+                "url": "https://gh-proxy.org/https://github.com/ldqk/ImageSearch/releases/download/$version/MediaTrace_win_x64_$version_with-runtime.7z"
             }
         }
     }

@@ -3,7 +3,7 @@
     "description": "Markdown renderer with syntax highlighting and rich text formatting",
     "homepage": "https://mqlang.org/",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/harehare/mq-view/releases/download/v0.2.7/mq-view-x86_64-pc-windows-msvc.exe#/mq-view.exe",
+    "url": "https://gh-proxy.org/https://github.com/harehare/mq-view/releases/download/v0.2.7/mq-view-x86_64-pc-windows-msvc.exe#/mq-view.exe",
     "hash": "42e7dab7332613d8dffd1e150b1e34313078480cc9b6d8d911719bed61e5cd99",
     "bin": "mq-view.exe",
     "suggest": {
@@ -13,6 +13,6 @@
         "github": "https://github.com/harehare/mq-view"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/harehare/mq-view/releases/download/v$version/mq-view-x86_64-pc-windows-msvc.exe#/mq-view.exe"
+        "url": "https://gh-proxy.org/https://github.com/harehare/mq-view/releases/download/v$version/mq-view-x86_64-pc-windows-msvc.exe#/mq-view.exe"
     }
 }

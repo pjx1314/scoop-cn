@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "main/openjdk"
     },
-    "url": "https://gh-proxy.com/https://github.com/scala/scala/releases/download/v2.13.18/scala-2.13.18.zip",
+    "url": "https://gh-proxy.org/https://github.com/scala/scala/releases/download/v2.13.18/scala-2.13.18.zip",
     "hash": "9c90562f29b0a316e269474d6752bc8ec45b1cabf61d5401d7ca50407b3a9d2b",
     "extract_dir": "scala-2.13.18",
     "bin": [
@@ -24,7 +24,7 @@
         "regex": "/download/(2[\\d.]+)\\.html"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/scala/scala/releases/download/v$version/scala-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/scala/scala/releases/download/v$version/scala-$version.zip",
         "extract_dir": "scala-$version"
     }
 }

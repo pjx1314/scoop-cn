@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/shadPS4QtLauncher-2026-10-31-24fd1248155dcfce61437b0ec0a3b0a4d0320386/shadPS4QtLauncher-win64-qt-2026-10-31-24fd124.zip",
+            "url": "https://gh-proxy.org/https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/shadPS4QtLauncher-2026-10-31-24fd1248155dcfce61437b0ec0a3b0a4d0320386/shadPS4QtLauncher-win64-qt-2026-10-31-24fd124.zip",
             "hash": "0a5fe33a560427c048243602d6a84e9f831c0e049016cbb2d083c48b3cbd96aa"
         }
     },
@@ -80,7 +80,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/$matchTag/shadPS4QtLauncher-win64-qt-$matchSuffix.zip"
+                "url": "https://gh-proxy.org/https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/$matchTag/shadPS4QtLauncher-win64-qt-$matchSuffix.zip"
             }
         }
     }

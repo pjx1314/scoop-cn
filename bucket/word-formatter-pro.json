@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cwyalpha/Word-Formatter-Pro/releases/download/v2.7.8/Word-Formatter-Pro.v2.7.8.exe#/Word-Formatter-Pro.exe",
+            "url": "https://gh-proxy.org/https://github.com/cwyalpha/Word-Formatter-Pro/releases/download/v2.7.8/Word-Formatter-Pro.v2.7.8.exe#/Word-Formatter-Pro.exe",
             "hash": "55b3cd51b5a84ee29b7b1d53446f729ea4af4b152899e541c8651ead6315a829"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cwyalpha/Word-Formatter-Pro/releases/download/v$version/Word-Formatter-Pro.v$version.exe#/Word-Formatter-Pro.exe"
+                "url": "https://gh-proxy.org/https://github.com/cwyalpha/Word-Formatter-Pro/releases/download/v$version/Word-Formatter-Pro.v$version.exe#/Word-Formatter-Pro.exe"
             }
         }
     }

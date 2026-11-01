@@ -6,7 +6,7 @@
     "depends": "main/dotnet-sdk",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/PowerToys/releases/download/v0.102.2933.0/PowerToysSetup-0.102.2933.0-x64.exe#/setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v0.102.2933.0/PowerToysSetup-0.102.2933.0-x64.exe#/setup.exe",
             "hash": "ebaddacfa615614d8b8ec695009ea092c2b64d039ae629a4b9bf0b541e854c3d"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.exe#/setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/PowerToys/releases/download/v$version/PowerToysSetup-$version-x64.exe#/setup.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/niuhuan/wild/releases/download/v0.0.14/wild-v0.0.14-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/niuhuan/wild/releases/download/v0.0.14/wild-v0.0.14-windows-x64.zip",
             "hash": "ddca0ad39649f7cc7eba4e687118dff3ae9da58cf9fca8944cfbfc4d735292d7"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/niuhuan/wild/releases/download/v$version/wild-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/niuhuan/wild/releases/download/v$version/wild-v$version-windows-x64.zip"
             }
         }
     }

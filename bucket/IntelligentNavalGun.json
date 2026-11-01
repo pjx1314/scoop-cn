@@ -3,7 +3,7 @@
     "homepage": "https://heavenlywind.cc/blog/zh/",
     "description": "A flexible, powerful and lightweight KanColle tool/browser.",
     "license": "MIT License",
-    "url": "https://gh-proxy.com/https://github.com/amatukaze/ing/releases/download/v1.17/ING-1.17.0-25.10.18.7z",
+    "url": "https://gh-proxy.org/https://github.com/amatukaze/ing/releases/download/v1.17/ING-1.17.0-25.10.18.7z",
     "hash": "71bbde7c42bbf8b5ce2cd5eaa7fe82ffc607c59791b1bbacd27649e75adddba6",
     "bin": "HeavenlyWind.exe",
     "shortcuts": [
@@ -18,6 +18,6 @@
         "regex": "/releases/download/v([\\d.]+)/ING-(?<asset>[\\d.]+)-(?<date>[\\d.]+)\\.7z"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/amatukaze/ing/releases/download/v$version/ING-$matchAsset-$matchDate.7z"
+        "url": "https://gh-proxy.org/https://github.com/amatukaze/ing/releases/download/v$version/ING-$matchAsset-$matchDate.7z"
     }
 }

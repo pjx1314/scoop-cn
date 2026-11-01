@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_amd64.exe#/kubergrunt.exe",
+            "url": "https://gh-proxy.org/https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_amd64.exe#/kubergrunt.exe",
             "hash": "340125fdaa0835b71bb5e85c35dc22b576ffb6d8b9e547861fcc7fdafb2a780e"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_386.exe#/kubergrunt.exe",
+            "url": "https://gh-proxy.org/https://github.com/gruntwork-io/kubergrunt/releases/download/v0.19.0/kubergrunt_windows_386.exe#/kubergrunt.exe",
             "hash": "dbf67b16f027f8a4bf7738eeb49fb8ac7f91ded5f557080dc585026b90b6c1bd"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gruntwork-io/kubergrunt/releases/download/v$version/kubergrunt_windows_amd64.exe#/kubergrunt.exe"
+                "url": "https://gh-proxy.org/https://github.com/gruntwork-io/kubergrunt/releases/download/v$version/kubergrunt_windows_amd64.exe#/kubergrunt.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/gruntwork-io/kubergrunt/releases/download/v$version/kubergrunt_windows_386.exe#/kubergrunt.exe"
+                "url": "https://gh-proxy.org/https://github.com/gruntwork-io/kubergrunt/releases/download/v$version/kubergrunt_windows_386.exe#/kubergrunt.exe"
             }
         },
         "hash": {

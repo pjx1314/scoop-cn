@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/y3owk1n/neru/releases/download/v1.60.0/neru-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/y3owk1n/neru/releases/download/v1.60.0/neru-windows-amd64.zip",
             "hash": "79bf5a902ba98dd34bb4c73cafad605f9a6bfb402db38e20f3df784a8189227c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/y3owk1n/neru/releases/download/v1.60.0/neru-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/y3owk1n/neru/releases/download/v1.60.0/neru-windows-arm64.zip",
             "hash": "401bb38aadaa4c22d7c74e5c578c1b4cac5299b9bdbf6ab282ebcd3c9ede1313"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/y3owk1n/neru/releases/download/v$version/neru-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/y3owk1n/neru/releases/download/v$version/neru-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/y3owk1n/neru/releases/download/v$version/neru-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/y3owk1n/neru/releases/download/v$version/neru-windows-arm64.zip"
             }
         },
         "hash": {

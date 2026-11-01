@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v4.0.4-dev.40-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v4.0.4-dev.40-win64.zip",
             "hash": "b0cd20949a90bc2d0cbd282da6d150533e38c34e6f3eb5d01016b95ad919b9fd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v4.0.4-dev.40-woa64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v4.0.4-dev.40-woa64.zip",
             "hash": "45f8a12ecf0874eedf3b3f88bb93bd170dab91f9c0d3787fa33241015608ed94"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v$version-win64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v$version-woa64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kraxarn/spotify-qt-nightly/releases/download/latest/spotify-qt-v$version-woa64.zip"
             }
         }
     }

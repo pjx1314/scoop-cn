@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/omerbenamram/evtx/releases/download/v0.15.1/evtx_dump-v0.15.1.exe#/evtx_dump.exe",
+            "url": "https://gh-proxy.org/https://github.com/omerbenamram/evtx/releases/download/v0.15.1/evtx_dump-v0.15.1.exe#/evtx_dump.exe",
             "hash": "3dbe08f1860d7864739439350eab8bab5d5d1437a27cc891622fec0d12ee0a8f"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/omerbenamram/evtx/releases/download/v$version/evtx_dump-v$version.exe#/evtx_dump.exe"
+                "url": "https://gh-proxy.org/https://github.com/omerbenamram/evtx/releases/download/v$version/evtx_dump-v$version.exe#/evtx_dump.exe"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eltavine/Zhihu-Hyperion/releases/download/v0.38/zhihu-hyperion-desktop-windows-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/eltavine/Zhihu-Hyperion/releases/download/v0.38/zhihu-hyperion-desktop-windows-x64.msi",
             "hash": "47e692a5e7a3853b99829dfb4b107ee71f41a15b80d80f04a04a7568bed70f0c"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eltavine/Zhihu-Hyperion/releases/download/v$version/zhihu-hyperion-desktop-windows-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/eltavine/Zhihu-Hyperion/releases/download/v$version/zhihu-hyperion-desktop-windows-x64.msi"
             }
         },
         "hash": {

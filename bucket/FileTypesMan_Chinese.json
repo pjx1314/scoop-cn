@@ -5,7 +5,7 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Liu8Can/FileTypesMan_Chinese/releases/download/v2.01/FileTypesMan.zip",
+            "url": "https://gh-proxy.org/https://github.com/Liu8Can/FileTypesMan_Chinese/releases/download/v2.01/FileTypesMan.zip",
             "hash": "63c430e33c1faf6c63e716159cf107b87d9a98576660d2899caf2bece43d6d9c",
             "extract_dir": "FileTypesMan"
         }
@@ -20,7 +20,7 @@
         "github": "https://github.com/Liu8Can/FileTypesMan_Chinese"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Liu8Can/FileTypesMan_Chinese/releases/download/v$version/FileTypesMan.zip",
+        "url": "https://gh-proxy.org/https://github.com/Liu8Can/FileTypesMan_Chinese/releases/download/v$version/FileTypesMan.zip",
         "hash": {
             "mode": "download"
         }

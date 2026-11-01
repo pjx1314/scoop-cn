@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KevinXC5/leafmark/releases/download/v0.9.3/leafmark-0.9.3-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/KevinXC5/leafmark/releases/download/v0.9.3/leafmark-0.9.3-windows-amd64.tar.gz",
             "hash": "330f1d75fba98303fe516aaba18b06e0c9f32f00b222a50b889a6e6e756f5d1c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/KevinXC5/leafmark/releases/download/v0.9.3/leafmark-0.9.3-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/KevinXC5/leafmark/releases/download/v0.9.3/leafmark-0.9.3-windows-arm64.tar.gz",
             "hash": "1b45314d824779da0628e2d00626027c36e13ca2a56e94c0cbd9827a255ecaba"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KevinXC5/leafmark/releases/download/v$version/leafmark-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/KevinXC5/leafmark/releases/download/v$version/leafmark-$version-windows-amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/KevinXC5/leafmark/releases/download/v$version/leafmark-$version-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/KevinXC5/leafmark/releases/download/v$version/leafmark-$version-windows-arm64.tar.gz"
             }
         }
     }

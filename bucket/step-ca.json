@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/smallstep/certificates/releases/download/v0.30.2/step-ca_windows_0.30.2_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/smallstep/certificates/releases/download/v0.30.2/step-ca_windows_0.30.2_amd64.zip",
             "hash": "89912b33a2100e21dab58ed2f8740e6b61556edf5cf135b860f713506f1ccb71"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/smallstep/certificates/releases/download/v$version/step-ca_windows_$version_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/smallstep/certificates/releases/download/v$version/step-ca_windows_$version_amd64.zip"
             }
         },
         "hash": {

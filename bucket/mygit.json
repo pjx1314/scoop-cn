@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Binaryify/MyGit/releases/download/v0.3.20/MyGit-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Binaryify/MyGit/releases/download/v0.3.20/MyGit-windows-amd64.zip",
             "hash": "e995a1014d7a671065a61014293a78ea43801285c37d4ba4a69dc298c0d70549"
         }
     },
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Binaryify/MyGit/releases/download/v$version/MyGit-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Binaryify/MyGit/releases/download/v$version/MyGit-windows-amd64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/budimanjojo/talhelper/releases/download/v3.1.17/talhelper_windows_amd64.tar.gz",
             "hash": "415f079abd09fa686b29a4d02de03cd6c5d8339cc6d497f2f4a54da6765c0a79"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/budimanjojo/talhelper/releases/download/v$version/talhelper_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/budimanjojo/talhelper/releases/download/v$version/talhelper_windows_amd64.tar.gz"
             }
         },
         "hash": {

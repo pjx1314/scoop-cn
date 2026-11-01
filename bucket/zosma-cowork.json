@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zosmaai/zosma-cowork/releases/download/v0.18.0/zosma-cowork_0.18.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/zosmaai/zosma-cowork/releases/download/v0.18.0/zosma-cowork_0.18.0_x64-setup.exe#/dl.7z",
             "hash": "d69b209537eb9474f427ddb63f91d52c35b930742fc652da203df03d6aa179db"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zosmaai/zosma-cowork/releases/download/v$version/zosma-cowork_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/zosmaai/zosma-cowork/releases/download/v$version/zosma-cowork_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

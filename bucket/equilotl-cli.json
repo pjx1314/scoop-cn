@@ -6,11 +6,11 @@
 		"identifier": "GPL-3.0-only",
 		"url": "https://github.com/Equicord/Equilotl/blob/main/LICENSE"
 	},
-	"url": "https://gh-proxy.com/https://github.com/Equicord/Equilotl/releases/download/v2.3.0/EquilotlCli.exe",
+	"url": "https://gh-proxy.org/https://github.com/Equicord/Equilotl/releases/download/v2.3.0/EquilotlCli.exe",
 	"hash": "17b1a5a51abc4a411879dac4e1b1099c2e09366d87693906bd81879679c6775e",
 	"checkver": "github",
 	"autoupdate": {
-		"url": "https://gh-proxy.com/https://github.com/Equicord/Equilotl/releases/download/v$version/EquilotlCli.exe"
+		"url": "https://gh-proxy.org/https://github.com/Equicord/Equilotl/releases/download/v$version/EquilotlCli.exe"
 	},
 	"bin": "EquilotlCli.exe"
 }

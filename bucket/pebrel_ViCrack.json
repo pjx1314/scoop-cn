@@ -6,7 +6,7 @@
     "notes": "config location: C:\\Users\\<your username>\\\\AppData\\\\Roaming\\Pebrel - https://github.com/vicrack/scoop-bucket/blob/master/bucket/pebrel.json https://github.com/vicrack/scoop-bucket",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kuddev/pebrel/releases/download/v2.3.1/Pebrel-v2.3.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kuddev/pebrel/releases/download/v2.3.1/Pebrel-v2.3.1-windows-x64.zip",
             "hash": "e12dcfb573ac5d20e06b234202f1065af12b04979311a2ca10a97969a92f70e5"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kuddev/pebrel/releases/download/v$version/Pebrel-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Kuddev/pebrel/releases/download/v$version/Pebrel-v$version-windows-x64.zip"
             }
         }
     }

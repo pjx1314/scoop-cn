@@ -3,13 +3,13 @@
     "description": "An innovative superfamily of fonts for code - Slab serif",
     "license": "OFL-1.1",
     "homepage": "https://monaspace.githubnext.com/",
-    "url": "https://gh-proxy.com/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceXenonVarVF%5Bwght,wdth,slnt%5D.ttf",
+    "url": "https://gh-proxy.org/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceXenonVarVF%5Bwght,wdth,slnt%5D.ttf",
     "hash": "c39f8bd93869a39e30ccf589ab708b76ba1d84ee10bfc8186e2b112d29ede924",
     "checkver": {
         "github": "https://github.com/githubnext/monaspace"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceXenonVarVF%5Bwght,wdth,slnt%5D.ttf"
+        "url": "https://gh-proxy.org/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceXenonVarVF%5Bwght,wdth,slnt%5D.ttf"
     },
     "installer": {
         "script": [

@@ -22,7 +22,7 @@
     },
     "bin": "fdf.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/fdf/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/fdf/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

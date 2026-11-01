@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/openchamber/openchamber/releases/download/v2.5.3/OpenChamber-2.5.3-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/openchamber/openchamber/releases/download/v2.5.3/OpenChamber-2.5.3-win-x64.exe#/dl.7z",
             "hash": "2fb6387b21e3a03c14ee5c91dd3f8a76b191a7c48749f2a174390f0aed563d34",
             "installer": {
                 "script": [
@@ -15,7 +15,7 @@
             }
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/openchamber/openchamber/releases/download/v2.5.3/OpenChamber-2.5.3-win-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/openchamber/openchamber/releases/download/v2.5.3/OpenChamber-2.5.3-win-arm64.exe#/dl.7z",
             "hash": "616d56eb481e9e90d951ab770ffac7222a211c6cfcde9e010f6bde2486df5771",
             "installer": {
                 "script": [
@@ -37,14 +37,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/openchamber/openchamber/releases/download/v$version/OpenChamber-$version-win-x64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/openchamber/openchamber/releases/download/v$version/OpenChamber-$version-win-x64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "find": "$basename"
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/openchamber/openchamber/releases/download/v$version/OpenChamber-$version-win-arm64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/openchamber/openchamber/releases/download/v$version/OpenChamber-$version-win-arm64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest-arm64.yml",
                     "find": "$basename"

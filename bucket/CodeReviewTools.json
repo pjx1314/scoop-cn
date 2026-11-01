@@ -8,7 +8,7 @@
             "sec/oraclejdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/Ppsoft1991/CodeReviewTools/releases/download/v1.31/CodeReviewTools_v1.31.jar#/CodeReviewTools.jar",
+    "url": "https://gh-proxy.org/https://github.com/Ppsoft1991/CodeReviewTools/releases/download/v1.31/CodeReviewTools_v1.31.jar#/CodeReviewTools.jar",
     "hash": "7bf7c55ada45283065b04eef4847ac3b336d51f02267ac6efd0ea4d8376cb891",
     "pre_install": [
         "Set-Content \"$dir\\CodeReviewTools.bat\" '@pushd %~dp0",
@@ -19,7 +19,7 @@
     "bin": "CodeReviewTools.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Ppsoft1991/CodeReviewTools/releases/download/v$version/CodeReviewTools_v$version.jar#/CodeReviewTools.jar"
+        "url": "https://gh-proxy.org/https://github.com/Ppsoft1991/CodeReviewTools/releases/download/v$version/CodeReviewTools_v$version.jar#/CodeReviewTools.jar"
     },
     "notes": [
         "【工具类型】: 安全工具",

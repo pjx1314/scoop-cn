@@ -3,7 +3,7 @@
     "description": "A utility for extract an information from PDB-files.",
     "homepage": "https://github.com/horsicq/PDBRipper",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/horsicq/PDBRipper/releases/download/2.03/pdbripper_win32_portable_2.03.zip",
+    "url": "https://gh-proxy.org/https://github.com/horsicq/PDBRipper/releases/download/2.03/pdbripper_win32_portable_2.03.zip",
     "hash": "c9fb57c9c762a391c7910fd27d8b9fa6b2e28acab6e85652c167bc25ef4916fb",
     "bin": "pdbripperc.exe",
     "shortcuts": [
@@ -17,6 +17,6 @@
     "persist": "backup",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/horsicq/PDBRipper/releases/download/$version/pdbripper_win32_portable_$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/horsicq/PDBRipper/releases/download/$version/pdbripper_win32_portable_$version.zip"
     }
 }

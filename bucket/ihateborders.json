@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Z1xus/ihateborders/releases/download/v2.0.1/ihateborders.exe",
+            "url": "https://gh-proxy.org/https://github.com/Z1xus/ihateborders/releases/download/v2.0.1/ihateborders.exe",
             "hash": "6fcb0a35669c5a6d23748b915fbe53535fc37a72b4c5ec03e11046c85bf323fe"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Z1xus/ihateborders/releases/download/v$version/ihateborders.exe"
+                "url": "https://gh-proxy.org/https://github.com/Z1xus/ihateborders/releases/download/v$version/ihateborders.exe"
             }
         }
     }

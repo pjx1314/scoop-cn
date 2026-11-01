@@ -6,7 +6,7 @@
     "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/certimate.json",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/certimate-go/certimate/releases/download/v0.4.36/certimate_v0.4.36_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/certimate-go/certimate/releases/download/v0.4.36/certimate_v0.4.36_windows_amd64.zip",
             "hash": "a55ca298d868f15f4b540370c9ea25bef5e7621a0d22813d1f34d52e3dce8c78"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/certimate-go/certimate/releases/download/v$version/certimate_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/certimate-go/certimate/releases/download/v$version/certimate_v$version_windows_amd64.zip"
             }
         }
     }

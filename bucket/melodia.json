@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rinchao0721/Melodia/releases/download/v2.1.0-beta.1/Melodia-v2.1.0-beta.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rinchao0721/Melodia/releases/download/v2.1.0-beta.1/Melodia-v2.1.0-beta.1-windows-x64.zip",
             "hash": "0a29ea57633dca25621bfbe0aac9d4d0f5cb0ff48fd8f7038c1bd67a542957f5"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rinchao0721/Melodia/releases/download/v$version/Melodia-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rinchao0721/Melodia/releases/download/v$version/Melodia-v$version-windows-x64.zip"
             }
         }
     }

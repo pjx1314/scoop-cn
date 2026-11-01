@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe#/dl.7z",
             "hash": "37ecde4d9a28e8aeeb07623c8469b5d558eb264e02ccf435bb859891c401758b"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/obsproject/obs-studio/releases/download/$version/OBS-Studio-$version-Windows-x64-Installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/obsproject/obs-studio/releases/download/$version/OBS-Studio-$version-Windows-x64-Installer.exe#/dl.7z"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hanselime/paqet/releases/download/v1.0.0-alpha.21/paqet-windows-amd64-v1.0.0-alpha.21.zip",
+            "url": "https://gh-proxy.org/https://github.com/hanselime/paqet/releases/download/v1.0.0-alpha.21/paqet-windows-amd64-v1.0.0-alpha.21.zip",
             "hash": "5d21b097dc56c3cdc48db95133e74c804d8df6c771838b440285bd1e27109620"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hanselime/paqet/releases/download/v$version/paqet-windows-amd64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/hanselime/paqet/releases/download/v$version/paqet-windows-amd64-v$version.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chthollyphile/folia-major/releases/download/v0.7.25/Folia-Setup-0.7.25.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/chthollyphile/folia-major/releases/download/v0.7.25/Folia-Setup-0.7.25.exe#/dl.7z",
             "hash": "d8cf2f8d94d89fa2d231f4ec7ad82d7b68d11bbb40c141d09eef0c9eb9709e3b"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chthollyphile/folia-major/releases/download/v$version/Folia-Setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/chthollyphile/folia-major/releases/download/v$version/Folia-Setup-$version.exe#/dl.7z"
             }
         }
     }

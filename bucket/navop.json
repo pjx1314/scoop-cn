@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/feigeCode/navop/releases/download/v0.22.0/navop-0.22.0-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/feigeCode/navop/releases/download/v0.22.0/navop-0.22.0-windows-x64-portable.zip",
             "hash": "cac7065a47aacf48ead4433f5941aa47b3a9d58fc1efed564940879dcd5a8bd1"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/feigeCode/navop/releases/download/v0.22.0/navop-0.22.0-win32-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/feigeCode/navop/releases/download/v0.22.0/navop-0.22.0-win32-portable.zip",
             "hash": "59faf1e2b1c2363064a459899d5480e2b3e47eabb79d2ef83d53aa52077256d2"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/feigeCode/navop/releases/download/v$version/navop-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/feigeCode/navop/releases/download/v$version/navop-$version-windows-x64-portable.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/feigeCode/navop/releases/download/v$version/navop-$version-win32-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/feigeCode/navop/releases/download/v$version/navop-$version-win32-portable.zip"
             }
         },
         "hash": {

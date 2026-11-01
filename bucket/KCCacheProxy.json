@@ -5,7 +5,7 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Tibowl/KCCacheProxy/releases/download/v3.1.5/KCCacheProxy-win32-x64-3.1.5.zip",
+            "url": "https://gh-proxy.org/https://github.com/Tibowl/KCCacheProxy/releases/download/v3.1.5/KCCacheProxy-win32-x64-3.1.5.zip",
             "hash": "13d22cce947db024e6773c33150de57887e70c2ca4aa40eae9ba6ae2f20f13fd"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Tibowl/KCCacheProxy/releases/download/v$version/KCCacheProxy-win32-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/Tibowl/KCCacheProxy/releases/download/v$version/KCCacheProxy-win32-x64-$version.zip"
             }
         }
     }

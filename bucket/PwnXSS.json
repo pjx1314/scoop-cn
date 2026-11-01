@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/pwn0sec/PwnXSS/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/pwn0sec/PwnXSS/archive/refs/heads/master.zip",
     "extract_dir": "pwnxss-master",
     "pre_install": [
         "Set-Content \"$dir\\pwnxss.bat\" '@pushd %~dp0",

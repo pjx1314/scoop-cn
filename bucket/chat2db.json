@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chat2db/Chat2DB/releases/download/v5.3.8/Chat2DB-Community-5.3.8.msi",
+            "url": "https://gh-proxy.org/https://github.com/chat2db/Chat2DB/releases/download/v5.3.8/Chat2DB-Community-5.3.8.msi",
             "hash": "5988dc452f4449a9dff2a971ae1644fa7c456aa0b249e8815d368bab5c672139"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chat2db/Chat2DB/releases/download/v$version/Chat2DB-Community-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/chat2db/Chat2DB/releases/download/v$version/Chat2DB-Community-$version.msi"
             }
         }
     }

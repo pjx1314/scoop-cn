@@ -4,7 +4,7 @@
     "homepage": "https://mootool.luoboduner.com/",
     "license": "MIT",
     "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/mootool.json",
-    "url": "https://gh-proxy.com/https://github.com/rememberber/MooTool/releases/download/v1.8.7/MooTool-1.8.7-windows-x64.zip",
+    "url": "https://gh-proxy.org/https://github.com/rememberber/MooTool/releases/download/v1.8.7/MooTool-1.8.7-windows-x64.zip",
     "hash": "9f6bbedc1234da8f7d71e5a58289d8c7f034688a072c2fcba8578da021841bfc",
     "extract_dir": "MooTool",
     "shortcuts": [
@@ -20,6 +20,6 @@
         "regex": "/MooTool-([\\d.]+)-windows(?:-x64)?\\.zip"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/rememberber/MooTool/releases/download/v$version/MooTool-$version-windows-x64.zip"
+        "url": "https://gh-proxy.org/https://github.com/rememberber/MooTool/releases/download/v$version/MooTool-$version-windows-x64.zip"
     }
 }

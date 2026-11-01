@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kraanzu/smassh/releases/download/v3.2.1/windows-smassh.exe#/smassh.exe",
+            "url": "https://gh-proxy.org/https://github.com/kraanzu/smassh/releases/download/v3.2.1/windows-smassh.exe#/smassh.exe",
             "hash": "36c29a75ae17d11609d7c0f2d5f7d85ad2f828feff9a89a7075b9daa929bed6a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kraanzu/smassh/releases/download/v$version/windows-smassh.exe#/smassh.exe"
+                "url": "https://gh-proxy.org/https://github.com/kraanzu/smassh/releases/download/v$version/windows-smassh.exe#/smassh.exe"
             }
         }
     }

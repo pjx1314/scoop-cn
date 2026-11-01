@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/BambiZombie/FrchannelPlus/releases/download/FrchannelPlus/FrChannelPlus.jar",
+    "url": "https://gh-proxy.org/https://github.com/BambiZombie/FrchannelPlus/releases/download/FrchannelPlus/FrChannelPlus.jar",
     "hash": "79fb793e4f49f7e45aa5e8dd95e89dac9a9083762f4befff1f32ebab92e7a7a0",
     "pre_install": [
         "Set-Content \"$dir\\FrChannelPlus.bat\" '@pushd %~dp0",
@@ -29,7 +29,7 @@
         "regex": "([\\w]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/BambiZombie/FrchannelPlus/releases/download/$version/FrChannelPlus.jar"
+        "url": "https://gh-proxy.org/https://github.com/BambiZombie/FrchannelPlus/releases/download/$version/FrChannelPlus.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

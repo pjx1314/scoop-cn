@@ -5,7 +5,7 @@
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/pdblister/releases/download/v0.0.4/pdblister-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/pdblister/releases/download/v0.0.4/pdblister-x86_64-pc-windows-msvc.zip",
             "hash": "da931e1ca29da50a41f8ea0d05370f228a69671f528db19a8e80f4ff4be1eaeb"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/pdblister/releases/download/v$version/pdblister-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/pdblister/releases/download/v$version/pdblister-x86_64-pc-windows-msvc.zip"
             }
         }
     }

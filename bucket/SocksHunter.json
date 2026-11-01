@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/Seven1an/SocksHunter",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/Seven1an/SocksHunter/releases/download/v0.1/SocksHunter_v0.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/Seven1an/SocksHunter/releases/download/v0.1/SocksHunter_v0.1.zip",
     "hash": "96bc5ada5a4583f1b81eaacdf419457aa8429a2b50c10a4cbfdb91732d3e7708",
     "bin": "SocksHunter.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Seven1an/SocksHunter/releases/download/v$version/SocksHunter_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/Seven1an/SocksHunter/releases/download/v$version/SocksHunter_v$version.zip"
     }
 }

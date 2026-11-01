@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rustwasm/wasm-bindgen/releases/download/0.2.130/wasm-bindgen-0.2.130-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/rustwasm/wasm-bindgen/releases/download/0.2.130/wasm-bindgen-0.2.130-x86_64-pc-windows-msvc.tar.gz",
             "extract_dir": "wasm-bindgen-0.2.130-x86_64-pc-windows-msvc",
             "hash": "844d23f1b56097549b936dd2e0d561fadebc1e8c9e985d5068b6b919654104ad"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rustwasm/wasm-bindgen/releases/download/$version/wasm-bindgen-$version-x86_64-pc-windows-msvc.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/rustwasm/wasm-bindgen/releases/download/$version/wasm-bindgen-$version-x86_64-pc-windows-msvc.tar.gz",
                 "extract_dir": "wasm-bindgen-$version-x86_64-pc-windows-msvc"
             }
         },

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-amd64.zip",
             "hash": "472e4fcc290d4a403f5469814624bc895fff8883b342e4fad259d402c019f59d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-aarch64.zip",
             "hash": "61be0b5b6e5b9b2feb67c89d07b4e72a92f48cd6baacd577dfcefb7ea51abbef"
         }
     },
@@ -47,10 +47,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zacharee/Bifrost/releases/download/$matchTag/bifrost-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zacharee/Bifrost/releases/download/$matchTag/bifrost-$version-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/zacharee/Bifrost/releases/download/$matchTag/bifrost-$version-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zacharee/Bifrost/releases/download/$matchTag/bifrost-$version-windows-aarch64.zip"
             }
         }
     }

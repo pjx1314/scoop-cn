@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-x86_64-pc-windows-msvc.zip",
             "hash": "c9a8f7a8bad471e64a343314168f38d2399a06fa327cdf5772fb0e645d99ea6f"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rtk-ai/rtk/releases/download/v$version/rtk-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/rtk-ai/rtk/releases/download/v$version/rtk-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

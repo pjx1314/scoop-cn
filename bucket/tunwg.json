@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ntnj/tunwg/releases/download/v25.11.15+bbd247b/tunwg.exe",
+            "url": "https://gh-proxy.org/https://github.com/ntnj/tunwg/releases/download/v25.11.15+bbd247b/tunwg.exe",
             "hash": "7a7789b58a0ead9415f69acdb73a0c505d76b7a9c2086fb4e34da9bcf85f2ea3"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ntnj/tunwg/releases/download/v25.11.15+bbd247b/tunwg-arm64.exe#/tunwg.exe",
+            "url": "https://gh-proxy.org/https://github.com/ntnj/tunwg/releases/download/v25.11.15+bbd247b/tunwg-arm64.exe#/tunwg.exe",
             "hash": "8d5f2914a0fdf69564e14d8ce7150fccbc641ac152baf28ea0d6bf0e1846517e"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ntnj/tunwg/releases/download/v$version/tunwg.exe"
+                "url": "https://gh-proxy.org/https://github.com/ntnj/tunwg/releases/download/v$version/tunwg.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ntnj/tunwg/releases/download/v$version/tunwg-arm64.exe#/tunwg.exe"
+                "url": "https://gh-proxy.org/https://github.com/ntnj/tunwg/releases/download/v$version/tunwg-arm64.exe#/tunwg.exe"
             }
         }
     }

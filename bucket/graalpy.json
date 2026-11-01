@@ -5,7 +5,7 @@
     "license": "UPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/oracle/graalpython/releases/download/graal-25.4.4/graalpy3.13-25.4.4-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/oracle/graalpython/releases/download/graal-25.4.4/graalpy3.13-25.4.4-windows-amd64.zip",
             "extract_dir": "graalpy3.13-25.4.4.1.1-windows-amd64",
             "hash": "0ddc8a5883d5d2b64465e672b5cbfc85376e16a36b50044ab78d70340ee8ef3e"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/oracle/graalpython/releases/download/graal-$version/graalpy3.13-$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/oracle/graalpython/releases/download/graal-$version/graalpy3.13-$version-windows-amd64.zip",
                 "extract_dir": "graalpy3.13-$version-windows-amd64"
             }
         },

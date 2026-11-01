@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenRA/OpenRA/releases/download/playtest-20261026/OpenRA-playtest-20261026-x64-winportable.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenRA/OpenRA/releases/download/playtest-20261026/OpenRA-playtest-20261026-x64-winportable.zip",
             "hash": "dc13099a7bbdf98e335d2d0478ad3da13c279442d8618f5c4b171aaf1f85fa80"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenRA/OpenRA/releases/download/playtest-$version/OpenRA-playtest-$version-x64-winportable.zip"
+                "url": "https://gh-proxy.org/https://github.com/OpenRA/OpenRA/releases/download/playtest-$version/OpenRA-playtest-$version-x64-winportable.zip"
             }
         }
     }

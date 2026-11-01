@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hydrogen-music/hydrogen/releases/download/1.2.7/Hydrogen-1.2.7-win64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/hydrogen-music/hydrogen/releases/download/1.2.7/Hydrogen-1.2.7-win64.exe#/dl.7z",
             "hash": "ae3b9d31b5e65ddf127c7aabb56a6f39cc85cb714729a74ce65acfe97623220c"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hydrogen-music/hydrogen/releases/download/$version/Hydrogen-$version-win64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/hydrogen-music/hydrogen/releases/download/$version/Hydrogen-$version-win64.exe#/dl.7z"
             }
         }
     }

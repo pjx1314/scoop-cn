@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/purescript/spago/releases/download/0.21.0/Windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/purescript/spago/releases/download/0.21.0/Windows.tar.gz",
             "hash": "20325fdc82561dcb034554727563d2d5329fba7d95eab5787c6ed0b8c2679531"
         }
     },

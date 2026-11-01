@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fooyin/fooyin/releases/download/v0.14.1/fooyin-0.14.1-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/fooyin/fooyin/releases/download/v0.14.1/fooyin-0.14.1-windows-x64-portable.zip",
             "extract_dir": "fooyin-0.14.1-windows-x64-portable",
             "hash": "c3b64708dda96528215590bb6b9897de1ac39ef9b3b192bc6af2fe0a40c11af9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/fooyin/fooyin/releases/download/v0.14.1/fooyin-0.14.1-windows-arm64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/fooyin/fooyin/releases/download/v0.14.1/fooyin-0.14.1-windows-arm64-portable.zip",
             "extract_dir": "fooyin-0.14.1-windows-arm64-portable",
             "hash": "a19ecd80f2296a20f1e5ee1abf36eaf382abd4d2866dc7769aeaa86ac1809677"
         }
@@ -32,11 +32,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fooyin/fooyin/releases/download/v$version/fooyin-$version-windows-x64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/fooyin/fooyin/releases/download/v$version/fooyin-$version-windows-x64-portable.zip",
                 "extract_dir": "fooyin-$version-windows-x64-portable"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/fooyin/fooyin/releases/download/v$version/fooyin-$version-windows-arm64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/fooyin/fooyin/releases/download/v$version/fooyin-$version-windows-arm64-portable.zip",
                 "extract_dir": "fooyin-$version-windows-arm64-portable"
             }
         }

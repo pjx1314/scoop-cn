@@ -5,15 +5,15 @@
     "homepage": "https://github.com/mondoohq/cnquery",
     "license": {
         "identifier": "BUSL-1.1",
-        "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/raw/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/raw/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/releases/download/v14.9.1/mql_14.9.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/releases/download/v14.9.1/mql_14.9.1_windows_amd64.zip",
             "hash": "11d0c6e04eb6eea8f627f144c5276690ec7a8569e43c96b9aff5f97e31dbb59d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/releases/download/v14.9.1/mql_14.9.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/releases/download/v14.9.1/mql_14.9.1_windows_arm64.zip",
             "hash": "ec092efc6bdf84c94cedea2c73c86fabfd4e4ac5d19c006f850f20036773dc95"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/releases/download/v$version/mql_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/releases/download/v$version/mql_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/releases/download/v$version/mql_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/releases/download/v$version/mql_$version_windows_arm64.zip"
             }
         },
         "hash": {

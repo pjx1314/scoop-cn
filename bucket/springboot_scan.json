@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Muhansrc/springboot_scan/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Muhansrc/springboot_scan/archive/refs/heads/master.zip",
     "hash": "e9fde22cd94f2449f8d248326d82d45f4c1a106104a49c14d5207e452cc38803",
     "extract_dir": "springboot_scan-master",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Muhansrc/springboot_scan/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Muhansrc/springboot_scan/archive/refs/heads/master.zip"
     }
 }

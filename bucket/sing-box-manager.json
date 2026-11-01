@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/structName/sing-box-manager-gui/releases/download/v0.2.22/sbm-windows-amd64.exe#/sbm.exe",
+            "url": "https://gh-proxy.org/https://github.com/structName/sing-box-manager-gui/releases/download/v0.2.22/sbm-windows-amd64.exe#/sbm.exe",
             "hash": "8996658376fcd62b0fe94e9e3ded776dedd22ce097b656d6a9f5fd7e70715fca"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/structName/sing-box-manager-gui/releases/download/v$version/sbm-windows-amd64.exe#/sbm.exe"
+                "url": "https://gh-proxy.org/https://github.com/structName/sing-box-manager-gui/releases/download/v$version/sbm-windows-amd64.exe#/sbm.exe"
             }
         }
     }

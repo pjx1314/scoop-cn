@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools/archive/refs/heads/master.zip",
     "hash": "1038d23415df037e024fff788f8ea933b45d5bcfa055dbee1cd895fcb3091d6b",
     "extract_dir": "Cloud-Bucket-Leak-Detection-Tools-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 云安全工具",

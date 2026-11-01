@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iKineticate/BlueGauge/releases/download/0.3.7/BlueGauge-0.3.7-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/iKineticate/BlueGauge/releases/download/0.3.7/BlueGauge-0.3.7-x86_64.zip",
             "hash": "b18685221ab97e540f5c870ca9b297f0019507aecfd1299da2af3930bb4d86eb"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/iKineticate/BlueGauge/releases/download/0.3.7/BlueGauge-0.3.7-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/iKineticate/BlueGauge/releases/download/0.3.7/BlueGauge-0.3.7-arm64.zip",
             "hash": "c16c9f4b6b7e6575fb9e04c16e75a16881391ed6496aed99127944b5255a6317"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iKineticate/BlueGauge/releases/download/$version/BlueGauge-$version-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/iKineticate/BlueGauge/releases/download/$version/BlueGauge-$version-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/iKineticate/BlueGauge/releases/download/$version/BlueGauge-$version-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/iKineticate/BlueGauge/releases/download/$version/BlueGauge-$version-arm64.zip"
             }
         }
     }

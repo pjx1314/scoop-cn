@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/4gray/iptvnator#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/4gray/iptvnator/releases/download/v0.24.0/iptvnator-0.24.0-windows-x64-setup.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/4gray/iptvnator/releases/download/v0.24.0/iptvnator-0.24.0-windows-x64-setup.exe#/dl.7z",
     "hash": "sha512:4fcc2f57ae9fb1be08f6840a045b40882c6a843d70efdab3e33d1c5f4cfcef382c68bf02f6c284be00925ba1f0ffd2c98f540acd8624c3e711353f5da3ee4de4",
     "architecture": {
         "64bit": {
@@ -38,7 +38,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/4gray/iptvnator/releases/download/v$version/iptvnator-$version-windows-x64-setup.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/4gray/iptvnator/releases/download/v$version/iptvnator-$version-windows-x64-setup.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/latest.yml",
             "regex": "sha512:\\s+$base64"

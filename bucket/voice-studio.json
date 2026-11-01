@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/debpalash/VoiceStudio/releases/download/v0.5.7/VoiceStudio-0.5.7-win-x64.exe#/dl.7z",
             "hash": "76c6385d404ae9f11b9e47d42996432ea4cd6c065afb06718c4842b39020cd80"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/debpalash/VoiceStudio/releases/download/v$version/VoiceStudio-$version-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/debpalash/VoiceStudio/releases/download/v$version/VoiceStudio-$version-win-x64.exe#/dl.7z"
             }
         },
         "hash": {

@@ -12,7 +12,7 @@
     "suggest": {
         "python": "miniconda3"
     },
-    "url": "https://gh-proxy.com/https://github.com/cilame/v_jstools/archive/refs/heads/main.zip#/dl.zip1",
+    "url": "https://gh-proxy.org/https://github.com/cilame/v_jstools/archive/refs/heads/main.zip#/dl.zip1",
     "hash": "",
     "pre_install": [
         "7z x \"$dir\\dl.zip1\" -o\"$dir\" -y",
@@ -24,6 +24,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/cilame/v_jstools/archive/refs/heads/main.zip#/dl.zip1"
+        "url": "https://gh-proxy.org/https://github.com/cilame/v_jstools/archive/refs/heads/main.zip#/dl.zip1"
     }
 }

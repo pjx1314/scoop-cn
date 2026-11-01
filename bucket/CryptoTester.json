@@ -3,7 +3,7 @@
     "description": "一个用于加密的实用程序，适用于勒索软件分析。",
     "homepage": "https://github.com/Demonslay335/CryptoTester",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/Demonslay335/CryptoTester/releases/download/v1.7.3.0/CryptoTester.zip",
+    "url": "https://gh-proxy.org/https://github.com/Demonslay335/CryptoTester/releases/download/v1.7.3.0/CryptoTester.zip",
     "hash": "e126b7c95ef8e152fd8428ee98de165d97059668b374363132d6aa3936036840",
     "bin": "CryptoTester.exe",
     "shortcuts": [
@@ -14,7 +14,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Demonslay335/CryptoTester/releases/download/v$version/CryptoTester.zip"
+        "url": "https://gh-proxy.org/https://github.com/Demonslay335/CryptoTester/releases/download/v$version/CryptoTester.zip"
     },
     "notes": [
         "【工具类型】: 安全工具",

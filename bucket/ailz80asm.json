@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/AILight/AILZ80ASM/releases/download/v1.0.31/AILZ80ASM.win-x64.v1.0.31.zip",
+            "url": "https://gh-proxy.org/https://github.com/AILight/AILZ80ASM/releases/download/v1.0.31/AILZ80ASM.win-x64.v1.0.31.zip",
             "hash": "40fe78818e10b779d85d4adc39695d349198fef98c07b0a6fdbcba469c45f485"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/AILight/AILZ80ASM/releases/download/v$version/AILZ80ASM.win-x64.v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/AILight/AILZ80ASM/releases/download/v$version/AILZ80ASM.win-x64.v$version.zip"
             }
         }
     }

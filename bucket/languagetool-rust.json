@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jeertmans/languagetool-rust/releases/download/v3.0.1/ltrs-v3.0.1-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/jeertmans/languagetool-rust/releases/download/v3.0.1/ltrs-v3.0.1-x86_64-pc-windows-msvc.tar.gz",
             "extract_dir": "ltrs-v3.0.1-x86_64-pc-windows-msvc",
             "hash": "ba50403188f559e940f6f5ad44c0687a4d541f3e026961b837a6ed3957caddc8"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jeertmans/languagetool-rust/releases/download/v$version/ltrs-v$version-x86_64-pc-windows-msvc.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/jeertmans/languagetool-rust/releases/download/v$version/ltrs-v$version-x86_64-pc-windows-msvc.tar.gz",
                 "extract_dir": "ltrs-v$version-x86_64-pc-windows-msvc"
             }
         }

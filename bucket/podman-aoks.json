@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/containers/podman/releases/download/v5.8.3/podman-5.8.3-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/containers/podman/releases/download/v5.8.3/podman-5.8.3-setup.exe",
             "hash": "b87fe41c112062b3f598574ed4aa3fb82aaa4bc150b29eb4915400e59b0b6b55"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/containers/podman/releases/download/v$version/podman-$version-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/containers/podman/releases/download/v$version/podman-$version-setup.exe"
             }
         },
         "hash": {

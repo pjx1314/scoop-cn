@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/manojkarthick/pqrs/releases/download/v0.3.2/pqrs-0.3.2-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/manojkarthick/pqrs/releases/download/v0.3.2/pqrs-0.3.2-x86_64-pc-windows-msvc.zip",
             "extract_dir": "pqrs-0.3.2-x86_64-pc-windows-msvc\\bin",
             "hash": "a6e7c60aeabbf640afb03c0d7f18fe643246760ebc823941ac4cdd65018ed0c5"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/manojkarthick/pqrs/releases/download/v$version/pqrs-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/manojkarthick/pqrs/releases/download/v$version/pqrs-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "pqrs-$version-x86_64-pc-windows-msvc\\bin"
             }
         },

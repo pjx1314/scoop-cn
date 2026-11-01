@@ -10,7 +10,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip",
+            "url": "https://gh-proxy.org/https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip",
             "hash": "2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_$matchHead_build/ghidra_$matchHead_PUBLIC_$matchReleasedate.zip"
+                "url": "https://gh-proxy.org/https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_$matchHead_build/ghidra_$matchHead_PUBLIC_$matchReleasedate.zip"
             }
         },
         "hash": {

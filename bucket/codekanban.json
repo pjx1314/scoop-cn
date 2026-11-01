@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fy0/CodeKanban/releases/download/v0.49.0/CodeKanban-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/fy0/CodeKanban/releases/download/v0.49.0/CodeKanban-windows-amd64.zip",
             "hash": "eef3d229aded18bf65803d95bcc1fc8e4291b2bea41bf464f1d81f9ba388faee"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fy0/CodeKanban/releases/download/v$version/CodeKanban-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/fy0/CodeKanban/releases/download/v$version/CodeKanban-windows-amd64.zip"
             }
         }
     },

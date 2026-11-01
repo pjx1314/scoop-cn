@@ -7,7 +7,7 @@
     "hash": "cf5892102c75df6000e87aec5653046f453f65846f361ee48ed1ab2771b0f1e3",
     "bin": "MFTECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "MFTECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

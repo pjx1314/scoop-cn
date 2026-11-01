@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Windows_x86_64.zip",
             "hash": "c895af7bfd7625ff7386bb8fbbceb48646ae908798f863d949ed27b042346a94"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Windows_i386.zip",
             "hash": "cad37c4d79e4acb2da78e3ed6961394e7ad042fbc4bf4962c5d31fee00b9933b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Windows_arm64.zip",
             "hash": "aab275baa88cecdc89b7ce263e186eb8737dc0a6c65524af655d527941525be9"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/$version/mermaid-ascii_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/$version/mermaid-ascii_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/$version/mermaid-ascii_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/$version/mermaid-ascii_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/$version/mermaid-ascii_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/$version/mermaid-ascii_Windows_arm64.zip"
             }
         }
     }

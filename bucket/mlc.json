@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/becheran/mlc/releases/download/v1.3.0/mlc-x86_64-windows.exe#/mlc.exe",
+            "url": "https://gh-proxy.org/https://github.com/becheran/mlc/releases/download/v1.3.0/mlc-x86_64-windows.exe#/mlc.exe",
             "hash": "16b4535fa1bd746cbb5e3ee6f279fded1b36439105a826f90b232ad23704ab30"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/becheran/mlc/releases/download/v$version/mlc-x86_64-windows.exe#/mlc.exe"
+                "url": "https://gh-proxy.org/https://github.com/becheran/mlc/releases/download/v$version/mlc-x86_64-windows.exe#/mlc.exe"
             }
         }
     }

@@ -3,7 +3,7 @@
     "description": "A CLI helper for ort, a suite of tools to automate software compliance checks.",
     "homepage": "https://oss-review-toolkit.org/",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/oss-review-toolkit/ort/releases/download/97.3.0/orth-97.3.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/oss-review-toolkit/ort/releases/download/97.3.0/orth-97.3.0.zip",
     "hash": "f60748a8ab1713ac0f7e3049fcf5644eacf0f8895434c716b83a5c8d19fa7998",
     "extract_dir": "orth-97.3.0",
     "bin": "bin\\orth.bat",
@@ -17,7 +17,7 @@
         "github": "https://github.com/oss-review-toolkit/ort"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/oss-review-toolkit/ort/releases/download/$version/orth-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/oss-review-toolkit/ort/releases/download/$version/orth-$version.zip",
         "extract_dir": "orth-$version"
     }
 }

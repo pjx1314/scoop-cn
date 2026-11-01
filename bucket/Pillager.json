@@ -4,9 +4,9 @@
     "homepage": "https://github.com/qwqdanchun/Pillager",
     "license": "MIT",
     "url": [
-        "https://gh-proxy.com/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/cs-plugin.zip",
-        "https://gh-proxy.com/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.bin",
-        "https://gh-proxy.com/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.exe"
+        "https://gh-proxy.org/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/cs-plugin.zip",
+        "https://gh-proxy.org/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.bin",
+        "https://gh-proxy.org/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.exe"
     ],
     "hash": [],
     "bin": [
@@ -19,9 +19,9 @@
     },
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/cs-plugin.zip",
-            "https://gh-proxy.com/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.bin",
-            "https://gh-proxy.com/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.exe"
+            "https://gh-proxy.org/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/cs-plugin.zip",
+            "https://gh-proxy.org/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.bin",
+            "https://gh-proxy.org/https://github.com/qwqdanchun/Pillager/releases/download/AutoBuild/Pillager.exe"
         ]
     },
     "notes": [

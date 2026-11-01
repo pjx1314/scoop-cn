@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CatVinci-Studio/Textus/releases/download/v1.3.2/Textus_1.3.2_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/CatVinci-Studio/Textus/releases/download/v1.3.2/Textus_1.3.2_x64-setup.exe#/dl.7z",
             "hash": "1c2fbfbb2922039c480db9d0d5e1a9a50084258c1b71fd7e6076174366dae7ec"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CatVinci-Studio/Textus/releases/download/v$version/Textus_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/CatVinci-Studio/Textus/releases/download/v$version/Textus_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

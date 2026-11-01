@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/DanielGavin/ols/releases/download/dev-2026-10/ols-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/DanielGavin/ols/releases/download/dev-2026-10/ols-x86_64-pc-windows-msvc.zip",
             "hash": "c92d7aa7975d20990f98db4a4faf76214decc57582dfe8812b8cbd4d7d2e7d17",
             "bin": [
                 [
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/DanielGavin/ols/releases/download/dev-$version/ols-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/DanielGavin/ols/releases/download/dev-$version/ols-x86_64-pc-windows-msvc.zip"
             }
         }
     }

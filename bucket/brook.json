@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_amd64.exe#/brook.exe",
+            "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_amd64.exe#/brook.exe",
             "hash": "4120e88660c0bcdfef792a4b407284509334fbec03c0ebbfff75a193c0488bc5"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_386.exe#/brook.exe",
+            "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_386.exe#/brook.exe",
             "hash": "5ca6932445967f9eb99b5cda74e9fb9cae048abfa26cb491ead27808fca2af13"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_arm64.exe#/brook.exe",
+            "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v20270101/brook_windows_arm64.exe#/brook.exe",
             "hash": "4e6e6fa9bb60017b8cc9ff980b0c480bfc88417d8f9d436e729dab46c1cb3808"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v$version/brook_windows_amd64.exe#/brook.exe"
+                "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v$version/brook_windows_amd64.exe#/brook.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v$version/brook_windows_386.exe#/brook.exe"
+                "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v$version/brook_windows_386.exe#/brook.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/txthinking/brook/releases/download/v$version/brook_windows_arm64.exe#/brook.exe"
+                "url": "https://gh-proxy.org/https://github.com/txthinking/brook/releases/download/v$version/brook_windows_arm64.exe#/brook.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cyanreg/cyanrip/releases/download/v0.9.3.1/cyanrip-win64.exe#/cyanrip.exe",
+            "url": "https://gh-proxy.org/https://github.com/cyanreg/cyanrip/releases/download/v0.9.3.1/cyanrip-win64.exe#/cyanrip.exe",
             "hash": "ea9075cad63ccecedfacefb8481c13b40d3ffb124a5c8c1bad7b408660a1c08d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cyanreg/cyanrip/releases/download/v$version/cyanrip-win64.exe#/cyanrip.exe"
+                "url": "https://gh-proxy.org/https://github.com/cyanreg/cyanrip/releases/download/v$version/cyanrip-win64.exe#/cyanrip.exe"
             }
         }
     }

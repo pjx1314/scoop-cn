@@ -6,7 +6,7 @@
         "identifier": "Apache-2.0 license",
         "url": "https://github.com/balena-io/etcher/blob/master/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-win32-x64-2.1.9.zip",
+    "url": "https://gh-proxy.org/https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-win32-x64-2.1.9.zip",
     "hash": "b87cf10ea10efe03346a057d4a549cc0e57874618fd4ebc030b4de8d97c4b94b",
     "installer": {
         "script": [
@@ -29,6 +29,6 @@
         "regex": "(?<file>balenaEtcher-(?:Portable|win32-x64)-([\\d.]+)\\.(?:exe|zip))"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/balena-io/etcher/releases/download/v$version/$matchFile"
+        "url": "https://gh-proxy.org/https://github.com/balena-io/etcher/releases/download/v$version/$matchFile"
     }
 }

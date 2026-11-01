@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/W01fh4cker/VcenterKit/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/W01fh4cker/VcenterKit/archive/refs/heads/master.zip",
     "hash": "d959da117698570f3cc630be91311a0cffc1844ff9f6fb32205650f488fbac47",
     "extract_dir": "VcenterKit-main",
     "pre_install": [
@@ -31,6 +31,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/W01fh4cker/VcenterKit/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/W01fh4cker/VcenterKit/archive/refs/heads/master.zip"
     }
 }

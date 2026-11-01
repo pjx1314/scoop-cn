@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/sinelaw/fresh/releases/download/v0.5.7/fresh-editor-x86_64-pc-windows-msvc.zip",
             "hash": "8d320b3e109e2c24f02ca9d86b05a5fecba3fcca5b78f17f3d3fed3018f8b7de"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sinelaw/fresh/releases/download/v$version/fresh-editor-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/sinelaw/fresh/releases/download/v$version/fresh-editor-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

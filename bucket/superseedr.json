@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr_v1.0.16_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr_v1.0.16_x64_en-US.msi",
             "hash": "179ebfa3837813205bba6f9edd5a2affcecdbb6d634f7359660f36fc176b3b40"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Jagalite/superseedr/releases/download/v$version/superseedr_v$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/Jagalite/superseedr/releases/download/v$version/superseedr_v$version_x64_en-US.msi"
             }
         }
     }

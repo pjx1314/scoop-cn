@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/PowerShell/PowerShell/releases/download/v7.4.22/PowerShell-7.4.22-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/PowerShell/PowerShell/releases/download/v7.4.22/PowerShell-7.4.22-win-x64.zip",
             "hash": "5f89f51860a1a3b07937945663afd7cbd44387361ff9985f5758939cb9bd6359"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/PowerShell/PowerShell/releases/download/v7.4.22/PowerShell-7.4.22-win-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/PowerShell/PowerShell/releases/download/v7.4.22/PowerShell-7.4.22-win-x86.zip",
             "hash": "5c9ba83facb8a6fcd2034cb14fa5af4b9b06c4e41f98682a41bc4b5fa969d024"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/PowerShell/PowerShell/releases/download/v7.4.22/PowerShell-7.4.22-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/PowerShell/PowerShell/releases/download/v7.4.22/PowerShell-7.4.22-win-arm64.zip",
             "hash": "c01fdf605caa1598b30e881db25239446e78ec2376e9526b364a291deeb47c3f"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-x86.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/PowerShell/PowerShell/releases/download/v$version/PowerShell-$version-win-arm64.zip"
             }
         },
         "hash": {

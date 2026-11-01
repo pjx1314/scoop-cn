@@ -5,11 +5,11 @@
     "version": "1.2.9",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.x86_64-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.x86_64-win64.zip",
             "hash": "e8472c0105dbde55db4ffbdbd190eab65e9da0375596454995fae4a1fc128dee"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.i386-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/doublecmd/doublecmd/releases/download/v1.2.9/doublecmd-1.2.9.i386-win32.zip",
             "hash": "834a573f7fb2850aebd5e3edbd0eb6b7bb05b730f38c0e6b184a2318e76e98e8"
         }
     },
@@ -48,10 +48,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/doublecmd/doublecmd/releases/download/v$version/doublecmd-$version.x86_64-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/doublecmd/doublecmd/releases/download/v$version/doublecmd-$version.x86_64-win64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/doublecmd/doublecmd/releases/download/v$version/doublecmd-$version.i386-win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/doublecmd/doublecmd/releases/download/v$version/doublecmd-$version.i386-win32.zip"
             }
         }
     }

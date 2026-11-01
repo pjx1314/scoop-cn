@@ -6,7 +6,7 @@
     "suggest": {
         "git": "git"
     },
-    "url": "https://gh-proxy.com/https://github.com/xwmx/nb/archive/refs/tags/7.25.6.zip",
+    "url": "https://gh-proxy.org/https://github.com/xwmx/nb/archive/refs/tags/7.25.6.zip",
     "hash": "c2910dfbf21ad380dce1c32d9f027893ed38c8025732865591f3a7b2fab2c07d",
     "extract_dir": "nb-7.25.6",
     "installer": {
@@ -32,7 +32,7 @@
         "regex": "Update version to ([\\d.]+)."
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/xwmx/nb/archive/refs/tags/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/xwmx/nb/archive/refs/tags/$version.zip",
         "extract_dir": "nb-$version"
     }
 }

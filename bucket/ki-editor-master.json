@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-x64.exe#/ki.exe",
+            "url": "https://gh-proxy.org/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-x64.exe#/ki.exe",
             "hash": "c3ab34ca5b48d1f904909ebb62117d650b0c89f852bbc2cd5f376f38ebc9fd29"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-arm64.exe#/ki.exe",
+            "url": "https://gh-proxy.org/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-arm64.exe#/ki.exe",
             "hash": "511ed8487d883a9047790c7fa19b1a9833eead2111fb79a7bee4722eb5abac42"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-x64.exe#/ki.exe"
+                "url": "https://gh-proxy.org/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-x64.exe#/ki.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-arm64.exe#/ki.exe"
+                "url": "https://gh-proxy.org/https://github.com/ki-editor/ki-editor/releases/download/latest/ki-windows-arm64.exe#/ki.exe"
             }
         }
     }

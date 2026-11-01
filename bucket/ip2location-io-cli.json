@@ -5,15 +5,15 @@
     "homepage": "https://github.com/ip2location/ip2location-io-cli",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ip2location/ip2location-io-cli/releases/download/v1.2.1/ip2locationio_1.2.1_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/ip2location/ip2location-io-cli/releases/download/v1.2.1/ip2locationio_1.2.1_windows_386.zip",
             "hash": "2b23c44fc28e61ed8d20c12f2df359b163ec4b3dcfcb055e462d324edbf93010"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ip2location/ip2location-io-cli/releases/download/v1.2.1/ip2locationio_1.2.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ip2location/ip2location-io-cli/releases/download/v1.2.1/ip2locationio_1.2.1_windows_amd64.zip",
             "hash": "e5d31353aa4a0b28ebbb3f52a2a698a8fbe638e482d61a03bc00292864e4eb41"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ip2location/ip2location-io-cli/releases/download/v1.2.1/ip2locationio_1.2.1_windows_arm.zip",
+            "url": "https://gh-proxy.org/https://github.com/ip2location/ip2location-io-cli/releases/download/v1.2.1/ip2locationio_1.2.1_windows_arm.zip",
             "hash": "d1f88bd7d9ef187150357068b212f77a8ad7c0d9858dda2452cd9fde91e46ee6"
         }
     },
@@ -26,13 +26,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ip2location/ip2location-io-cli/releases/download/v$version/ip2locationio_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/ip2location/ip2location-io-cli/releases/download/v$version/ip2locationio_$version_windows_386.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ip2location/ip2location-io-cli/releases/download/v$version/ip2locationio_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ip2location/ip2location-io-cli/releases/download/v$version/ip2locationio_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ip2location/ip2location-io-cli/releases/download/v$version/ip2locationio_$version_windows_arm.zip"
+                "url": "https://gh-proxy.org/https://github.com/ip2location/ip2location-io-cli/releases/download/v$version/ip2locationio_$version_windows_arm.zip"
             }
         }
     }

@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/statsd_exporter/releases/download/v0.31.0/statsd_exporter-0.31.0.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/statsd_exporter/releases/download/v0.31.0/statsd_exporter-0.31.0.windows-amd64.tar.gz",
             "hash": "2a6d4bbee96336bb9ef15a538ba31a0b522bf07a2a5c10a7b90feac484e9bd5f",
             "extract_dir": "statsd_exporter-0.31.0.windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/statsd_exporter/releases/download/v0.31.0/statsd_exporter-0.31.0.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/statsd_exporter/releases/download/v0.31.0/statsd_exporter-0.31.0.windows-386.tar.gz",
             "hash": "467c54449b1e1656eab78ae3486389de26a4413694e943b59e2b348c54da4881",
             "extract_dir": "statsd_exporter-0.31.0.windows-386"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/statsd_exporter/releases/download/v$version/statsd_exporter-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/statsd_exporter/releases/download/v$version/statsd_exporter-$version.windows-amd64.tar.gz",
                 "extract_dir": "statsd_exporter-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/statsd_exporter/releases/download/v$version/statsd_exporter-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/statsd_exporter/releases/download/v$version/statsd_exporter-$version.windows-386.tar.gz",
                 "extract_dir": "statsd_exporter-$version.windows-386"
             }
         },

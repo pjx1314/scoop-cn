@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/creamlike1024/EasyLPAC/releases/download/0.8.1.1/EasyLPAC-windows-x86_64-with-lpac.zip",
+            "url": "https://gh-proxy.org/https://github.com/creamlike1024/EasyLPAC/releases/download/0.8.1.1/EasyLPAC-windows-x86_64-with-lpac.zip",
             "hash": "71d072991c4be7390c53bebe77d4ad08e053abd2bfd7cd6a044a85b9f4b45f28"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/creamlike1024/EasyLPAC/releases/download/$version/EasyLPAC-windows-x86_64-with-lpac.zip"
+                "url": "https://gh-proxy.org/https://github.com/creamlike1024/EasyLPAC/releases/download/$version/EasyLPAC-windows-x86_64-with-lpac.zip"
             }
         }
     }

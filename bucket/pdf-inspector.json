@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-1.25.2/pdf-inspector-1.25.2-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-1.25.2/pdf-inspector-1.25.2-x86_64-pc-windows-msvc.tar.gz",
             "hash": "5aba3e3b6630617671b24414e05284478f87b5b6b261c11207aee18d85ce92b7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-1.25.2/pdf-inspector-1.25.2-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-1.25.2/pdf-inspector-1.25.2-aarch64-pc-windows-msvc.tar.gz",
             "hash": "4932c3f0c0170202d9187bcfb8fa9be9f0295eb0369784f112da95a0a7172435"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-$version/pdf-inspector-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-$version/pdf-inspector-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-$version/pdf-inspector-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/pdf-inspector-$version/pdf-inspector-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

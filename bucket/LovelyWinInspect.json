@@ -4,8 +4,8 @@
     "homepage": "https://github.com/LovelyTeams/LovelyWinInspect",
     "license": "AGPL-3.0-only",
     "url": [
-        "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyWinInspect/releases/download/v0.1.1/LovelyWinInspect.exe",
-        "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyWinInspect/archive/refs/tags/v0.1.1.zip#/LovelyWinInspect-source.zip"
+        "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyWinInspect/releases/download/v0.1.1/LovelyWinInspect.exe",
+        "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyWinInspect/archive/refs/tags/v0.1.1.zip#/LovelyWinInspect-source.zip"
     ],
     "hash": [
         "sha256:57e2a194d1cc8e691f1aa69a96e874ba45df00a4edede5b0f38f0b604aab29c0",
@@ -20,8 +20,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyWinInspect/releases/download/v$version/LovelyWinInspect.exe",
-            "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyWinInspect/archive/refs/tags/v$version.zip#/LovelyWinInspect-source.zip"
+            "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyWinInspect/releases/download/v$version/LovelyWinInspect.exe",
+            "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyWinInspect/archive/refs/tags/v$version.zip#/LovelyWinInspect-source.zip"
         ]
     },
     "notes": [

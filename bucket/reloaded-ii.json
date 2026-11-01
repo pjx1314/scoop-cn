@@ -9,7 +9,7 @@
     "suggest": {
         ".NET Desktop Runtime 9.0": "main/windowsdesktop-runtime-9.0"
     },
-    "url": "https://gh-proxy.com/https://github.com/Reloaded-Project/Reloaded-II/releases/download/1.31.0/Release.zip",
+    "url": "https://gh-proxy.org/https://github.com/Reloaded-Project/Reloaded-II/releases/download/1.31.0/Release.zip",
     "hash": "c893da3ba8596d9266826bd5ca8aacd25fe3b53d09314324ab65c7b618a05f8c",
     "architecture": {
         "32bit": {
@@ -51,6 +51,6 @@
         "github": "https://github.com/Reloaded-Project/Reloaded-II"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Reloaded-Project/Reloaded-II/releases/download/$version/Release.zip"
+        "url": "https://gh-proxy.org/https://github.com/Reloaded-Project/Reloaded-II/releases/download/$version/Release.zip"
     }
 }

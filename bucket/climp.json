@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/olivier-w/climp/releases/download/v0.3.2/climp_v0.3.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/olivier-w/climp/releases/download/v0.3.2/climp_v0.3.2_windows_amd64.zip",
             "hash": "ec823349038dc3e507f83607dca2b2acc5868207433c1c5abb5255018987e2c9"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/olivier-w/climp/releases/download/v$version/climp_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/olivier-w/climp/releases/download/v$version/climp_v$version_windows_amd64.zip"
             }
         }
     }

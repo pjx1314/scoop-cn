@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Licoy/Quosparr/releases/download/v1.10.2/quosparr-1.10.2-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Licoy/Quosparr/releases/download/v1.10.2/quosparr-1.10.2-windows-amd64.tar.gz",
             "hash": "391d7c153817dcfc1d97bdafe47c31c4a400af2d01506664397d7f24143b65b7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Licoy/Quosparr/releases/download/v1.10.2/quosparr-1.10.2-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/Licoy/Quosparr/releases/download/v1.10.2/quosparr-1.10.2-windows-arm64.tar.gz",
             "hash": "db14ed626a43c0038425d5def4cd14b3d11e416606d7fbc32e9eefca6fe5740e"
         }
     },
@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Licoy/Quosparr/releases/download/v$version/quosparr-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Licoy/Quosparr/releases/download/v$version/quosparr-$version-windows-amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Licoy/Quosparr/releases/download/v$version/quosparr-$version-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/Licoy/Quosparr/releases/download/v$version/quosparr-$version-windows-arm64.tar.gz"
             }
         },
         "hash": {

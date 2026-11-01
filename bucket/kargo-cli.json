@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/akuity/kargo/releases/download/v1.12.5/kargo-windows-amd64.exe#/kargo.exe",
+            "url": "https://gh-proxy.org/https://github.com/akuity/kargo/releases/download/v1.12.5/kargo-windows-amd64.exe#/kargo.exe",
             "hash": "cf74ad2198ead01386c931be7fd3e4bd9683d2b0a93fe0a51c4ebe3d8ce9838d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/akuity/kargo/releases/download/v1.12.5/kargo-windows-arm64.exe#/kargo.exe",
+            "url": "https://gh-proxy.org/https://github.com/akuity/kargo/releases/download/v1.12.5/kargo-windows-arm64.exe#/kargo.exe",
             "hash": "8085b79db9011ee7ba00dcc4053f02951923f41b58b500f6a06de08f8c2a967c"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/akuity/kargo/releases/download/v$version/kargo-windows-amd64.exe#/kargo.exe"
+                "url": "https://gh-proxy.org/https://github.com/akuity/kargo/releases/download/v$version/kargo-windows-amd64.exe#/kargo.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/akuity/kargo/releases/download/v$version/kargo-windows-arm64.exe#/kargo.exe"
+                "url": "https://gh-proxy.org/https://github.com/akuity/kargo/releases/download/v$version/kargo-windows-arm64.exe#/kargo.exe"
             }
         }
     }

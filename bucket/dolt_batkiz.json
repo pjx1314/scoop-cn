@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dolthub/dolt/releases/download/v2.6.2/dolt-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dolthub/dolt/releases/download/v2.6.2/dolt-windows-amd64.zip",
             "hash": "d804a06806a91b9e6acd2a0ac6ebec5c5d64756aff4572fa079fbc5499f1916c",
             "extract_dir": "dolt-windows-amd64"
         }
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dolthub/dolt/releases/download/v$version/dolt-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dolthub/dolt/releases/download/v$version/dolt-windows-amd64.zip"
             }
         }
     }

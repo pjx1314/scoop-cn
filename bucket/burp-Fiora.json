@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/bit4woo/Fiora",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/bit4woo/Fiora/releases/download/v0.1/Fiora-v0.1-jar-with-dependencies.jar#/Fiora.jar",
+    "url": "https://gh-proxy.org/https://github.com/bit4woo/Fiora/releases/download/v0.1/Fiora-v0.1-jar-with-dependencies.jar#/Fiora.jar",
     "hash": "",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bit4woo/Fiora/releases/download/v$version/Fiora-v$version-jar-with-dependencies.jar#/Fiora.jar"
+        "url": "https://gh-proxy.org/https://github.com/bit4woo/Fiora/releases/download/v$version/Fiora-v$version-jar-with-dependencies.jar#/Fiora.jar"
     }
 }

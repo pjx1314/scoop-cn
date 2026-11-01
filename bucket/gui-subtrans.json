@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/machinewrapped/llm-subtrans/releases/download/v1.7.4/gui-subtrans-1.7.4.zip",
+            "url": "https://gh-proxy.org/https://github.com/machinewrapped/llm-subtrans/releases/download/v1.7.4/gui-subtrans-1.7.4.zip",
             "hash": "5feb925f544ec0954110cdccb148b9ca1bf245d7b00fdca269c8b0389ac5b9a6"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/machinewrapped/llm-subtrans/releases/download/v$version/gui-subtrans-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/machinewrapped/llm-subtrans/releases/download/v$version/gui-subtrans-$version.zip"
             }
         }
     }

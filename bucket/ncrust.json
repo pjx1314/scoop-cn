@@ -9,8 +9,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/GuitaristRin/Ncrust/releases/download/CrateStack-20261025A/ncrust-windows-x86_64-1.0.3.msix",
-                "https://gh-proxy.com/https://github.com/GuitaristRin/Ncrust/releases/download/CrateStack-20261025A/ncrust-windows-x86_64-1.0.3.cer"
+                "https://gh-proxy.org/https://github.com/GuitaristRin/Ncrust/releases/download/CrateStack-20261025A/ncrust-windows-x86_64-1.0.3.msix",
+                "https://gh-proxy.org/https://github.com/GuitaristRin/Ncrust/releases/download/CrateStack-20261025A/ncrust-windows-x86_64-1.0.3.cer"
             ],
             "hash": [
                 "2ab6c8dc319204a0ca9dc59bc50051f05bf10ce005cd48ebe9a7fb5bf6b07084",
@@ -49,8 +49,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/GuitaristRin/Ncrust/releases/download/$matchTag/ncrust-windows-x86_64-$version.msix",
-                    "https://gh-proxy.com/https://github.com/GuitaristRin/Ncrust/releases/download/$matchTag/ncrust-windows-x86_64-$version.cer"
+                    "https://gh-proxy.org/https://github.com/GuitaristRin/Ncrust/releases/download/$matchTag/ncrust-windows-x86_64-$version.msix",
+                    "https://gh-proxy.org/https://github.com/GuitaristRin/Ncrust/releases/download/$matchTag/ncrust-windows-x86_64-$version.cer"
                 ]
             }
         }

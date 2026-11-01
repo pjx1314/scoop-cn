@@ -3,7 +3,7 @@
     "description": "轻量的 Scoop 应用搜索工具，支持从桶中快速检索应用程序并以格式化表格展示结果",
     "homepage": "https://github.com/bright-angel/scoop-searchx",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/bright-angel/scoop-searchx/archive/refs/tags/v1.0.0.zip#/scoop-searchx.zip",
+    "url": "https://gh-proxy.org/https://github.com/bright-angel/scoop-searchx/archive/refs/tags/v1.0.0.zip#/scoop-searchx.zip",
     "hash": "sha256:3CC591CA57A083C601B24806C086FFFA1180955F8B9A1FF33735BD985F712056",
     "extract_dir": "scoop-searchx-1.0.0",
     "suggest": {

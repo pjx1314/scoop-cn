@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-arm64.tgz",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-x64.tgz",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-macos.zip",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip"
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-arm64.tgz",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-x64.tgz",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-macos.zip",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip"
             ],
             "hash": [
                 "a08cb795a1e8d11ea6c2dd6adf8c9edead9a7c3bbca07681dad79cc3eaec0ef4",
@@ -23,11 +23,11 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-arm64.tgz",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-x64.tgz",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-macos.zip",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip"
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-arm64.tgz",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-x64.tgz",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-macos.zip",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip"
             ],
             "hash": [
                 "a08cb795a1e8d11ea6c2dd6adf8c9edead9a7c3bbca07681dad79cc3eaec0ef4",
@@ -39,11 +39,11 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-arm64.tgz",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-x64.tgz",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-macos.zip",
-                "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip"
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-arm64.tgz",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-linux-x64.tgz",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-macos.zip",
+                "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v2.2/jattach-windows.zip"
             ],
             "hash": [
                 "a08cb795a1e8d11ea6c2dd6adf8c9edead9a7c3bbca07681dad79cc3eaec0ef4",
@@ -58,29 +58,29 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-arm64.tgz",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-x64.tgz",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-macos.zip",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-arm64.tgz",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-x64.tgz",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-macos.zip",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-arm64.tgz",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-x64.tgz",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-macos.zip",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-arm64.tgz",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-x64.tgz",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-macos.zip",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-arm64.tgz",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-x64.tgz",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-macos.zip",
-                    "https://gh-proxy.com/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-arm64.tgz",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-linux-x64.tgz",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-macos.zip",
+                    "https://gh-proxy.org/https://github.com/jattach/jattach/releases/download/v$version/jattach-windows.zip"
                 ]
             }
         }

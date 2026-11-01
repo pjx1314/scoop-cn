@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/builtbybel/FlyOOBE/releases/latest/download/Flyby11-classic-deprecated.zip",
+            "url": "https://gh-proxy.org/https://github.com/builtbybel/FlyOOBE/releases/latest/download/Flyby11-classic-deprecated.zip",
             "hash": "45e88da21c8416eb1134cd0fac7a3c09d41dca7a96906b48bd5c9301d5836f84"
         }
     },

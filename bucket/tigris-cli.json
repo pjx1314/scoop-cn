@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tigrisdata/storage/releases/download/%40tigrisdata%2Fcli%403.17.1/tigris-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tigrisdata/storage/releases/download/%40tigrisdata%2Fcli%403.17.1/tigris-windows-x64.zip",
             "hash": "c900bbe8fc08138599c2cc8c84d38b4a56b8f6d41a76968693d1795826c66363"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tigrisdata/storage/releases/download/%40tigrisdata%2Fcli%40$version/tigris-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tigrisdata/storage/releases/download/%40tigrisdata%2Fcli%40$version/tigris-windows-x64.zip"
             }
         }
     }

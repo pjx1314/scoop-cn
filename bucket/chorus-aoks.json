@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v0.7.11/standalone_v0.7.11_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v0.7.11/standalone_v0.7.11_windows_386.zip",
             "hash": "d65e83df228e92187521ef5f71a5af76c438a77d823445203e8d81301bf7c67d"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v0.7.11/standalone_v0.7.11_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v0.7.11/standalone_v0.7.11_windows_amd64.zip",
             "hash": "aaf6e81738eeb112e2430b4c97420b05a73ebac8df7711e5d6d604218c68654f"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v$version/standalone_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v$version/standalone_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/clyso/chorus/releases/download/v$version/standalone_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/clyso/chorus/releases/download/v$version/standalone_v$version_windows_386.zip"
             }
         },
         "hash": {

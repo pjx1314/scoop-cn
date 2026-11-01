@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Setup.exe",
             "hash": "ea6dcd0eae7a19ac72f732d78d554f22340c2e49141e049b9cbd770702903abf"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Setup-arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Setup-arm64.exe",
             "hash": "7d4ba2a12f1c2617d82eb71dbeeaa3251629cf5f038d8ff94c12d3ef1c6cd68c"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Setup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Setup-arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Setup-arm64.exe"
             }
         }
     }

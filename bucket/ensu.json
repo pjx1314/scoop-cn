@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ente-io/ente/releases/download/ensu-v0.1.22/Ensu_0.1.22_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ente-io/ente/releases/download/ensu-v0.1.22/Ensu_0.1.22_x64-setup.exe#/dl.7z",
             "hash": "6bd67ca86339cc725f88fad32c2f65020872a624faa4a58daddfd77b868bb9cb"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ente-io/ente/releases/download/ensu-v$version/Ensu_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ente-io/ente/releases/download/ensu-v$version/Ensu_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

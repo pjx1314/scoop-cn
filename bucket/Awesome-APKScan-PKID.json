@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/Bin4xin/Awesome-APKScan-PKID/releases/download/Ver_1.0/Awesome-ApkScan-PKID.jar",
+    "url": "https://gh-proxy.org/https://github.com/Bin4xin/Awesome-APKScan-PKID/releases/download/Ver_1.0/Awesome-ApkScan-PKID.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\Awesome-ApkScan-PKID.bat\" '@pushd %~dp0",
@@ -29,6 +29,6 @@
         "regex": "Ver_([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Bin4xin/Awesome-APKScan-PKID/releases/download/Ver_$version/Awesome-ApkScan-PKID.jar"
+        "url": "https://gh-proxy.org/https://github.com/Bin4xin/Awesome-APKScan-PKID/releases/download/Ver_$version/Awesome-ApkScan-PKID.jar"
     }
 }

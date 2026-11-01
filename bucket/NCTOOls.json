@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/wafinfo/NCTOOls/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/wafinfo/NCTOOls/archive/refs/heads/master.zip",
     "hash": "03d540d53a10ab576b019585c3858dbf96fa9954f80be3054ea314eff20c1f33",
     "extract_dir": "NCTOOls-main",
     "pre_install": [
@@ -31,7 +31,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wafinfo/NCTOOls/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/wafinfo/NCTOOls/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -6,7 +6,7 @@
         "identifier": "Freeware",
         "url": "https://github.com/naderi/trayme/blob/main/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/naderi/trayme/releases/download/v1.1.1/Trayme.exe",
+    "url": "https://gh-proxy.org/https://github.com/naderi/trayme/releases/download/v1.1.1/Trayme.exe",
     "hash": "852c21abbc04b36a5245c17b1d051eac78973f175a944c8f3fa60cad256e47a4",
     "pre_install": "if (!(Test-Path \"$persist_dir\\Trayme.xml\")) { Set-Content \"$dir\\Trayme.xml\" '<?xml version=\"1.0\" encoding=\"utf-8\"?><Trayme />' -Encoding UTF8 }",
     "shortcuts": [
@@ -18,6 +18,6 @@
     "persist": "Trayme.xml",
     "checkver": "GitHub",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/naderi/trayme/releases/download/v$version/Trayme.exe"
+        "url": "https://gh-proxy.org/https://github.com/naderi/trayme/releases/download/v$version/Trayme.exe"
     }
 }

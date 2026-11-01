@@ -5,7 +5,7 @@
     "license": "GNU General Public License v3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SpriteOvO/AirPodsDesktop/releases/download/v0.6.1/AirPodsDesktop-0.6.1-win64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/SpriteOvO/AirPodsDesktop/releases/download/v0.6.1/AirPodsDesktop-0.6.1-win64-portable.zip",
             "hash": "3633c42ef3d891ba0ad32848714f65bec9a95427ce7791a2b4b30bfc915dcbd6"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SpriteOvO/AirPodsDesktop/releases/download/v$version/AirPodsDesktop-$version-win64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/SpriteOvO/AirPodsDesktop/releases/download/v$version/AirPodsDesktop-$version-win64-portable.zip"
             }
         }
     }

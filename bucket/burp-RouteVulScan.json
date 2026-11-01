@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/F6JO/RouteVulScan",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/F6JO/RouteVulScan/releases/download/RouteVulScan2.0/RouteVulScan-2.0.jar#/RouteVulScan.jar",
+    "url": "https://gh-proxy.org/https://github.com/F6JO/RouteVulScan/releases/download/RouteVulScan2.0/RouteVulScan-2.0.jar#/RouteVulScan.jar",
     "hash": "sha256:dc30ec68079f3d2ca13c8d115a1c87de375b58f9f86d7c33297d04e9dcdfa456",
     "checkver": {
         "url": "https://api.github.com/repos/F6JO/RouteVulScan/releases/latest",
@@ -17,6 +17,6 @@
         "regex": "RouteVulScan([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/F6JO/RouteVulScan/releases/download/RouteVulScan$version/RouteVulScan-$version.jar#/RouteVulScan.jar"
+        "url": "https://gh-proxy.org/https://github.com/F6JO/RouteVulScan/releases/download/RouteVulScan$version/RouteVulScan-$version.jar#/RouteVulScan.jar"
     }
 }

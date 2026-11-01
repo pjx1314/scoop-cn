@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dotnet/dev-proxy/releases/download/v4.0.0/dev-proxy-win-x64-v4.0.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/dotnet/dev-proxy/releases/download/v4.0.0/dev-proxy-win-x64-v4.0.0.zip",
             "hash": "b9759d68bd8c149df483384f7853f46759eadd8e99522498591b11e8978e343f"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/dotnet/dev-proxy/releases/download/v4.0.0/dev-proxy-win-x86-v4.0.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/dotnet/dev-proxy/releases/download/v4.0.0/dev-proxy-win-x86-v4.0.0.zip",
             "hash": "fe291d260687252ee2ea8869724d23f812adecf92ae7e0054806d03962cd0c99"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dotnet/dev-proxy/releases/download/v$version/dev-proxy-win-x64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/dotnet/dev-proxy/releases/download/v$version/dev-proxy-win-x64-v$version.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/dotnet/dev-proxy/releases/download/v$version/dev-proxy-win-x86-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/dotnet/dev-proxy/releases/download/v$version/dev-proxy-win-x86-v$version.zip"
             }
         }
     }

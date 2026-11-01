@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/psign/releases/download/v0.8.1/psign-tool-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/psign/releases/download/v0.8.1/psign-tool-windows-x64.zip",
             "hash": "cb3637318189a8ec99fdd467e76731760025ee2e797768335894dbf27129bbb2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/psign/releases/download/v0.8.1/psign-tool-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/psign/releases/download/v0.8.1/psign-tool-windows-arm64.zip",
             "hash": "68d01eca44b5983c223ceafec78d15b4e59425643bd2decfd29afe6460897ca0"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/psign/releases/download/v$version/psign-tool-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/psign/releases/download/v$version/psign-tool-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/psign/releases/download/v$version/psign-tool-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/psign/releases/download/v$version/psign-tool-windows-arm64.zip"
             }
         },
         "hash": {

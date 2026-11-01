@@ -10,7 +10,7 @@
             "main/oraclejdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/SagaHealthcareIT/mirthsync/releases/download/3.8.1/mirthsync-3.8.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/SagaHealthcareIT/mirthsync/releases/download/3.8.1/mirthsync-3.8.1.zip",
     "hash": "1f9d685848d9c58eeb72545d261f47b7a5f5d543b3205bee40bf53d38f4c8b4c",
     "extract_dir": "mirthsync-3.8.1",
     "bin": "bin\\mirthsync.bat",
@@ -18,7 +18,7 @@
         "github": "https://github.com/SagaHealthcareIT/mirthsync"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/SagaHealthcareIT/mirthsync/releases/download/$version/mirthsync-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/SagaHealthcareIT/mirthsync/releases/download/$version/mirthsync-$version.zip",
         "extract_dir": "mirthsync-$version"
     }
 }

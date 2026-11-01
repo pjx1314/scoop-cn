@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/webstonehq/tuxedo/releases/download/v2026.8.1/tuxedo-v2026.8.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/webstonehq/tuxedo/releases/download/v2026.8.1/tuxedo-v2026.8.1-x86_64-pc-windows-msvc.zip",
             "hash": "30026d4ce96617bb54b9767bde6859e8fa4d79495c945dfff769dbbe7cab99c9"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/webstonehq/tuxedo/releases/download/v$version/tuxedo-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/webstonehq/tuxedo/releases/download/v$version/tuxedo-v$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

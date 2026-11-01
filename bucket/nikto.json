@@ -6,7 +6,7 @@
     "suggest": {
         "perl": "perl"
     },
-    "url": "https://gh-proxy.com/https://github.com/sullo/nikto/releases/download/2.6.0/nikto-main.zip",
+    "url": "https://gh-proxy.org/https://github.com/sullo/nikto/releases/download/2.6.0/nikto-main.zip",
     "hash": "sha256:3057fce7574168e036715ae7ccf2c04fe9a21864514c69fa0644d02de57ca8c8",
     "extract_dir": "nikto-main",
     "pre_install": [
@@ -18,7 +18,7 @@
         "jsonpath": "$.tag_name"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sullo/nikto/releases/download/$version/nikto-main.zip"
+        "url": "https://gh-proxy.org/https://github.com/sullo/nikto/releases/download/$version/nikto-main.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

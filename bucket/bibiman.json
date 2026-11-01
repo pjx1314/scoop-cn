@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-0.19.7/bibiman-0.19.7-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-0.19.7/bibiman-0.19.7-x86_64-pc-windows-msvc.tar.gz",
             "hash": "c260a534f4438297d108671e5fd0d2cba3f48da602b03f2865f40ffac2ec151a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-0.19.7/bibiman-0.19.7-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-0.19.7/bibiman-0.19.7-aarch64-pc-windows-msvc.tar.gz",
             "hash": "554c70c85ab8c1aeb5d5e06f42f8c2e72d3335ef52c8e9188dd683dd51df5d75"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-$version/bibiman-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-$version/bibiman-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-$version/bibiman-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/bibiman-$version/bibiman-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

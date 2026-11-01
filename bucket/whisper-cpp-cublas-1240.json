@@ -18,7 +18,7 @@
         "whisper-talk-llama.exe",
         "whisper-vad-speech-segments.exe"
     ],
-    "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/v1.9.2/whisper-cublas-12.4.0-bin-x64.zip",
+    "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/v1.9.2/whisper-cublas-12.4.0-bin-x64.zip",
     "hash": "443110ddaad70d4290ab2e77179e31cf712035bbc4fad56bb4519a90c917b39c",
     "extract_dir": "Release",
     "checkver": {
@@ -33,6 +33,6 @@
         "regex": "((?<app>[\\d.]+)-12\\.4\\.0)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/v$matchApp/whisper-cublas-12.4.0-bin-x64.zip"
+        "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/v$matchApp/whisper-cublas-12.4.0-bin-x64.zip"
     }
 }

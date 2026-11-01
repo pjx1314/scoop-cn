@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win64_portable_0.4.0_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win64_portable_0.4.0_x64.zip",
             "hash": "f9830b9388b1d13c77c4f77d72f0d1b550774d6aabef75233852bdab2dcca92a"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win32_portable_0.4.0_x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win32_portable_0.4.0_x86.zip",
             "hash": "3270b705efa8550139b5ee3e5a7ba5a4465ab8a635c40415897e1ca100ceeddc"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win64_portable_$matchMain_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win64_portable_$matchMain_x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win32_portable_$matchMain_x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/XMachOViewer/releases/download/Beta/XMachOViewer_win32_portable_$matchMain_x86.zip"
             }
         }
     }

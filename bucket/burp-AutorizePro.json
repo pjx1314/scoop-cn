@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/WuliRuler/AutorizePro",
     "license": "Apache-2.0 license",
-    "url": "https://gh-proxy.com/https://github.com/WuliRuler/AutorizePro/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/WuliRuler/AutorizePro/archive/refs/heads/master.zip",
     "extract_dir": "AutorizePro-master",
     "checkver": {
         "url": "https://api.github.com/repos/WuliRuler/AutorizePro/commits",
@@ -17,6 +17,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/WuliRuler/AutorizePro/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/WuliRuler/AutorizePro/archive/refs/heads/master.zip"
     }
 }

@@ -10,8 +10,8 @@
     "homepage": "https://github.com/mrknow001/wx_sessionkey_decrypt",
     "license": "UNKNOWN",
     "url": [
-        "https://gh-proxy.com/https://github.com/mrknow001/wx_sessionkey_decrypt/releases/download/v0.1/Wx_SessionKey_crypt.exe",
-        "https://gh-proxy.com/https://github.com/mrknow001/wx_sessionkey_decrypt/archive/refs/heads/main.zip"
+        "https://gh-proxy.org/https://github.com/mrknow001/wx_sessionkey_decrypt/releases/download/v0.1/Wx_SessionKey_crypt.exe",
+        "https://gh-proxy.org/https://github.com/mrknow001/wx_sessionkey_decrypt/archive/refs/heads/main.zip"
     ],
     "bin": "Wx_SessionKey_crypt.exe",
     "shortcuts": [
@@ -23,8 +23,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/mrknow001/wx_sessionkey_decrypt/releases/download/v0.1/Wx_SessionKey_crypt.exe",
-            "https://gh-proxy.com/https://github.com/mrknow001/wx_sessionkey_decrypt/archive/refs/heads/main.zip"
+            "https://gh-proxy.org/https://github.com/mrknow001/wx_sessionkey_decrypt/releases/download/v0.1/Wx_SessionKey_crypt.exe",
+            "https://gh-proxy.org/https://github.com/mrknow001/wx_sessionkey_decrypt/archive/refs/heads/main.zip"
         ]
     }
 }

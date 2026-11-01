@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Onion99/Agro/releases/download/v1.2.4/Agro-1.2.4-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Onion99/Agro/releases/download/v1.2.4/Agro-1.2.4-windows-x86_64.zip",
             "hash": "315a94a1e1b12a77dad0f15cbf764718354d7713241210e75b8b63a413dbf827"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Onion99/Agro/releases/download/v$version/Agro-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/Onion99/Agro/releases/download/v$version/Agro-$version-windows-x86_64.zip",
                 "extract_dir": "Agro"
             }
         }

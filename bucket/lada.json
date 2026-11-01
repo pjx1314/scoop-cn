@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/ladaapp/lada/releases/download/v0.11.0/lada-v0.11.0_windows_nvidia.7z.001",
-                "https://gh-proxy.com/https://github.com/ladaapp/lada/releases/download/v0.11.0/lada-v0.11.0_windows_nvidia.7z.002"
+                "https://gh-proxy.org/https://github.com/ladaapp/lada/releases/download/v0.11.0/lada-v0.11.0_windows_nvidia.7z.001",
+                "https://gh-proxy.org/https://github.com/ladaapp/lada/releases/download/v0.11.0/lada-v0.11.0_windows_nvidia.7z.002"
             ],
             "hash": [
                 "861caf4bc3fb08bb4f145a0ef53172d051d39401e9f5b1c6cbab7206b32e518b",
@@ -31,8 +31,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/ladaapp/lada/releases/download/v$version/lada-v$version_windows_nvidia.7z.001",
-                    "https://gh-proxy.com/https://github.com/ladaapp/lada/releases/download/v$version/lada-v$version_windows_nvidia.7z.002"
+                    "https://gh-proxy.org/https://github.com/ladaapp/lada/releases/download/v$version/lada-v$version_windows_nvidia.7z.001",
+                    "https://gh-proxy.org/https://github.com/ladaapp/lada/releases/download/v$version/lada-v$version_windows_nvidia.7z.002"
                 ]
             }
         }

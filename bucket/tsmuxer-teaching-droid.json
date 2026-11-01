@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/teaching-droid/tsMuxer/releases/download/v3.0.1/tsMuxeR-3.0.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/teaching-droid/tsMuxer/releases/download/v3.0.1/tsMuxeR-3.0.1-windows-x64.zip",
             "hash": "83aac86434be44a7c6766120d9112300ae4b732b7e2eb5d40d04b6e83294854b"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/teaching-droid/tsMuxer/releases/download/v3.0.1/tsMuxeR-3.0.1-windows-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/teaching-droid/tsMuxer/releases/download/v3.0.1/tsMuxeR-3.0.1-windows-x86.zip",
             "hash": "bb82b4de6920e1651b27234cac7fdaf00f3a67bd3eeade631bc1800a0d7a441a"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/teaching-droid/tsMuxer/releases/download/v$version/tsMuxeR-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/teaching-droid/tsMuxer/releases/download/v$version/tsMuxeR-$version-windows-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/teaching-droid/tsMuxer/releases/download/v$version/tsMuxeR-$version-windows-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/teaching-droid/tsMuxer/releases/download/v$version/tsMuxeR-$version-windows-x86.zip"
             }
         }
     }

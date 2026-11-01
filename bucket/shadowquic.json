@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/spongebob888/shadowquic/releases/download/v0.4.7/shadowquic-x86_64-windows.exe#/shadowquic.exe",
+            "url": "https://gh-proxy.org/https://github.com/spongebob888/shadowquic/releases/download/v0.4.7/shadowquic-x86_64-windows.exe#/shadowquic.exe",
             "hash": "5656ada0f81e96f30cf2c5311d988bc386123999496bcaa8b08f3cd04173736f"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/spongebob888/shadowquic/releases/download/v0.4.7/shadowquic-i686-windows.exe#/shadowquic.exe",
+            "url": "https://gh-proxy.org/https://github.com/spongebob888/shadowquic/releases/download/v0.4.7/shadowquic-i686-windows.exe#/shadowquic.exe",
             "hash": "c43796416fa23359c0aa61e9149bd7e3de7732cea3a3bc6e07f69cb07fdab4d7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/spongebob888/shadowquic/releases/download/v0.4.7/shadowquic-aarch64-windows.exe#/shadowquic.exe",
+            "url": "https://gh-proxy.org/https://github.com/spongebob888/shadowquic/releases/download/v0.4.7/shadowquic-aarch64-windows.exe#/shadowquic.exe",
             "hash": "aa4cb97038106e35c4276b38b494e1b9618959d4a769d71bc90c4d43db7ea649"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/spongebob888/shadowquic/releases/download/v$version/shadowquic-x86_64-windows.exe#/shadowquic.exe"
+                "url": "https://gh-proxy.org/https://github.com/spongebob888/shadowquic/releases/download/v$version/shadowquic-x86_64-windows.exe#/shadowquic.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/spongebob888/shadowquic/releases/download/v$version/shadowquic-i686-windows.exe#/shadowquic.exe"
+                "url": "https://gh-proxy.org/https://github.com/spongebob888/shadowquic/releases/download/v$version/shadowquic-i686-windows.exe#/shadowquic.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/spongebob888/shadowquic/releases/download/v$version/shadowquic-aarch64-windows.exe#/shadowquic.exe"
+                "url": "https://gh-proxy.org/https://github.com/spongebob888/shadowquic/releases/download/v$version/shadowquic-aarch64-windows.exe#/shadowquic.exe"
             }
         }
     }

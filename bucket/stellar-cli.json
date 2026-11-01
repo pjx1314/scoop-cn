@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stellar/stellar-cli/releases/download/v28.1.0/stellar-cli-28.1.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/stellar/stellar-cli/releases/download/v28.1.0/stellar-cli-28.1.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "5011c20fe8020cd375988f971e9324f392f384b85b14af8f53ca68d85953a9c2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stellar/stellar-cli/releases/download/v$version/stellar-cli-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/stellar/stellar-cli/releases/download/v$version/stellar-cli-$version-x86_64-pc-windows-msvc.tar.gz"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mushan0x0/AI0x0.com/releases/download/v3.4.4-alpha/AI-0x0_3.4.4-alpha_x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/mushan0x0/AI0x0.com/releases/download/v3.4.4-alpha/AI-0x0_3.4.4-alpha_x64.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
             "hash": "1877e2082cfa567314041d9e97bdec2fa84272e44b9f3b31ac5e947d131cbc07"
         }
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mushan0x0/AI0x0.com/releases/download/v$version/AI-0x0_$version_x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/mushan0x0/AI0x0.com/releases/download/v$version/AI-0x0_$version_x64.exe#/dl.7z"
             }
         }
     }

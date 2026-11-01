@@ -3,12 +3,12 @@
     "description": "JPEG 隐写术",
     "homepage": "https://github.com/lukechampine/jsteg",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/lukechampine/jsteg/releases/download/v0.3.0/jsteg-windows-amd64.exe#/jsteg.exe",
+    "url": "https://gh-proxy.org/https://github.com/lukechampine/jsteg/releases/download/v0.3.0/jsteg-windows-amd64.exe#/jsteg.exe",
     "hash": "9635c0059d9fc876cca58f7768702e0625ba0988cfa07e28c1bdef121b7c3578",
     "bin": "jsteg.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lukechampine/jsteg/releases/download/v$version/jsteg-windows-amd64.exe#/jsteg.exe"
+        "url": "https://gh-proxy.org/https://github.com/lukechampine/jsteg/releases/download/v$version/jsteg-windows-amd64.exe#/jsteg.exe"
     },
     "notes": [
         "【工具类型】: 隐写工具",

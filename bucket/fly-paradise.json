@@ -5,7 +5,7 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pyd021226/fly-paradise/releases/download/v0.4.2/fly-paradise-setup-0.4.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/pyd021226/fly-paradise/releases/download/v0.4.2/fly-paradise-setup-0.4.2.exe#/dl.7z",
             "hash": "c7bd10e9681345f719ffd70af894b4ca74f8a461b1510c6445209b526b06b3a4"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pyd021226/fly-paradise/releases/download/v$version/fly-paradise-setup-$version.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/pyd021226/fly-paradise/releases/download/v$version/fly-paradise-setup-$version.exe#/dl.7z",
                 "hash": {
                     "mode": "extract",
                     "url": "https://github.com/pyd021226/fly-paradise/releases/expanded_assets/v$version",

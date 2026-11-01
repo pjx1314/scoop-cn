@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/liuchuancong/pure_live/releases/download/v3.1.19/PureLive-3.1.19-4108-windows-x64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/liuchuancong/pure_live/releases/download/v3.1.19/PureLive-3.1.19-4108-windows-x64-setup.exe",
             "hash": "f90d7f77409641e5a7404b84354fa7e8529bf9eb70ef5985b92f3cf5509392e6"
         }
     },
@@ -48,7 +48,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/liuchuancong/pure_live/releases/download/v$matchTag/PureLive-$version-$matchBuild-windows-x64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/liuchuancong/pure_live/releases/download/v$matchTag/PureLive-$version-$matchBuild-windows-x64-setup.exe"
             }
         }
     }

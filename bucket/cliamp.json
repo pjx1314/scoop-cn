@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bjarneo/cliamp/releases/download/v2.3.0/cliamp-windows-amd64.zip",
             "hash": "13d5cd2235af71fdfca0259f4aa4502d066c51218f404cffbefef52978a89843",
             "extract_dir": "cliamp-windows-amd64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bjarneo/cliamp/releases/download/v$version/cliamp-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bjarneo/cliamp/releases/download/v$version/cliamp-windows-amd64.zip"
             }
         }
     }

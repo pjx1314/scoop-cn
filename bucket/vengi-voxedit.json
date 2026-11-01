@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vengi-voxel/vengi/releases/download/v0.6.0/win-voxedit.zip",
+            "url": "https://gh-proxy.org/https://github.com/vengi-voxel/vengi/releases/download/v0.6.0/win-voxedit.zip",
             "hash": "9f9b59cd73955274c7b3d9c18dbff1878c3a317738d158defc1d84e5bfa1fe52"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vengi-voxel/vengi/releases/download/v$version/win-voxedit.zip"
+                "url": "https://gh-proxy.org/https://github.com/vengi-voxel/vengi/releases/download/v$version/win-voxedit.zip"
             }
         }
     }

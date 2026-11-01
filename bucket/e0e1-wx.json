@@ -3,7 +3,7 @@
     "description": "微信小程序自动化反编译工具，支持hook注入和接】检测",
     "homepage": "https://github.com/eeeeeeeeee-code/e0e1-wx",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/eeeeeeeeee-code/e0e1-wx/releases/download/1.4/e0e1-wx.zip",
+    "url": "https://gh-proxy.org/https://github.com/eeeeeeeeee-code/e0e1-wx/releases/download/1.4/e0e1-wx.zip",
     "hash": "sha256:ffa2c16aa44a1220557a47fe34e6b5a0d45e14cd3f4be070e7c1fb531ca0e094",
     "suggest": {
         "python": "uv"
@@ -12,7 +12,7 @@
     "bin": "e0e1-wx.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/eeeeeeeeee-code/e0e1-wx/releases/download/$version/e0e1-wx.zip"
+        "url": "https://gh-proxy.org/https://github.com/eeeeeeeeee-code/e0e1-wx/releases/download/$version/e0e1-wx.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

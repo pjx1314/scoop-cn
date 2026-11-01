@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/containers/kubernetes-mcp-server/releases/download/v0.1.1/kubernetes-mcp-server-windows-amd64.exe#/kubernetes-mcp-server.exe",
+            "url": "https://gh-proxy.org/https://github.com/containers/kubernetes-mcp-server/releases/download/v0.1.1/kubernetes-mcp-server-windows-amd64.exe#/kubernetes-mcp-server.exe",
             "hash": "71e8f22fc3b662a6fd5fe1778e8e255228c8eda9053192216eee6c225205c82d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/containers/kubernetes-mcp-server/releases/download/v0.1.1/kubernetes-mcp-server-windows-arm64.exe#/kubernetes-mcp-server.exe",
+            "url": "https://gh-proxy.org/https://github.com/containers/kubernetes-mcp-server/releases/download/v0.1.1/kubernetes-mcp-server-windows-arm64.exe#/kubernetes-mcp-server.exe",
             "hash": "7c6fdc726b19387a5fdd7eaf63dbe379f5514c38b23dae822285b63a7b0d0df0"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/containers/kubernetes-mcp-server/releases/download/v$version/kubernetes-mcp-server-windows-amd64.exe#/kubernetes-mcp-server.exe"
+                "url": "https://gh-proxy.org/https://github.com/containers/kubernetes-mcp-server/releases/download/v$version/kubernetes-mcp-server-windows-amd64.exe#/kubernetes-mcp-server.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/containers/kubernetes-mcp-server/releases/download/v$version/kubernetes-mcp-server-windows-arm64.exe#/kubernetes-mcp-server.exe"
+                "url": "https://gh-proxy.org/https://github.com/containers/kubernetes-mcp-server/releases/download/v$version/kubernetes-mcp-server-windows-arm64.exe#/kubernetes-mcp-server.exe"
             }
         }
     }

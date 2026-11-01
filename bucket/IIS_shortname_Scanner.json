@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/lijiejie/IIS_shortname_Scanner/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/lijiejie/IIS_shortname_Scanner/archive/refs/heads/master.zip",
     "hash": "99269f14f8fbeb9bf6777cd17127254bfafe81b625c913c1263b2281edb39a9c",
     "extract_dir": "IIS_shortname_Scanner-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/lijiejie/IIS_shortname_Scanner/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/lijiejie/IIS_shortname_Scanner/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

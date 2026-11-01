@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cshuangyy/videdown/releases/download/v1.2.7/Videdown.Setup1.2.7.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/cshuangyy/videdown/releases/download/v1.2.7/Videdown.Setup1.2.7.exe#/dl.7z",
             "hash": "6b22367bc884b7fe9f1da70f2b58fd09d35bae4ed93512b685749199ae643b62",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cshuangyy/videdown/releases/download/v$version/Videdown.Setup$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/cshuangyy/videdown/releases/download/v$version/Videdown.Setup$version.exe#/dl.7z"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/langchain-ai/langsmith-cli/releases/download/v0.3.13/langsmith_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/langchain-ai/langsmith-cli/releases/download/v0.3.13/langsmith_windows_amd64.zip",
             "hash": "bc8c3c2ba3a59697c9b77a27442aab2488814859c41bc94222bba25751330463"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/langchain-ai/langsmith-cli/releases/download/v0.3.13/langsmith_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/langchain-ai/langsmith-cli/releases/download/v0.3.13/langsmith_windows_arm64.zip",
             "hash": "f8a7a2f40153a77b2c601a7f39e1882813e877bf07fa383fbe60e4eb68f06f97"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/langchain-ai/langsmith-cli/releases/download/v$version/langsmith_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/langchain-ai/langsmith-cli/releases/download/v$version/langsmith_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/langchain-ai/langsmith-cli/releases/download/v$version/langsmith_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/langchain-ai/langsmith-cli/releases/download/v$version/langsmith_windows_arm64.zip"
             }
         },
         "hash": {

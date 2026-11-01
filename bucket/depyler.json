@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-4.1.1/depyler-4.1.1-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-4.1.1/depyler-4.1.1-x86_64-pc-windows-msvc.tar.gz",
             "hash": "a8bf2e507ad57c2ece46b6c785066359849c2364ea81e557d944a8ffdad9867c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-4.1.1/depyler-4.1.1-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-4.1.1/depyler-4.1.1-aarch64-pc-windows-msvc.tar.gz",
             "hash": "209680fd2c2dd326c62d135cda79e9916809c74754c43059bd947a3ed02803f9"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-$version/depyler-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-$version/depyler-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-$version/depyler-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/depyler-$version/depyler-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

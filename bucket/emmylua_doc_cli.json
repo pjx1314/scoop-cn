@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/download/0.25.1/emmylua_doc_cli-win32-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/download/0.25.1/emmylua_doc_cli-win32-x64.zip",
             "hash": "3ffa3b67c46546f5a26c1fbf2a5f826e16becc48f9ad54ea8d804112e8b6edba"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/download/$version/emmylua_doc_cli-win32-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/download/$version/emmylua_doc_cli-win32-x64.zip"
             }
         }
     }

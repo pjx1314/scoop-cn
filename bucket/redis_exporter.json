@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/oliver006/redis_exporter/releases/download/v1.96.0/redis_exporter-v1.96.0.windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/oliver006/redis_exporter/releases/download/v1.96.0/redis_exporter-v1.96.0.windows-amd64.zip",
             "hash": "fb3f0bcdfd9b61dae1859cb692b017b657e562185dd26e314eddab43dbb00c11",
             "extract_dir": "redis_exporter-v1.96.0.windows-amd64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/oliver006/redis_exporter/releases/download/v1.96.0/redis_exporter-v1.96.0.windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/oliver006/redis_exporter/releases/download/v1.96.0/redis_exporter-v1.96.0.windows-386.zip",
             "hash": "3e049ae2cc818b523c5a39276c6b3a6d83ae6b52c72acf439e95cbf9fa215a37",
             "extract_dir": "redis_exporter-v1.96.0.windows-386"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/oliver006/redis_exporter/releases/download/v$version/redis_exporter-v$version.windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/oliver006/redis_exporter/releases/download/v$version/redis_exporter-v$version.windows-amd64.zip",
                 "extract_dir": "redis_exporter-v$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/oliver006/redis_exporter/releases/download/v$version/redis_exporter-v$version.windows-386.zip",
+                "url": "https://gh-proxy.org/https://github.com/oliver006/redis_exporter/releases/download/v$version/redis_exporter-v$version.windows-386.zip",
                 "extract_dir": "redis_exporter-v$version.windows-386"
             }
         },

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mzmine/mzmine/releases/download/v4.10.90/mzmine_Windows_portable-4.10.90.zip",
+            "url": "https://gh-proxy.org/https://github.com/mzmine/mzmine/releases/download/v4.10.90/mzmine_Windows_portable-4.10.90.zip",
             "hash": "6b4a3326240ef6233c9d26b12f58c901eecd4327d5478807bf62f9aea8764d7a"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mzmine/mzmine/releases/download/v$version/mzmine_Windows_portable-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/mzmine/mzmine/releases/download/v$version/mzmine_Windows_portable-$version.zip"
             }
         }
     }

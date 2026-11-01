@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/umputun/spot/releases/download/v1.20.1/spot_v1.20.1_win_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/umputun/spot/releases/download/v1.20.1/spot_v1.20.1_win_x86_64.zip",
             "hash": "c37924273006176e13b78da826c9d31b07b038d21dae428498f3629f00085ead"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/umputun/spot/releases/download/v$version/spot_v$version_win_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/umputun/spot/releases/download/v$version/spot_v$version_win_x86_64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "UPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/oracle/graaljs/releases/download/graal-25.4.4.1.1/graaljs-25.4.4.1.1-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/oracle/graaljs/releases/download/graal-25.4.4.1.1/graaljs-25.4.4.1.1-windows-amd64.zip",
             "extract_dir": "graaljs-25.4.4.1.1-windows-amd64",
             "hash": "218b905f9296a8a71ff384e085dab1480bd368263f0263fd7e6f44c1c12eb677"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/oracle/graaljs/releases/download/graal-$version/graaljs-$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/oracle/graaljs/releases/download/graal-$version/graaljs-$version-windows-amd64.zip",
                 "extract_dir": "graaljs-$version-windows-amd64"
             }
         },

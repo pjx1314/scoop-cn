@@ -3,7 +3,7 @@
     "description": "Program that counts the amount of CJK characters based on Unicode ranges and Chinese encoding standards 字体汉字计数软件",
     "homepage": "https://github.com/NightFurySL2001/CJK-character-count",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/NightFurySL2001/CJK-character-count/releases/download/v0.50.1/CJK-character-count-v0.50.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/NightFurySL2001/CJK-character-count/releases/download/v0.50.1/CJK-character-count-v0.50.1.zip",
     "hash": "fd3c9302a3cc35918ce3a48427e69fd3cb11aef33679e1fa4f1ae32f60feaea9",
     "extract_dir": "CJK-character-count-v0.50.1",
     "shortcuts": [
@@ -22,7 +22,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/NightFurySL2001/CJK-character-count/releases/download/v$version/CJK-character-count-v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/NightFurySL2001/CJK-character-count/releases/download/v$version/CJK-character-count-v$version.zip",
         "extract_dir": "CJK-character-count-v$version"
     }
 }

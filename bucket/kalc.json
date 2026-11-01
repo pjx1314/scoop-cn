@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bgkillas/kalc/releases/download/v1.5.1/kalc.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/bgkillas/kalc/releases/download/v1.5.1/kalc.exe.zip",
             "hash": "7158d95320ea57c364135b50cfdd580124e9efd5cc209e03b08579eb30337ecf"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bgkillas/kalc/releases/download/v$version/kalc.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/bgkillas/kalc/releases/download/v$version/kalc.exe.zip"
             }
         }
     }

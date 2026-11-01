@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mhx/dwarfs/releases/download/v0.15.8/dwarfs-0.15.8-Windows-AMD64.7z",
+            "url": "https://gh-proxy.org/https://github.com/mhx/dwarfs/releases/download/v0.15.8/dwarfs-0.15.8-Windows-AMD64.7z",
             "extract_dir": "dwarfs-0.15.8-Windows-AMD64\\bin",
             "hash": "49ffae19533b0c5b3dfc5516b19e97700f1197416062a5517f65bfb631631566"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mhx/dwarfs/releases/download/v$version/dwarfs-$version-Windows-AMD64.7z",
+                "url": "https://gh-proxy.org/https://github.com/mhx/dwarfs/releases/download/v$version/dwarfs-$version-Windows-AMD64.7z",
                 "extract_dir": "dwarfs-$version-Windows-AMD64\\bin"
             }
         }

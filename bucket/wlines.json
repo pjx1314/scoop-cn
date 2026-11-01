@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JerwuQu/wlines/releases/download/ci-3421ac000e47592a2686b1889a1e454d60d26bf9/wlines.exe",
+            "url": "https://gh-proxy.org/https://github.com/JerwuQu/wlines/releases/download/ci-3421ac000e47592a2686b1889a1e454d60d26bf9/wlines.exe",
             "hash": "d9563568f8effb7eef1b699cb26109a706f8e5f59dd0bf7840b4334b7fea0be8"
         }
     },

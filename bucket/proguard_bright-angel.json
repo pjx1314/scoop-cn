@@ -3,7 +3,7 @@
     "description": "ProGuard - Java 字节码优化器和混淆器",
     "homepage": "https://github.com/Guardsquare/proguard",
     "license": "GPL-2.0-or-later",
-    "url": "https://gh-proxy.com/https://github.com/Guardsquare/proguard/releases/download/v7.10.0/proguard-7.10.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/Guardsquare/proguard/releases/download/v7.10.0/proguard-7.10.0.zip",
     "hash": "5aa88c434766a057a2ead3412acc01022bb444f9f1bfbae690a1d48b2006b242",
     "extract_dir": "proguard-7.10.0",
     "suggest": {
@@ -19,7 +19,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Guardsquare/proguard/releases/download/v$version/proguard-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/Guardsquare/proguard/releases/download/v$version/proguard-$version.zip",
         "extract_dir": "proguard-$version"
     },
     "notes": [

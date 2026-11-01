@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jiji262/douyin-downloader/releases/download/desktop-v0.12.5/Douzy-Setup-0.12.5.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/jiji262/douyin-downloader/releases/download/desktop-v0.12.5/Douzy-Setup-0.12.5.exe#/dl.7z",
             "hash": "sha512:74249d3fd6191d07e3cf8cfb7528b1501ca21dc56d5abf5b73d17388c8cab11d519b0a4bb8abbee58eb8687fbe27fd42269f751ffd00f6ac82f6caaf0eb40db1",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jiji262/douyin-downloader/releases/download/desktop-v$version/Douzy-Setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/jiji262/douyin-downloader/releases/download/desktop-v$version/Douzy-Setup-$version.exe#/dl.7z"
             }
         },
         "hash": {

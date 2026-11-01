@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chenyukang/ghr/releases/download/v0.9.1/ghr-v0.9.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/chenyukang/ghr/releases/download/v0.9.1/ghr-v0.9.1-x86_64-pc-windows-msvc.zip",
             "hash": "4ac52d0cfbb0e97aa44d3a576c902470634c67d5ad6d99b008aa4e0511f14b5d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/chenyukang/ghr/releases/download/v0.9.1/ghr-v0.9.1-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/chenyukang/ghr/releases/download/v0.9.1/ghr-v0.9.1-aarch64-pc-windows-msvc.zip",
             "hash": "1c43be29aeb790a8c30082171c252dcba00634924731a232a330a94cdb294a26"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/chenyukang/ghr/releases/download/v$version/ghr-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/chenyukang/ghr/releases/download/v$version/ghr-v$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/chenyukang/ghr/releases/download/v$version/ghr-v$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/chenyukang/ghr/releases/download/v$version/ghr-v$version-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

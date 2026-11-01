@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/universal-ctags/ctags-win32/releases/download/2026-10-09/p6.2.20260927.0-3-g8249436/ctags-2026-10-09_p6.2.20260927.0-3-g8249436-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/universal-ctags/ctags-win32/releases/download/2026-10-09/p6.2.20260927.0-3-g8249436/ctags-2026-10-09_p6.2.20260927.0-3-g8249436-x64.zip",
             "hash": "6a46c61e1185abd53b7c28c91b31447f38cbaf56078a79b3473b223fa57af55d"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/universal-ctags/ctags-win32/releases/download/$version/$matchSha/ctags-$version_$matchSha-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/universal-ctags/ctags-win32/releases/download/$version/$matchSha/ctags-$version_$matchSha-x64.zip"
             }
         }
     }

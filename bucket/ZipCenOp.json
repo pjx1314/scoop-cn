@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/wwxiaoqi/ZipCenOp",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/wwxiaoqi/ZipCenOp/releases/download/v1.0.0/ZipCenOp-x86.exe#/ZipCenOp.exe",
+    "url": "https://gh-proxy.org/https://github.com/wwxiaoqi/ZipCenOp/releases/download/v1.0.0/ZipCenOp-x86.exe#/ZipCenOp.exe",
     "hash": "ca66c2ca3127350fe28cfedd6a562ff847a231bb5844ba673a6ffaddbd05907c",
     "bin": "ZipCenOp.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wwxiaoqi/ZipCenOp/releases/download/v$version/ZipCenOp-x86.exe"
+        "url": "https://gh-proxy.org/https://github.com/wwxiaoqi/ZipCenOp/releases/download/v$version/ZipCenOp-x86.exe"
     }
 }

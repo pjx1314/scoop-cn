@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ItalyPaleAle/tailsocks/releases/download/v1.6.5/tailsocks-1.6.5-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ItalyPaleAle/tailsocks/releases/download/v1.6.5/tailsocks-1.6.5-windows-x64.zip",
             "hash": "9a9babce9083a991ab2ad1dca5c68ba32f467190e0e02a979edbd03f5d0dd0e9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ItalyPaleAle/tailsocks/releases/download/v1.6.5/tailsocks-1.6.5-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ItalyPaleAle/tailsocks/releases/download/v1.6.5/tailsocks-1.6.5-windows-arm64.zip",
             "hash": "23c801def0fa8fd15e9a92b8ce5625e57dba40b280c849deaf243238c60aae3a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ItalyPaleAle/tailsocks/releases/download/v$version/tailsocks-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ItalyPaleAle/tailsocks/releases/download/v$version/tailsocks-$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ItalyPaleAle/tailsocks/releases/download/v$version/tailsocks-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ItalyPaleAle/tailsocks/releases/download/v$version/tailsocks-$version-windows-arm64.zip"
             }
         },
         "hash": {

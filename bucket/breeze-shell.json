@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/std-microblock/breeze-shell/releases/download/0.2.0/windows-build.zip",
+            "url": "https://gh-proxy.org/https://github.com/std-microblock/breeze-shell/releases/download/0.2.0/windows-build.zip",
             "extract_dir": "x64\\releasedbg",
             "hash": "9720b58152c47cbc5f980000e349df945410b525691bd7058d8c2f9bdec709c7"
         }
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/std-microblock/breeze-shell/releases/download/$version/windows-build.zip"
+                "url": "https://gh-proxy.org/https://github.com/std-microblock/breeze-shell/releases/download/$version/windows-build.zip"
             }
         }
     }

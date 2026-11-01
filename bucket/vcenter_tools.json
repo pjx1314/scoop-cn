@@ -14,7 +14,7 @@
             "sec/oraclejdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/zidanfanshao/vcenter_tools/releases/download/v0.4/vcenter_tools.v0.4.jar#/vcenter_tools.jar",
+    "url": "https://gh-proxy.org/https://github.com/zidanfanshao/vcenter_tools/releases/download/v0.4/vcenter_tools.v0.4.jar#/vcenter_tools.jar",
     "hash": "",
     "pre_install": [
         "Set-Content \"$dir\\vcenter_tools.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/zidanfanshao/vcenter_tools/releases/download/v$version/vcenter_tools.v$version.jar#/vcenter_tools.jar"
+        "url": "https://gh-proxy.org/https://github.com/zidanfanshao/vcenter_tools/releases/download/v$version/vcenter_tools.v$version.jar#/vcenter_tools.jar"
     }
 }

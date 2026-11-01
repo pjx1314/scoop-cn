@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/matiaskorhonen/paper-age/releases/download/v1.5.0/paper-age-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/matiaskorhonen/paper-age/releases/download/v1.5.0/paper-age-x86_64-pc-windows-msvc.zip",
             "hash": "c52477d7a08c13a33102c0eabff72fd3569b2965df7b4349fd4928482d4e1925"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/matiaskorhonen/paper-age/releases/download/v$version/paper-age-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/matiaskorhonen/paper-age/releases/download/v$version/paper-age-x86_64-pc-windows-msvc.zip"
             }
         }
     }

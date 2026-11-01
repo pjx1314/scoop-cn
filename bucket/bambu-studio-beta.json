@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bambulab/BambuStudio/releases/download/v02.08.03.66/Bambu_Studio_win-v02.08.03.66-20260908195535.zip",
+            "url": "https://gh-proxy.org/https://github.com/bambulab/BambuStudio/releases/download/v02.08.03.66/Bambu_Studio_win-v02.08.03.66-20260908195535.zip",
             "hash": "4991e93ba94e2985b163c9862d6cc46d9e846c7e90d7e9b9b6b3b16eed935a2d"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bambulab/BambuStudio/releases/download/$matchTag/$matchFilename"
+                "url": "https://gh-proxy.org/https://github.com/bambulab/BambuStudio/releases/download/$matchTag/$matchFilename"
             }
         }
     }

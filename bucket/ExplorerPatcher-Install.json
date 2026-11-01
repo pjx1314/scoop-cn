@@ -4,7 +4,7 @@
     "homepage": "https://github.com/valinet/ExplorerPatcher",
     "license": "GPL 2.0",
     "changelog": "https://github.com/valinet/ExplorerPatcher/releases",
-    "url": "https://gh-proxy.com/https://github.com/valinet/ExplorerPatcher/releases/latest/download/ep_setup.exe#/setup.exe",
+    "url": "https://gh-proxy.org/https://github.com/valinet/ExplorerPatcher/releases/latest/download/ep_setup.exe#/setup.exe",
     "hash": "2165c7d12f10b1a137472de5b64abdc64dcdd9fc31362c7ff41d7c5b57c8e9e6",
     "pre_download": "Assert-Administrator",
     "installer": {
@@ -27,6 +27,6 @@
         "github": "https://github.com/valinet/ExplorerPatcher"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/valinet/ExplorerPatcher/releases/latest/download/ep_setup.exe#/setup.exe"
+        "url": "https://gh-proxy.org/https://github.com/valinet/ExplorerPatcher/releases/latest/download/ep_setup.exe#/setup.exe"
     }
 }

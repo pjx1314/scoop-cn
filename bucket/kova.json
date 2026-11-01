@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KovaMD/Kova/releases/download/v0.8.2/Kova_0.8.2_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/KovaMD/Kova/releases/download/v0.8.2/Kova_0.8.2_x64_en-US.msi",
             "hash": "bb7ecec62e55db0d988a3d4e79bb5cd8cb0d11486591bd3ca6fa1d3eaa57a637"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KovaMD/Kova/releases/download/v$version/Kova_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/KovaMD/Kova/releases/download/v$version/Kova_$version_x64_en-US.msi"
             }
         }
     }

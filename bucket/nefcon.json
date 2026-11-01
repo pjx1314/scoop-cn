@@ -3,7 +3,7 @@
     "description": "Windows device driver installation and management tool",
     "homepage": "https://github.com/nefarius/nefcon",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/nefarius/nefcon/releases/download/v1.21.0/nefcon_v1.21.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/nefarius/nefcon/releases/download/v1.21.0/nefcon_v1.21.0.zip",
     "hash": "4c8e68f6b663598d77b7c3f76459b16fad00994e53ea8af0bd106a805dd5c18b",
     "architecture": {
         "64bit": {
@@ -24,6 +24,6 @@
         "github": "https://github.com/nefarius/nefcon"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/nefarius/nefcon/releases/download/v$version/nefcon_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/nefarius/nefcon/releases/download/v$version/nefcon_v$version.zip"
     }
 }

@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/safe6Sec/ShiroExp/releases/download/v1.3.1/ShiroExp-1.3.1-all.jar#/ShiroExp.jar",
+    "url": "https://gh-proxy.org/https://github.com/safe6Sec/ShiroExp/releases/download/v1.3.1/ShiroExp-1.3.1-all.jar#/ShiroExp.jar",
     "hash": "f857ff437e087fe2ed8b8ad341dbb150c3d2c4c4d49f20b1e8906db57f5d9d3a",
     "pre_install": [
         "Set-Content \"$dir\\ShiroExp_safe6Sec.bat\" '@pushd %~dp0",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/safe6Sec/ShiroExp/releases/download/v$version/ShiroExp-$version-all.jar#/ShiroExp.jar"
+        "url": "https://gh-proxy.org/https://github.com/safe6Sec/ShiroExp/releases/download/v$version/ShiroExp-$version-all.jar#/ShiroExp.jar"
     }
 }

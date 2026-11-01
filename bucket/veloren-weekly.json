@@ -14,7 +14,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-2026-10-27T04_12.zip",
+            "url": "https://gh-proxy.org/https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-2026-10-27T04_12.zip",
             "hash": "a26ccb73738bd5fc2532c752c96e66065f0f60247971b1d2d10d9e80dc5dd629"
         }
     },
@@ -41,7 +41,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/veloren/veloren/releases/download/weekly/weekly-windows-x86_64-$version.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SlotSun/dart_simple_live/releases/download/v1.8.15/Slive-1.8.15+10815-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/SlotSun/dart_simple_live/releases/download/v1.8.15/Slive-1.8.15+10815-windows.zip",
             "hash": "6582855a3c5810bc0b324033c774ce7c1327c8b765ed0dde0687989c7c66cb11"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SlotSun/dart_simple_live/releases/download/v$version/Slive-$version+$matchNum-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/SlotSun/dart_simple_live/releases/download/v$version/Slive-$version+$matchNum-windows.zip"
             }
         }
     }

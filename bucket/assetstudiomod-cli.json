@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aelurum/AssetStudio/releases/download/v0.20.0/AssetStudioModCLI_net472_win32_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/aelurum/AssetStudio/releases/download/v0.20.0/AssetStudioModCLI_net472_win32_64.zip",
             "hash": "4246505506cfa0fdcbdf9b5fe300ca5177ab180b915079150a1f1e476f57a4ec"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aelurum/AssetStudio/releases/download/v$version/AssetStudioModCLI_net472_win32_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/aelurum/AssetStudio/releases/download/v$version/AssetStudioModCLI_net472_win32_64.zip"
             }
         }
     }

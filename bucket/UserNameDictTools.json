@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/abc123info/UserNameDictTools/releases/download/%E7%94%A8%E6%88%B7%E5%90%8D%E5%AF%86%E7%A0%81%E5%AD%97%E5%85%B8%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7V0.36/DictToolsV0.36.jar#/UserNameDictTools.jar",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/UserNameDictTools/releases/download/%E7%94%A8%E6%88%B7%E5%90%8D%E5%AF%86%E7%A0%81%E5%AD%97%E5%85%B8%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7V0.36/DictToolsV0.36.jar#/UserNameDictTools.jar",
     "hash": "a8cf7fce9ccd95a2d95686bd00f5badb75e954a929c46a75379d4835f95fef51",
     "pre_install": [
         "Set-Content \"$dir\\UserNameDictTools.bat\" '@pushd %~dp0",
@@ -35,6 +35,6 @@
         "regex": "V([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/UserNameDictTools/releases/download/%E7%94%A8%E6%88%B7%E5%90%8D%E5%AF%86%E7%A0%81%E5%AD%97%E5%85%B8%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7V0.36/DictToolsV0.36.jar"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/UserNameDictTools/releases/download/%E7%94%A8%E6%88%B7%E5%90%8D%E5%AF%86%E7%A0%81%E5%AD%97%E5%85%B8%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7V0.36/DictToolsV0.36.jar"
     }
 }

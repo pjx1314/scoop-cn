@@ -6,7 +6,7 @@
         "identifier": "Apache-2.0 license",
         "url": "https://github.com/kopia/kopia#Apache-2.0-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-Setup-0.23.1.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/kopia/kopia/releases/download/v0.23.1/KopiaUI-Setup-0.23.1.exe#/dl.7z",
     "hash": "a945db629e4456d6616595a9b9fda4bc0407fc02a8d18fbce8f7f89390307c13",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -44,7 +44,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kopia/kopia/releases/download/v$version/KopiaUI-Setup-$version.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/kopia/kopia/releases/download/v$version/KopiaUI-Setup-$version.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/checksums.txt"
         }

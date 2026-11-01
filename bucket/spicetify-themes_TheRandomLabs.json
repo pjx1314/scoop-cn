@@ -4,7 +4,7 @@
     "homepage": "https://github.com/morpheusthewhite/spicetify-themes",
     "license": "MIT",
     "depends": "main/spicetify-cli",
-    "url": "https://gh-proxy.com/https://github.com/morpheusthewhite/spicetify-themes/archive/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/morpheusthewhite/spicetify-themes/archive/master.zip",
     "hash": "ae09fbafddc7d9692e17d9b445c1fd782b21f7da2ece74ac9143244489816154",
     "notes": [
         "The Elementary theme requires the Open Sans and Raleway fonts:",
@@ -47,6 +47,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/morpheusthewhite/spicetify-themes/archive/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/morpheusthewhite/spicetify-themes/archive/master.zip"
     }
 }

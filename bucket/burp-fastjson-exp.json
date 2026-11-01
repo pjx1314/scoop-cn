@@ -3,11 +3,11 @@
     "description": "fastjson 漏洞利用 BurpSuite 插件，支持出网 JNDI 利用检测，不出网 tomcat、spring 回显，哥斯拉内存马",
     "homepage": "https://github.com/amaz1ngday/fastjson-exp",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/amaz1ngday/fastjson-exp/releases/download/v1.0.0/Fastjson_EXP.jar#/Fastjson_EXP.jar",
+    "url": "https://gh-proxy.org/https://github.com/amaz1ngday/fastjson-exp/releases/download/v1.0.0/Fastjson_EXP.jar#/Fastjson_EXP.jar",
     "hash": "sha256:99C3EFEBE43E3E555BD3C4D5CD63EF9B6CCD716CF52DF68A35875AC2885B9671",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/amaz1ngday/fastjson-exp/releases/download/v$version/Fastjson_EXP.jar#/Fastjson_EXP.jar"
+        "url": "https://gh-proxy.org/https://github.com/amaz1ngday/fastjson-exp/releases/download/v$version/Fastjson_EXP.jar#/Fastjson_EXP.jar"
     },
     "notes": [
         "【工具类型】: Burp Suite扩展",

@@ -6,7 +6,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/pureqh/Hyacinth/releases/download/hyacinth-v2.0.2/hyacinth-v2.0.2.jar#/hyacinth.jar",
+    "url": "https://gh-proxy.org/https://github.com/pureqh/Hyacinth/releases/download/hyacinth-v2.0.2/hyacinth-v2.0.2.jar#/hyacinth.jar",
     "hash": "89b5bda9bb56a1ba720b177cb366d16968443d235aaf2d7e2db991df1fd310aa",
     "pre_install": [
         "Set-Content \"$dir\\hyacinth.bat\" '@pushd %~dp0",
@@ -26,7 +26,7 @@
         "regex": "download/(?<tag>hyacinth-v[\\d\\.]+)/hyacinth-v([\\d.]+).jar"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pureqh/Hyacinth/releases/download/$matchTag/hyacinth-v$version.jar#/hyacinth.jar"
+        "url": "https://gh-proxy.org/https://github.com/pureqh/Hyacinth/releases/download/$matchTag/hyacinth-v$version.jar#/hyacinth.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/NeonMedusa/Sawdust/releases/download/v14/Sawdust.exe",
+            "url": "https://gh-proxy.org/https://github.com/NeonMedusa/Sawdust/releases/download/v14/Sawdust.exe",
             "hash": "db00db967e20ecf46473b2cd725abce4040793f7993e341b56704f2d6b19f4cd"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/NeonMedusa/Sawdust/releases/download/v$version/Sawdust.exe"
+                "url": "https://gh-proxy.org/https://github.com/NeonMedusa/Sawdust/releases/download/v$version/Sawdust.exe"
             }
         }
     }

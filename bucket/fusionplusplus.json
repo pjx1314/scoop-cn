@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/awaescher/Fusion/releases/download/v1.5/Fusion++.1.5.zip",
+            "url": "https://gh-proxy.org/https://github.com/awaescher/Fusion/releases/download/v1.5/Fusion++.1.5.zip",
             "hash": "8fe25a17edee20a0c8a7ad51d7ec24167ba82a621f1f7aca9ee55da807d1d3ee"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/awaescher/Fusion/releases/download/v$version/Fusion++.$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/awaescher/Fusion/releases/download/v$version/Fusion++.$version.zip"
             }
         }
     }

@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/jxhczhl/JsRpc",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/jxhczhl/JsRpc/releases/download/v1.099/window_amd64.exe#/JsRpc.exe",
+    "url": "https://gh-proxy.org/https://github.com/jxhczhl/JsRpc/releases/download/v1.099/window_amd64.exe#/JsRpc.exe",
     "hash": "",
     "bin": "JsRpc.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/jxhczhl/JsRpc/releases/download/v$version/window_amd64.exe#/JsRpc.exe"
+        "url": "https://gh-proxy.org/https://github.com/jxhczhl/JsRpc/releases/download/v$version/window_amd64.exe#/JsRpc.exe"
     }
 }

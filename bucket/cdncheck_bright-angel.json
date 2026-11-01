@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/projectdiscovery/cdncheck",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/projectdiscovery/cdncheck/releases/download/v1.4.0/cdncheck_1.4.0_windows_amd64.zip",
+    "url": "https://gh-proxy.org/https://github.com/projectdiscovery/cdncheck/releases/download/v1.4.0/cdncheck_1.4.0_windows_amd64.zip",
     "hash": "b1ad3184d09ee4ffb99724b472daf0bb4e19c69fd1122ea28c6bfc1e6239d76c",
     "bin": "cdncheck.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/projectdiscovery/cdncheck/releases/download/v$version/cdncheck_$version_windows_amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/projectdiscovery/cdncheck/releases/download/v$version/cdncheck_$version_windows_amd64.zip"
     }
 }

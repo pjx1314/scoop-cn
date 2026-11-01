@@ -8,7 +8,7 @@
         "If you want to use it in your own manifests, please read the documentation:",
         "https://github.com/AkariiinMKII/Scoop4kariiinUtils/blob/main/README.md"
     ],
-    "url": "https://gh-proxy.com/https://github.com/AkariiinMKII/Scoop4kariiinUtils/archive/v0.2.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/AkariiinMKII/Scoop4kariiinUtils/archive/v0.2.2.zip",
     "hash": "1fd2768666c5f00ba5842ba8513f71be5ad888b54f11c63e274fb03b7ba1e527",
     "extract_dir": "Scoop4kariiinUtils-0.2.2",
     "psmodule": {
@@ -27,7 +27,7 @@
         "regex": "tags/v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AkariiinMKII/Scoop4kariiinUtils/archive/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/AkariiinMKII/Scoop4kariiinUtils/archive/v$version.zip",
         "extract_dir": "Scoop4kariiinUtils-$version"
     }
 }

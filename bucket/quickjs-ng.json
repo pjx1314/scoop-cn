@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjs-windows-x86_64.exe#/qjs.exe",
-                "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjsc-windows-x86_64.exe#/qjsc.exe"
+                "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjs-windows-x86_64.exe#/qjs.exe",
+                "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjsc-windows-x86_64.exe#/qjsc.exe"
             ],
             "hash": [
                 "ff03398d74ea6e6bd3a8e58058f7003225abcac229d7d57775b7aaae812a49c7",
@@ -16,8 +16,8 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjs-windows-x86.exe#/qjs.exe",
-                "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjsc-windows-x86.exe#/qjsc.exe"
+                "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjs-windows-x86.exe#/qjs.exe",
+                "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v0.18.0/qjsc-windows-x86.exe#/qjsc.exe"
             ],
             "hash": [
                 "79aa85a8208596dc04333e99726c254d43b9e814803f2100ea593341f2c95b0e",
@@ -36,14 +36,14 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjs-windows-x86_64.exe#/qjs.exe",
-                    "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjsc-windows-x86_64.exe#/qjsc.exe"
+                    "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjs-windows-x86_64.exe#/qjs.exe",
+                    "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjsc-windows-x86_64.exe#/qjsc.exe"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjs-windows-x86.exe#/qjs.exe",
-                    "https://gh-proxy.com/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjsc-windows-x86.exe#/qjsc.exe"
+                    "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjs-windows-x86.exe#/qjs.exe",
+                    "https://gh-proxy.org/https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjsc-windows-x86.exe#/qjsc.exe"
                 ]
             }
         }

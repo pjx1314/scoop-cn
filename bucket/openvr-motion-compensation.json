@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/openvrmc/OpenVR-MotionCompensation/releases/download/0.4.1/OpenVR-MotionCompensation_0_4_1.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/openvrmc/OpenVR-MotionCompensation/releases/download/0.4.1/OpenVR-MotionCompensation_0_4_1.exe#/dl.7z",
             "hash": "33193e3e33ea796bcaa90f999a9b0ca3abcb115369e03da72969599c7e5ec371"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/openvrmc/OpenVR-MotionCompensation/releases/download/$version/OpenVR-MotionCompensation_$underscoreVersion.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/openvrmc/OpenVR-MotionCompensation/releases/download/$version/OpenVR-MotionCompensation_$underscoreVersion.exe#/dl.7z"
             }
         }
     }

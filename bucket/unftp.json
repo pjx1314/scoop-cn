@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bolcom/unFTP/releases/download/v0.16.0/unftp_x86_64-pc-windows-msvc.exe#/unftp.exe",
+            "url": "https://gh-proxy.org/https://github.com/bolcom/unFTP/releases/download/v0.16.0/unftp_x86_64-pc-windows-msvc.exe#/unftp.exe",
             "hash": "cf518296f6105efa9f9c501c4a874f6e7e1c965473eaffe3a9c7c23ac363eb09"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bolcom/unFTP/releases/download/v$version/unftp_x86_64-pc-windows-msvc.exe#/unftp.exe"
+                "url": "https://gh-proxy.org/https://github.com/bolcom/unFTP/releases/download/v$version/unftp_x86_64-pc-windows-msvc.exe#/unftp.exe"
             }
         }
     }

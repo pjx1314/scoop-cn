@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/UZDoom/UZDoom/releases/download/5.0.3/Windows-UZDoom-Release-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/UZDoom/UZDoom/releases/download/5.0.3/Windows-UZDoom-Release-x86_64.zip",
             "hash": "3a41131845415bc4bb5474f8de301a77736bd858e2ab489926325a2675e8263f"
         }
     },
@@ -39,7 +39,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/UZDoom/UZDoom/releases/download/$version/Windows-UZDoom-Release-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/UZDoom/UZDoom/releases/download/$version/Windows-UZDoom-Release-x86_64.zip"
             }
         }
     }

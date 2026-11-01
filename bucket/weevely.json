@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/epinna/weevely3/archive/refs/heads/master.zip#/weevely3.zip",
+    "url": "https://gh-proxy.org/https://github.com/epinna/weevely3/archive/refs/heads/master.zip#/weevely3.zip",
     "hash": "fbacbbbee4a061ffcac36ba62b2b2cb08b8468f3c5d30b6c20270fd8a2467d20",
     "extract_dir": "weevely3-master",
     "pre_install": "Set-Content \"$dir\\weevely.bat\" '@pushd %~dp0', '@uv run python \"weevely.py\" %*', '@popd' -Encoding Ascii",
@@ -28,6 +28,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/epinna/weevely3/archive/refs/heads/master.zip#/weevely3.zip"
+        "url": "https://gh-proxy.org/https://github.com/epinna/weevely3/archive/refs/heads/master.zip#/weevely3.zip"
     }
 }

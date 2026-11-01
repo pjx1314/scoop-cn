@@ -6,7 +6,7 @@
         "identifier": "GPL-2.0",
         "url": "https://github.com/RPCS3/rpcs3/blob/master/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-0a3adbc5aaf624c907e9c7eba77e903413b6a567/rpcs3-v0.0.43-20506-0a3adbc5_win64_msvc.7z",
+    "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-0a3adbc5aaf624c907e9c7eba77e903413b6a567/rpcs3-v0.0.43-20506-0a3adbc5_win64_msvc.7z",
     "hash": "b50f3fe5abb1a4f605f19f13d5b0a0a125137a691b9e301538e711c7ff8e79c0",
     "bin": "rpcs3.exe",
     "depends": "main/ps3-firmware",

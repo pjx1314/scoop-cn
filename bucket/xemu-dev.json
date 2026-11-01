@@ -16,11 +16,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.139-8-gdc10b4cea9-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.139-8-gdc10b4cea9-windows-x86_64.zip",
             "hash": "30879b1e3fe63d2c27cdeccdfece1623c04a3a493c92ff5c49887975eb38cc9d"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.139-8-gdc10b4cea9-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-0.8.139-8-gdc10b4cea9-windows-arm64.zip",
             "hash": "d38a4d18134f38d882f01e254ef1ed43f7d42bef8d6d7d3342a764d205012bf5"
         }
     },
@@ -73,10 +73,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-$version-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/xemu-project/xemu/releases/download/pre-release/xemu-$version-windows-arm64.zip"
             }
         }
     }

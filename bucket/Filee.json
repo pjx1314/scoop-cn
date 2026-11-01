@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/KnifeLemon/Filee/releases/download/v2.2.0/Filee-2.2.0-win-Setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/KnifeLemon/Filee/releases/download/v2.2.0/Filee-2.2.0-win-Setup.exe",
             "hash": "c8ea746bb6273421e51e52114b62ffaa869dbd9fa83930261de993726b15095a"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/KnifeLemon/Filee/releases/download/v$version/Filee-$version-win-Setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/KnifeLemon/Filee/releases/download/v$version/Filee-$version-win-Setup.exe"
             }
         },
         "hash": {

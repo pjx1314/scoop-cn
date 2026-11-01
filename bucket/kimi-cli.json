@@ -10,11 +10,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-cli/releases/download/1.52.0/kimi-1.52.0-x86_64-pc-windows-msvc-onedir.zip",
+            "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-cli/releases/download/1.52.0/kimi-1.52.0-x86_64-pc-windows-msvc-onedir.zip",
             "hash": "7c424b7ce9a2918091c1d37738c90b410d766107de7e46039922e7ffd5c3d09a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-cli/releases/download/1.52.0/kimi-1.52.0-aarch64-pc-windows-msvc-onedir.zip",
+            "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-cli/releases/download/1.52.0/kimi-1.52.0-aarch64-pc-windows-msvc-onedir.zip",
             "hash": "cb727cafd48e1b5dc4ab80614dd95b24df46e57d2241f4f017362a53ca8b1c3a"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-cli/releases/download/$version/kimi-$version-x86_64-pc-windows-msvc-onedir.zip"
+                "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-cli/releases/download/$version/kimi-$version-x86_64-pc-windows-msvc-onedir.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/MoonshotAI/kimi-cli/releases/download/$version/kimi-$version-aarch64-pc-windows-msvc-onedir.zip"
+                "url": "https://gh-proxy.org/https://github.com/MoonshotAI/kimi-cli/releases/download/$version/kimi-$version-aarch64-pc-windows-msvc-onedir.zip"
             }
         },
         "hash": {

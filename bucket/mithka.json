@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iebb/mithka/releases/download/v1.9.5/mithka-1.9.5-20261101-windows-x64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/iebb/mithka/releases/download/v1.9.5/mithka-1.9.5-20261101-windows-x64-setup.exe",
             "hash": "65ccd91db67bf1f864b2a4abf71ba8ce93d8f02b64ce6ac2211345275fe1cad4"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/iebb/mithka/releases/download/v1.9.5/mithka-1.9.5-20261101-windows-arm64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/iebb/mithka/releases/download/v1.9.5/mithka-1.9.5-20261101-windows-arm64-setup.exe",
             "hash": "8d29794ece28357b1e98b216148269a73cb88e75a7b5803a627f15fe66dfcacf"
         }
     },
@@ -47,10 +47,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iebb/mithka/releases/download/v$version/mithka-$version-$matchDate-windows-x64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/iebb/mithka/releases/download/v$version/mithka-$version-$matchDate-windows-x64-setup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/iebb/mithka/releases/download/v$version/mithka-$version-$matchDate-windows-arm64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/iebb/mithka/releases/download/v$version/mithka-$version-$matchDate-windows-arm64-setup.exe"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/foks-proj/go-foks/releases/download/v0.1.9/foks-v0.1.9-win-winget-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/foks-proj/go-foks/releases/download/v0.1.9/foks-v0.1.9-win-winget-amd64.zip",
             "hash": "caa90e043008a9d521237880c0388d3af6a9ef9f1f8fc1f4f494e8c61c17150c"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/foks-proj/go-foks/releases/download/v0.1.9/foks-v0.1.9-win-winget-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/foks-proj/go-foks/releases/download/v0.1.9/foks-v0.1.9-win-winget-x86.zip",
             "hash": "a431f743194bc6ef318dcd6c20a7e48e28520f44daba01720223914c3713f3d7"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/foks-proj/go-foks/releases/download/v$version/foks-v$version-win-winget-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/foks-proj/go-foks/releases/download/v$version/foks-v$version-win-winget-amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/foks-proj/go-foks/releases/download/v$version/foks-v$version-win-winget-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/foks-proj/go-foks/releases/download/v$version/foks-v$version-win-winget-x86.zip"
             }
         }
     }

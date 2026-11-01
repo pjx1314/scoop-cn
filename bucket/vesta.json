@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kvesta/vesta/releases/download/v1.0.10/vesta_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kvesta/vesta/releases/download/v1.0.10/vesta_windows_amd64.zip",
             "hash": "bd8235fb1a622f374bbfcccf71057424117c9361b50232d7a86152df0a443936"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kvesta/vesta/releases/download/v$version/vesta_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kvesta/vesta/releases/download/v$version/vesta_windows_amd64.zip"
             }
         }
     }

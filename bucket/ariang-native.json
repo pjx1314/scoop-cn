@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mayswind/AriaNg-Native/releases/download/1.3.15/AriaNg_Native-1.3.15-Windows-x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/mayswind/AriaNg-Native/releases/download/1.3.15/AriaNg_Native-1.3.15-Windows-x64.7z",
             "hash": "40964d7435a169a8f6dea40fb57917926ad081ae26cc3cb5cbeaddea8f36495a"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/mayswind/AriaNg-Native/releases/download/1.3.15/AriaNg_Native-1.3.15-Windows-x86.7z",
+            "url": "https://gh-proxy.org/https://github.com/mayswind/AriaNg-Native/releases/download/1.3.15/AriaNg_Native-1.3.15-Windows-x86.7z",
             "hash": "640cde63966a0ceaa13db47baf1d8729a26de33d11e23760af01dca3e4e0a8d9"
         }
     },
@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mayswind/AriaNg-Native/releases/download/$version/AriaNg_Native-$version-Windows-x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/mayswind/AriaNg-Native/releases/download/$version/AriaNg_Native-$version-Windows-x64.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/mayswind/AriaNg-Native/releases/download/$version/AriaNg_Native-$version-Windows-x86.7z"
+                "url": "https://gh-proxy.org/https://github.com/mayswind/AriaNg-Native/releases/download/$version/AriaNg_Native-$version-Windows-x86.7z"
             }
         }
     }

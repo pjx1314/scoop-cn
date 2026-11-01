@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.5.0/Scrcpy.GUI-2.5.0-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.5.0/Scrcpy.GUI-2.5.0-win-x64.exe#/dl.7z",
             "hash": "10c69d05ffc9eadc1d80dc27a50de81f30bc2824a411b1bd9a942c11f1e64bc6",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -16,7 +16,7 @@
             ]
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.5.0/Scrcpy.GUI-2.5.0-win-ia32.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.5.0/Scrcpy.GUI-2.5.0-win-ia32.exe#/dl.7z",
             "hash": "fae6d0e9466cba8fadeee8a68c93473fc1c05fd20796713f2d3e0b8f205ba857",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
@@ -59,10 +59,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-x64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-ia32.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-ia32.exe#/dl.7z"
             }
         },
         "hash": {

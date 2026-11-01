@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/go-gost/gost/releases/download/v3.3.2/gost_3.3.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-gost/gost/releases/download/v3.3.2/gost_3.3.2_windows_amd64.zip",
             "hash": "917efd5097e6196e26a20d242043d0f8a3eee8f4fecf09321a2903dc72d9c3ee"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/go-gost/gost/releases/download/v3.3.2/gost_3.3.2_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-gost/gost/releases/download/v3.3.2/gost_3.3.2_windows_386.zip",
             "hash": "946a1ecc5830c0b3683c59da8750b477c2503d49534a22cc013296124dbde33f"
         }
     },
@@ -19,15 +19,15 @@
             "gost"
         ]
     ],
-    "post_install": "Invoke-WebRequest -URI \"https://gh-proxy.com/https://raw.githubusercontent.com/go-gost/gost/master/gost.yml\" -OutFile \"$dir\\gost.yml\"",
+    "post_install": "Invoke-WebRequest -URI \"https://gh-proxy.org/https://raw.githubusercontent.com/go-gost/gost/master/gost.yml\" -OutFile \"$dir\\gost.yml\"",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/go-gost/gost/releases/download/v$version/gost_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-gost/gost/releases/download/v$version/gost_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/go-gost/gost/releases/download/v$version/gost_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-gost/gost/releases/download/v$version/gost_$version_windows_386.zip"
             }
         }
     },

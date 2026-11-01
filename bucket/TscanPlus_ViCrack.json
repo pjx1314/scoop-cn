@@ -4,11 +4,11 @@
     "homepage": "https://github.com/TideSec/TscanPlus",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.5.6/TscanPlus_Win_Amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/TideSec/TscanPlus/releases/download/v3.5.6/TscanPlus_Win_Amd64.zip",
             "hash": "98e5268a5a404fa2c74702c6f0ee7291b856f7589b40dd5e74f822cec258df3b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v3.5.6/TscanPlus_Win_Arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/TideSec/TscanPlus/releases/download/v3.5.6/TscanPlus_Win_Arm64.zip",
             "hash": "46ee420b39c4645bcda8655ade611b5b9fc5690b9dd4c0effb1ea6b7008cca85"
         }
     },
@@ -17,10 +17,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanPlus_Win_Amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanPlus_Win_Amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanPlus_Win_Arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/TideSec/TscanPlus/releases/download/v$version/TscanPlus_Win_Arm64.zip"
             }
         }
     }

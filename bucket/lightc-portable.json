@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Chunyu33/light-c/releases/download/v2.18.0/LightC_portable_x64_v2.18.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/Chunyu33/light-c/releases/download/v2.18.0/LightC_portable_x64_v2.18.0.zip",
             "hash": "b53e0df42591d976ae9a798ba839fd31d59bcd0c623740d640b74863ccd4fc42"
         }
     },
@@ -42,7 +42,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Chunyu33/light-c/releases/download/v$version/LightC_portable_x64_v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/Chunyu33/light-c/releases/download/v$version/LightC_portable_x64_v$version.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ReagentX/imessage-exporter/releases/download/5.0.1/imessage-exporter-x86_64-pc-windows-gnu.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/ReagentX/imessage-exporter/releases/download/5.0.1/imessage-exporter-x86_64-pc-windows-gnu.tar.gz",
             "hash": "712a2e154d485f941f11f4005f9ed1a42d4a38d23f93236e90c3c1c2c75875c3"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ReagentX/imessage-exporter/releases/download/$version/imessage-exporter-x86_64-pc-windows-gnu.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/ReagentX/imessage-exporter/releases/download/$version/imessage-exporter-x86_64-pc-windows-gnu.tar.gz"
             }
         }
     }

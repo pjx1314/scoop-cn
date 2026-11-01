@@ -13,7 +13,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/shine798/DigDeep/archive/refs/heads/main.zip#/DigDeep.zip",
+    "url": "https://gh-proxy.org/https://github.com/shine798/DigDeep/archive/refs/heads/main.zip#/DigDeep.zip",
     "hash": "a853ca3acaa6e1aa1a6264fa3bd0075817ad8f884e4b5f32eb1249466fd6c84c",
     "extract_dir": "DigDeep-main",
     "pre_install": [
@@ -35,6 +35,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/shine798/DigDeep/archive/refs/heads/main.zip#/DigDeep.zip"
+        "url": "https://gh-proxy.org/https://github.com/shine798/DigDeep/archive/refs/heads/main.zip#/DigDeep.zip"
     }
 }

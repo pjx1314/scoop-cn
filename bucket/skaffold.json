@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GoogleCloudPlatform/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe#/skaffold.exe",
+            "url": "https://gh-proxy.org/https://github.com/GoogleCloudPlatform/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe#/skaffold.exe",
             "hash": "4ca20b716f4756b0f5e2a06b13bf9cb189ebc8e6978665f274f8fd23fbcf47d6"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GoogleCloudPlatform/skaffold/releases/download/v$version/skaffold-windows-amd64.exe#/skaffold.exe"
+                "url": "https://gh-proxy.org/https://github.com/GoogleCloudPlatform/skaffold/releases/download/v$version/skaffold-windows-amd64.exe#/skaffold.exe"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "description": "Asiatic pTeX",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/clerkma/ptex-ng/releases/download/master-36986011265/aptex-windows-x64.exe#/aptex.exe",
+            "url": "https://gh-proxy.org/https://github.com/clerkma/ptex-ng/releases/download/master-36986011265/aptex-windows-x64.exe#/aptex.exe",
             "hash": "d3e21889c63e19b6233aa5bbf2754c5938d34caf6fa6be0d9b682fbf01b14816"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/clerkma/ptex-ng/releases/download/$version/aptex-windows-x64.exe#/aptex.exe"
+                "url": "https://gh-proxy.org/https://github.com/clerkma/ptex-ng/releases/download/$version/aptex-windows-x64.exe#/aptex.exe"
             }
         }
     }

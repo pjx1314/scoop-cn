@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/WithSecureLabs/chainsaw/releases/download/v2.17.1/chainsaw_x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/WithSecureLabs/chainsaw/releases/download/v2.17.1/chainsaw_x86_64-pc-windows-msvc.zip",
             "hash": "1eafd1f4461b61692d62b50e8970c9986798e730396f4069678d25dee14a90d4"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/WithSecureLabs/chainsaw/releases/download/v$version/chainsaw_x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/WithSecureLabs/chainsaw/releases/download/v$version/chainsaw_x86_64-pc-windows-msvc.zip"
             }
         }
     }

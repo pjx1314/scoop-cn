@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hhoao/teampilot/releases/download/v3.24.0/teampilot-3.24.0-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/hhoao/teampilot/releases/download/v3.24.0/teampilot-3.24.0-windows.zip",
             "hash": "41f9537789b8180375ee6ba072dd3911ca206322a48236c4c52bacef55a03285"
         }
     },
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hhoao/teampilot/releases/download/v$version/teampilot-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/hhoao/teampilot/releases/download/v$version/teampilot-$version-windows.zip"
             }
         },
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/hhoao/teampilot/releases/download/v$version/checksums.txt"
+            "url": "https://gh-proxy.org/https://github.com/hhoao/teampilot/releases/download/v$version/checksums.txt"
         }
     }
 }

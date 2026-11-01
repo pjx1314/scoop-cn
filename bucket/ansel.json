@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aurelienpierreeng/ansel/releases/download/v0.0.0/ansel-0.0.0+4084.g771dc81c81-win64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/aurelienpierreeng/ansel/releases/download/v0.0.0/ansel-0.0.0+4084.g771dc81c81-win64.exe#/dl.7z",
             "hash": "a982e9bf455762769fa83968625a3656b8e24f0bcac22d1c4e7725c4058a914b"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aurelienpierreeng/ansel/releases/download/v0.0.0/ansel-$version-win64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/aurelienpierreeng/ansel/releases/download/v0.0.0/ansel-$version-win64.exe#/dl.7z"
             }
         }
     }

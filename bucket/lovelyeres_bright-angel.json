@@ -3,7 +3,7 @@
     "description": "LovelyERes - Linux应急响应工具，基于Tauri框架开发",
     "homepage": "https://github.com/Tokeii0/LovelyERes",
     "license": "AGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/Tokeii0/LovelyERes/releases/download/v0.6/lovelyres.exe#/lovelyres.exe",
+    "url": "https://gh-proxy.org/https://github.com/Tokeii0/LovelyERes/releases/download/v0.6/lovelyres.exe#/lovelyres.exe",
     "hash": "sha256:ee3837f953371b41e4e6a96876831da4cb6abefd418159dc2f73c68888522cb1",
     "bin": "lovelyres.exe",
     "shortcuts": [
@@ -18,7 +18,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Tokeii0/LovelyERes/releases/download/v$version/lovelyres.exe#/lovelyres.exe"
+        "url": "https://gh-proxy.org/https://github.com/Tokeii0/LovelyERes/releases/download/v$version/lovelyres.exe#/lovelyres.exe"
     },
     "notes": [
         "【工具类型】: 安全工具",

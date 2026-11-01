@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/j178/prek/releases/download/v0.5.9/prek-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v0.5.9/prek-x86_64-pc-windows-msvc.zip",
             "hash": "b772063b6d9195c0647c0e73cfa258208d03b2b51abff115b76d24aefa189d0b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/j178/prek/releases/download/v$version/prek-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/j178/prek/releases/download/v$version/prek-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

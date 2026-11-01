@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TomBadash/Mouser/releases/download/v3.7.3/Mouser-Windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/TomBadash/Mouser/releases/download/v3.7.3/Mouser-Windows.zip",
             "hash": "0806a4f6edad69e52154c0419a3014b56e4964519a7cd50f36fa1938c8ea08fc"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TomBadash/Mouser/releases/download/v$version/Mouser-Windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/TomBadash/Mouser/releases/download/v$version/Mouser-Windows.zip"
             }
         }
     }

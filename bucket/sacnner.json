@@ -6,7 +6,7 @@
     "suggest": {
         "GO": "go"
     },
-    "url": "https://gh-proxy.com/https://github.com/zhaodie/sacnner/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/zhaodie/sacnner/archive/refs/heads/main.zip",
     "hash": "dd4cce87b7bf5183bf14a6fd80e8055eebd26137ad22ebf1490adf0d1aff0321",
     "pre_install": [
         "Set-Content \"$dir\\sacnner.bat\" '@pushd %~dp0",
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/zhaodie/sacnner/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/zhaodie/sacnner/archive/refs/heads/main.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

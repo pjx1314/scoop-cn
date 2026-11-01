@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/d3xMachina/BetterJoy/releases/download/v8.5.0/BetterJoy.zip",
+            "url": "https://gh-proxy.org/https://github.com/d3xMachina/BetterJoy/releases/download/v8.5.0/BetterJoy.zip",
             "hash": "1d7692c25dc900787043521ff5fccc374f12e43c7ccf7aefd0d1c3677f9a8ed2"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/d3xMachina/BetterJoy/releases/download/v$version/BetterJoy.zip"
+                "url": "https://gh-proxy.org/https://github.com/d3xMachina/BetterJoy/releases/download/v$version/BetterJoy.zip"
             }
         }
     }

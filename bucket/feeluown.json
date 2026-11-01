@@ -7,7 +7,7 @@
         "Config and data are stored in %HOMEPATH%\\.FeelUOwn",
         "They will not be automatically removed during uninstallation even with -p flag. Delete them manually if needed."
     ],
-    "url": "https://gh-proxy.com/https://github.com/feeluown/FeelUOwn/releases/download/v5.1.2/FeelUOwn-windows.zip",
+    "url": "https://gh-proxy.org/https://github.com/feeluown/FeelUOwn/releases/download/v5.1.2/FeelUOwn-windows.zip",
     "hash": "c1adbb344126f309663ada3c7c7b41edaa2f5572c75ff5ac7511362b5c87fdfa",
     "extract_dir": "FeelUOwn",
     "shortcuts": [
@@ -20,6 +20,6 @@
         "github": "https://github.com/feeluown/FeelUOwn"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/feeluown/FeelUOwn/releases/download/v$version/FeelUOwn-windows.zip"
+        "url": "https://gh-proxy.org/https://github.com/feeluown/FeelUOwn/releases/download/v$version/FeelUOwn-windows.zip"
     }
 }

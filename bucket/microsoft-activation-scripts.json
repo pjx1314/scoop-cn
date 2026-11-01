@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0 license",
         "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/blob/master/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/raw/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd",
+    "url": "https://gh-proxy.org/https://github.com/massgravel/Microsoft-Activation-Scripts/raw/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd",
     "hash": "850f979665fb93999acae93f4790c1ff8ed2041532060b7966a121c2d29a0bfa",
     "pre_install": "Get-ChildItem \"$dir\\MAS*.cmd\" | Rename-Item -NewName 'MAS.cmd'",
     "bin": "MAS.cmd",
@@ -21,6 +21,6 @@
         "regex": "\\A(\\d+)\\Z"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/raw/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd"
+        "url": "https://gh-proxy.org/https://github.com/massgravel/Microsoft-Activation-Scripts/raw/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd"
     }
 }

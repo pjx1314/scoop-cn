@@ -5,11 +5,11 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ssrlive/akelpad/releases/download/v4.10.0.9/akelpad-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ssrlive/akelpad/releases/download/v4.10.0.9/akelpad-x64.zip",
             "hash": "167be6df1473ebde965074de804d1a26da87990c651b9ede47a6c37790f567a0"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ssrlive/akelpad/releases/download/v4.10.0.9/akelpad-Win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/ssrlive/akelpad/releases/download/v4.10.0.9/akelpad-Win32.zip",
             "hash": "6e7874a6c9d11da45351d02d95285063a967cfc47b35e4a1dbe92adf7e9871dd"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ssrlive/akelpad/releases/download/v$version/akelpad-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ssrlive/akelpad/releases/download/v$version/akelpad-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ssrlive/akelpad/releases/download/v$version/akelpad-Win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/ssrlive/akelpad/releases/download/v$version/akelpad-Win32.zip"
             }
         }
     }

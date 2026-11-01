@@ -5,7 +5,7 @@
     "license": "ISC",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bluescan/tacentview/releases/download/v1.0.47/tacentview_1.0.47.zip",
+            "url": "https://gh-proxy.org/https://github.com/bluescan/tacentview/releases/download/v1.0.47/tacentview_1.0.47.zip",
             "extract_dir": "tacentview_1.0.47",
             "hash": "4e85a5170f102aa161c6099ee6d71fac73f267103fccdfa5b155312b7c0353be"
         }
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bluescan/tacentview/releases/download/v$version/tacentview_$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/bluescan/tacentview/releases/download/v$version/tacentview_$version.zip",
                 "extract_dir": "tacentview_$version"
             }
         }

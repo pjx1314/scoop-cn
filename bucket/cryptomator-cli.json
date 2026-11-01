@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cryptomator/cli/releases/download/0.6.2/cryptomator-cli-0.6.2-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cryptomator/cli/releases/download/0.6.2/cryptomator-cli-0.6.2-win-x64.zip",
             "hash": "52498fe6c0a02f76216fa801a1a114de064b4364702e51548585355fdf8b0a66"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cryptomator/cli/releases/download/$version/cryptomator-cli-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cryptomator/cli/releases/download/$version/cryptomator-cli-$version-win-x64.zip"
             }
         }
     }

@@ -12,17 +12,17 @@
     ],
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/duplicati/duplicati/releases/download/v2.4.1.0_stable_2026-10-29/duplicati-2.4.1.0_stable_2026-10-29-win-x86-gui.zip",
+            "url": "https://gh-proxy.org/https://github.com/duplicati/duplicati/releases/download/v2.4.1.0_stable_2026-10-29/duplicati-2.4.1.0_stable_2026-10-29-win-x86-gui.zip",
             "hash": "8daa43a4baeb57c79fb1bcbcb57b6b81de999e4d5f1964e6f109f686b3d22193",
             "extract_dir": "duplicati-2.4.1.0_stable_2026-10-29-win-x86-gui"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/duplicati/duplicati/releases/download/v2.4.1.0_stable_2026-10-29/duplicati-2.4.1.0_stable_2026-10-29-win-x64-gui.zip",
+            "url": "https://gh-proxy.org/https://github.com/duplicati/duplicati/releases/download/v2.4.1.0_stable_2026-10-29/duplicati-2.4.1.0_stable_2026-10-29-win-x64-gui.zip",
             "hash": "34f3c38466ccc738470da4f31b35effda4eef91f1314d4ea90e21362f93388c3",
             "extract_dir": "duplicati-2.4.1.0_stable_2026-10-29-win-x64-gui"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/duplicati/duplicati/releases/download/v2.4.1.0_stable_2026-10-29/duplicati-2.4.1.0_stable_2026-10-29-win-arm64-gui.zip",
+            "url": "https://gh-proxy.org/https://github.com/duplicati/duplicati/releases/download/v2.4.1.0_stable_2026-10-29/duplicati-2.4.1.0_stable_2026-10-29-win-arm64-gui.zip",
             "hash": "8ee87b71de22709ea02fe4e7b93e20f166c7ca4e05c0858b7f6bd25087740eae",
             "extract_dir": "duplicati-2.4.1.0_stable_2026-10-29-win-arm64-gui"
         }
@@ -69,15 +69,15 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/duplicati/duplicati/releases/download/v$version/duplicati-$version-win-x86-gui.zip",
+                "url": "https://gh-proxy.org/https://github.com/duplicati/duplicati/releases/download/v$version/duplicati-$version-win-x86-gui.zip",
                 "extract_dir": "duplicati-$version-win-x86-gui"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/duplicati/duplicati/releases/download/v$version/duplicati-$version-win-x64-gui.zip",
+                "url": "https://gh-proxy.org/https://github.com/duplicati/duplicati/releases/download/v$version/duplicati-$version-win-x64-gui.zip",
                 "extract_dir": "duplicati-$version-win-x64-gui"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/duplicati/duplicati/releases/download/v$version/duplicati-$version-win-arm64-gui.zip",
+                "url": "https://gh-proxy.org/https://github.com/duplicati/duplicati/releases/download/v$version/duplicati-$version-win-arm64-gui.zip",
                 "extract_dir": "duplicati-$version-win-arm64-gui"
             }
         }

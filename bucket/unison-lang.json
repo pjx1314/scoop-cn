@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/unisonweb/unison/releases/download/release%2F1.5.0/ucm-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/unisonweb/unison/releases/download/release%2F1.5.0/ucm-windows-x64.zip",
             "hash": "d2d8378e4258fa176ba2671bc8e70e34af04c94fc202ecb4fa6a9265e16191af"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/unisonweb/unison/releases/download/release%2F$version/ucm-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/unisonweb/unison/releases/download/release%2F$version/ucm-windows-x64.zip"
             }
         }
     }

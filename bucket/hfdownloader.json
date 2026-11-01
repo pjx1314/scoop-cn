@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/v3.4.0/hfdownloader_windows_amd64_v3.4.0.exe#/hfdownloader.exe",
+            "url": "https://gh-proxy.org/https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/v3.4.0/hfdownloader_windows_amd64_v3.4.0.exe#/hfdownloader.exe",
             "hash": "8ae43ef001d31d32030ab42710ec4a721c8544375aec72676e94c96fd626b625"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/v$version/hfdownloader_windows_amd64_v$version.exe#/hfdownloader.exe"
+                "url": "https://gh-proxy.org/https://github.com/bodaay/HuggingFaceModelDownloader/releases/download/v$version/hfdownloader_windows_amd64_v$version.exe#/hfdownloader.exe"
             }
         },
         "hash": {

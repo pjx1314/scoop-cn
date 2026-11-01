@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/score-spec/score-k8s/releases/download/0.22.0/score-k8s_0.22.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/score-spec/score-k8s/releases/download/0.22.0/score-k8s_0.22.0_windows_amd64.zip",
             "hash": "e0f558c852e1b64b325f938c52d88c9733f49a492a7515d350e2762ac4aaca59"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/score-spec/score-k8s/releases/download/$version/score-k8s_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/score-spec/score-k8s/releases/download/$version/score-k8s_$version_windows_amd64.zip"
             }
         },
         "hash": {

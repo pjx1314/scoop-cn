@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Wangnov/Codex-App-Manager/releases/download/v0.5.17/CodexAppManager_0.5.17_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Wangnov/Codex-App-Manager/releases/download/v0.5.17/CodexAppManager_0.5.17_x64-setup.exe#/dl.7z",
             "hash": "9e4f79fbbbfdbb807f6305b5283787b49679e9bae246d7da14df196ec02e09c0"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Wangnov/Codex-App-Manager/releases/download/v$version/CodexAppManager_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Wangnov/Codex-App-Manager/releases/download/v$version/CodexAppManager_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

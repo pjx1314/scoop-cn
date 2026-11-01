@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/leynier/alera/releases/download/v0.109.0/alera-0.109.0-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/leynier/alera/releases/download/v0.109.0/alera-0.109.0-windows.zip",
             "hash": "20a88e044458496e621001e71622ecc5d5d6ef567cdb78b1e0817a380c6762cb"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/leynier/alera/releases/download/v$version/alera-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/leynier/alera/releases/download/v$version/alera-$version-windows.zip"
             }
         }
     },

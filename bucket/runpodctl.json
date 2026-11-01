@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/runpod/runpodctl/releases/download/v3.0.1/runpodctl-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/runpod/runpodctl/releases/download/v3.0.1/runpodctl-windows-amd64.zip",
             "hash": "36a228b827bd83a44dfb1dc55395b3d4c6f8bc9bed2ed39dd9281c9da6b3c8aa"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/runpod/runpodctl/releases/download/v3.0.1/runpodctl-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/runpod/runpodctl/releases/download/v3.0.1/runpodctl-windows-arm64.zip",
             "hash": "b6e018794d29dd49582de26c49f61271febb6e7825f400b9a37abbfab89ff5ea"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/runpod/runpodctl/releases/download/v$version/runpodctl-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/runpod/runpodctl/releases/download/v$version/runpodctl-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/runpod/runpodctl/releases/download/v$version/runpodctl-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/runpod/runpodctl/releases/download/v$version/runpodctl-windows-arm64.zip"
             }
         },
         "hash": {

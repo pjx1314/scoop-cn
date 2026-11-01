@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/n0b0dyCN/redis-rogue-server/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/n0b0dyCN/redis-rogue-server/archive/refs/heads/master.zip",
     "hash": "246c24356b1f4fc16e1a8151668525dac735b35a29c26088d93ce92a7e7de505",
     "extract_dir": "redis-rogue-server-master",
     "pre_install": [
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/n0b0dyCN/redis-rogue-server/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/n0b0dyCN/redis-rogue-server/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

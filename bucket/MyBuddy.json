@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dodorz/MyBuddy/releases/download/0.1.14/MyBuddy-v0.1.14-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dodorz/MyBuddy/releases/download/0.1.14/MyBuddy-v0.1.14-windows-x64.zip",
             "hash": "8d8f0952b95696b7140e09317936b17240ceb11b0ff28c6e889330255576c1e5"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dodorz/MyBuddy/releases/download/$version/MyBuddy-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dodorz/MyBuddy/releases/download/$version/MyBuddy-v$version-windows-x64.zip"
             }
         }
     }

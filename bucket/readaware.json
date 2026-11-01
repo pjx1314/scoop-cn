@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ahpxex/read-aware/releases/download/v0.6.9/ReadAware-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/ahpxex/read-aware/releases/download/v0.6.9/ReadAware-windows-x64-portable.zip",
             "hash": "c5b3578eda8fa13987da45f7c7be691b87f6138ad6ff2d23d8baef5f86ae6efb"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ahpxex/read-aware/releases/download/v$version/ReadAware-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/ahpxex/read-aware/releases/download/v$version/ReadAware-windows-x64-portable.zip"
             }
         }
     }

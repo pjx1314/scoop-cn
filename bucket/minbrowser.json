@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/minbrowser/min/releases/download/v1.35.7/Min-v1.35.7-windows.zip",
             "hash": "6659766134e4d45bd75ac385390b02cea8284a58b37a9f60af2e193a9e04b3d5"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/minbrowser/min/releases/download/v$version/Min-v$version-windows.zip"
             }
         },
         "extract_dir": "Min-v$version"

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/builtbybel/FluentCleaner/releases/download/classic-1.17.227/FluentCleaner-Classic-net48.zip",
+            "url": "https://gh-proxy.org/https://github.com/builtbybel/FluentCleaner/releases/download/classic-1.17.227/FluentCleaner-Classic-net48.zip",
             "extract_dir": "FluentCleaner-Classic-net48",
             "hash": "90788364c2e5db8078762828616909f6be776205a387c2a9a54744a54d619a12"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/builtbybel/FluentCleaner/releases/download/classic-$version/FluentCleaner-Classic-net48.zip"
+                "url": "https://gh-proxy.org/https://github.com/builtbybel/FluentCleaner/releases/download/classic-$version/FluentCleaner-Classic-net48.zip"
             }
         }
     }

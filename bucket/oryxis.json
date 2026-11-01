@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/wilsonglasser/oryxis/releases/download/v0.23.0/oryxis-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/wilsonglasser/oryxis/releases/download/v0.23.0/oryxis-windows-x86_64.zip",
             "hash": "c12851344e78c086a25df1e01e8556378819f7f0ba69eec9e1b276c1d31312f7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/wilsonglasser/oryxis/releases/download/v0.23.0/oryxis-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/wilsonglasser/oryxis/releases/download/v0.23.0/oryxis-windows-aarch64.zip",
             "hash": "287978909ff3186a6a0da7b7ddc17f629128007d3860887b56b7cfce68106e65"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/wilsonglasser/oryxis/releases/download/v$version/oryxis-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/wilsonglasser/oryxis/releases/download/v$version/oryxis-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/wilsonglasser/oryxis/releases/download/v$version/oryxis-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/wilsonglasser/oryxis/releases/download/v$version/oryxis-windows-aarch64.zip"
             }
         }
     }

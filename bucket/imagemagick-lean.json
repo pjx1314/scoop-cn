@@ -9,15 +9,15 @@
     ],
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-35/ImageMagick-7.1.2-35-portable-Q16-HDRI-x86.7z",
+            "url": "https://gh-proxy.org/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-35/ImageMagick-7.1.2-35-portable-Q16-HDRI-x86.7z",
             "hash": "059e84b4ddfc41b232092fbf569d9e31d243c2cedf5a57d011e3ea1aa79deacd"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-35/ImageMagick-7.1.2-35-portable-Q16-HDRI-x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-35/ImageMagick-7.1.2-35-portable-Q16-HDRI-x64.7z",
             "hash": "34db4364da26c88d6b8cc5bbc1fff22b85d00d3b399c82fe85ee4790efacbbf1"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-35/ImageMagick-7.1.2-35-portable-Q16-HDRI-arm64.7z",
+            "url": "https://gh-proxy.org/https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-35/ImageMagick-7.1.2-35-portable-Q16-HDRI-arm64.7z",
             "hash": "35c2c9aa089fe5abe2b96807d6c2febf0843fa72efa1d651a607c1bf725790df"
         }
     },
@@ -29,13 +29,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-portable-Q16-HDRI-x86.7z"
+                "url": "https://gh-proxy.org/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-portable-Q16-HDRI-x86.7z"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-portable-Q16-HDRI-x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-portable-Q16-HDRI-x64.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-portable-Q16-HDRI-arm64.7z"
+                "url": "https://gh-proxy.org/https://github.com/ImageMagick/ImageMagick/releases/download/$version/ImageMagick-$version-portable-Q16-HDRI-arm64.7z"
             }
         }
     }

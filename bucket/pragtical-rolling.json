@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pragtical/pragtical/releases/download/rolling/pragtical-rolling-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pragtical/pragtical/releases/download/rolling/pragtical-rolling-windows-x86_64.zip",
             "hash": "80afc39ebda2c5b5a3b477683cf7ca48f4d7297cb4991b15a4790aae77440f40"
         }
     },
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pragtical/pragtical/releases/download/rolling/pragtical-rolling-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pragtical/pragtical/releases/download/rolling/pragtical-rolling-windows-x86_64.zip"
             }
         }
     }

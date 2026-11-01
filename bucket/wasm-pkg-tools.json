@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bytecodealliance/wasm-pkg-tools/releases/download/v0.16.1/wkg-x86_64-pc-windows-gnu#/wkg.exe",
+            "url": "https://gh-proxy.org/https://github.com/bytecodealliance/wasm-pkg-tools/releases/download/v0.16.1/wkg-x86_64-pc-windows-gnu#/wkg.exe",
             "hash": "c5249b4a45d3ea3c3c87fb9029e47ee5b834fed19acdd6e91fff602b145b0dec"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bytecodealliance/wasm-pkg-tools/releases/download/v$version/wkg-x86_64-pc-windows-gnu#/wkg.exe"
+                "url": "https://gh-proxy.org/https://github.com/bytecodealliance/wasm-pkg-tools/releases/download/v$version/wkg-x86_64-pc-windows-gnu#/wkg.exe"
             }
         }
     }

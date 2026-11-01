@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/abc123info/EquationToolsGUI",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/abc123info/EquationToolsGUI/releases/download/v0.68/EquationToolsGUI_V0.68.zip#/EquationToolsGUI.zip1",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/EquationToolsGUI/releases/download/v0.68/EquationToolsGUI_V0.68.zip#/EquationToolsGUI.zip1",
     "pre_install": [
         "7z x \"$dir\\EquationToolsGUI.zip1\" -p123456 -o\"$dir\" -y",
         "Move-Item -Path \"$dir\\方程式工具包图形界面版V$version\\*\" -Destination \"$dir\" -Force",
@@ -31,6 +31,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/EquationToolsGUI/releases/download/v$version/EquationToolsGUI_V$version.zip#/EquationToolsGUI.zip1"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/EquationToolsGUI/releases/download/v$version/EquationToolsGUI_V$version.zip#/EquationToolsGUI.zip1"
     }
 }

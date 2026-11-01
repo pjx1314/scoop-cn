@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/pyinstxtractor/pyinstaller-repacker/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/pyinstxtractor/pyinstaller-repacker/archive/refs/heads/master.zip",
     "hash": "",
     "extract_dir": "pyinstaller-repacker-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/pyinstxtractor/pyinstaller-repacker/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/pyinstxtractor/pyinstaller-repacker/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

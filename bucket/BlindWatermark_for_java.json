@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/ww23/BlindWatermark/releases/download/v0.0.3/BlindWatermark-v0.0.3-windows-x86_64.jar#/BlindWatermark.jar",
+    "url": "https://gh-proxy.org/https://github.com/ww23/BlindWatermark/releases/download/v0.0.3/BlindWatermark-v0.0.3-windows-x86_64.jar#/BlindWatermark.jar",
     "hash": "e79552afa4181848715ee234d6ee80c9ab822836db3053d56be18129a2dac65a",
     "pre_install": [
         "Set-Content \"$dir\\BlindWatermark_for_java.bat\" '@pushd %~dp0",
@@ -25,6 +25,6 @@
     "bin": "BlindWatermark_for_java.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ww23/BlindWatermark/releases/download/v$version/BlindWatermark-v$version-windows-x86_64.jar#/BlindWatermark.jar"
+        "url": "https://gh-proxy.org/https://github.com/ww23/BlindWatermark/releases/download/v$version/BlindWatermark-v$version-windows-x86_64.jar#/BlindWatermark.jar"
     }
 }

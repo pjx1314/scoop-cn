@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-x64.zip",
             "hash": "sha512:703a86c5f502567f2b2cab12c93c70b2dff738218aa32917da46b5996afa4a27f1f4025d835982d213f0987a4fe9b46058a1f125160cce84bd78c1c2d52ada0c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/6.3.10.6/ASF-win-arm64.zip",
             "hash": "sha512:e4032adf70705402ae14ad9691eeea8e97ed6313ac86063eee43ab176931e090f4b02d0e286f3332a2286772b20a961fae991c4e9e3d19f33ea50cceaf8fb508"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-win-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-win-arm64.zip"
             }
         },
         "hash": {

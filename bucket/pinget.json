@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/pinget/releases/download/v0.14.0/pinget-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/pinget/releases/download/v0.14.0/pinget-windows-x64.zip",
             "hash": "af8fd890702d2dcc44da0dc6e9e6a32f4e2632be5991b6fa7b070eb3f4e4ccc2"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Devolutions/pinget/releases/download/v0.14.0/pinget-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/pinget/releases/download/v0.14.0/pinget-windows-arm64.zip",
             "hash": "9ec9cbfffae81f781150de9928714b1eaa6b6f2d47ecb987713e4e7466d1513b"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/pinget/releases/download/v$version/pinget-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/pinget/releases/download/v$version/pinget-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Devolutions/pinget/releases/download/v$version/pinget-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/pinget/releases/download/v$version/pinget-windows-arm64.zip"
             }
         }
     }

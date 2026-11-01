@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/mchlnix/SMB3-Foundry/releases/download/1.6/win64-smb3-foundry.exe#/smb3-foundry.exe",
-                "https://gh-proxy.com/https://github.com/mchlnix/SMB3-Foundry/releases/download/1.6/win64-smb3-scribe.exe#/smb3-scribe.exe"
+                "https://gh-proxy.org/https://github.com/mchlnix/SMB3-Foundry/releases/download/1.6/win64-smb3-foundry.exe#/smb3-foundry.exe",
+                "https://gh-proxy.org/https://github.com/mchlnix/SMB3-Foundry/releases/download/1.6/win64-smb3-scribe.exe#/smb3-scribe.exe"
             ],
             "hash": [
                 "a208605c42c97e58939dd2656c429c8a76c41850f8c61f4258fe774be8f8009c",
@@ -30,8 +30,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/mchlnix/SMB3-Foundry/releases/download/$version/win64-smb3-foundry.exe#/smb3-foundry.exe",
-                    "https://gh-proxy.com/https://github.com/mchlnix/SMB3-Foundry/releases/download/$version/win64-smb3-scribe.exe#/smb3-scribe.exe"
+                    "https://gh-proxy.org/https://github.com/mchlnix/SMB3-Foundry/releases/download/$version/win64-smb3-foundry.exe#/smb3-foundry.exe",
+                    "https://gh-proxy.org/https://github.com/mchlnix/SMB3-Foundry/releases/download/$version/win64-smb3-scribe.exe#/smb3-scribe.exe"
                 ]
             }
         }

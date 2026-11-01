@@ -5,11 +5,11 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BeaconBay/ck/releases/download/0.8.1/ck-0.8.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/BeaconBay/ck/releases/download/0.8.1/ck-0.8.1-x86_64-pc-windows-msvc.zip",
             "hash": "5cc143a70902bd1551c7817cd31a8d0a393c892ee10c1506218d23c0f6c99368"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/BeaconBay/ck/releases/download/0.8.1/ck-0.8.1-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/BeaconBay/ck/releases/download/0.8.1/ck-0.8.1-aarch64-pc-windows-msvc.zip",
             "hash": "39aeafb21800a1c9a56f51d2d957e73a17ffb77c40d13f2b00fff140685ba75c"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BeaconBay/ck/releases/download/$version/ck-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/BeaconBay/ck/releases/download/$version/ck-$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/BeaconBay/ck/releases/download/$version/ck-$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/BeaconBay/ck/releases/download/$version/ck-$version-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

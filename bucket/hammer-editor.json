@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Darkrock-Studios/hammer-editor/releases/download/v3.12.1/hammer.exe#/dl.exe",
+            "url": "https://gh-proxy.org/https://github.com/Darkrock-Studios/hammer-editor/releases/download/v3.12.1/hammer.exe#/dl.exe",
             "hash": "d78616ec4c6e60befce0563c0e69e8cfa7ea2b936a33ca97b393f905cba63e6d"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Darkrock-Studios/hammer-editor/releases/download/v$version/hammer.exe#/dl.exe"
+                "url": "https://gh-proxy.org/https://github.com/Darkrock-Studios/hammer-editor/releases/download/v$version/hammer.exe#/dl.exe"
             }
         }
     }

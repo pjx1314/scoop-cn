@@ -3,13 +3,13 @@
     "description": "jd-mcp-duo - Java 反编译 MCP 服务器与 CLI 工具集，支持 34 种反编译与静态分析工具",
     "homepage": "https://github.com/AgeloVito/jd-mcp-duo",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/AgeloVito/jd-mcp-duo/releases/download/v4.2.5.4/jd-mcp-duo-windows-x64.zip#/jd-mcp-duo.zip",
+    "url": "https://gh-proxy.org/https://github.com/AgeloVito/jd-mcp-duo/releases/download/v4.2.5.4/jd-mcp-duo-windows-x64.zip#/jd-mcp-duo.zip",
     "hash": "sha256:36da925917235601cb631f4d8fcebaab2a8c9334a31c03fbd2736ac926555a62",
     "extract_dir": "jd-mcp-duo",
     "bin": "bin\\jd-mcp-duo.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AgeloVito/jd-mcp-duo/releases/download/v$version/jd-mcp-duo-windows-x64.zip#/jd-mcp-duo.zip"
+        "url": "https://gh-proxy.org/https://github.com/AgeloVito/jd-mcp-duo/releases/download/v$version/jd-mcp-duo-windows-x64.zip#/jd-mcp-duo.zip"
     },
     "notes": [
         "【工具类型】: MCP 服务 / 安全分析工具",

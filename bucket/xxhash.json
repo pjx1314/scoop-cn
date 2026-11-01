@@ -5,7 +5,7 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Cyan4973/xxHash/releases/download/v0.8.4/xxhsum_win64_v0_8_4.zip",
+            "url": "https://gh-proxy.org/https://github.com/Cyan4973/xxHash/releases/download/v0.8.4/xxhsum_win64_v0_8_4.zip",
             "hash": "58e3dcb7063eb3829418453702556cdb2b52e7c9082215fcd4e9135fabbd4ed9"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Cyan4973/xxHash/releases/download/v$version/xxhsum_win64_v$underscoreVersion.zip"
+                "url": "https://gh-proxy.org/https://github.com/Cyan4973/xxHash/releases/download/v$version/xxhsum_win64_v$underscoreVersion.zip"
             }
         }
     }

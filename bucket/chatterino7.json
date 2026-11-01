@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SevenTV/chatterino7/releases/download/nightly-build/chatterino-windows-x86-64-Qt-6.12.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/SevenTV/chatterino7/releases/download/nightly-build/chatterino-windows-x86-64-Qt-6.12.0.zip",
             "hash": "589fa173ffdc40659626fe240f1bd56ccca7793b89471034140c83941891dde0"
         }
     },
@@ -27,7 +27,7 @@
     "checkver": {
         "script": [
             "try {",
-            "    $null = (Invoke-WebRequest https://gh-proxy.com/https://raw.githubusercontent.com/SevenTV/chatterino7/chatterino7/.github/workflows/build.yml).Content -cmatch 'os: windows-latest\\s+qt-version: ([\\d.]+)'",
+            "    $null = (Invoke-WebRequest https://gh-proxy.org/https://raw.githubusercontent.com/SevenTV/chatterino7/chatterino7/.github/workflows/build.yml).Content -cmatch 'os: windows-latest\\s+qt-version: ([\\d.]+)'",
             "    $Matches[1],",
             "    (Invoke-RestMethod 'https://api.github.com/repositories/342454835/actions/workflows/build.yml/runs?branch=chatterino7&status=success&per_page=1' -Headers $(if ($auth = Get-GitHubToken) { @{authorization=\"Bearer $auth\"} })).workflow_runs[0].id -join ' '",
             "}",
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SevenTV/chatterino7/releases/download/nightly-build/chatterino-windows-x86-64-Qt-$matchQt.zip"
+                "url": "https://gh-proxy.org/https://github.com/SevenTV/chatterino7/releases/download/nightly-build/chatterino-windows-x86-64-Qt-$matchQt.zip"
             }
         }
     }

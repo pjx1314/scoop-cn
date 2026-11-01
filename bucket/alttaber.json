@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MrBeanCpp/AltTaber/releases/download/v0.5.0/AltTaber.zip",
+            "url": "https://gh-proxy.org/https://github.com/MrBeanCpp/AltTaber/releases/download/v0.5.0/AltTaber.zip",
             "hash": "b1aa6d696afff17c751c2c68d2c8e43edf81f60ec8acb211ee8604e046e59792"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MrBeanCpp/AltTaber/releases/download/v$version/AltTaber.zip"
+                "url": "https://gh-proxy.org/https://github.com/MrBeanCpp/AltTaber/releases/download/v$version/AltTaber.zip"
             }
         }
     }

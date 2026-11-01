@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yumenaka/comigo/releases/download/v1.3.9/comigo-desktop_v1.3.9_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yumenaka/comigo/releases/download/v1.3.9/comigo-desktop_v1.3.9_Windows_x86_64.zip",
             "hash": "23d9a0d173589d1d883fb918b0561ae2deb419dee4eba3ccea62d759ece0311a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/yumenaka/comigo/releases/download/v1.3.9/comigo-desktop_v1.3.9_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yumenaka/comigo/releases/download/v1.3.9/comigo-desktop_v1.3.9_Windows_arm64.zip",
             "hash": "a0c192f230ce6fc5a7711ef9ca8e2a6d6756d42c074a9b495b036d21ff585802"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yumenaka/comigo/releases/download/v$version/comigo-desktop_v$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yumenaka/comigo/releases/download/v$version/comigo-desktop_v$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/yumenaka/comigo/releases/download/v$version/comigo-desktop_v$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yumenaka/comigo/releases/download/v$version/comigo-desktop_v$version_Windows_arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jumppad-labs/jumppad/releases/download/0.28.1/jumppad_0.28.1_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jumppad-labs/jumppad/releases/download/0.28.1/jumppad_0.28.1_windows_x86_64.zip",
             "hash": "18c202efd1424e061bcb90f5d9356cd47835c43ab6e0fa1491874b667c7f5c97"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jumppad-labs/jumppad/releases/download/$version/jumppad_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jumppad-labs/jumppad/releases/download/$version/jumppad_$version_windows_x86_64.zip"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-amd64.msi",
+            "url": "https://gh-proxy.org/https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-amd64.msi",
             "hash": "4a05240054cb990629cbe098db090c5c7848c44162c11910cabb45ca75a40d53"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-arm64.msi",
+            "url": "https://gh-proxy.org/https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-arm64.msi",
             "hash": "a1b65ffa7dd60a5eceedd3df7fc5d1d005b8d21018ff9deaa15aeacfbc92cd6c"
         }
     },
@@ -75,10 +75,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/podman-container-tools/podman/releases/download/v$version/podman-installer-windows-amd64.msi"
+                "url": "https://gh-proxy.org/https://github.com/podman-container-tools/podman/releases/download/v$version/podman-installer-windows-amd64.msi"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/podman-container-tools/podman/releases/download/v$version/podman-installer-windows-arm64.msi"
+                "url": "https://gh-proxy.org/https://github.com/podman-container-tools/podman/releases/download/v$version/podman-installer-windows-arm64.msi"
             }
         },
         "hash": {

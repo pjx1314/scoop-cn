@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.zip",
+            "url": "https://gh-proxy.org/https://github.com/team-ide/teamide/releases/download/v2.6.38/TeamIDE-win-2.6.38.zip",
             "hash": "49e8e2d16519c7c0243a78b23c0436b8efcc7f544d24543b9c3ad960a86408c0"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/team-ide/teamide/releases/download/v$version/TeamIDE-win-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/team-ide/teamide/releases/download/v$version/TeamIDE-win-$version.zip"
             }
         }
     }

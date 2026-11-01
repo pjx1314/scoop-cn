@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/presburger/qmc-decoder/releases/download/2.5/decoder-win.exe#/qmc-decoder.exe",
+            "url": "https://gh-proxy.org/https://github.com/presburger/qmc-decoder/releases/download/2.5/decoder-win.exe#/qmc-decoder.exe",
             "hash": "b6f4e6e2f1875275cb5b3f4415d51d1db3f53ca6c7abd4757e87137185db451f"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/presburger/qmc-decoder/releases/download/$version/decoder-win.exe#/qmc-decoder.exe"
+                "url": "https://gh-proxy.org/https://github.com/presburger/qmc-decoder/releases/download/$version/decoder-win.exe#/qmc-decoder.exe"
             }
         }
     }

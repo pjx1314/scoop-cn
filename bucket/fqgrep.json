@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fulcrumgenomics/fqgrep/releases/download/v1.1.2/fqgrep-x86_64-pc-windows-gnu.exe#/fqgrep.exe",
+            "url": "https://gh-proxy.org/https://github.com/fulcrumgenomics/fqgrep/releases/download/v1.1.2/fqgrep-x86_64-pc-windows-gnu.exe#/fqgrep.exe",
             "hash": "ba704bacfac47c08a78b0f1fc057356a5a9eb0ba280d8eec104075c1e1954d81"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fulcrumgenomics/fqgrep/releases/download/v$version/fqgrep-x86_64-pc-windows-gnu.exe#/fqgrep.exe"
+                "url": "https://gh-proxy.org/https://github.com/fulcrumgenomics/fqgrep/releases/download/v$version/fqgrep-x86_64-pc-windows-gnu.exe#/fqgrep.exe"
             }
         }
     }

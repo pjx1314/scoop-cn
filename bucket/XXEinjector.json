@@ -12,7 +12,7 @@
     "suggest": {
         "ruby": "ruby"
     },
-    "url": "https://gh-proxy.com/https://github.com/enjoiz/XXEinjector/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/enjoiz/XXEinjector/archive/refs/heads/master.zip",
     "hash": "308e740b8597147382ac553b7bcf18117f200f4f4ba4c149e1b6cbcd9d01e755",
     "pre_install": [
         "Set-Content \"$dir\\XXEinjector.bat\" '@pushd %~dp0",
@@ -27,6 +27,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/enjoiz/XXEinjector/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/enjoiz/XXEinjector/archive/refs/heads/master.zip"
     }
 }

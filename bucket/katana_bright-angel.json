@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/projectdiscovery/katana/releases/download/v1.8.0/katana_1.8.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/katana/releases/download/v1.8.0/katana_1.8.0_windows_amd64.zip",
             "hash": "8013253e3092e08524527a5c3f7ebd70747acc4bb51414858f8e6dffeb17f907"
         }
     },
@@ -14,10 +14,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/projectdiscovery/katana/releases/download/v$version/katana_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/katana/releases/download/v$version/katana_$version_windows_386.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/projectdiscovery/katana/releases/download/v$version/katana_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/katana/releases/download/v$version/katana_$version_windows_amd64.zip"
             }
         }
     },

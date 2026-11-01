@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-win32_x64-v1.44.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/rotki/rotki/releases/download/v1.44.2/rotki-win32_x64-v1.44.2.exe#/dl.7z",
             "hash": "03cd9d9eeea773fbfc5c1a89f0abcf51c38152af23008a628b876a0c3772b4b6",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rotki/rotki/releases/download/v$version/rotki-win32_x64-v$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/rotki/rotki/releases/download/v$version/rotki-win32_x64-v$version.exe#/dl.7z"
             }
         }
     }

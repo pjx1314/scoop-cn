@@ -4,8 +4,8 @@
     "homepage": "https://github.com/lkimuk/ReArk",
     "license": "Apache-2.0",
     "url": [
-        "https://gh-proxy.com/https://github.com/lkimuk/ReArk/releases/download/v1.2.0/ReArk-1.2.0-windows-x64-setup.exe#/ReArk-setup.exe",
-        "https://gh-proxy.com/https://github.com/lkimuk/ReArk/archive/refs/tags/v1.2.0.zip#/ReArk-source.zip"
+        "https://gh-proxy.org/https://github.com/lkimuk/ReArk/releases/download/v1.2.0/ReArk-1.2.0-windows-x64-setup.exe#/ReArk-setup.exe",
+        "https://gh-proxy.org/https://github.com/lkimuk/ReArk/archive/refs/tags/v1.2.0.zip#/ReArk-source.zip"
     ],
     "hash": [
         "78f00292c8e2af574161f123dc8e7963c11e16966ad34c00463f052c44773a7b",
@@ -29,8 +29,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/lkimuk/ReArk/releases/download/v$version/ReArk-$version-windows-x64-setup.exe#/ReArk-setup.exe",
-            "https://gh-proxy.com/https://github.com/lkimuk/ReArk/archive/refs/tags/v$version.zip#/ReArk-source.zip"
+            "https://gh-proxy.org/https://github.com/lkimuk/ReArk/releases/download/v$version/ReArk-$version-windows-x64-setup.exe#/ReArk-setup.exe",
+            "https://gh-proxy.org/https://github.com/lkimuk/ReArk/archive/refs/tags/v$version.zip#/ReArk-source.zip"
         ]
     },
     "notes": [

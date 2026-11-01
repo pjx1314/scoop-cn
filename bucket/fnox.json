@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/fnox/releases/download/v1.46.0/fnox-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/fnox/releases/download/v1.46.0/fnox-x86_64-pc-windows-msvc.zip",
             "hash": "1cdeb238348e1ceded8522296950ad4b5dba04221b462d64bf80662fae341960"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jdx/fnox/releases/download/v1.46.0/fnox-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/jdx/fnox/releases/download/v1.46.0/fnox-aarch64-pc-windows-msvc.zip",
             "hash": "3ea2577b3744713bf59373aecfa82e8e85202b21ef67cc74ad0cbe18a2f40e99"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/fnox/releases/download/v$version/fnox-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/fnox/releases/download/v$version/fnox-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jdx/fnox/releases/download/v$version/fnox-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/jdx/fnox/releases/download/v$version/fnox-aarch64-pc-windows-msvc.zip"
             }
         }
     }

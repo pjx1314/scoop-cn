@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/mrknow001/API-Explorer",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/mrknow001/API-Explorer/releases/download/v2.1.0/API-Explorer_v2.1.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/mrknow001/API-Explorer/releases/download/v2.1.0/API-Explorer_v2.1.0.zip",
     "hash": "51def52b2260edb7a5a5ce78b0811f396bcc9a58dffdceca3194cf68440c398c",
     "extract_dir": "API-Explorer_v2.1.0",
     "persist": "ApiInfo2.0.db",
@@ -22,6 +22,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/mrknow001/API-Explorer/releases/download/v$version/API-Explorer_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/mrknow001/API-Explorer/releases/download/v$version/API-Explorer_v$version.zip"
     }
 }

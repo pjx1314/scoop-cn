@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Kong/insomnia/releases/download/core@13.4.0/inso-windows-13.4.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/Kong/insomnia/releases/download/core@13.4.0/inso-windows-13.4.0.zip",
             "hash": "d926069ceb5164afb23a56dbe3390b90ec6abdd7e8f48eb06d2fabbbd6002f96"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Kong/insomnia/releases/download/core@$version/inso-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/Kong/insomnia/releases/download/core@$version/inso-windows-$version.zip"
             }
         }
     }

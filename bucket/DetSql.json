@@ -14,7 +14,7 @@
             "temurin17-jdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/saoshao/DetSql/releases/download/3.4.0/detsql3.4.0.jar#/detsql.jar",
+    "url": "https://gh-proxy.org/https://github.com/saoshao/DetSql/releases/download/3.4.0/detsql3.4.0.jar#/detsql.jar",
     "hash": "cbce047a95c0a6ad7b76bea29141e014dcf4743f886e8641ce25048ee412aea9",
     "bin": "detsql.jar",
     "checkver": {
@@ -23,7 +23,7 @@
         "regex": "([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/saoshao/DetSql/releases/download/$version/detsql$version.jar#/detsql.jar",
+        "url": "https://gh-proxy.org/https://github.com/saoshao/DetSql/releases/download/$version/detsql$version.jar#/detsql.jar",
         "hash": {
             "url": "https://api.github.com/repos/saoshao/DetSql/releases/latest",
             "jsonpath": "$.assets[0].digest",

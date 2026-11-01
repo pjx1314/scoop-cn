@@ -5,17 +5,17 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/godotengine/godot-builds/releases/download/4.8-beta2/Godot_v4.8-beta2_mono_win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot-builds/releases/download/4.8-beta2/Godot_v4.8-beta2_mono_win64.zip",
             "hash": "sha512:439543cd9c919b115303ef3b011177f44faca128215ecfec5e61de66a97698aab720d93683aee802f5af8ff2351d25ee739c54a475206298051e9804d7d7c9a5",
             "extract_dir": "Godot_v4.8-beta2_mono_win64"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/godotengine/godot-builds/releases/download/4.8-beta2/Godot_v4.8-beta2_mono_win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot-builds/releases/download/4.8-beta2/Godot_v4.8-beta2_mono_win32.zip",
             "hash": "sha512:4e9dede1f922ae3a5f0cc690bdae5e576eb9a8c7bcfd8a5d101adc7eeeeda4a4705f0cd33370e7fa0aa14dfc4fa3eeedd5da200d3563ca60bbe7902f31d9757e",
             "extract_dir": "Godot_v4.8-beta2_mono_win32"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/godotengine/godot-builds/releases/download/4.8-beta2/Godot_v4.8-beta2_mono_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot-builds/releases/download/4.8-beta2/Godot_v4.8-beta2_mono_windows_arm64.zip",
             "hash": "sha512:730c22fc9d407867cb079434ad15706569f07d1b96ab76370ad9a517f794ec85fbdf1e062489d0c324bc5a76ca4a77ac67eaa2933db27f804a0e6f54034eef7b",
             "extract_dir": "Godot_v4.8-beta2_mono_windows_arm64"
         }
@@ -44,15 +44,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/godotengine/godot-builds/releases/download/$version/Godot_v$version_mono_win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot-builds/releases/download/$version/Godot_v$version_mono_win64.zip",
                 "extract_dir": "Godot_v$version_mono_win64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/godotengine/godot-builds/releases/download/$version/Godot_v$version_mono_win32.zip",
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot-builds/releases/download/$version/Godot_v$version_mono_win32.zip",
                 "extract_dir": "Godot_v$version_mono_win32"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/godotengine/godot-builds/releases/download/$version/Godot_v$version_mono_windows_arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot-builds/releases/download/$version/Godot_v$version_mono_windows_arm64.zip",
                 "extract_dir": "Godot_v$version_mono_windows_arm64"
             }
         },

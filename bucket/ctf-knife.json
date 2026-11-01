@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/qianxiao996/ctf-knife/releases/download/v1.2/ctf-knife-v1.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/qianxiao996/ctf-knife/releases/download/v1.2/ctf-knife-v1.2.zip",
     "hash": "ea1e8866ea64183857585ec69fedfe23599234af926b915ce5a11c3e5382ae68",
     "pre_install": [
         "Get-ChildItem \"$dir\" 'ctf-knife-*-SNAPSHOT.jar' | Select-Object -First 1 | Rename-Item -NewName 'ctf-knife.jar'",
@@ -27,7 +27,7 @@
     "persist": "Conf",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/qianxiao996/ctf-knife/releases/download/v$version/ctf-knife-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/qianxiao996/ctf-knife/releases/download/v$version/ctf-knife-v$version.zip"
     },
     "notes": [
         "【工具类型】: 密码工具",

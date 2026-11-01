@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/flectar/mail/releases/download/v0.1.0-alpha.7/flectar-mail-0.1.0-alpha.7-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/flectar/mail/releases/download/v0.1.0-alpha.7/flectar-mail-0.1.0-alpha.7-windows-x64.zip",
             "hash": "37d0366f3c20235097c7b59b733c347002e092b78c8b499b90e018c67282cc1a"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/flectar/mail/releases/download/v$version/flectar-mail-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/flectar/mail/releases/download/v$version/flectar-mail-$version-windows-x64.zip"
             }
         },
         "hash": {

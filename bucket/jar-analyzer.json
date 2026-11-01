@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jar-analyzer/jar-analyzer/releases/download/6.3/jar-analyzer-6.3-windows-full.zip",
+            "url": "https://gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/6.3/jar-analyzer-6.3-windows-full.zip",
             "extract_dir": "jar-analyzer-6.3-windows-full",
             "hash": "881e1515fec1d5b85fac12a07a347660306e9d139212352a05f5b189e4639cf9"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jar-analyzer/jar-analyzer/releases/download/$version/jar-analyzer-$version-windows-full.zip",
+                "url": "https://gh-proxy.org/https://github.com/jar-analyzer/jar-analyzer/releases/download/$version/jar-analyzer-$version-windows-full.zip",
                 "extract_dir": "jar-analyzer-$version-windows-full"
             }
         }

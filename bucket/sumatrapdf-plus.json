@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dengxibo/sumatrapdf-plus/releases/download/3.7.43/Sumatra.PDF.Plus.MainProgram+dictionary.zip",
+            "url": "https://gh-proxy.org/https://github.com/dengxibo/sumatrapdf-plus/releases/download/3.7.43/Sumatra.PDF.Plus.MainProgram+dictionary.zip",
             "hash": "f2c2ed6bdb606896f784a396d2ebab241b7c5c9f22670e9b9312f702698c2259"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dengxibo/sumatrapdf-plus/releases/download/$version/Sumatra.PDF.Plus.MainProgram+dictionary.zip"
+                "url": "https://gh-proxy.org/https://github.com/dengxibo/sumatrapdf-plus/releases/download/$version/Sumatra.PDF.Plus.MainProgram+dictionary.zip"
             }
         }
     }

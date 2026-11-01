@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-cuda-12.4.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-cuda-12.4.0-x64.zip",
             "hash": "afef0b881c500958921c3f5523b50e59ee2ec9b6f5cbd25b324c51ed308a957a",
             "bin": [
                 "whisper-bench.exe",
@@ -25,7 +25,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-cuda-13.4-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-cuda-13.4-arm64.zip",
             "hash": "6184ae8887d38ea9add68e883b9c846e7bf562ba1bf619ffc7ee9f8ec7e1699c",
             "bin": [
                 "whisper-bench.exe",
@@ -71,10 +71,10 @@
         "notes": "Requires an NVIDIA GPU and a driver supporting the bundled CUDA (x64: $matchCudax64, arm64: $matchCudaarm64) runtime.",
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-bin-win-cuda-$matchCudax64-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-bin-win-cuda-$matchCudax64-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-bin-win-cuda-$matchCudaarm64-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-bin-win-cuda-$matchCudaarm64-arm64.zip"
             }
         }
     }

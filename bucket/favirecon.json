@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/edoardottt/favirecon/releases/download/v1.1.0/favirecon_1.1.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/edoardottt/favirecon/releases/download/v1.1.0/favirecon_1.1.0_windows_amd64.zip",
             "hash": "ceaec7147e00039b45ae1ce157f69b50913c2c90c3cedb0e606a2c31d6ddb1da"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/edoardottt/favirecon/releases/download/v1.1.0/favirecon_1.1.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/edoardottt/favirecon/releases/download/v1.1.0/favirecon_1.1.0_windows_386.zip",
             "hash": "3030642886934994247aa1bef22f87bcef0c2229e83f4d1c263515a2b6a3c9d8"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/edoardottt/favirecon/releases/download/v$version/favirecon_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/edoardottt/favirecon/releases/download/v$version/favirecon_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/edoardottt/favirecon/releases/download/v$version/favirecon_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/edoardottt/favirecon/releases/download/v$version/favirecon_$version_windows_386.zip"
             }
         },
         "hash": {

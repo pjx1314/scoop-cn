@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sxhxliang/agent-studio/releases/download/v0.3.1/agentx-windows.exe#/agentx.exe",
+            "url": "https://gh-proxy.org/https://github.com/sxhxliang/agent-studio/releases/download/v0.3.1/agentx-windows.exe#/agentx.exe",
             "hash": "a405107f67a5486244cf17847f711905ec2f12d1c1e14e8bb98f6e2377ac0b4b"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sxhxliang/agent-studio/releases/download/v$version/agentx-windows.exe#/agentx.exe"
+                "url": "https://gh-proxy.org/https://github.com/sxhxliang/agent-studio/releases/download/v$version/agentx-windows.exe#/agentx.exe"
             }
         }
     }

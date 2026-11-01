@@ -7,7 +7,7 @@
         "url": "https://github.com/sphinx-doc/sphinx/blob/3.x/LICENSE"
     },
     "depends": "main/python-bucket-utils",
-    "url": "https://gh-proxy.com/https://github.com/sphinx-doc/sphinx/archive/v9.2.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/sphinx-doc/sphinx/archive/v9.2.0.zip",
     "hash": "f7d1ac24133d965c1d1e699eea27b1e8fea9557899b583fa0b3290c187cd6103",
     "extract_dir": "sphinx-9.2.0",
     "installer": {
@@ -27,7 +27,7 @@
         "github": "https://github.com/sphinx-doc/sphinx"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sphinx-doc/sphinx/archive/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/sphinx-doc/sphinx/archive/v$version.zip",
         "extract_dir": "sphinx-$version"
     }
 }

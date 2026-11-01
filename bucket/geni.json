@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/emilpriver/geni/releases/download/v1.3.3/geni-windows-amd64#/geni.exe",
+            "url": "https://gh-proxy.org/https://github.com/emilpriver/geni/releases/download/v1.3.3/geni-windows-amd64#/geni.exe",
             "hash": "476c85b1fb039fa6d5b4bf067d2947225b2d31db166ddd38bd5e1a02141b7d10"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/emilpriver/geni/releases/download/v$version/geni-windows-amd64#/geni.exe"
+                "url": "https://gh-proxy.org/https://github.com/emilpriver/geni/releases/download/v$version/geni-windows-amd64#/geni.exe"
             }
         }
     }

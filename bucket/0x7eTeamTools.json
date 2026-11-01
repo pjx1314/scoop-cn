@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/0x7eTeam/0x7eTeamTools/releases/download/1.2/0x7eTeamTools.v1.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/0x7eTeam/0x7eTeamTools/releases/download/1.2/0x7eTeamTools.v1.2.zip",
     "hash": "69c92b607e1d19555ab59db532920ddf4d30d5374cbada14a853fe4581605887",
     "post_install": [
         "Get-ChildItem \"$dir\" '0x7eTeamTools*.jar' | Select-Object -First 1 | Rename-Item -NewName '0x7eTeamTools.jar'"
@@ -34,6 +34,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/0x7eTeam/0x7eTeamTools/releases/download/$version/0x7eTeamTools.v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/0x7eTeam/0x7eTeamTools/releases/download/$version/0x7eTeamTools.v$version.zip"
     }
 }

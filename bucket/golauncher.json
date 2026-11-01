@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eziq1/golauncher/releases/download/v0.13.1/golauncher_0.13.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/eziq1/golauncher/releases/download/v0.13.1/golauncher_0.13.1_windows_amd64.zip",
             "hash": "edf9852d874201b988d8c93c34cb6f2d883da3b1eed298e85102ea693cb080b4"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/eziq1/golauncher/releases/download/v0.13.1/golauncher_0.13.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/eziq1/golauncher/releases/download/v0.13.1/golauncher_0.13.1_windows_arm64.zip",
             "hash": "d833ae488054011ba500d5cda3ec0ded6ae572e0cbd2007ed24b4f682e4d0f3d"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eziq1/golauncher/releases/download/v$version/golauncher_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/eziq1/golauncher/releases/download/v$version/golauncher_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/eziq1/golauncher/releases/download/v$version/golauncher_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/eziq1/golauncher/releases/download/v$version/golauncher_$version_windows_arm64.zip"
             }
         },
         "hash": {

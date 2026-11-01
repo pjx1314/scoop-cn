@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pulumi/crd2pulumi/releases/download/v1.6.2/crd2pulumi-v1.6.2-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pulumi/crd2pulumi/releases/download/v1.6.2/crd2pulumi-v1.6.2-windows-amd64.zip",
             "hash": "e6a320c5fdc2ba4c4bc96132966bfdf5b330c4a48937fa855ec45f4c98d95c3f"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pulumi/crd2pulumi/releases/download/v$version/crd2pulumi-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pulumi/crd2pulumi/releases/download/v$version/crd2pulumi-v$version-windows-amd64.zip"
             }
         },
         "hash": {

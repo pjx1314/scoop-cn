@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b5587/llama-b5587-bin-win-cuda-11.7-x64.zip",
-                "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b5587/cudart-llama-bin-win-cuda-11.7-x64.zip"
+                "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b5587/llama-b5587-bin-win-cuda-11.7-x64.zip",
+                "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b5587/cudart-llama-bin-win-cuda-11.7-x64.zip"
             ],
             "hash": [
                 "f768fe684326b89f29dd920a3fd22c1b9804a8ba9f2368e9483852e1a127121a",

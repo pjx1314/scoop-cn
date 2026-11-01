@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_windows_amd64.zip",
             "hash": "5fc8439361af98e502bc17b84811b4662fb3a0227f26de01ad4fc5728b84a8c0"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_windows_arm64.zip",
             "hash": "5ce8258a769d2e18056eb6961b43640a64956f8f788d371e213910385cf421e5"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stigoleg/keep-alive/releases/download/v$version/keepalive_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stigoleg/keep-alive/releases/download/v$version/keepalive_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/stigoleg/keep-alive/releases/download/v$version/keepalive_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stigoleg/keep-alive/releases/download/v$version/keepalive_$version_windows_arm64.zip"
             }
         },
         "hash": {

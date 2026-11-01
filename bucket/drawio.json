@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v32.6.1/draw.io-32.6.1-windows-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v32.6.1/draw.io-32.6.1-windows-installer.exe#/dl.7z",
             "hash": "c6e11ca28b97946e8bbc797b0bf4635ca071c934f5d3727278b52075923733cb",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v32.6.1/draw.io-arm64-32.6.1-windows-arm64-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v32.6.1/draw.io-arm64-32.6.1-windows-arm64-installer.exe#/dl.7z",
             "hash": "af22a2f6159540e32c0681a1ae613ae45560ac0f10665b107c53e5cfee760875",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\" -Removal"
         }
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-$version-windows-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-$version-windows-installer.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-arm64-$version-windows-arm64-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/jgraph/drawio-desktop/releases/download/v$version/draw.io-arm64-$version-windows-arm64-installer.exe#/dl.7z"
             }
         }
     }

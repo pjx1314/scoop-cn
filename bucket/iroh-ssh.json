@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rustonbsd/iroh-ssh/releases/download/0.2.12/iroh-ssh.exe",
+            "url": "https://gh-proxy.org/https://github.com/rustonbsd/iroh-ssh/releases/download/0.2.12/iroh-ssh.exe",
             "hash": "d50813aea4425c2113edcb889ffcc1a97f5a0d85517a35ef56114de45d8bda64"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rustonbsd/iroh-ssh/releases/download/$version/iroh-ssh.exe"
+                "url": "https://gh-proxy.org/https://github.com/rustonbsd/iroh-ssh/releases/download/$version/iroh-ssh.exe"
             }
         }
     }

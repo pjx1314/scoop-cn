@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/abhinav/doc2go/releases/download/v0.12.2/doc2go-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/abhinav/doc2go/releases/download/v0.12.2/doc2go-windows-amd64.tar.gz",
             "hash": "0c395ccfbdbfaf7f0f6459729284c30fb18391a9e7a95c2b64573fd2edd1c8b7"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/abhinav/doc2go/releases/download/v0.12.2/doc2go-windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/abhinav/doc2go/releases/download/v0.12.2/doc2go-windows-386.tar.gz",
             "hash": "fc1418bc8a1e85a4f6f6eff16dea8234aec120ad4534d13cc0dddde9dffaa787"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/abhinav/doc2go/releases/download/v0.12.2/doc2go-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/abhinav/doc2go/releases/download/v0.12.2/doc2go-windows-arm64.tar.gz",
             "hash": "ceb3f246c2e02609ed595b3f4097787741f2fdbbd688fe6a388721872866081e"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/abhinav/doc2go/releases/download/v$version/doc2go-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/abhinav/doc2go/releases/download/v$version/doc2go-windows-amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/abhinav/doc2go/releases/download/v$version/doc2go-windows-386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/abhinav/doc2go/releases/download/v$version/doc2go-windows-386.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/abhinav/doc2go/releases/download/v$version/doc2go-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/abhinav/doc2go/releases/download/v$version/doc2go-windows-arm64.tar.gz"
             }
         },
         "hash": {

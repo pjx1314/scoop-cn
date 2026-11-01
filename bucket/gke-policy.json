@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/google/gke-policy-automation/releases/download/v1.4.8/gke-policy-automation_v1.4.8_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/google/gke-policy-automation/releases/download/v1.4.8/gke-policy-automation_v1.4.8_windows_amd64.zip",
             "hash": "1092e8a0fb926cbe55755e68b3c0434c644598306a5572c5bbcfb31632c2174b"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/google/gke-policy-automation/releases/download/v1.4.8/gke-policy-automation_v1.4.8_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/google/gke-policy-automation/releases/download/v1.4.8/gke-policy-automation_v1.4.8_windows_arm64.zip",
             "hash": "47f9bd12094342b5d4e728537ce0977d7135b3c95781f3fdc238f12ddf8d8158"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/google/gke-policy-automation/releases/download/v$version/gke-policy-automation_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/google/gke-policy-automation/releases/download/v$version/gke-policy-automation_v$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/google/gke-policy-automation/releases/download/v$version/gke-policy-automation_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/google/gke-policy-automation/releases/download/v$version/gke-policy-automation_v$version_windows_arm64.zip"
             }
         },
         "hash": {

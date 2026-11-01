@@ -9,10 +9,10 @@
     ],
     "homepage": "https://github.com/bit4woo/domain_hunter_pro",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/bit4woo/domain_hunter_pro/releases/download/v2.0/domain_hunter_pro-v2.0-jar-with-dependencies.jar#/domain_hunter_pro.jar",
+    "url": "https://gh-proxy.org/https://github.com/bit4woo/domain_hunter_pro/releases/download/v2.0/domain_hunter_pro-v2.0-jar-with-dependencies.jar#/domain_hunter_pro.jar",
     "hash": "5a248179c9d49b549a1c070e85e7246630819de970b643d6423b9629cb181f10",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/bit4woo/domain_hunter_pro/releases/download/v$version/domain_hunter_pro-v$version-jar-with-dependencies.jar#/domain_hunter_pro.jar"
+        "url": "https://gh-proxy.org/https://github.com/bit4woo/domain_hunter_pro/releases/download/v$version/domain_hunter_pro-v$version-jar-with-dependencies.jar#/domain_hunter_pro.jar"
     }
 }

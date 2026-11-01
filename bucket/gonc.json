@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/threatexpert/gonc/releases/download/v2.6.11/gonc_windows_amd64.exe#/gonc.exe",
+            "url": "https://gh-proxy.org/https://github.com/threatexpert/gonc/releases/download/v2.6.11/gonc_windows_amd64.exe#/gonc.exe",
             "hash": "1a94000339421204925b947a9dc0c6af055a99b713c25900e6abebb7067e86f7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/threatexpert/gonc/releases/download/v2.6.11/gonc_windows_arm64.exe#/gonc.exe",
+            "url": "https://gh-proxy.org/https://github.com/threatexpert/gonc/releases/download/v2.6.11/gonc_windows_arm64.exe#/gonc.exe",
             "hash": "723853e26353c3ed20b321c5d941beddefa3b64dfe787990a00ff59f2e1601b3"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/threatexpert/gonc/releases/download/v$version/gonc_windows_amd64.exe#/gonc.exe"
+                "url": "https://gh-proxy.org/https://github.com/threatexpert/gonc/releases/download/v$version/gonc_windows_amd64.exe#/gonc.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/threatexpert/gonc/releases/download/v$version/gonc_windows_arm64.exe#/gonc.exe"
+                "url": "https://gh-proxy.org/https://github.com/threatexpert/gonc/releases/download/v$version/gonc_windows_arm64.exe#/gonc.exe"
             }
         }
     }

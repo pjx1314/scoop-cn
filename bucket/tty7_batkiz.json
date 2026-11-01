@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/l0ng-ai/tty7/releases/download/v26.10.0/tty7-26.10.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/l0ng-ai/tty7/releases/download/v26.10.0/tty7-26.10.0-windows-x86_64.zip",
             "hash": "b43bd627ef758323ec440714c9549955346a968cd8358e9137071f7bdb46e372"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/l0ng-ai/tty7/releases/download/v$version/tty7-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/l0ng-ai/tty7/releases/download/v$version/tty7-$version-windows-x86_64.zip"
             }
         }
     }

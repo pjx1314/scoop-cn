@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/xchacha20-poly1305/husi/releases/download/v2.3.0-rc.0/fr.husi-2.3.0-rc.0-windows-amd64-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/xchacha20-poly1305/husi/releases/download/v2.3.0-rc.0/fr.husi-2.3.0-rc.0-windows-amd64-installer.exe#/dl.7z",
             "hash": "4d8b57522273b216b034e7e5b866de61351c413709a0bf209e11f3f10854739c"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/xchacha20-poly1305/husi/releases/download/v$version/fr.husi-$version-windows-amd64-installer.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/xchacha20-poly1305/husi/releases/download/v$version/fr.husi-$version-windows-amd64-installer.exe#/dl.7z"
             }
         }
     }

@@ -13,15 +13,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/starship/starship/releases/download/v1.27.0/starship-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/starship/starship/releases/download/v1.27.0/starship-x86_64-pc-windows-msvc.zip",
             "hash": "7764f861805376af2812dd78c84fadc16b714cf3f346baed9b597bfda8484403"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/starship/starship/releases/download/v1.27.0/starship-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/starship/starship/releases/download/v1.27.0/starship-i686-pc-windows-msvc.zip",
             "hash": "66ce8c8d2002684179769c944c30c264f60e4c88e771753b7cb38a6f748b2ffe"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/starship/starship/releases/download/v1.27.0/starship-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/starship/starship/releases/download/v1.27.0/starship-aarch64-pc-windows-msvc.zip",
             "hash": "1822b6cf1af28071b056976d3f445359d61df324918ffe76c6d0f851eef9366f"
         }
     },
@@ -32,13 +32,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/starship/starship/releases/download/v$version/starship-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/starship/starship/releases/download/v$version/starship-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/starship/starship/releases/download/v$version/starship-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/starship/starship/releases/download/v$version/starship-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/starship/starship/releases/download/v$version/starship-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/starship/starship/releases/download/v$version/starship-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

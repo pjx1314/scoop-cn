@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_x64-setup.exe#/dl.7z",
             "hash": "f94f62bc9921e405903da7229e6bd265cb8c5edaa10313b5af6131e1f378cd7a"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v2.0.1/NyaTerm_2.0.1_windows_arm64-setup.exe#/dl.7z",
             "hash": "bdfb30e49e099dc8c4300abec461c6fb20d83b8e9eae53055829ce2083db1fb1"
         }
     },
@@ -47,10 +47,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64-setup.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64-setup.exe#/dl.7z"
             }
         },
         "hash": {

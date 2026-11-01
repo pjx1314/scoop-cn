@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/chaitin/xapp",
     "license": "Unkown",
-    "url": "https://gh-proxy.com/https://github.com/chaitin/xapp/releases/download/xapp-0.0.2/xapp_windows_amd64.exe#/xapp.exe",
+    "url": "https://gh-proxy.org/https://github.com/chaitin/xapp/releases/download/xapp-0.0.2/xapp_windows_amd64.exe#/xapp.exe",
     "hash": "867f00b3bb3cfeff50e307d716e60399c4b060dd6c267080456d25045130ee44",
     "pre_install": [
         "git clone -q 'https://github.com/chaitin/xray-plugins' \"$dir\\xray-plugins\""
@@ -28,6 +28,6 @@
         "regex": "xapp-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/chaitin/xapp/releases/download/xapp-$version/xapp_windows_amd64.exe#/xapp.exe"
+        "url": "https://gh-proxy.org/https://github.com/chaitin/xapp/releases/download/xapp-$version/xapp_windows_amd64.exe#/xapp.exe"
     }
 }

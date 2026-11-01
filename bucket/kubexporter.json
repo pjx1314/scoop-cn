@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_windows_amd64.zip",
             "hash": "07d7cada6ffa306ecb53b8fb783622d80bc05da3fef334a9fb8f81bff0b48d99"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_windows_386.zip",
             "hash": "814fa94958c54e6821aeae8af0470294b39e2c699a3340879406a27c277ff03e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_windows_arm64.zip",
             "hash": "3919cc09d0dfbe8d3e4893a0287d256bff9214c4b4ac1859ac2276fbddd0e814"
         }
     },
@@ -28,13 +28,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/bakito/kubexporter/releases/download/v$version/kubexporter_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bakito/kubexporter/releases/download/v$version/kubexporter_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/bakito/kubexporter/releases/download/v$version/kubexporter_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/bakito/kubexporter/releases/download/v$version/kubexporter_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/bakito/kubexporter/releases/download/v$version/kubexporter_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bakito/kubexporter/releases/download/v$version/kubexporter_$version_windows_arm64.zip"
             }
         },
         "hash": {

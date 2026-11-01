@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Hibbiki/chromium-win64/releases/download/v156.0.8078.80-r1706539/mini_installer.exe",
+            "url": "https://gh-proxy.org/https://github.com/Hibbiki/chromium-win64/releases/download/v156.0.8078.80-r1706539/mini_installer.exe",
             "hash": "sha1:a30a97f024ce3a52e8eaab6f0cb31e9f56b927d3"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Hibbiki/chromium-win64/releases/download/v$version$matchSubver/mini_installer.exe",
+                "url": "https://gh-proxy.org/https://github.com/Hibbiki/chromium-win64/releases/download/v$version$matchSubver/mini_installer.exe",
                 "hash": {
                     "url": "https://github.com/Hibbiki/chromium-win64/releases/latest",
                     "regex": "$sha1 \\.\\./out/x64/mini_installer.exe"

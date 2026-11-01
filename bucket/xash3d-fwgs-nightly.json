@@ -5,11 +5,11 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-amd64.7z",
+            "url": "https://gh-proxy.org/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-amd64.7z",
             "hash": "ebb22cc2f417c08781eb65ec8c5715694a0c6922d420a37748f6a420b85dde3d"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-i386.7z",
+            "url": "https://gh-proxy.org/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-i386.7z",
             "hash": "f1a14443078b02c3aff5c6a5b0c3d8c31790425f3908391f749d9d476f631360"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-amd64.7z"
+                "url": "https://gh-proxy.org/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-amd64.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-i386.7z"
+                "url": "https://gh-proxy.org/https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-i386.7z"
             }
         }
     }

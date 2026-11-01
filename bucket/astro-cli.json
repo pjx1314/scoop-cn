@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.47.0/astro_1.47.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/astronomer/astro-cli/releases/download/v1.47.0/astro_1.47.0_windows_amd64.zip",
             "hash": "ad7aff530a4f0d539a353bc8972b08496bf4f8641bb8fcad8e310e113bd58a87"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.47.0/astro_1.47.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/astronomer/astro-cli/releases/download/v1.47.0/astro_1.47.0_windows_arm64.zip",
             "hash": "b3c4d1ebf96a6f3a6699339384b543b488e0e35acb582ae334a8ff082f606da9"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/astronomer/astro-cli/releases/download/v$version/astro_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/astronomer/astro-cli/releases/download/v$version/astro_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/astronomer/astro-cli/releases/download/v$version/astro_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/astronomer/astro-cli/releases/download/v$version/astro_$version_windows_arm64.zip"
             }
         },
         "hash": {

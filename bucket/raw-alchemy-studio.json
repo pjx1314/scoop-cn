@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/shenmintao/Raw-Alchemy/releases/download/studio-v0.6.0/RawAlchemyStudio-studio-v0.6.0-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/shenmintao/Raw-Alchemy/releases/download/studio-v0.6.0/RawAlchemyStudio-studio-v0.6.0-windows-x64-portable.zip",
             "hash": "2814fa0b932bd9c8deeea9a48397c6199b1b240e8be5be74387f9b3e9d0acc55"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/shenmintao/Raw-Alchemy/releases/download/studio-v$version/RawAlchemyStudio-studio-v$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/shenmintao/Raw-Alchemy/releases/download/studio-v$version/RawAlchemyStudio-studio-v$version-windows-x64-portable.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/crazyscot/qcp/releases/download/v0.9.1/qcp-windows-x86_64-mingw.zip",
+            "url": "https://gh-proxy.org/https://github.com/crazyscot/qcp/releases/download/v0.9.1/qcp-windows-x86_64-mingw.zip",
             "extract_dir": "qcp-windows-x86_64-mingw",
             "hash": "22083e79e9aa8ed8897ce07a5395900fc8dfd3504a7d896237528282d2c2957c"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/crazyscot/qcp/releases/download/v$version/qcp-windows-x86_64-mingw.zip"
+                "url": "https://gh-proxy.org/https://github.com/crazyscot/qcp/releases/download/v$version/qcp-windows-x86_64-mingw.zip"
             }
         }
     }

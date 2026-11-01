@@ -5,17 +5,17 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mmadfox/go-crx3/releases/download/v1.7.1/crx3_1.7.1_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mmadfox/go-crx3/releases/download/v1.7.1/crx3_1.7.1_Windows_x86_64.zip",
             "extract_dir": "crx3_1.7.1_Windows_x86_64",
             "hash": "1224e1fbf36e12fc42916be63cef96f2c5357e05a454a5f664eb2b64ee2e42d1"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/mmadfox/go-crx3/releases/download/v1.7.1/crx3_1.7.1_Windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/mmadfox/go-crx3/releases/download/v1.7.1/crx3_1.7.1_Windows_386.zip",
             "extract_dir": "crx3_1.7.1_Windows_386",
             "hash": "dbde4b4c087ed15e75928d1c7b59f247d0e1a98bd246ca871d8db9218c64f47c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/mmadfox/go-crx3/releases/download/v1.7.1/crx3_1.7.1_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mmadfox/go-crx3/releases/download/v1.7.1/crx3_1.7.1_Windows_arm64.zip",
             "extract_dir": "crx3_1.7.1_Windows_arm64",
             "hash": "9415a31118c9147c91fce30afe84de3fcd4a7b4f18060453877e475eed2314a6"
         }
@@ -26,15 +26,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mmadfox/go-crx3/releases/download/v$version/crx3_$version_Windows_x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/mmadfox/go-crx3/releases/download/v$version/crx3_$version_Windows_x86_64.zip",
                 "extract_dir": "crx3_$version_Windows_x86_64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/mmadfox/go-crx3/releases/download/v$version/crx3_$version_Windows_386.zip",
+                "url": "https://gh-proxy.org/https://github.com/mmadfox/go-crx3/releases/download/v$version/crx3_$version_Windows_386.zip",
                 "extract_dir": "crx3_$version_Windows_386"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/mmadfox/go-crx3/releases/download/v$version/crx3_$version_Windows_arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/mmadfox/go-crx3/releases/download/v$version/crx3_$version_Windows_arm64.zip",
                 "extract_dir": "crx3_$version_Windows_arm64"
             }
         },

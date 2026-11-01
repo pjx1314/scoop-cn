@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/chocolatey/choco/releases/download/2.7.5/chocolatey.v2.7.5.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/chocolatey/choco/releases/download/2.7.5/chocolatey.v2.7.5.tar.gz",
             "hash": "995dae978d9fb0c0a5fae96c84fb90cc2fe1bb86bb33b358bb3d49611713648b"
         }
     },
@@ -27,7 +27,7 @@
         "github": "https://github.com/chocolatey/choco"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/chocolatey/choco/releases/download/$version/chocolatey.v$version.tar.gz",
+        "url": "https://gh-proxy.org/https://github.com/chocolatey/choco/releases/download/$version/chocolatey.v$version.tar.gz",
         "hash": {
             "mode": "extract",
             "url": "https://github.com/chocolatey/choco/releases/expanded_assets/$version",

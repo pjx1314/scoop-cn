@@ -17,7 +17,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/canonical/multipass/releases/download/v1.17.0/multipass-1.17.0%2Bwin-win64.msi",
+            "url": "https://gh-proxy.org/https://github.com/canonical/multipass/releases/download/v1.17.0/multipass-1.17.0%2Bwin-win64.msi",
             "hash": "0efd5c9accb876a7dfbaf01669ab40ed0d95435e6cbea8f78cc5bde351d481e5",
             "extract_dir": "PFiles64\\Multipass"
         }
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/canonical/multipass/releases/download/v$version/multipass-$version%2Bwin-win64.msi"
+                "url": "https://gh-proxy.org/https://github.com/canonical/multipass/releases/download/v$version/multipass-$version%2Bwin-win64.msi"
             }
         }
     }

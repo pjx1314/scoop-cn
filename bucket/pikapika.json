@@ -7,7 +7,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-windows-x86_64-flutter_2.10.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/ComicSparks/pikapika/releases/download/v1.8.23/pikapika-v1.8.23-windows-x86_64-flutter_2.10.3.zip",
             "hash": "7d5f81ae096db23cfc87d84d381e7fe57f2afdd9bb3bf326e2949c742be5ac0b"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ComicSparks/pikapika/releases/download/v$version/pikapika-v$version-windows-x86_64-flutter_$matchMinorversion.zip"
+                "url": "https://gh-proxy.org/https://github.com/ComicSparks/pikapika/releases/download/v$version/pikapika-v$version-windows-x86_64-flutter_$matchMinorversion.zip"
             }
         }
     }

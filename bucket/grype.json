@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/anchore/grype/releases/download/v0.121.0/grype_0.121.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/anchore/grype/releases/download/v0.121.0/grype_0.121.0_windows_amd64.zip",
             "hash": "f867bbdc14bd8b0d99b3fc47d839af07480a540072b16896373a8ba32b76f588"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/anchore/grype/releases/download/v$version/grype_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/anchore/grype/releases/download/v$version/grype_$version_windows_amd64.zip"
             }
         },
         "hash": {

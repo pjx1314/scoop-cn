@@ -5,11 +5,11 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/julelang/jule/releases/download/jule0.2.2/jule0.2.2-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/julelang/jule/releases/download/jule0.2.2/jule0.2.2-windows-amd64.zip",
             "hash": "54c33673ec6b36c9acb8e62f5cc6325dcb6e73711988a09c4894cbddbcdcdf1e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/julelang/jule/releases/download/jule0.2.2/jule0.2.2-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/julelang/jule/releases/download/jule0.2.2/jule0.2.2-windows-arm64.zip",
             "hash": "5d161018bd0fcdd11597da0657ae02603265d4f387257b72ac67c36845f8dcd1"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/julelang/jule/releases/download/jule$version/jule$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/julelang/jule/releases/download/jule$version/jule$version-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/julelang/jule/releases/download/jule$version/jule$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/julelang/jule/releases/download/jule$version/jule$version-windows-arm64.zip"
             }
         }
     }

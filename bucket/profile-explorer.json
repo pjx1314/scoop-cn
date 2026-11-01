@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/profile-explorer/releases/download/v1.4.0/profile_explorer_installer_1.4.0_x64.exe",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/profile-explorer/releases/download/v1.4.0/profile_explorer_installer_1.4.0_x64.exe",
             "hash": "88232849bb04c235e085c182bab51092b9af2d4ed629c658eba3e682a52fb1a5"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/profile-explorer/releases/download/v1.4.0/profile_explorer_installer_1.4.0_arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/profile-explorer/releases/download/v1.4.0/profile_explorer_installer_1.4.0_arm64.exe",
             "hash": "19789969570c9c89f19e803b8f928fed2602630646ae13aeef113dbf574e729d"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/profile-explorer/releases/download/v$version/profile_explorer_installer_$version_x64.exe"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/profile-explorer/releases/download/v$version/profile_explorer_installer_$version_x64.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/profile-explorer/releases/download/v$version/profile_explorer_installer_$version_arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/profile-explorer/releases/download/v$version/profile_explorer_installer_$version_arm64.exe"
             }
         }
     }

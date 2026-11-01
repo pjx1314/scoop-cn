@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Win.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/aandrew-me/ytDownloader/releases/download/v4.0.1/YTDownloader_Win.exe#/dl.7z",
             "hash": "sha512:cb9a74987ba3c195770298b36c519193918e27e67a6af3e2baf6199016aabf4309edf5a5a647a2edccc624af210ece1fe4872e8576546fb53730644398aaef20",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aandrew-me/ytDownloader/releases/download/v$version/YTDownloader_Win.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/aandrew-me/ytDownloader/releases/download/v$version/YTDownloader_Win.exe#/dl.7z"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "description": "Laragon 是一个可移植、隔离、快速且强大的通用开发环境，本仓库新增各种环境变量并在安装时进行初始化.",
     "homepage": "https://laragon.org/",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/leokhoa/laragon/archive/refs/tags/8.8.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/leokhoa/laragon/archive/refs/tags/8.8.0.zip",
     "hash": "c660f3c94699d7b68c9bfdb2a84e702002e48f4b4c9eff0f77ba22396567c1a6",
     "extract_dir": "laragon-8.8.0",
     "bin": [
@@ -36,7 +36,7 @@
         "github": "https://github.com/leokhoa/laragon"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/leokhoa/laragon/archive/refs/tags/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/leokhoa/laragon/archive/refs/tags/$version.zip",
         "extract_dir": "laragon-$version"
     },
     "notes": [

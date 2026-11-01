@@ -11,7 +11,7 @@
     },
     "bin": "tmole.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/tunnelmole/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/tunnelmole/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

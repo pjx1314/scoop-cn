@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-x64.zip",
             "hash": "1f6a221fec9864956fd4e787b2267668220ab2bc51807685bd15e89493b6d533"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Euro-Office/DesktopEditors/releases/download/v9.3.6/Euro-Office-DesktopEditors-9.3.6-0-windows-arm64.zip",
             "hash": "3b88a249bf623311cdd32c01675338f6c1604177f539e52c65f2c16bde58002e"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Euro-Office/DesktopEditors/releases/download/v$version/Euro-Office-DesktopEditors-$matchFileversion-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Euro-Office/DesktopEditors/releases/download/v$version/Euro-Office-DesktopEditors-$matchFileversion-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Euro-Office/DesktopEditors/releases/download/v$version/Euro-Office-DesktopEditors-$matchFileversion-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Euro-Office/DesktopEditors/releases/download/v$version/Euro-Office-DesktopEditors-$matchFileversion-windows-arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ermig1979/AntiDupl/releases/download/v2.3.13/AntiDupl.NET-2.3.13_SingleFilePortable.zip",
+            "url": "https://gh-proxy.org/https://github.com/ermig1979/AntiDupl/releases/download/v2.3.13/AntiDupl.NET-2.3.13_SingleFilePortable.zip",
             "hash": "df48c0abff2870e5a3eee339a8023aa7d68c6def64fe2a11743ee4e07c58566c"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ermig1979/AntiDupl/releases/download/v$version/AntiDupl.NET-$version_SingleFilePortable.zip"
+                "url": "https://gh-proxy.org/https://github.com/ermig1979/AntiDupl/releases/download/v$version/AntiDupl.NET-$version_SingleFilePortable.zip"
             }
         }
     }

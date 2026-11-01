@@ -6,7 +6,7 @@
     "suggest": {
         "python": "miniconda3"
     },
-    "url": "https://gh-proxy.com/https://github.com/curlconverter/curlconverter.github.io/archive/refs/heads/gh-pages.zip",
+    "url": "https://gh-proxy.org/https://github.com/curlconverter/curlconverter.github.io/archive/refs/heads/gh-pages.zip",
     "hash": "",
     "extract_dir": "curlconverter.github.io-gh-pages",
     "pre_install": [
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/curlconverter/curlconverter.github.io/archive/refs/heads/gh-pages.zip"
+        "url": "https://gh-proxy.org/https://github.com/curlconverter/curlconverter.github.io/archive/refs/heads/gh-pages.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

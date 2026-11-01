@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-kcp-plugin_0.33.4_windows_amd64.tar.gz",
-                "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-ws-plugin_0.33.4_windows_amd64.tar.gz",
-                "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-create-workspace-plugin_0.33.4_windows_amd64.tar.gz"
+                "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-kcp-plugin_0.33.4_windows_amd64.tar.gz",
+                "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-ws-plugin_0.33.4_windows_amd64.tar.gz",
+                "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-create-workspace-plugin_0.33.4_windows_amd64.tar.gz"
             ],
             "hash": [
                 "7bc5c281f4353a62830cef12083271b9b49cc976ad537e0d35b0e2bbca2fa38f",
@@ -18,9 +18,9 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-kcp-plugin_0.33.4_windows_arm64.tar.gz",
-                "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-ws-plugin_0.33.4_windows_arm64.tar.gz",
-                "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-create-workspace-plugin_0.33.4_windows_arm64.tar.gz"
+                "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-kcp-plugin_0.33.4_windows_arm64.tar.gz",
+                "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-ws-plugin_0.33.4_windows_arm64.tar.gz",
+                "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v0.33.4/kubectl-create-workspace-plugin_0.33.4_windows_arm64.tar.gz"
             ],
             "hash": [
                 "adced71dad3ad34ef2c257a616453e30772ae5bd3edbb310de9ef81e9c2094ee",
@@ -41,16 +41,16 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_amd64.tar.gz",
-                    "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_amd64.tar.gz",
-                    "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_amd64.tar.gz"
+                    "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_amd64.tar.gz",
+                    "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_amd64.tar.gz",
+                    "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_amd64.tar.gz"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_arm64.tar.gz",
-                    "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_arm64.tar.gz",
-                    "https://gh-proxy.com/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_arm64.tar.gz"
+                    "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_arm64.tar.gz",
+                    "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_arm64.tar.gz",
+                    "https://gh-proxy.org/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_arm64.tar.gz"
                 ]
             }
         },

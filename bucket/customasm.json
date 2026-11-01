@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hlorenzi/customasm/releases/download/v0.14.2/customasm_v0.14.2_win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/hlorenzi/customasm/releases/download/v0.14.2/customasm_v0.14.2_win64.zip",
             "hash": "f41a8e87d45e1e78155df9a8cf246f6ef692374d072de2d74a1b1083cccbca3d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hlorenzi/customasm/releases/download/v$version/customasm_v$version_win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/hlorenzi/customasm/releases/download/v$version/customasm_v$version_win64.zip"
             }
         }
     }

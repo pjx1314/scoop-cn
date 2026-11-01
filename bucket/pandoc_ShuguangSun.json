@@ -5,7 +5,7 @@
     "description": "Universal markup converter.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jgm/pandoc/releases/download/3.13/pandoc-3.13-windows-x86_64.zip",
             "hash": "23e1f2e978a3df80db8bf65c9c59534f41a23140480cfb4f783a882ab7dc6a4e",
             "extract_dir": "pandoc-3.13"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jgm/pandoc/releases/download/$version/pandoc-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/jgm/pandoc/releases/download/$version/pandoc-$version-windows-x86_64.zip",
                 "extract_dir": "pandoc-$version"
             }
         }

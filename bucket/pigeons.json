@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/n0-computer/pigeons/releases/download/v0.2.1/pigeons-v0.2.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/n0-computer/pigeons/releases/download/v0.2.1/pigeons-v0.2.1-windows-x86_64.zip",
             "hash": "0bcb4cc138a24ba57e5358e50311a8899d8c3a0f954f2c4d81f2880a3c41baa8"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/n0-computer/pigeons/releases/download/v$version/pigeons-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/n0-computer/pigeons/releases/download/v$version/pigeons-v$version-windows-x86_64.zip"
             }
         }
     }

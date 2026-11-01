@@ -4,7 +4,7 @@
     "description": "Orchestrate multiple coding agents from desktop and mobile",
     "homepage": "https://github.com/getpaseo/paseo",
     "license": "https://github.com/getpaseo/paseo#License-1-ov-file",
-    "url": "https://gh-proxy.com/https://github.com/getpaseo/paseo/releases/download/v0.14.0/Paseo-Setup-0.14.0.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/getpaseo/paseo/releases/download/v0.14.0/Paseo-Setup-0.14.0.exe#/dl.7z",
     "hash": "caaa432afccecef029612044cd5e9ab8f2729609182f3f9eaed35934d5ce9310",
     "pre_install": [
         "Move-Item \"$dir\\`$PLUGINSDIR\\app-64.7z\" $dir -Force",
@@ -19,6 +19,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/getpaseo/paseo/releases/download/v$version/Paseo-Setup-$version.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/getpaseo/paseo/releases/download/v$version/Paseo-Setup-$version.exe#/dl.7z"
     }
 }

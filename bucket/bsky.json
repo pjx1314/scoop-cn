@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mattn/bsky/releases/download/v0.0.82/bsky-windows-0.0.82.zip",
+            "url": "https://gh-proxy.org/https://github.com/mattn/bsky/releases/download/v0.0.82/bsky-windows-0.0.82.zip",
             "hash": "22efee3e3a7faf13aa4f964fef6edbf1246d69f05e995a1613bc133df705dac7"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mattn/bsky/releases/download/v$version/bsky-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/mattn/bsky/releases/download/v$version/bsky-windows-$version.zip"
             }
         }
     }

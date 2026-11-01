@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/koka-lang/koka/releases/download/v3.2.9/koka-v3.2.9-windows-x64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/koka-lang/koka/releases/download/v3.2.9/koka-v3.2.9-windows-x64.tar.gz",
             "hash": "dabee57131f1ddc8eb23282f10f43bfd9dc386803a46f4ff357ccf65fe98ea74"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/koka-lang/koka/releases/download/v$version/koka-v$version-windows-x64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/koka-lang/koka/releases/download/v$version/koka-v$version-windows-x64.tar.gz"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/marswaveai/ColaMD/releases/download/v2.7.9/ColaMD-Setup-2.7.9.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/marswaveai/ColaMD/releases/download/v2.7.9/ColaMD-Setup-2.7.9.exe#/dl.7z",
             "hash": "e66c8d167ae0c206edf496bceadfab0b347f9550e5b64e5fe5bd35d6a78a86a9"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/marswaveai/ColaMD/releases/download/v$version/ColaMD-Setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/marswaveai/ColaMD/releases/download/v$version/ColaMD-Setup-$version.exe#/dl.7z"
             }
         }
     }

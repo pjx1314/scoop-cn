@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/seaofvoices/darklua/releases/download/v0.19.0/darklua-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/seaofvoices/darklua/releases/download/v0.19.0/darklua-windows-x86_64.zip",
             "hash": "e099313a768a0628bce861123dff6959f0c7dc49b5c353d9523a144c1fa2124e"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/seaofvoices/darklua/releases/download/v$version/darklua-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/seaofvoices/darklua/releases/download/v$version/darklua-windows-x86_64.zip"
             }
         }
     }

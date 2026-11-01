@@ -5,11 +5,11 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/v0.6.0/rabbit-v0.6.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/v0.6.0/rabbit-v0.6.0-x64.zip",
             "hash": "43bf84080a51fc419738450cd04531ca2cbeb876140b69d7347313bcc7a91346"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/v0.6.0/rabbit-v0.6.0-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/v0.6.0/rabbit-v0.6.0-x86.zip",
             "hash": "d0d51c2b602e4156df760190e0e0499f33ae978b805b17b29da79ee91ccebc8f"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/v$version/rabbit-v$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/v$version/rabbit-v$version-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rimeinn/rabbit/releases/download/v$version/rabbit-v$version-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/rimeinn/rabbit/releases/download/v$version/rabbit-v$version-x86.zip"
             }
         }
     }

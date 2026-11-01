@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/Ridter/PySQLTools/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/Ridter/PySQLTools/archive/refs/heads/master.zip",
     "hash": "0a3c84078ee16c30b1600eb5b5a31666a6055fbacfda61411fbd092fef5d8549",
     "extract_dir": "PySQLTools-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Ridter/PySQLTools/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/Ridter/PySQLTools/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

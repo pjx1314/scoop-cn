@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-amd64.zip",
             "hash": "472e4fcc290d4a403f5469814624bc895fff8883b342e4fad259d402c019f59d"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zacharee/Bifrost/releases/download/$version/bifrost-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zacharee/Bifrost/releases/download/$version/bifrost-$version-windows-amd64.zip"
             }
         }
     }

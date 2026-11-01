@@ -5,7 +5,7 @@
     "license": "User-Segmented Dual Licensing (AGPLv3 + Commercial License) https://github.com/CherryHQ/cherry-studio/blob/main/LICENSE",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-x64-portable.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-x64-portable.exe#/dl.7z",
             "hash": "9bc72d13dfaf0530f3a3ca85d987a11bdf2cab77f819867d58bb88599265eeaa",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -13,7 +13,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-arm64-portable.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v2.0.9/Cherry-Studio-2.0.9-arm64-portable.exe#/dl.7z",
             "hash": "e0f1875cc9a86a867d3326ca366e6f8ef988579ebfe3553f58bd17b5d4f9e8bc",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-portable.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-x64-portable.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-portable.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/CherryHQ/cherry-studio/releases/download/v$version/Cherry-Studio-$version-arm64-portable.exe#/dl.7z"
             }
         }
     }

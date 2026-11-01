@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubewall/kubewall/releases/download/v0.0.23/kubewall_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubewall/kubewall/releases/download/v0.0.23/kubewall_Windows_x86_64.zip",
             "hash": "d9aebe35286d80971d3675efb927cc6d6a834d64488c322fb1113f679275d990"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/kubewall/kubewall/releases/download/v0.0.23/kubewall_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubewall/kubewall/releases/download/v0.0.23/kubewall_Windows_i386.zip",
             "hash": "b35bdff950283641f6269fc7121119bb8f10007928534457c3376f4ad9910481"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/kubewall/kubewall/releases/download/v0.0.23/kubewall_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kubewall/kubewall/releases/download/v0.0.23/kubewall_Windows_arm64.zip",
             "hash": "51a942e3c94aa0692069e0e7863fe0d7d61eafec7deeb12a6000e4fca783ab84"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubewall/kubewall/releases/download/v$version/kubewall_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubewall/kubewall/releases/download/v$version/kubewall_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/kubewall/kubewall/releases/download/v$version/kubewall_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubewall/kubewall/releases/download/v$version/kubewall_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/kubewall/kubewall/releases/download/v$version/kubewall_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kubewall/kubewall/releases/download/v$version/kubewall_Windows_arm64.zip"
             }
         },
         "hash": {

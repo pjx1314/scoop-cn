@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/25H/Maya/releases/download/13.7.0.260226/Maye-13.7.0.260226.zip",
+            "url": "https://gh-proxy.org/https://github.com/25H/Maya/releases/download/13.7.0.260226/Maye-13.7.0.260226.zip",
             "hash": "485e9c891834cad5e966e3ed8d8067d49ec3665e27672d8086b8da462d976023"
         }
     },
@@ -27,6 +27,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/25H/Maya/releases/download/$version/Maye-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/25H/Maya/releases/download/$version/Maye-$version.zip"
     }
 }

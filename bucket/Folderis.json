@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/imvanessali/folderis-releases/releases/download/20260824.1/Folderis-Setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/imvanessali/folderis-releases/releases/download/20260824.1/Folderis-Setup.exe#/dl.7z",
             "hash": "371f7af8eeecad6f6036475bbc9b7e330d3ee8aa774ef6e4a874c300ae225c2f",
             "installer": {
                 "script": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse -Force -ErrorAction SilentlyContinue"
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/imvanessali/folderis-releases/releases/download/$matchTag/Folderis-Setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/imvanessali/folderis-releases/releases/download/$matchTag/Folderis-Setup.exe#/dl.7z"
             }
         }
     }

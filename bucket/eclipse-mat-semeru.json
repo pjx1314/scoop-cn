@@ -25,7 +25,7 @@
     "notes": "Ensure Java 21 is on your PATH (preferably, an IBM Semeru Runtimes Java 21 JDK to enable advanced jvmpview extensions)",
     "persist": "workspace",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/eclipse-mat-semeru/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/eclipse-mat-semeru/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

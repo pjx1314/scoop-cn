@@ -9,7 +9,7 @@
         "regex": "download/(?<tag>v[\\d.]+)/StarRailCopilot_(?<ver>[\\d.]+)_full\\.7z",
         "replace": "${ver}"
     },
-    "url": "https://gh-proxy.com/https://github.com/LmeSzinc/StarRailCopilot/releases/download/v2026.10.31/StarRailCopilot_0.5.8_full.7z",
+    "url": "https://gh-proxy.org/https://github.com/LmeSzinc/StarRailCopilot/releases/download/v2026.10.31/StarRailCopilot_0.5.8_full.7z",
     "hash": "b079de91ea4e83143726a4ed1cc043b52b1290a5442d3b4923505ed16e43356f",
     "extract_dir": "StarRailCopilot",
     "persist": "config",
@@ -20,6 +20,6 @@
         ]
     ],
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/LmeSzinc/StarRailCopilot/releases/download/$matchTag/StarRailCopilot_$version_full.7z"
+        "url": "https://gh-proxy.org/https://github.com/LmeSzinc/StarRailCopilot/releases/download/$matchTag/StarRailCopilot_$version_full.7z"
     }
 }

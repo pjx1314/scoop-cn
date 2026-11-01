@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/egoist/lorca/releases/download/cli-v0.1.25/lorca-cli-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/egoist/lorca/releases/download/cli-v0.1.25/lorca-cli-windows-x86_64.zip",
             "hash": "8a8d0cb0e2512002b1bd9047ceaa5a0ff68a5cd3402dcc81e1da1cdb11926242"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/egoist/lorca/releases/download/cli-v$version/lorca-cli-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/egoist/lorca/releases/download/cli-v$version/lorca-cli-windows-x86_64.zip"
             }
         },
         "hash": {

@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Armin2208/Windows-Auto-Night-Mode",
     "license": "GPL-3.0-only",
     "changelog": "https://github.com/Armin2208/Windows-Auto-Night-Mode/releases",
-    "url": "https://gh-proxy.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.1.1.1/AutoDarkMode_11.1.1.1_x86.zip",
+    "url": "https://gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/11.1.1.1/AutoDarkMode_11.1.1.1_x86.zip",
     "hash": "7b307aace6e3a08ce11eda8c43a759c33f33c7629d97e544ef90967223858e87",
     "extract_dir": "adm-app",
     "bin": "AutoDarkModeApp.exe",
@@ -18,9 +18,9 @@
         "github": "https://github.com/Armin2208/Windows-Auto-Night-Mode"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.zip",
+        "url": "https://gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.zip",
         "hash": {
-            "url": "https://gh-proxy.com/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.sha256",
+            "url": "https://gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.sha256",
             "mode": "extract"
         }
     }

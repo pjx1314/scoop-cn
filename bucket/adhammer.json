@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/icedracon/adhammer/releases/download/v1.5.2/adhammer-x86_64-pc-windows-msvc.exe#/adhammer.exe",
+            "url": "https://gh-proxy.org/https://github.com/icedracon/adhammer/releases/download/v1.5.2/adhammer-x86_64-pc-windows-msvc.exe#/adhammer.exe",
             "hash": "1b3b077bb6ceb7fae8779fff3fdeb737511071c5f0f457d1930d8b8b62ebd33d"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/icedracon/adhammer/releases/download/v$version/adhammer-x86_64-pc-windows-msvc.exe#/adhammer.exe"
+                "url": "https://gh-proxy.org/https://github.com/icedracon/adhammer/releases/download/v$version/adhammer-x86_64-pc-windows-msvc.exe#/adhammer.exe"
             }
         }
     }

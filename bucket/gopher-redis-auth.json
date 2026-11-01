@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/LS95/gopher-redis-auth/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/LS95/gopher-redis-auth/archive/refs/heads/master.zip",
     "hash": "a22ce4d728cf64c8941087049d510bb659b6e53b413faa68698962d432b8d4b2",
     "pre_install": [
         "Set-Content \"$dir\\gophper-redis-auth.bat\" '@pushd %~dp0",
@@ -21,7 +21,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/LS95/gopher-redis-auth/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/LS95/gopher-redis-auth/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

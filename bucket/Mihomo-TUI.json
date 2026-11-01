@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/potoo0/mihomo-tui/releases/download/v0.6.0/mihomo-tui-Windows-msvc-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/potoo0/mihomo-tui/releases/download/v0.6.0/mihomo-tui-Windows-msvc-x86_64.zip",
             "hash": "0e6f5e88537a402e5435a924556ddb9b17cf4187b720b1ac21c1e99a32627d6f"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/potoo0/mihomo-tui/releases/download/v$version/mihomo-tui-Windows-msvc-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/potoo0/mihomo-tui/releases/download/v$version/mihomo-tui-Windows-msvc-x86_64.zip"
             }
         }
     }

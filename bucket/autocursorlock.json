@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/James-LG/AutoCursorLock/releases/download/v2.2.1/autocursorlock-v2.2.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/James-LG/AutoCursorLock/releases/download/v2.2.1/autocursorlock-v2.2.1.zip",
             "hash": "83b71750a192ad34b16b65a8ed14c46267a9b1f406da66ad1e7adeed499e8160"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/James-LG/AutoCursorLock/releases/download/v$version/autocursorlock-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/James-LG/AutoCursorLock/releases/download/v$version/autocursorlock-v$version.zip"
             }
         }
     }

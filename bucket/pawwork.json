@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Astro-Han/pawwork/releases/download/v2026.10.1/pawwork-win-x64-2026.10.1.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Astro-Han/pawwork/releases/download/v2026.10.1/pawwork-win-x64-2026.10.1.exe#/dl.7z",
             "hash": "87edf4515ddaf4bad1b4201ed4ad26be7ace4d0734e4fe861299f33b6c9d9db9",
             "installer": {
                 "script": [
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Astro-Han/pawwork/releases/download/v$version/pawwork-win-x64-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Astro-Han/pawwork/releases/download/v$version/pawwork-win-x64-$version.exe#/dl.7z"
             }
         }
     }

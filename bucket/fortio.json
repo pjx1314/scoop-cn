@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fortio/fortio/releases/download/v1.76.0/fortio_win_1.76.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/fortio/fortio/releases/download/v1.76.0/fortio_win_1.76.0.zip",
             "hash": "e95820dc84e5fa53abee26c546c14c4b58d76bc954a8e27ca60e25e385769d01"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fortio/fortio/releases/download/v$version/fortio_win_$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/fortio/fortio/releases/download/v$version/fortio_win_$version.zip"
             }
         }
     }

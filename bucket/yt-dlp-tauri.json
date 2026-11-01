@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Chlience/yt-dlp-tauri/releases/download/v0.1.13/yt-dlp-tauri_0.1.13_windows_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Chlience/yt-dlp-tauri/releases/download/v0.1.13/yt-dlp-tauri_0.1.13_windows_x64-setup.exe#/dl.7z",
             "hash": "dd364ae9a0a827c824cc107375c627bfc76633744ec03f2b7e4e1a36fabb6027"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Chlience/yt-dlp-tauri/releases/download/v$version/yt-dlp-tauri_$version_windows_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Chlience/yt-dlp-tauri/releases/download/v$version/yt-dlp-tauri_$version_windows_x64-setup.exe#/dl.7z"
             }
         },
         "hash": {

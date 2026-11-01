@@ -14,7 +14,7 @@
             "miniconda3"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/epinna/tplmap/archive/refs/tags/v0.5.zip",
+    "url": "https://gh-proxy.org/https://github.com/epinna/tplmap/archive/refs/tags/v0.5.zip",
     "hash": "5d61c8e8109415d2b409234fee532337d161b367f5c8700ae8496856f68ff477",
     "extract_dir": "tplmap-0.5",
     "pre_install": [
@@ -29,6 +29,6 @@
     "bin": "tplmap.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/epinna/tplmap/archive/refs/tags/v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/epinna/tplmap/archive/refs/tags/v$version.zip"
     }
 }

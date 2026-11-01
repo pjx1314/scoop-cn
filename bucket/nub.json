@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nubjs/nub/releases/download/v0.9.7/nub-win32-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/nubjs/nub/releases/download/v0.9.7/nub-win32-x64.zip",
             "hash": "087dc9a0fcca2254bb9d799dc7435f3b88eb7ba7d365e66c43091bcf7c1f5886"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/nubjs/nub/releases/download/v0.9.7/nub-win32-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/nubjs/nub/releases/download/v0.9.7/nub-win32-arm64.zip",
             "hash": "325614b343d983b038932fb6554eaefb5838bdc127b8a05b722d1a0d3fd77e95"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nubjs/nub/releases/download/v$version/nub-win32-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/nubjs/nub/releases/download/v$version/nub-win32-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/nubjs/nub/releases/download/v$version/nub-win32-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/nubjs/nub/releases/download/v$version/nub-win32-arm64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gyunaev/karlyriceditor/releases/download/4.1.2/karlyriceditor-gstreamer-x86_64-release-4.1.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/gyunaev/karlyriceditor/releases/download/4.1.2/karlyriceditor-gstreamer-x86_64-release-4.1.2.zip",
             "extract_dir": "karlyriceditor-x86_64-release",
             "hash": "165ba01780dd9df8d151e9e4a87b934fcebbcad4863846ae8b79a061f244ae1e"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gyunaev/karlyriceditor/releases/download/$version/karlyriceditor-gstreamer-x86_64-release-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/gyunaev/karlyriceditor/releases/download/$version/karlyriceditor-gstreamer-x86_64-release-$version.zip"
             }
         }
     }

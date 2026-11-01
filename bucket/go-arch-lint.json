@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.1/go-arch-lint_1.19.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.1/go-arch-lint_1.19.1_windows_amd64.zip",
             "hash": "15f1ad56d89edc5290e0a15f398975d92bc71a397ac5093676964d6ebc8af6e8"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.1/go-arch-lint_1.19.1_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.1/go-arch-lint_1.19.1_windows_386.zip",
             "hash": "a5ccfec308f40dfd891c38a0bbf2fc0360a0849bbf901352c0cd7ca22dcebee9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.1/go-arch-lint_1.19.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/fe3dback/go-arch-lint/releases/download/v1.19.1/go-arch-lint_1.19.1_windows_arm64.zip",
             "hash": "a5cf0a52c552f0bc2bb3610f68f2519e761e083db638c2d678b13aa91c1c159f"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fe3dback/go-arch-lint/releases/download/v$version/go-arch-lint_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/fe3dback/go-arch-lint/releases/download/v$version/go-arch-lint_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/fe3dback/go-arch-lint/releases/download/v$version/go-arch-lint_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/fe3dback/go-arch-lint/releases/download/v$version/go-arch-lint_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/fe3dback/go-arch-lint/releases/download/v$version/go-arch-lint_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/fe3dback/go-arch-lint/releases/download/v$version/go-arch-lint_$version_windows_arm64.zip"
             }
         },
         "hash": {

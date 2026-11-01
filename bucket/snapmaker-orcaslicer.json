@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Snapmaker/OrcaSlicer/releases/download/v2.4.1/Snapmaker_Orca_Windows_V2.4.1_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Snapmaker/OrcaSlicer/releases/download/v2.4.1/Snapmaker_Orca_Windows_V2.4.1_portable.zip",
             "hash": "1f002e2168c576f800bcfd0509b5e164b5ad65a0963abc2bef8317d929d48c9d"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Snapmaker/OrcaSlicer/releases/download/v$version/Snapmaker_Orca_Windows_V$version_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/Snapmaker/OrcaSlicer/releases/download/v$version/Snapmaker_Orca_Windows_V$version_portable.zip"
             }
         },
         "extract_dir": "Snapmaker_Orca_Windows_V$version_portable"

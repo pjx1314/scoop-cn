@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/A-D-Team/attackRmi/releases/download/v2.0/attackRmi.jar",
+    "url": "https://gh-proxy.org/https://github.com/A-D-Team/attackRmi/releases/download/v2.0/attackRmi.jar",
     "hash": "8f58917dbeb13284614e2b4238fab7b5bfb11f406f060115da77a71cb0842027",
     "pre_install": [
         "Set-Content \"$dir\\attackRmi.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/A-D-Team/attackRmi/releases/download/v$version/attackRmi.jar"
+        "url": "https://gh-proxy.org/https://github.com/A-D-Team/attackRmi/releases/download/v$version/attackRmi.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -4,11 +4,11 @@
     "homepage": "https://github.com/knownsec/PortForward",
     "license": "MIT",
     "url": [
-        "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_windows_amd64.exe.zip",
-        "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_windows_386.exe.zip",
-        "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_linux_amd64.zip",
-        "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_linux_386.zip",
-        "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_darwin_amd64.zip"
+        "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_windows_amd64.exe.zip",
+        "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_windows_386.exe.zip",
+        "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_linux_amd64.zip",
+        "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_linux_386.zip",
+        "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/0.5.0/portforward_darwin_amd64.zip"
     ],
     "hash": [
         "700ABB980D38F640E23BC8F93D06B0C5F5792AD36E45747BE58608F465669D63",
@@ -28,11 +28,11 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/$version/portforward_windows_amd64.exe.zip",
-                    "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/$version/portforward_windows_386.exe.zip",
-                    "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/$version/portforward_linux_amd64.zip",
-                    "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/$version/portforward_linux_386.zip",
-                    "https://gh-proxy.com/https://github.com/knownsec/PortForward/releases/download/$version/portforward_darwin_amd64.zip"
+                    "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/$version/portforward_windows_amd64.exe.zip",
+                    "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/$version/portforward_windows_386.exe.zip",
+                    "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/$version/portforward_linux_amd64.zip",
+                    "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/$version/portforward_linux_386.zip",
+                    "https://gh-proxy.org/https://github.com/knownsec/PortForward/releases/download/$version/portforward_darwin_amd64.zip"
                 ]
             }
         }

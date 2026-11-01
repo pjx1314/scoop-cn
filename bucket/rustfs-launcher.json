@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rustfs/launcher/releases/download/1.0.4/rustfs-launcher-windows-x86_64-1.0.4-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/rustfs/launcher/releases/download/1.0.4/rustfs-launcher-windows-x86_64-1.0.4-setup.exe#/dl.7z",
             "hash": "944e564ef530f27495033fa2335667cd05dd5eeddf37ac5ce5379fb6d2265a34"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rustfs/launcher/releases/download/$version/rustfs-launcher-windows-x86_64-$version-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/rustfs/launcher/releases/download/$version/rustfs-launcher-windows-x86_64-$version-setup.exe#/dl.7z"
             }
         }
     }

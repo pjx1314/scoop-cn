@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kirodotdev/KiroCrew/releases/download/v0.11.1/KiroCrew-0.11.1-Setup-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/kirodotdev/KiroCrew/releases/download/v0.11.1/KiroCrew-0.11.1-Setup-x64.exe#/dl.7z",
             "hash": "3b032a6e582dfa538388754009f5d0b54394c1cd5ad4fb75a0f1f704490c19f7"
         }
     },
@@ -41,7 +41,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kirodotdev/KiroCrew/releases/download/v$version/KiroCrew-$version-Setup-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/kirodotdev/KiroCrew/releases/download/v$version/KiroCrew-$version-Setup-x64.exe#/dl.7z"
             }
         }
     }

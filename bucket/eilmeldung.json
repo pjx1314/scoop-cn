@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz",
             "hash": "4e42d70430b1e6a58623061ea75c23559a8e5e357819c30fa4ead89716a74946"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/christo-auer/eilmeldung/releases/download/$version/eilmeldung-x86_64-pc-windows-msvc-$version.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/christo-auer/eilmeldung/releases/download/$version/eilmeldung-x86_64-pc-windows-msvc-$version.tar.gz"
             }
         }
     }

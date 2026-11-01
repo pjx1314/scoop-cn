@@ -3,7 +3,7 @@
     "description": "A lightweight IDE for clojure.",
     "homepage": "https://github.com/clj-commons/clooj",
     "license": "EPL-1.0",
-    "url": "https://gh-proxy.com/https://github.com/clj-commons/clooj/releases/download/v0.5.0/clooj-0.5-standalone.jar#/clooj.jar",
+    "url": "https://gh-proxy.org/https://github.com/clj-commons/clooj/releases/download/v0.5.0/clooj-0.5-standalone.jar#/clooj.jar",
     "hash": "81cd11fb38b2f18d378928dc8569324d91548c19352f21e8cbd94222fc39c46b",
     "pre_install": "Set-Content -Encoding ASCII -Path \"$dir\\clooj.bat\" -Value '@start javaw.exe -jar \"%~dp0clooj.jar\"'",
     "shortcuts": [
@@ -22,6 +22,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/clj-commons/clooj/releases/download/v$version/clooj-$majorVersion.$minorVersion-standalone.jar#/clooj.jar"
+        "url": "https://gh-proxy.org/https://github.com/clj-commons/clooj/releases/download/v$version/clooj-$majorVersion.$minorVersion-standalone.jar#/clooj.jar"
     }
 }

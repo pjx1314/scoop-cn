@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/deminimis/minimalfirewall/releases/download/v2.8.6/Minimal.Firewall.exe",
+            "url": "https://gh-proxy.org/https://github.com/deminimis/minimalfirewall/releases/download/v2.8.6/Minimal.Firewall.exe",
             "hash": "59ddac4d0d2618f0622a1e79236e8cef3aa283fe1e771430a19328fcdc100f5b"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/deminimis/minimalfirewall/releases/download/v$version/Minimal.Firewall.exe"
+                "url": "https://gh-proxy.org/https://github.com/deminimis/minimalfirewall/releases/download/v$version/Minimal.Firewall.exe"
             }
         }
     }

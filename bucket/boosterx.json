@@ -16,7 +16,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/boosterx/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/boosterx/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SniShaper/SniShaper/releases/download/v1.30.0-alpha.1/snishaper-windows-amd64.7z",
+            "url": "https://gh-proxy.org/https://github.com/SniShaper/SniShaper/releases/download/v1.30.0-alpha.1/snishaper-windows-amd64.7z",
             "hash": "e6764e729c61df065fa3453364a0746d6557d81e523568e9d307aa4415f89ec0"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SniShaper/SniShaper/releases/download/v$version/snishaper-windows-amd64.7z"
+                "url": "https://gh-proxy.org/https://github.com/SniShaper/SniShaper/releases/download/v$version/snishaper-windows-amd64.7z"
             }
         }
     }

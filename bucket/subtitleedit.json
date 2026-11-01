@@ -6,11 +6,11 @@
     "notes": "For 4.x versions, please use `subtitleedit4` from Versions bucket.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.3.0/SubtitleEdit-Windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.3.0/SubtitleEdit-Windows-x64.zip",
             "hash": "ea37eb670df040e7b606f87b602bbb727ab3170541190cab7803fb564921ffb1"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.3.0/SubtitleEdit-Windows-ARM64.zip",
+            "url": "https://gh-proxy.org/https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.3.0/SubtitleEdit-Windows-ARM64.zip",
             "hash": "d973c2766960c362516b83a34981c60188485a689a55283b083c2f0dfab3f393"
         }
     },
@@ -49,10 +49,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/v$version/SubtitleEdit-Windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/SubtitleEdit/subtitleedit/releases/download/v$version/SubtitleEdit-Windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/SubtitleEdit/subtitleedit/releases/download/v$version/SubtitleEdit-Windows-ARM64.zip"
+                "url": "https://gh-proxy.org/https://github.com/SubtitleEdit/subtitleedit/releases/download/v$version/SubtitleEdit-Windows-ARM64.zip"
             }
         }
     }

@@ -14,7 +14,7 @@
         "python": "uv",
         "wireshark": "main/wireshark"
     },
-    "url": "https://gh-proxy.com/https://github.com/xiao-xian-ok/TingLan/archive/refs/heads/main.zip#/TingLan-source.zip",
+    "url": "https://gh-proxy.org/https://github.com/xiao-xian-ok/TingLan/archive/refs/heads/main.zip#/TingLan-source.zip",
     "hash": "0b2de8cb3a13061d14224d1f89f8632487561dd847a4e42a8675f2bc87e4f057",
     "extract_dir": "TingLan-main",
     "pre_install": [
@@ -39,6 +39,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/xiao-xian-ok/TingLan/archive/refs/heads/main.zip#/TingLan-source.zip"
+        "url": "https://gh-proxy.org/https://github.com/xiao-xian-ok/TingLan/archive/refs/heads/main.zip#/TingLan-source.zip"
     }
 }

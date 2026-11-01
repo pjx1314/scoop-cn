@@ -5,7 +5,7 @@
     "license": "MIT License",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/poooi/poi/releases/download/v12.0.1/poi-setup-12.0.1.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/poooi/poi/releases/download/v12.0.1/poi-setup-12.0.1.exe#/dl.7z",
             "hash": "fc06eba62fb2f81db6f7d034ca7ba1dd23ca20904863d9ad5202ca15f179dd8c",
             "installer": {
                 "script": [
@@ -15,7 +15,7 @@
             }
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/poooi/poi/releases/download/v12.0.1/poi-setup-12.0.1.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/poooi/poi/releases/download/v12.0.1/poi-setup-12.0.1.exe#/dl.7z",
             "hash": "fc06eba62fb2f81db6f7d034ca7ba1dd23ca20904863d9ad5202ca15f179dd8c",
             "installer": {
                 "script": [
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/poooi/poi/releases/download/v$version/poi-setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/poooi/poi/releases/download/v$version/poi-setup-$version.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/poooi/poi/releases/download/v$version/poi-setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/poooi/poi/releases/download/v$version/poi-setup-$version.exe#/dl.7z"
             }
         }
     }

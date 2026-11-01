@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/vmutils-windows-amd64-v1.155.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.155.0/vmutils-windows-amd64-v1.155.0.zip",
             "hash": "0b421947cb24065787ba3cf0f0a81abbd88c5f02c32e8c9bd69ca50955f04d80"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v$version/vmutils-windows-amd64-v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v$version/vmutils-windows-amd64-v$version.zip",
                 "hash": {
                     "url": "$baseurl/vmutils-windows-amd64-v$version_checksums.txt"
                 }

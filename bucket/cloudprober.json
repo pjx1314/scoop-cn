@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cloudprober/cloudprober/releases/download/v0.14.7/cloudprober-v0.14.7-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cloudprober/cloudprober/releases/download/v0.14.7/cloudprober-v0.14.7-windows-x86_64.zip",
             "extract_dir": "cloudprober-v0.14.7-windows-x86_64",
             "hash": "b716c3c5d101d37f03b836d85d9878f23514273d1f9a3d10e453d6d6e0b1dbd0"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cloudprober/cloudprober/releases/download/v$version/cloudprober-v$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/cloudprober/cloudprober/releases/download/v$version/cloudprober-v$version-windows-x86_64.zip",
                 "extract_dir": "cloudprober-v$version-windows-x86_64"
             }
         }

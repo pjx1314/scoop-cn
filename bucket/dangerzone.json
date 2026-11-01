@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/freedomofpress/dangerzone/releases/download/v0.11.1/Dangerzone-0.11.1.msi",
+            "url": "https://gh-proxy.org/https://github.com/freedomofpress/dangerzone/releases/download/v0.11.1/Dangerzone-0.11.1.msi",
             "hash": "d3cd0dc6173cb184c2a7fe32c5ebdce93fb8f7f1d3f028ed3af836c9c73c3594"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/freedomofpress/dangerzone/releases/download/v$version/Dangerzone-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/freedomofpress/dangerzone/releases/download/v$version/Dangerzone-$version.msi"
             }
         },
         "hash": {

@@ -7,7 +7,7 @@
     "suggest": {
         "JRE": "main/temurin17-jre"
     },
-    "url": "https://gh-proxy.com/https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.41.3/ATLauncher-3.4.41.3.exe#/ATLauncher.exe",
+    "url": "https://gh-proxy.org/https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.41.3/ATLauncher-3.4.41.3.exe#/ATLauncher.exe",
     "hash": "9e38e3d1a863e36bdbf0fc3a2617b9f35cba72221ad1757e34efc1ba4a3b0d7b",
     "bin": "ATLauncher.exe",
     "shortcuts": [
@@ -35,6 +35,6 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ATLauncher/ATLauncher/releases/download/v$version/ATLauncher-$version.exe#/ATLauncher.exe"
+        "url": "https://gh-proxy.org/https://github.com/ATLauncher/ATLauncher/releases/download/v$version/ATLauncher-$version.exe#/ATLauncher.exe"
     }
 }

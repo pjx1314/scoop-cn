@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.3/cc-switch-cli-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/SaladDay/cc-switch-cli/releases/download/v5.11.3/cc-switch-cli-windows-x64.zip",
             "hash": "6ca94a69261b5de5bfa00b3acc8da446c54a6187303968b08257d4ace4d8d291"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SaladDay/cc-switch-cli/releases/download/v$version/cc-switch-cli-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/SaladDay/cc-switch-cli/releases/download/v$version/cc-switch-cli-windows-x64.zip"
             }
         },
         "hash": {

@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/flydoos/WinASAR",
     "license": "MulanPSL-2.0",
-    "url": "https://gh-proxy.com/https://github.com/flydoos/WinASAR/releases/download/2.1.0/WinASAR.v2.1.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/flydoos/WinASAR/releases/download/2.1.0/WinASAR.v2.1.0.zip",
     "hash": "ddc2b3c9fad0c0514172fd75933bdae7f187a2bfde09282aecda73620e3e3fc6",
     "shortcuts": [
         [
@@ -19,6 +19,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/flydoos/WinASAR/releases/download/$version/WinASAR.v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/flydoos/WinASAR/releases/download/$version/WinASAR.v$version.zip"
     }
 }

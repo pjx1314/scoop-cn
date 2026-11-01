@@ -7,11 +7,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe",
             "hash": "2165c7d12f10b1a137472de5b64abdc64dcdd9fc31362c7ff41d7c5b57c8e9e6"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe",
             "hash": "28891243b046d310f5401b21bd480b900dfd4f80812c7c0c1357ba9c7d3237ba"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/valinet/ExplorerPatcher/releases/download/$version/ep_setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/valinet/ExplorerPatcher/releases/download/$version/ep_setup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/valinet/ExplorerPatcher/releases/download/$version/ep_setup_arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/valinet/ExplorerPatcher/releases/download/$version/ep_setup_arm64.exe"
             }
         }
     },

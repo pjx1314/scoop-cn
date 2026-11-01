@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rclone-ui/rclone-ui/releases/download/v3.7.5/Rclone.UI_x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/rclone-ui/rclone-ui/releases/download/v3.7.5/Rclone.UI_x64.exe#/dl.7z",
             "hash": "f78476b79ae3fa6c1e62f7f7d4f77914b06a031607776d41067d1d81987a76ae"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/rclone-ui/rclone-ui/releases/download/v3.7.5/Rclone.UI_arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/rclone-ui/rclone-ui/releases/download/v3.7.5/Rclone.UI_arm64.exe#/dl.7z",
             "hash": "80105a91b33476c256953be10178732d543fe132100d0cc377e8d5d16220ede2"
         }
     },
@@ -55,10 +55,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rclone-ui/rclone-ui/releases/download/v$version/Rclone.UI_x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/rclone-ui/rclone-ui/releases/download/v$version/Rclone.UI_x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/rclone-ui/rclone-ui/releases/download/v$version/Rclone.UI_arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/rclone-ui/rclone-ui/releases/download/v$version/Rclone.UI_arm64.exe#/dl.7z"
             }
         }
     }

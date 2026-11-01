@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b10970/llama-b10970-bin-win-cuda-13.3-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b10970/llama-b10970-bin-win-cuda-13.3-x64.zip",
             "hash": "7142eab5cc27702fa41d4c126e80166c86aee54f0b2b3cb2ed7e1b256b72a3a7"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cuda-13.3-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cuda-13.3-x64.zip"
             }
         }
     }

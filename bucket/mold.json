@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rui314/mold/releases/download/v3.0.0/mold-3.0.0-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/rui314/mold/releases/download/v3.0.0/mold-3.0.0-x86_64-windows.zip",
             "hash": "1421fccaf7efee77e53f1dc365f90acb791bedff6be486aed0c0313393e6b8ec"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rui314/mold/releases/download/v$version/mold-$version-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/rui314/mold/releases/download/v$version/mold-$version-x86_64-windows.zip"
             }
         }
     }

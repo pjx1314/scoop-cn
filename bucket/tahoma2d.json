@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tahoma2d/tahoma2d/releases/download/v1.6.3/Tahoma2D-portable-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/tahoma2d/tahoma2d/releases/download/v1.6.3/Tahoma2D-portable-win.zip",
             "hash": "50dafb36ba12535239a447e10bc6939aff477a071e56c958a401c8ca6c22b05a"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tahoma2d/tahoma2d/releases/download/v$version/Tahoma2D-portable-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/tahoma2d/tahoma2d/releases/download/v$version/Tahoma2D-portable-win.zip"
             }
         }
     }

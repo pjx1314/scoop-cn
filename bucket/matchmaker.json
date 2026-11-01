@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.7/matchmaker-cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.7/matchmaker-cli-x86_64-pc-windows-msvc.zip",
             "hash": "0f07be9008ea655fff349b98769605f2b8e469ea7695182ccc3a930095cc02a7"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.7/matchmaker-cli-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.7/matchmaker-cli-aarch64-pc-windows-msvc.zip",
             "hash": "80f4792b77e73e6fc612bfa453c400e5520bc7c3194cba8538e444766eb4a7fe"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Squirreljetpack/matchmaker/releases/download/v$version/matchmaker-cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/Squirreljetpack/matchmaker/releases/download/v$version/matchmaker-cli-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Squirreljetpack/matchmaker/releases/download/v$version/matchmaker-cli-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/Squirreljetpack/matchmaker/releases/download/v$version/matchmaker-cli-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

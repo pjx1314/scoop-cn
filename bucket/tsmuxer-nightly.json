@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jaminmc/tsMuxer/releases/download/nightly-2026-08-05-03-55-49/w64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jaminmc/tsMuxer/releases/download/nightly-2026-08-05-03-55-49/w64.zip",
             "hash": "ef82fb36d8bb6aff441d2e6db21339b1e8632ce2d3956fa84212401c5d55fdad"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jaminmc/tsMuxer/releases/download/nightly-$matchDate-$matchTime/w64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jaminmc/tsMuxer/releases/download/nightly-$matchDate-$matchTime/w64.zip"
             }
         }
     }

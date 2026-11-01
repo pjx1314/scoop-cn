@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CactusVRStudios/KHARVOX/releases/download/v1.1.1/KHARVOX-v1.11.zip",
+            "url": "https://gh-proxy.org/https://github.com/CactusVRStudios/KHARVOX/releases/download/v1.1.1/KHARVOX-v1.11.zip",
             "hash": "79666be1c330b7a737c2e2766b2207557ace7c9b453194972719ef3693dd4dc5"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CactusVRStudios/KHARVOX/releases/download/v$version/KHARVOX-v$matchFileVersion.zip"
+                "url": "https://gh-proxy.org/https://github.com/CactusVRStudios/KHARVOX/releases/download/v$version/KHARVOX-v$matchFileVersion.zip"
             }
         }
     }

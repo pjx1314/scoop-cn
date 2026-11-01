@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nuthx/bangumi-renamer/releases/download/2.1.0/BangumiRenamer_windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/nuthx/bangumi-renamer/releases/download/2.1.0/BangumiRenamer_windows.zip",
             "hash": "92d85baec5cc95b88589b5eb43a5e45a0244f78b08bacfdc45a0312e0b0166a0"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nuthx/bangumi-renamer/releases/download/$version/BangumiRenamer_windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/nuthx/bangumi-renamer/releases/download/$version/BangumiRenamer_windows.zip"
             }
         }
     }

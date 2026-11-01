@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/UnkL4b/GitMiner/releases/download/2.0/gitminer_V2.0.tar",
+    "url": "https://gh-proxy.org/https://github.com/UnkL4b/GitMiner/releases/download/2.0/gitminer_V2.0.tar",
     "hash": "f0595921c5d50a3b599f72e04f5248890b377d90620b0856367265a5a2440ff8",
     "extract_dir": "GitMiner-2.0",
     "pre_install": [
@@ -21,7 +21,7 @@
     "bin": "gitminer.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/UnkL4b/GitMiner/releases/download/$version/gitminer_V$version.tar"
+        "url": "https://gh-proxy.org/https://github.com/UnkL4b/GitMiner/releases/download/$version/gitminer_V$version.tar"
     },
     "notes": [
         "【工具类型】: Python工具",

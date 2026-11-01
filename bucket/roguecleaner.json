@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aakk007/RogueCleaner/releases/download/v2.0.16/RogueCleaner-v2.0.16-20260813-085854.exe#/RogueCleaner.exe",
+            "url": "https://gh-proxy.org/https://github.com/aakk007/RogueCleaner/releases/download/v2.0.16/RogueCleaner-v2.0.16-20260813-085854.exe#/RogueCleaner.exe",
             "hash": "e57b9c2eb085bf6201b32ca7c2692e7e313ac3d44a97d42866090045ee5b7e52"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aakk007/RogueCleaner/releases/download/$matchTag/RogueCleaner-v$version-$matchStamp.exe#/RogueCleaner.exe"
+                "url": "https://gh-proxy.org/https://github.com/aakk007/RogueCleaner/releases/download/$matchTag/RogueCleaner-v$version-$matchStamp.exe#/RogueCleaner.exe"
             }
         }
     }

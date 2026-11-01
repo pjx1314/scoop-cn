@@ -6,7 +6,7 @@
     "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/suo5.json",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-windows.exe",
+            "url": "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-windows.exe",
             "hash": "4a311c2825b0ecd1f74eed40d57eee363fc0a904143a730955231cda292c4672"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-windows.exe"
+                "url": "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-windows.exe"
             }
         }
     }

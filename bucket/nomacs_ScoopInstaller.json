@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nomacs/nomacs/releases/download/3.22.4/nomacs-portable-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/nomacs/nomacs/releases/download/3.22.4/nomacs-portable-win.zip",
             "hash": "2be8a8b3b58491771a2e5ae2afb1698078f71bc4a81c75e2b2233ab7dd49b07a"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nomacs/nomacs/releases/download/$version/nomacs-portable-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/nomacs/nomacs/releases/download/$version/nomacs-portable-win.zip"
             }
         },
         "extract_dir": "nomacs-$version"

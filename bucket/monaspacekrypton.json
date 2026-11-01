@@ -3,13 +3,13 @@
     "description": "An innovative superfamily of fonts for code - Mechanical sans",
     "license": "OFL-1.1",
     "homepage": "https://monaspace.githubnext.com/",
-    "url": "https://gh-proxy.com/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceKryptonVarVF%5Bwght,wdth,slnt%5D.ttf",
+    "url": "https://gh-proxy.org/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceKryptonVarVF%5Bwght,wdth,slnt%5D.ttf",
     "hash": "1f6d76c020413decd8f036c28521061d67ff388f083df94259453989a4c40249",
     "checkver": {
         "github": "https://github.com/githubnext/monaspace"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceKryptonVarVF%5Bwght,wdth,slnt%5D.ttf"
+        "url": "https://gh-proxy.org/https://github.com/githubnext/monaspace/raw/main/fonts/variable/MonaspaceKryptonVarVF%5Bwght,wdth,slnt%5D.ttf"
     },
     "installer": {
         "script": [

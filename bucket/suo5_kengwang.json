@@ -5,15 +5,15 @@
     "homepage": "https://github.com/zema1/suo5",
     "checkver": "github",
     "url": [
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-windows.exe",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-linux",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-windows-amd64.exe",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-linux-arm64",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-linux-amd64",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-darwin-amd64",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-darwin-arm64",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-darwin.app.zip",
-        "https://gh-proxy.com/https://github.com/zema1/suo5/archive/refs/tags/v2.2.0.zip"
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-windows.exe",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-linux",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-windows-amd64.exe",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-linux-arm64",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-linux-amd64",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-darwin-amd64",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-darwin-arm64",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v2.2.0/suo5-gui-darwin.app.zip",
+        "https://gh-proxy.org/https://github.com/zema1/suo5/archive/refs/tags/v2.2.0.zip"
     ],
     "hash": [
         "4a311c2825b0ecd1f74eed40d57eee363fc0a904143a730955231cda292c4672",
@@ -28,15 +28,15 @@
     ],
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-windows.exe",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-linux",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-windows-amd64.exe",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-linux-arm64",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-linux-amd64",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-darwin-amd64",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-darwin-arm64",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-darwin.app.zip",
-            "https://gh-proxy.com/https://github.com/zema1/suo5/archive/refs/tags/v$version.zip"
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-windows.exe",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-linux",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-windows-amd64.exe",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-linux-arm64",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-linux-amd64",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-darwin-amd64",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-darwin-arm64",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/releases/download/v$version/suo5-gui-darwin.app.zip",
+            "https://gh-proxy.org/https://github.com/zema1/suo5/archive/refs/tags/v$version.zip"
         ],
         "extract_dir": [
             "suo5.app",

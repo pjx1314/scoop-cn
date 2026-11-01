@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cubicibo/ass2bdnxml/releases/download/v0.7g/winx86_64_ass2bdnxml_v07g.7z",
+            "url": "https://gh-proxy.org/https://github.com/cubicibo/ass2bdnxml/releases/download/v0.7g/winx86_64_ass2bdnxml_v07g.7z",
             "hash": "ec0fcf01dbf279ca6dfb18d4894ebce2d8b90a1e41ffc28758091899cacce62a"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cubicibo/ass2bdnxml/releases/download/v$version/winx86_64_ass2bdnxml_v$matchMajor$matchMinor$matchPatch.7z"
+                "url": "https://gh-proxy.org/https://github.com/cubicibo/ass2bdnxml/releases/download/v$version/winx86_64_ass2bdnxml_v$matchMajor$matchMinor$matchPatch.7z"
             }
         },
         "extract_dir": "ass2bdnxml_v$matchMajor$matchMinor$matchPatch"

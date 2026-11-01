@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/psmux/psnet/releases/download/v1.1.0/psnet-1.1.0-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/psmux/psnet/releases/download/v1.1.0/psnet-1.1.0-x86_64-windows.zip",
             "hash": "9cd9380b532d53874fc82508820930f7919bb95a153f0b02306f0ab4788b3277"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/psmux/psnet/releases/download/v$version/psnet-$version-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/psmux/psnet/releases/download/v$version/psnet-$version-x86_64-windows.zip"
             }
         }
     }

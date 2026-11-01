@@ -5,12 +5,12 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311.7z",
+            "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311.7z",
             "hash": "4828741fc91ee37fafcdb97a1abacb18b04ba451ac4372d9ff7a7349b36f4d6d",
             "extract_dir": "FreeCAD_1.1.4-Windows-x86_64-py311"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/FreeCAD/FreeCAD/releases/download/0.18.4/FreeCAD-0.18.4.980bf90-WIN-x32-portable.7z",
+            "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/0.18.4/FreeCAD-0.18.4.980bf90-WIN-x32-portable.7z",
             "hash": ""
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/FreeCAD/FreeCAD/releases/download/$version/FreeCAD_$version-Windows-x86_64-py311.7z",
+                "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/$version/FreeCAD_$version-Windows-x86_64-py311.7z",
                 "extract_dir": "FreeCAD_$version-Windows-x86_64-py311"
             },
             "hash": {

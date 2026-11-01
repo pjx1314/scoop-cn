@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/usestrix/strix/releases/download/v1.7.0/strix-1.7.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/usestrix/strix/releases/download/v1.7.0/strix-1.7.0-windows-x86_64.zip",
             "hash": "04e3290f4c495b952c10da2f3627764be3e9ac598dd5a0a79bf65c112d1200f7"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/usestrix/strix/releases/download/v$version/strix-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/usestrix/strix/releases/download/v$version/strix-$version-windows-x86_64.zip"
             }
         }
     }

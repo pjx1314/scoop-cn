@@ -15,9 +15,9 @@
         ]
     },
     "url": [
-        "https://gh-proxy.com/https://github.com/4ra1n/shell-analyzer/releases/download/0.1/agent.jar",
-        "https://gh-proxy.com/https://github.com/4ra1n/shell-analyzer/releases/download/0.1/gui-0.1.jar#/gui.jar",
-        "https://gh-proxy.com/https://github.com/4ra1n/shell-analyzer/releases/download/0.1/remote-0.1.jar#/remote.jar"
+        "https://gh-proxy.org/https://github.com/4ra1n/shell-analyzer/releases/download/0.1/agent.jar",
+        "https://gh-proxy.org/https://github.com/4ra1n/shell-analyzer/releases/download/0.1/gui-0.1.jar#/gui.jar",
+        "https://gh-proxy.org/https://github.com/4ra1n/shell-analyzer/releases/download/0.1/remote-0.1.jar#/remote.jar"
     ],
     "hash": [
         "1888209ebd9b9d18d1d9a93200cd17e22d81850f571b08906e362e85c43bf44e",
@@ -27,9 +27,9 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/4ra1n/shell-analyzer/releases/download/$version/agent.jar",
-            "https://gh-proxy.com/https://github.com/4ra1n/shell-analyzer/releases/download/$version/gui-$version.jar#/gui.jar",
-            "https://gh-proxy.com/https://github.com/4ra1n/shell-analyzer/releases/download/$version/remote-$version.jar#/remote.jar"
+            "https://gh-proxy.org/https://github.com/4ra1n/shell-analyzer/releases/download/$version/agent.jar",
+            "https://gh-proxy.org/https://github.com/4ra1n/shell-analyzer/releases/download/$version/gui-$version.jar#/gui.jar",
+            "https://gh-proxy.org/https://github.com/4ra1n/shell-analyzer/releases/download/$version/remote-$version.jar#/remote.jar"
         ]
     }
 }

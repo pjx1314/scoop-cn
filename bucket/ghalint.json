@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.6.0/ghalint_1.6.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.6.0/ghalint_1.6.0_windows_amd64.zip",
             "hash": "9119faab7bad322f1fe3895da456846d780e84cc5e98405493b8e86ae03f215f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.6.0/ghalint_1.6.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.6.0/ghalint_1.6.0_windows_arm64.zip",
             "hash": "1ac87f983a49c4e4241217eeb7beb3b5cf9aaedee8d3be7da896232e8f39391c"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/ghalint/releases/download/v$version/ghalint_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/ghalint/releases/download/v$version/ghalint_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/suzuki-shunsuke/ghalint/releases/download/v$version/ghalint_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/suzuki-shunsuke/ghalint/releases/download/v$version/ghalint_$version_windows_arm64.zip"
             }
         },
         "hash": {

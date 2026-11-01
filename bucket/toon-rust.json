@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-0.7.0/toon-format-0.7.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-0.7.0/toon-format-0.7.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "8a8534cf228e3f712fbee88e89bcb180e42da9706dc92904dc249d31a1278111"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-0.7.0/toon-format-0.7.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-0.7.0/toon-format-0.7.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "0b80bd17787da6e08bf95092557b8ebefced12a8e704b6943cfa8f23c7470541"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-$version/toon-format-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-$version/toon-format-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-$version/toon-format-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/toon-format-$version/toon-format-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

@@ -4,7 +4,7 @@
     "homepage": "https://github.com/w3c/epubcheck",
     "license": "BSD-3-Clause",
     "changelog": "https://github.com/w3c/epubcheck/releases",
-    "url": "https://gh-proxy.com/https://github.com/w3c/epubcheck/releases/download/v5.4.0/epubcheck-5.4.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/w3c/epubcheck/releases/download/v5.4.0/epubcheck-5.4.0.zip",
     "hash": "33350c61038e71dfb3d45a76aed04bf5481e6d5500cb780f6e98db8bbd15a28c",
     "extract_dir": "epubcheck-5.4.0",
     "bin": "epubcheck.jar",
@@ -18,7 +18,7 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/w3c/epubcheck/releases/download/v$version/epubcheck-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/w3c/epubcheck/releases/download/v$version/epubcheck-$version.zip",
         "extract_dir": "epubcheck-$version"
     }
 }

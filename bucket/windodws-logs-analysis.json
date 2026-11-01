@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/dogadmin/windodws-logs-analysis",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/dogadmin/windodws-logs-analysis/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/dogadmin/windodws-logs-analysis/archive/refs/heads/master.zip",
     "hash": "e1521a2cacddf30367e0098fac28c211e8fac5f972c890e8376fd35a68762af7",
     "extract_dir": "windodws-logs-analysis-master",
     "bin": [
@@ -32,6 +32,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/dogadmin/windodws-logs-analysis/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/dogadmin/windodws-logs-analysis/archive/refs/heads/master.zip"
     }
 }

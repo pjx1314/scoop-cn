@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sidit77/rusty-twinkle-tray/releases/download/release-2026-06-12/rusty-twinkle-tray.exe",
+            "url": "https://gh-proxy.org/https://github.com/sidit77/rusty-twinkle-tray/releases/download/release-2026-06-12/rusty-twinkle-tray.exe",
             "hash": "be69e63fff934229fd8f50d33597ad3d8218fe5336a3c1617235966eaafdde86"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sidit77/rusty-twinkle-tray/releases/download/release-$version/rusty-twinkle-tray.exe"
+                "url": "https://gh-proxy.org/https://github.com/sidit77/rusty-twinkle-tray/releases/download/release-$version/rusty-twinkle-tray.exe"
             }
         }
     }

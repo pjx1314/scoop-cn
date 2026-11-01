@@ -12,7 +12,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/mlgualtieri/NTLMRawUnHide/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/mlgualtieri/NTLMRawUnHide/archive/refs/heads/master.zip",
     "hash": "",
     "extract_dir": "NTLMRawUnHide-master",
     "pre_install": [
@@ -27,6 +27,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/mlgualtieri/NTLMRawUnHide/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/mlgualtieri/NTLMRawUnHide/archive/refs/heads/master.zip"
     }
 }

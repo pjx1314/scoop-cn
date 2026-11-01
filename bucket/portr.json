@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/amalshaji/portr/releases/download/v2.1.0/portr_2.1.0_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/amalshaji/portr/releases/download/v2.1.0/portr_2.1.0_Windows_x86_64.zip",
             "hash": "c12e229f4558bee5412b141bc1465293aa7e3eb83cbfc427b46d0a8ab5be1856"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/amalshaji/portr/releases/download/v2.1.0/portr_2.1.0_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/amalshaji/portr/releases/download/v2.1.0/portr_2.1.0_Windows_arm64.zip",
             "hash": "4080627e19c106801b233aa4c4719f352ec3d93a40056337e2f2cf37904e969f"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/amalshaji/portr/releases/download/v$version/portr_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/amalshaji/portr/releases/download/v$version/portr_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/amalshaji/portr/releases/download/v$version/portr_$version_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/amalshaji/portr/releases/download/v$version/portr_$version_Windows_arm64.zip"
             }
         },
         "hash": {

@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/stamparm/identYwaf/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/stamparm/identYwaf/archive/refs/heads/master.zip",
     "hash": "800b87c59701fca1129ec6132bd94e241c5c3cbf11b770a2249e0e8347d5dacd",
     "extract_dir": "identYwaf-master",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/stamparm/identYwaf/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/stamparm/identYwaf/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

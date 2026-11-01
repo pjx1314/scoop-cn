@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/desktop/desktop/releases/download/release-3.6.10/GitHubDesktop-3.6.10-x64-full.nupkg",
+            "url": "https://gh-proxy.org/https://github.com/desktop/desktop/releases/download/release-3.6.10/GitHubDesktop-3.6.10-x64-full.nupkg",
             "hash": "0b6c599f45cf675208abd68459b3c8e99a533cc0a03e0d1544868a06d64e05fc"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
+                "url": "https://gh-proxy.org/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
             }
         },
         "hash": {

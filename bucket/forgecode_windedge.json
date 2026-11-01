@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/antinomyhq/forgecode/releases/download/v2.14.0/forge-x86_64-pc-windows-msvc.exe#/forge.exe",
+            "url": "https://gh-proxy.org/https://github.com/antinomyhq/forgecode/releases/download/v2.14.0/forge-x86_64-pc-windows-msvc.exe#/forge.exe",
             "hash": "375c22cbeee8f91f7021cac08643ea562df2822c1e5e2886c07641f2820926c4"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/antinomyhq/forgecode/releases/download/v2.14.0/forge-aarch64-pc-windows-msvc.exe#/forge.exe",
+            "url": "https://gh-proxy.org/https://github.com/antinomyhq/forgecode/releases/download/v2.14.0/forge-aarch64-pc-windows-msvc.exe#/forge.exe",
             "hash": "6201e8287686fb8b41572ca19edf3773158facf612f746475dd10a7f564d3176"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/antinomyhq/forgecode/releases/download/v$version/forge-x86_64-pc-windows-msvc.exe#/forge.exe"
+                "url": "https://gh-proxy.org/https://github.com/antinomyhq/forgecode/releases/download/v$version/forge-x86_64-pc-windows-msvc.exe#/forge.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/antinomyhq/forgecode/releases/download/v$version/forge-aarch64-pc-windows-msvc.exe#/forge.exe"
+                "url": "https://gh-proxy.org/https://github.com/antinomyhq/forgecode/releases/download/v$version/forge-aarch64-pc-windows-msvc.exe#/forge.exe"
             }
         }
     }

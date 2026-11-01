@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/YGTQ3/disk-butler/releases/download/v0.8.0/DiskButler-Setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/YGTQ3/disk-butler/releases/download/v0.8.0/DiskButler-Setup.exe#/dl.7z",
             "hash": "a1d83e651fdc4fad39cab6ca0eef7a06cfbd557560d286f95b17d895365b53b1",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Force -Recurse"
         }
@@ -50,7 +50,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/YGTQ3/disk-butler/releases/download/v$version/DiskButler-Setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/YGTQ3/disk-butler/releases/download/v$version/DiskButler-Setup.exe#/dl.7z"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/antonmedv/fx/releases/download/40.0.1/fx_windows_amd64.exe#/fx.exe",
+            "url": "https://gh-proxy.org/https://github.com/antonmedv/fx/releases/download/40.0.1/fx_windows_amd64.exe#/fx.exe",
             "hash": "6482626d21f8f09e3b89836651e7fbac4d612e2e699abc7b324aab9bb0915e94"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/antonmedv/fx/releases/download/40.0.1/fx_windows_arm64.exe#/fx.exe",
+            "url": "https://gh-proxy.org/https://github.com/antonmedv/fx/releases/download/40.0.1/fx_windows_arm64.exe#/fx.exe",
             "hash": "c56c14976bd4f85fd5ac5322c1dca25b5fbe948fb707dd7b2339051269d41328"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/antonmedv/fx/releases/download/$version/fx_windows_amd64.exe#/fx.exe"
+                "url": "https://gh-proxy.org/https://github.com/antonmedv/fx/releases/download/$version/fx_windows_amd64.exe#/fx.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/antonmedv/fx/releases/download/$version/fx_windows_arm64.exe#/fx.exe"
+                "url": "https://gh-proxy.org/https://github.com/antonmedv/fx/releases/download/$version/fx_windows_arm64.exe#/fx.exe"
             }
         }
     }

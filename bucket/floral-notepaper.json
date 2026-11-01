@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Achilng/floral-notepaper/releases/download/v1.2.0/floral-notepaper_1.2.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Achilng/floral-notepaper/releases/download/v1.2.0/floral-notepaper_1.2.0_x64-setup.exe#/dl.7z",
             "hash": "c3c83ca5f6ae3c6291841c288780d0b6ce8266af37dee476cbab273b81cda523"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Achilng/floral-notepaper/releases/download/v$version/floral-notepaper_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Achilng/floral-notepaper/releases/download/v$version/floral-notepaper_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

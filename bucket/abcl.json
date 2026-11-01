@@ -4,7 +4,7 @@
     "homepage": "https://armedbear.common-lisp.dev/",
     "license": {
         "identifier": "GPL-2.0-only",
-        "url": "https://gh-proxy.com/https://github.com/armedbear/abcl/raw/refs/heads/master/COPYING"
+        "url": "https://gh-proxy.org/https://github.com/armedbear/abcl/raw/refs/heads/master/COPYING"
     },
     "url": "https://armedbear.common-lisp.dev/releases/1.9.2/abcl-bin-1.9.2.zip",
     "extract_dir": "abcl-bin-1.9.2",

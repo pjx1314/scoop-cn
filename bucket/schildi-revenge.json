@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/SchildiChat/schildi-revenge/releases/download/v26.10.26/SchildiChatRevenge-26.10.26.msi",
+            "url": "https://gh-proxy.org/https://github.com/SchildiChat/schildi-revenge/releases/download/v26.10.26/SchildiChatRevenge-26.10.26.msi",
             "hash": "3f65a71784908b86f1dd4fabf64d915b952f3828f705612f05f6422f9cfe25d8"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/SchildiChat/schildi-revenge/releases/download/v$version/SchildiChatRevenge-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/SchildiChat/schildi-revenge/releases/download/v$version/SchildiChatRevenge-$version.msi"
             }
         }
     }

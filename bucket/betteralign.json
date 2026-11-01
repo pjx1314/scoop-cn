@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dkorunic/betteralign/releases/download/v0.15.4/betteralign_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dkorunic/betteralign/releases/download/v0.15.4/betteralign_Windows_x86_64.zip",
             "hash": "c6962e84f4e90c11fc73e35c43e1635245a715ba783ddb110ac7d76c41feef81"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dkorunic/betteralign/releases/download/v$version/betteralign_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dkorunic/betteralign/releases/download/v$version/betteralign_Windows_x86_64.zip"
             }
         }
     }

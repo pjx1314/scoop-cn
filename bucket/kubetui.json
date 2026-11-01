@@ -6,7 +6,7 @@
     "depends": "main/vcredist2022",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sarub0b0/kubetui/releases/download/v1.14.0/kubetui-x86_64-pc-windows-msvc.exe#/kubetui.exe",
+            "url": "https://gh-proxy.org/https://github.com/sarub0b0/kubetui/releases/download/v1.14.0/kubetui-x86_64-pc-windows-msvc.exe#/kubetui.exe",
             "hash": "fefe58e9dad6ce262e7c04bff7e4f1788088ed1efd26591f39cc2c20de9467b9"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sarub0b0/kubetui/releases/download/v$version/kubetui-x86_64-pc-windows-msvc.exe#/kubetui.exe"
+                "url": "https://gh-proxy.org/https://github.com/sarub0b0/kubetui/releases/download/v$version/kubetui-x86_64-pc-windows-msvc.exe#/kubetui.exe"
             }
         }
     }

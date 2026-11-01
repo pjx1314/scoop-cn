@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/MareDevi/bilibili-tui/releases/download/v1.0.14/bilibili-tui-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/MareDevi/bilibili-tui/releases/download/v1.0.14/bilibili-tui-x86_64-pc-windows-msvc.zip",
             "hash": "ae7e4bb9e94768b3dc755fe8ac67bcc5bf50c983349928aeb1849967ca5a8276"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/MareDevi/bilibili-tui/releases/download/v$version/bilibili-tui-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/MareDevi/bilibili-tui/releases/download/v$version/bilibili-tui-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

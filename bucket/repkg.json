@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/notscuffed/repkg/releases/download/v0.4.0-alpha/RePKG.zip",
+            "url": "https://gh-proxy.org/https://github.com/notscuffed/repkg/releases/download/v0.4.0-alpha/RePKG.zip",
             "hash": "abe653915793c86e6d65dc6b4fda0563bb396ec2945d91cfd127fe8dda6b684a"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/notscuffed/repkg/releases/download/v$version/RePKG.zip"
+                "url": "https://gh-proxy.org/https://github.com/notscuffed/repkg/releases/download/v$version/RePKG.zip"
             }
         }
     }

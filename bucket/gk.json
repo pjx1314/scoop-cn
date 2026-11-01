@@ -8,15 +8,15 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/gitkraken/gk-cli/releases/download/v3.1.77/gk_3.1.77_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.77/gk_3.1.77_windows_386.zip",
             "hash": "321d3b10d825a45c4da55b66804e58ec203538302979c447be9fe95a5c7f58cd"
         },
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gitkraken/gk-cli/releases/download/v3.1.77/gk_3.1.77_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.77/gk_3.1.77_windows_amd64.zip",
             "hash": "c5f5e3e1ff819bfffba3520f4f4357012d64b324ccbb984a1c1aaf9df305f90c"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/gitkraken/gk-cli/releases/download/v3.1.77/gk_3.1.77_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v3.1.77/gk_3.1.77_windows_arm64.zip",
             "hash": "c33927c35509e9e2808bf9a932454d81928eac6619c19439ac47c29e01c75334"
         }
     },
@@ -27,13 +27,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_386.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/gitkraken/gk-cli/releases/download/v$version/gk_$version_windows_arm64.zip"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "description": "Packer, compressor detector / unpack info / internal exe tools.",
     "homepage": "http://www.exeinfo.xn.pl/",
     "license": "Freeware",
-    "url": "https://gh-proxy.com/https://github.com/ExeinfoASL/ASL/raw/master/exeinfope.zip",
+    "url": "https://gh-proxy.org/https://github.com/ExeinfoASL/ASL/raw/master/exeinfope.zip",
     "hash": "26cbdf8ff9e172018668c71c6884294a1a9619c48a64148b11db385779b13194",
     "extract_dir": "ExeinfoPe",
     "shortcuts": [
@@ -17,6 +17,6 @@
         "regex": "Version\\s*:\\s*([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/ExeinfoASL/ASL/raw/master/exeinfope.zip"
+        "url": "https://gh-proxy.org/https://github.com/ExeinfoASL/ASL/raw/master/exeinfope.zip"
     }
 }

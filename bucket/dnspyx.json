@@ -1,5 +1,5 @@
 {
-    "url": "https://gh-proxy.com/https://github.com/wangzq/scoop-files/raw/master/dnspyx/dnspyx.ps1",
+    "url": "https://gh-proxy.org/https://github.com/wangzq/scoop-files/raw/master/dnspyx/dnspyx.ps1",
     "version": "20180203",
     "depends": "main/dnspy-wangzq",
     "bin": "dnspyx.ps1"

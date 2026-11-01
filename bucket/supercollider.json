@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/supercollider/supercollider/releases/download/Version-3.14.1/SuperCollider-3.14.1-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/supercollider/supercollider/releases/download/Version-3.14.1/SuperCollider-3.14.1-win64.zip",
             "hash": "a5f95416307d35c039ca53a9f9c6151c26585064d3229521093a60dddb9458cd"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/supercollider/supercollider/releases/download/Version-$version/SuperCollider-$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/supercollider/supercollider/releases/download/Version-$version/SuperCollider-$version-win64.zip"
             }
         }
     }

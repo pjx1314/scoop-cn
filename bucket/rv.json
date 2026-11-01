@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/A2-ai/rv/releases/download/v0.23.3/rv-v0.23.3-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/A2-ai/rv/releases/download/v0.23.3/rv-v0.23.3-x86_64-pc-windows-msvc.zip",
             "hash": "c0cb441f2bec12d5fa953bb6da5d8d14d9a76d6414b35e07205aa556b6e9d1b5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/A2-ai/rv/releases/download/v$version/rv-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/A2-ai/rv/releases/download/v$version/rv-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/F6JO/JsRouteScan",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/F6JO/JsRouteScan/releases/download/JsRouteScan1.2.1/JsRouteScan-1.2.1.jar#/JsRouteScan.jar",
+    "url": "https://gh-proxy.org/https://github.com/F6JO/JsRouteScan/releases/download/JsRouteScan1.2.1/JsRouteScan-1.2.1.jar#/JsRouteScan.jar",
     "hash": "",
     "checkver": {
         "url": "https://api.github.com/repos/F6JO/JsRouteScan/releases/latest",
@@ -17,6 +17,6 @@
         "regex": "JsRouteScan([\\d\\.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/F6JO/JsRouteScan/releases/download/JsRouteScan$version/JsRouteScan-$version.jar#/JsRouteScan.jar"
+        "url": "https://gh-proxy.org/https://github.com/F6JO/JsRouteScan/releases/download/JsRouteScan$version/JsRouteScan-$version.jar#/JsRouteScan.jar"
     }
 }

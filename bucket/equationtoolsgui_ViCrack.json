@@ -9,7 +9,7 @@
             "main/openjdk"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/abc123info/EquationToolsGUI/releases/download/v0.68/EquationToolsGUI_V0.68.zip#dl.zip_",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/EquationToolsGUI/releases/download/v0.68/EquationToolsGUI_V0.68.zip#dl.zip_",
     "hash": "793a1179f03c41de4a26f79501e0f8847c2b05095e00479d49298e591c62698f",
     "installer": {
         "script": [
@@ -70,6 +70,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/EquationToolsGUI/releases/download/v$version/EquationToolsGUI_V$version.zip#dl.zip_"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/EquationToolsGUI/releases/download/v$version/EquationToolsGUI_V$version.zip#dl.zip_"
     }
 }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/skupperproject/skupper/releases/download/2.2.4/skupper-cli-2.2.4-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/skupperproject/skupper/releases/download/2.2.4/skupper-cli-2.2.4-windows-amd64.zip",
             "hash": "1a77aeaa8ff8f56efe3719ab540420d9e368ca1e488b24724c9726ffce4daf26"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/skupperproject/skupper/releases/download/$version/skupper-cli-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/skupperproject/skupper/releases/download/$version/skupper-cli-$version-windows-amd64.zip"
             }
         }
     }

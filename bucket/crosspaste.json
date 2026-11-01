@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CrossPaste/crosspaste-desktop/releases/download/2.3.1.2781/crosspaste-2.3.1-2781-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CrossPaste/crosspaste-desktop/releases/download/2.3.1.2781/crosspaste-2.3.1-2781-windows-amd64.zip",
             "hash": "9f80e956560c541d525d3faad94979db5fd1a993832fd3e081583055da87aced"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CrossPaste/crosspaste-desktop/releases/download/$version/crosspaste-$matchHead-$buildVersion-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/CrossPaste/crosspaste-desktop/releases/download/$version/crosspaste-$matchHead-$buildVersion-windows-amd64.zip"
             }
         },
         "hash": {

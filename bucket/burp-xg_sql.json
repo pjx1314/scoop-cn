@@ -10,11 +10,11 @@
     ],
     "homepage": "https://github.com/xiaogang000/XG_SQL",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/xiaogang000/XG_SQL/releases/download/V1.5.4/XG_SQL-V1.5.4.jar#/XG_SQL.jar",
+    "url": "https://gh-proxy.org/https://github.com/xiaogang000/XG_SQL/releases/download/V1.5.4/XG_SQL-V1.5.4.jar#/XG_SQL.jar",
     "hash": "a11c197cdfb77564f91ce2777f8d85eb66e77b7e1349738772a82435b864dee7",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/xiaogang000/XG_SQL/releases/download/V$version/XG_SQL-V$version.jar#/XG_SQL.jar"
+        "url": "https://gh-proxy.org/https://github.com/xiaogang000/XG_SQL/releases/download/V$version/XG_SQL-V$version.jar#/XG_SQL.jar"
     }
 }
 

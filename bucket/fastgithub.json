@@ -6,7 +6,7 @@
     "depends": "main/sudo",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/creazyboyone/FastGithub/releases/download/v2.1.5/fastgithub-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/creazyboyone/FastGithub/releases/download/v2.1.5/fastgithub-win-x64.zip",
             "hash": "8719a4e16070e169e90fd14dbee9c0b7834e4b2368c4949a81d8ce44de61554e"
         }
     },
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/creazyboyone/FastGithub/releases/download/v$version/fastgithub-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/creazyboyone/FastGithub/releases/download/v$version/fastgithub-win-x64.zip"
             }
         },
         "extract_dir": "fastgithub-win-x64"

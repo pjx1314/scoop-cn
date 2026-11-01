@@ -7,7 +7,7 @@
     "hash": "fbcb7390109717a0ff9a1cbdd5e3fd9f1896b328dcca0e6879f69c659dca8ebc",
     "bin": "LECmd.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
         "regex": "LECmd.*?\\[([\\d.]+)\\]"
     },
     "autoupdate": {

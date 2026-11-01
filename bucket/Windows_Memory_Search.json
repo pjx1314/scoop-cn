@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/Fheidt12/Windows_Memory_Search",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/Fheidt12/Windows_Memory_Search/releases/download/V1.2/Mereory_searchV1.2.exe#/Windows_Memory_Search.exe",
+    "url": "https://gh-proxy.org/https://github.com/Fheidt12/Windows_Memory_Search/releases/download/V1.2/Mereory_searchV1.2.exe#/Windows_Memory_Search.exe",
     "hash": "",
     "bin": "Windows_Memory_Search.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Fheidt12/Windows_Memory_Search/releases/download/V$version/Mereory_searchV$version.exe#/Windows_Memory_Search.exe"
+        "url": "https://gh-proxy.org/https://github.com/Fheidt12/Windows_Memory_Search/releases/download/V$version/Mereory_searchV$version.exe#/Windows_Memory_Search.exe"
     }
 }

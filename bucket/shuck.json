@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ewhauser/shuck/releases/download/v0.2.7/shuck-cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ewhauser/shuck/releases/download/v0.2.7/shuck-cli-x86_64-pc-windows-msvc.zip",
             "hash": "37f720ea9f952e877e94ffad9902e5b6bd2fb5e3a59e290e33c50ce40b74439b"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ewhauser/shuck/releases/download/v$version/shuck-cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ewhauser/shuck/releases/download/v$version/shuck-cli-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

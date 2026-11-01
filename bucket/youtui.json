@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-0.0.39/youtui-0.0.39-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-0.0.39/youtui-0.0.39-x86_64-pc-windows-msvc.tar.gz",
             "hash": "3866842d9cdcae5779d2c46655f50971ce04679745d54b6337b712584deed2ab"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-0.0.39/youtui-0.0.39-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-0.0.39/youtui-0.0.39-aarch64-pc-windows-msvc.tar.gz",
             "hash": "7921281eff2caf3bb366f8a00cd1348599e3ae278cfd129b97e646314e70cc8d"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-$version/youtui-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-$version/youtui-$version-x86_64-pc-windows-msvc.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-$version/youtui-$version-aarch64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/youtui-$version/youtui-$version-aarch64-pc-windows-msvc.tar.gz"
             }
         }
     }

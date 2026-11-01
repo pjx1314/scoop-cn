@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pvolok/dekit/releases/download/v0.10.3/dekit-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/pvolok/dekit/releases/download/v0.10.3/dekit-x86_64-pc-windows-msvc.zip",
             "hash": "853332f4a4621558ae5fd7ab2c4a7f69878914a1bdf88dd49f6af53b8541eb4c"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pvolok/dekit/releases/download/v$version/dekit-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/pvolok/dekit/releases/download/v$version/dekit-x86_64-pc-windows-msvc.zip"
             }
         }
     }

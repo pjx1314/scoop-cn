@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Michael-F-Bryan/mdbook-epub/releases/download/v0.5.4/mdbook-epub-windows-amd64.exe#/mdbook-epub.exe",
+            "url": "https://gh-proxy.org/https://github.com/Michael-F-Bryan/mdbook-epub/releases/download/v0.5.4/mdbook-epub-windows-amd64.exe#/mdbook-epub.exe",
             "hash": "f8f88ecf938d8408b17f5698d6c7cd71693e40dcf4208e16a21212143b0abb20"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Michael-F-Bryan/mdbook-epub/releases/download/v$version/mdbook-epub-windows-amd64.exe#/mdbook-epub.exe"
+                "url": "https://gh-proxy.org/https://github.com/Michael-F-Bryan/mdbook-epub/releases/download/v$version/mdbook-epub-windows-amd64.exe#/mdbook-epub.exe"
             }
         }
     }

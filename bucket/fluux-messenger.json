@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/processone/fluux-messenger/releases/download/v0.18.1/Fluux-Messenger_0.18.1_Windows_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/processone/fluux-messenger/releases/download/v0.18.1/Fluux-Messenger_0.18.1_Windows_x64-setup.exe#/dl.7z",
             "hash": "2fcf26a73ff4cef3b5bbdb66ca09210d6d87c14fb7aa1a8ca44c94a96c0d4d41"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/processone/fluux-messenger/releases/download/v$version/Fluux-Messenger_$version_Windows_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/processone/fluux-messenger/releases/download/v$version/Fluux-Messenger_$version_Windows_x64-setup.exe#/dl.7z"
             }
         }
     }

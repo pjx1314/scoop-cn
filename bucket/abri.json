@@ -9,7 +9,7 @@
     "notes": "Mounting drives needs WinFsp: https://winfsp.dev/rel/",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/naderi/abri/releases/download/v0.9.10/Abri.exe",
+            "url": "https://gh-proxy.org/https://github.com/naderi/abri/releases/download/v0.9.10/Abri.exe",
             "hash": "1fa065a259b2d55b45f0dc1eed78adcf8800c0398ce6b3eb5fe9849090e4d721"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/naderi/abri/releases/download/v$version/Abri.exe"
+                "url": "https://gh-proxy.org/https://github.com/naderi/abri/releases/download/v$version/Abri.exe"
             }
         }
     }

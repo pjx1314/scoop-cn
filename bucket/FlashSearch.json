@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/testzboy/FlashSearch/releases/download/2.0/flashsearch2.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/testzboy/FlashSearch/releases/download/2.0/flashsearch2.0.zip",
     "hash": "c59b53993375655e63677f0aa3f91cdc348e4d5dfa0f158ec7109c916e4bfc7a",
     "extract_dir": "flashsearch2.0",
     "pre_install": [
@@ -26,7 +26,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/testzboy/FlashSearch/releases/download/$version/flashsearch$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/testzboy/FlashSearch/releases/download/$version/flashsearch$version.zip",
         "extract_dir": "flashsearch$version"
     },
     "notes": [

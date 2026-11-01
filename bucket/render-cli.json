@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/render-oss/cli/releases/download/v2.34.0/cli_2.34.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/render-oss/cli/releases/download/v2.34.0/cli_2.34.0_windows_amd64.zip",
             "hash": "3492c4ff56fb42b04303cce589c469ad28c62d7b6f244678219f8861615486ed"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/render-oss/cli/releases/download/v2.34.0/cli_2.34.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/render-oss/cli/releases/download/v2.34.0/cli_2.34.0_windows_386.zip",
             "hash": "6ff8ff382c3396ecfa74054db9c49154255a219d2b48d4c31551dd4b621b1849"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/render-oss/cli/releases/download/v2.34.0/cli_2.34.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/render-oss/cli/releases/download/v2.34.0/cli_2.34.0_windows_arm64.zip",
             "hash": "db4b27ca419c1592bf4fd02e34d2616759226864e134ae5d4bf85acec5953ed5"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/render-oss/cli/releases/download/v$version/cli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/render-oss/cli/releases/download/v$version/cli_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/render-oss/cli/releases/download/v$version/cli_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/render-oss/cli/releases/download/v$version/cli_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/render-oss/cli/releases/download/v$version/cli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/render-oss/cli/releases/download/v$version/cli_$version_windows_arm64.zip"
             }
         },
         "hash": {

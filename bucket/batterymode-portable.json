@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tarcode-apps/BatteryMode/releases/download/v4.3.3.206/BatteryMode64.exe",
+            "url": "https://gh-proxy.org/https://github.com/tarcode-apps/BatteryMode/releases/download/v4.3.3.206/BatteryMode64.exe",
             "hash": "07302aaa0738f99d5b234d68f28524d713621a403b483cebbee897ca30564cb5"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/tarcode-apps/BatteryMode/releases/download/v4.3.3.206/BatteryMode32.exe",
+            "url": "https://gh-proxy.org/https://github.com/tarcode-apps/BatteryMode/releases/download/v4.3.3.206/BatteryMode32.exe",
             "hash": "1ab73f4d14c7f506ca7e1d84f414183b7b352856b166fef96d341370647b2df4"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tarcode-apps/BatteryMode/releases/download/v$version/BatteryMode64.exe"
+                "url": "https://gh-proxy.org/https://github.com/tarcode-apps/BatteryMode/releases/download/v$version/BatteryMode64.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/tarcode-apps/BatteryMode/releases/download/v$version/BatteryMode32.exe"
+                "url": "https://gh-proxy.org/https://github.com/tarcode-apps/BatteryMode/releases/download/v$version/BatteryMode32.exe"
             }
         }
     }

@@ -18,7 +18,7 @@
     "persist": "user",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-windows-msvc-2126.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-windows-msvc-2126.2.zip",
             "hash": "4412eac8d13123c8840f11890fc26e5b0e4c76d16aa28a608941377b948a9db0",
             "extract_dir": "azahar-windows-msvc-2126.2",
             "bin": [

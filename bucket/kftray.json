@@ -5,15 +5,15 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftray_0.35.1_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftray_0.35.1_x64-setup.exe#/dl.7z",
             "hash": "387162e715b15394d3133b06957a7cb27fabf883e2b0aead9eed4be8015814f8"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftray_0.35.1_x86-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftray_0.35.1_x86-setup.exe#/dl.7z",
             "hash": "34eeb0590c1693691bbdc20667be3d720a50d6cfd1aa1b4fd70db01aa2a9bfcd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftray_0.35.1_arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v0.35.1/kftray_0.35.1_arm64-setup.exe#/dl.7z",
             "hash": "89e06bf96180cb8a861c3c90fbebb49b942bab1454c92ed289c4c8c537caaf98"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v$version/kftray_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v$version/kftray_$version_x64-setup.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v$version/kftray_$version_x86-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v$version/kftray_$version_x86-setup.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/hcavarsan/kftray/releases/download/v$version/kftray_$version_arm64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/hcavarsan/kftray/releases/download/v$version/kftray_$version_arm64-setup.exe#/dl.7z"
             }
         }
     }

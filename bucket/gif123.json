@@ -13,7 +13,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://gh-proxy.com/https://github.com/aardio/Gif123/raw/main/default.aproj",
+        "url": "https://gh-proxy.org/https://github.com/aardio/Gif123/raw/main/default.aproj",
         "regex": "ProductVersion=\"([\\d.]+)\""
     },
     "autoupdate": {

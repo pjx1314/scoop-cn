@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stark81/VutronMusic/releases/download/v3.3.5-preview-4/VutronMusic-3.3.5_win_x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/stark81/VutronMusic/releases/download/v3.3.5-preview-4/VutronMusic-3.3.5_win_x64.exe#/dl.7z",
             "hash": "sha512:2f7714eb502428c7aaeafab797b6bd5683a85cbf800484ceada5284c88a3a1e063940f106556652b6b1a73069c1f462c11c705afad0b4b9014d0c6bccf5f6008",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -16,7 +16,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/stark81/VutronMusic/releases/download/v3.3.5-preview-4/VutronMusic-3.3.5_win_arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/stark81/VutronMusic/releases/download/v3.3.5-preview-4/VutronMusic-3.3.5_win_arm64.exe#/dl.7z",
             "hash": "sha512:c759a538b329dd1180b4b2494e57d6edd2d1926d9936af651f82d80dca129cc64ad37c298bfc1b60aea171ae91e5e98a158a74694bc1082a0be459f1dd0e044b",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -54,7 +54,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stark81/VutronMusic/releases/download/$matchTag/VutronMusic-$version_win_x64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/stark81/VutronMusic/releases/download/$matchTag/VutronMusic-$version_win_x64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "mode": "extract",
@@ -62,7 +62,7 @@
                 }
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/stark81/VutronMusic/releases/download/$matchTag/VutronMusic-$version_win_arm64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/stark81/VutronMusic/releases/download/$matchTag/VutronMusic-$version_win_arm64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "mode": "extract",

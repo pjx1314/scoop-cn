@@ -14,7 +14,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/errors11/TomcatVuln/releases/download/v1.0.1/TomcatVuln-1.0-SNAPSHOT.zip",
+    "url": "https://gh-proxy.org/https://github.com/errors11/TomcatVuln/releases/download/v1.0.1/TomcatVuln-1.0-SNAPSHOT.zip",
     "hash": "66776ef75ed3620ba2f338fa4895e34fc150794f4c23c07753519ade48e7bb79",
     "pre_install": [
         "Get-ChildItem \"$dir\" 'TomcatVuln*.jar' | Select-Object -First 1 | Rename-Item -NewName 'TomcatVuln.jar'",
@@ -33,7 +33,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/errors11/TomcatVuln/releases/download/v$version/TomcatVuln-1.0-SNAPSHOT.zip",
+        "url": "https://gh-proxy.org/https://github.com/errors11/TomcatVuln/releases/download/v$version/TomcatVuln-1.0-SNAPSHOT.zip",
         "extract_dir": "TomcatVuln-1.0-SNAPSHOT"
     }
 }

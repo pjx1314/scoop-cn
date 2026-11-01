@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfs.exe",
-                "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfsctl.exe"
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfs.exe",
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfsctl.exe"
             ],
             "hash": [
                 "7dc950eb71777b23d2e6a28fbc7b2950e018f5ae66244f071bd7d17b0151eaed",
@@ -16,8 +16,8 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfs_32.exe#/cppcryptfs.exe",
-                "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfsctl_32.exe#/cppcryptfsctl.exe"
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfs_32.exe#/cppcryptfs.exe",
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfsctl_32.exe#/cppcryptfsctl.exe"
             ],
             "hash": [
                 "c6fa7be5c5d819749e663e60472b82b616abe4efe7d46de66a4880eef85ec421",
@@ -26,8 +26,8 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfs_arm64.exe#/cppcryptfs.exe",
-                "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfsctl_arm64.exe#/cppcryptfsctl.exe"
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfs_arm64.exe#/cppcryptfs.exe",
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.5.1/cppcryptfsctl_arm64.exe#/cppcryptfsctl.exe"
             ],
             "hash": [
                 "22b2ea2b60fc1cb7be414148264af6808100c2437ba512220b5e936b893072ad",
@@ -50,20 +50,20 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs.exe",
-                    "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl.exe"
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs.exe",
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl.exe"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs_32.exe#/cppcryptfs.exe",
-                    "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl_32.exe#/cppcryptfsctl.exe"
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs_32.exe#/cppcryptfs.exe",
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl_32.exe#/cppcryptfsctl.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs_arm64.exe#/cppcryptfs.exe",
-                    "https://gh-proxy.com/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl_arm64.exe#/cppcryptfsctl.exe"
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs_arm64.exe#/cppcryptfs.exe",
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl_arm64.exe#/cppcryptfsctl.exe"
                 ]
             }
         }

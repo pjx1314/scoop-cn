@@ -3,12 +3,12 @@
     "description": "Credentials recovery project.",
     "homepage": "https://github.com/AlessandroZ/LaZagne",
     "license": "LGPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/AlessandroZ/LaZagne/releases/download/v2.4.7/LaZagne.exe",
+    "url": "https://gh-proxy.org/https://github.com/AlessandroZ/LaZagne/releases/download/v2.4.7/LaZagne.exe",
     "hash": "dc06d62ee95062e714f2566c95b8edaabfd387023b1bf98a09078b84007d5268",
     "bin": "LaZagne.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/AlessandroZ/LaZagne/releases/download/v$version/LaZagne.exe"
+        "url": "https://gh-proxy.org/https://github.com/AlessandroZ/LaZagne/releases/download/v$version/LaZagne.exe"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/llehouerou/waves/releases/download/v0.1.50/waves_0.1.50_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/llehouerou/waves/releases/download/v0.1.50/waves_0.1.50_windows_amd64.zip",
             "hash": "98f03b5f3392ebc00bf94cd29294333e8b22cc6a91fc40eb53901f5a972ca8a2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/llehouerou/waves/releases/download/v$version/waves_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/llehouerou/waves/releases/download/v$version/waves_$version_windows_amd64.zip"
             }
         },
         "hash": {

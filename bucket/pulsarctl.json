@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/streamnative/pulsarctl/releases/download/v5.0.0.106/pulsarctl-amd64-windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/streamnative/pulsarctl/releases/download/v5.0.0.106/pulsarctl-amd64-windows.tar.gz",
             "hash": "f2fa582c1c5bdfc89612391fdfdda0b03dd047897948effcba9007614a4ee37d",
             "extract_dir": "pulsarctl-amd64-windows"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/streamnative/pulsarctl/releases/download/v5.0.0.106/pulsarctl-386-windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/streamnative/pulsarctl/releases/download/v5.0.0.106/pulsarctl-386-windows.tar.gz",
             "hash": "1ca8dc59e104ea23c4bec63412d38ab24ef2200cc8a37ef936c7b421b8104d69",
             "extract_dir": "pulsarctl-386-windows"
         }
@@ -18,16 +18,16 @@
     "pre_install": "if (Test-Path \"$dir\\pulsarctl\") { Rename-Item -Path \"$dir\\pulsarctl\" -NewName \"$dir\\pulsarctl.exe\" }",
     "bin": "pulsarctl.exe",
     "checkver": {
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/pulsarctl/state.json",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hoilc/scoop-juicer/main/manifests/pulsarctl/state.json",
         "jsonpath": "$.version"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/streamnative/pulsarctl/releases/download/v$version/pulsarctl-amd64-windows.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/streamnative/pulsarctl/releases/download/v$version/pulsarctl-amd64-windows.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/streamnative/pulsarctl/releases/download/v$version/pulsarctl-386-windows.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/streamnative/pulsarctl/releases/download/v$version/pulsarctl-386-windows.tar.gz"
             }
         }
     }

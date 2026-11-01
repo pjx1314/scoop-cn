@@ -8,7 +8,7 @@
             "miniconda3"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/tarunkant/Gopherus/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/tarunkant/Gopherus/archive/refs/heads/master.zip",
     "hash": "914f710ebf57f9976632e3f03eca6badd929b731d1ddcdd76d4da2719785e41c",
     "extract_dir": "Gopherus-master",
     "pre_install": [
@@ -27,7 +27,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/tarunkant/Gopherus/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/tarunkant/Gopherus/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

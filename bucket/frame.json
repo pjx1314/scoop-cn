@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/66HEX/frame/releases/download/0.33.1/Frame-x86_64.exe",
+            "url": "https://gh-proxy.org/https://github.com/66HEX/frame/releases/download/0.33.1/Frame-x86_64.exe",
             "hash": "18dd7a727b7bb777943d3c0d3c7d4928cc9b634ac86a936b5fa236906023a68a"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/66HEX/frame/releases/download/$version/Frame-x86_64.exe"
+                "url": "https://gh-proxy.org/https://github.com/66HEX/frame/releases/download/$version/Frame-x86_64.exe"
             }
         }
     }

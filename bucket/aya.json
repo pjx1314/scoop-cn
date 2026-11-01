@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aya-prover/aya-dev/releases/download/nightly-build/aya-prover_jlink_windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/aya-prover/aya-dev/releases/download/nightly-build/aya-prover_jlink_windows-x64.zip",
             "hash": "0f7967766d7273cc3c3390c8745bdbf8c375e8c91bb1fd2319428fb9b3cba910"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aya-prover/aya-dev/releases/download/nightly-build/aya-prover_jlink_windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/aya-prover/aya-dev/releases/download/nightly-build/aya-prover_jlink_windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/aya-prover/aya-dev/releases/download/nightly-build/aya-prover_jlink_windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/aya-prover/aya-dev/releases/download/nightly-build/aya-prover_jlink_windows-aarch64.zip"
             }
         },
         "hash": {

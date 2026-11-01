@@ -12,7 +12,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/abc123info/BlueTeamTools/releases/download/v4.36/BlueTeam_V4.36.zip",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/BlueTeamTools/releases/download/v4.36/BlueTeam_V4.36.zip",
     "pre_install": [
         "Set-Content \"$dir\\blueteamtools.bat\" '@pushd %~dp0",
         "@call oraclejre8",
@@ -28,6 +28,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/BlueTeamTools/releases/download/v$version/BlueTeam_V$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/BlueTeamTools/releases/download/v$version/BlueTeam_V$version.zip"
     }
 }

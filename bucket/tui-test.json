@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/tui-test/releases/download/0.1.1/tui-test-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/tui-test/releases/download/0.1.1/tui-test-x86_64-pc-windows-msvc.zip",
             "hash": "1dfdc80c6394bb723c9f3e3cb919db5138f72c75855b8fba2051dadf89663856"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/tui-test/releases/download/$version/tui-test-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/tui-test/releases/download/$version/tui-test-x86_64-pc-windows-msvc.zip"
             }
         }
     }

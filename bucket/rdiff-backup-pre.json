@@ -5,12 +5,12 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-2.6.1.dev84+unreleased.g5b31c54e3.win64exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-2.6.1.dev84+unreleased.g5b31c54e3.win64exe.zip",
             "extract_dir": "rdiff-backup-2.6.1.dev84+unreleased.g5b31c54e3-64",
             "hash": "2fc3b2bb3e5e07761c8948f9c1c73ebfc07590b17ac39aa20f8d35065a1bccc6"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-2.6.1.dev84+unreleased.g5b31c54e3.win32exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-2.6.1.dev84+unreleased.g5b31c54e3.win32exe.zip",
             "extract_dir": "rdiff-backup-2.6.1.dev84+unreleased.g5b31c54e3-32",
             "hash": "f8ddacabc5e647f79ac8fc3c67a54463118ae0795d2937fb51524166927e323e"
         }
@@ -24,11 +24,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-$matchDevversion+unreleased.$matchCommit.win64exe.zip",
+                "url": "https://gh-proxy.org/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-$matchDevversion+unreleased.$matchCommit.win64exe.zip",
                 "extract_dir": "rdiff-backup-$matchDevversion+unreleased.$matchCommit-64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-$matchDevversion+unreleased.$matchCommit.win32exe.zip",
+                "url": "https://gh-proxy.org/https://github.com/rdiff-backup/rdiff-backup/releases/download/weekly/rdiff-backup-$matchDevversion+unreleased.$matchCommit.win32exe.zip",
                 "extract_dir": "rdiff-backup-$matchDevversion+unreleased.$matchCommit-32"
             }
         }

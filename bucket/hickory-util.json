@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/hickory-util-0.26.3/hickory-util-0.26.3-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/hickory-util-0.26.3/hickory-util-0.26.3-x86_64-pc-windows-msvc.tar.gz",
             "hash": "d384d2472283f619cf68345342316066ecf4e40880420f22925d247e8a98bab0"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cargo-bins/cargo-quickinstall/releases/download/hickory-util-$version/hickory-util-$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cargo-bins/cargo-quickinstall/releases/download/hickory-util-$version/hickory-util-$version-x86_64-pc-windows-msvc.tar.gz"
             }
         }
     }

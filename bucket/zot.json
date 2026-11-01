@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/patriceckhart/zot/releases/download/v0.4.58/zot_0.4.58_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/patriceckhart/zot/releases/download/v0.4.58/zot_0.4.58_windows_amd64.zip",
             "hash": "59fccb5673b1631d65a32655eb2fb7da14e65880aa3dfcaf4fa3e610048cf8f7"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/patriceckhart/zot/releases/download/v$version/zot_$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/patriceckhart/zot/releases/download/v$version/zot_$version_windows_amd64.zip",
                 "hash": {
                     "url": "$baseurl/checksums.txt"
                 }

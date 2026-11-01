@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/minhangxiaohui/DecodeSomeJSPWebshell/releases/download/v1.2/DecodertoWebshell_1.2.jar#/DecodertoWebshell.jar",
+    "url": "https://gh-proxy.org/https://github.com/minhangxiaohui/DecodeSomeJSPWebshell/releases/download/v1.2/DecodertoWebshell_1.2.jar#/DecodertoWebshell.jar",
     "hash": "7c1ed850a8ba0d54f5b906544f7375183f7d2a3b16e4346d2272b6face6f955b",
     "pre_install": [
         "Set-Content \"$dir\\DecodertoWebshell.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/minhangxiaohui/DecodeSomeJSPWebshell/releases/download/v$version/DecodertoWebshell_$version.jar#/DecodertoWebshell.jar"
+        "url": "https://gh-proxy.org/https://github.com/minhangxiaohui/DecodeSomeJSPWebshell/releases/download/v$version/DecodertoWebshell_$version.jar#/DecodertoWebshell.jar"
     },
     "notes": [
         "【工具类型】: 安全工具",

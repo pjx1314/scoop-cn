@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dagimg-dot/gitsnip/releases/download/v0.2.1/gitsnip_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dagimg-dot/gitsnip/releases/download/v0.2.1/gitsnip_Windows_x86_64.zip",
             "hash": "f8b177ac28c66e4e7bbae73f64db709a9b7ce11b9b7d4202b52af7d67b98ae85"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dagimg-dot/gitsnip/releases/download/v0.2.1/gitsnip_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dagimg-dot/gitsnip/releases/download/v0.2.1/gitsnip_Windows_arm64.zip",
             "hash": "1a0e3b1984aa472f0dd7946c6a49d1d51992a72a6dafb920ee64e543d88832e7"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dagimg-dot/gitsnip/releases/download/v$version/gitsnip_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dagimg-dot/gitsnip/releases/download/v$version/gitsnip_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/dagimg-dot/gitsnip/releases/download/v$version/gitsnip_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dagimg-dot/gitsnip/releases/download/v$version/gitsnip_Windows_arm64.zip"
             }
         },
         "hash": {

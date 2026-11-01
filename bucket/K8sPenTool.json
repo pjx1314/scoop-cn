@@ -3,7 +3,7 @@
     "description": "K8sPenTool - Kubernetes 综合渗透测试 GUI 平台，集成信息搜集、初始访问、命令执行、权限维持、提权逃逸、横向移动与 kubectl 操作",
     "homepage": "https://github.com/trymonoly/K8sPenTool",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/trymonoly/K8sPenTool/releases/download/v1.0.0/k8s-pen-tool-1.0.0.jar#/k8s-pen-tool.jar",
+    "url": "https://gh-proxy.org/https://github.com/trymonoly/K8sPenTool/releases/download/v1.0.0/k8s-pen-tool-1.0.0.jar#/k8s-pen-tool.jar",
     "hash": "sha256:303d7f6a7694eeb39b25a97cce3daac29223ff69c5a9fe4110d31e2340f3f4cb",
     "suggest": {
         "java": "sec/oraclejdk17"
@@ -24,7 +24,7 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/trymonoly/K8sPenTool/releases/download/v$version/k8s-pen-tool-$version.jar#/k8s-pen-tool.jar"
+        "url": "https://gh-proxy.org/https://github.com/trymonoly/K8sPenTool/releases/download/v$version/k8s-pen-tool-$version.jar#/k8s-pen-tool.jar"
     },
     "notes": [
         "【工具类型】: 安全测试工具 | K8s 渗透测试 GUI",

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/getgrit/gritql/releases/download/v0.1.0-alpha.1743007075/grit-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/getgrit/gritql/releases/download/v0.1.0-alpha.1743007075/grit-x86_64-pc-windows-msvc.tar.gz",
             "extract_dir": "grit-x86_64-pc-windows-msvc",
             "hash": "5c44ee3336514ab8c3fa81c5301bd54fca82a9ddec43f87d7181be757fbab084"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/getgrit/gritql/releases/download/v$version/grit-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/getgrit/gritql/releases/download/v$version/grit-x86_64-pc-windows-msvc.tar.gz"
             }
         },
         "hash": {

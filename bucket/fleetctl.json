@@ -4,16 +4,16 @@
     "homepage": "https://fleetdm.com/",
     "license": {
         "identifier": "MIT",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fleetdm/fleet/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fleetdm/fleet/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/fleetdm/fleet/releases/download/fleet-v4.94.0/fleetctl_v4.94.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/fleetdm/fleet/releases/download/fleet-v4.94.0/fleetctl_v4.94.0_windows_amd64.zip",
             "extract_dir": "fleetctl_v4.94.0_windows_amd64",
             "hash": "8cfa786f5600e8bf57b0499980ea706988c8af2908a39aab7002e98a48fa34e5"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/fleetdm/fleet/releases/download/fleet-v4.94.0/fleetctl_v4.94.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/fleetdm/fleet/releases/download/fleet-v4.94.0/fleetctl_v4.94.0_windows_arm64.zip",
             "extract_dir": "fleetctl_v4.94.0_windows_arm64",
             "hash": "085c49def21676c7966f7299cd10cdea3a2d6add68e7dd918d007b99491a96e5"
         }
@@ -26,11 +26,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/fleetdm/fleet/releases/download/fleet-v$version/fleetctl_v$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/fleetdm/fleet/releases/download/fleet-v$version/fleetctl_v$version_windows_amd64.zip",
                 "extract_dir": "fleetctl_v$version_windows_amd64"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/fleetdm/fleet/releases/download/fleet-v$version/fleetctl_v$version_windows_arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/fleetdm/fleet/releases/download/fleet-v$version/fleetctl_v$version_windows_arm64.zip",
                 "extract_dir": "fleetctl_v$version_windows_arm64"
             }
         },

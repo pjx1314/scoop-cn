@@ -3,7 +3,7 @@
     "description": "A more modern version of Nvidia Profile Inspector - all features supported & easy to use",
     "version": "7.3.2.0",
     "license": "MIT",
-    "url": "https://gh-proxy.com/https://github.com/xHybred/NvidiaProfileInspectorRevamped/releases/download/v7.3.2.0/NVPI-R.zip",
+    "url": "https://gh-proxy.org/https://github.com/xHybred/NvidiaProfileInspectorRevamped/releases/download/v7.3.2.0/NVPI-R.zip",
     "hash": "febb6e1dda9b420e918aeb54deaf176612a5f2371b0287079bd58a5103757d47",
     "shortcuts": [
         [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/xHybred/NvidiaProfileInspectorRevamped/releases/download/v$version/NVPI-R.zip"
+        "url": "https://gh-proxy.org/https://github.com/xHybred/NvidiaProfileInspectorRevamped/releases/download/v$version/NVPI-R.zip"
     }
 }

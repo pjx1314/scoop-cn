@@ -6,11 +6,11 @@
     "depends": "main/openssl-lts",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/LadybugDB/ladybug/releases/download/v0.22.1/lbug_cli-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LadybugDB/ladybug/releases/download/v0.22.1/lbug_cli-windows-x86_64.zip",
             "hash": "2d61e3c89f9f6545103cfee8bdbeafb134fb78c28933210f1af49643011e1998"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/LadybugDB/ladybug/releases/download/v0.22.1/lbug_cli-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LadybugDB/ladybug/releases/download/v0.22.1/lbug_cli-windows-arm64.zip",
             "hash": "9229e4983de4282001e38494e0df81983cb496a80f3e81436cacd93cc5428d3e"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/LadybugDB/ladybug/releases/download/v$version/lbug_cli-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LadybugDB/ladybug/releases/download/v$version/lbug_cli-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/LadybugDB/ladybug/releases/download/v$version/lbug_cli-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LadybugDB/ladybug/releases/download/v$version/lbug_cli-windows-arm64.zip"
             }
         }
     }

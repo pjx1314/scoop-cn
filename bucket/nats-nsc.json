@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nats-io/nsc/releases/download/v2.15.0/nsc-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/nats-io/nsc/releases/download/v2.15.0/nsc-windows-amd64.zip",
             "hash": "b5866ee1166a671ec3fbe1577b4695ced492fbd6934db5596dbe0c2e89fb481f"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nats-io/nsc/releases/download/v$version/nsc-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/nats-io/nsc/releases/download/v$version/nsc-windows-amd64.zip"
             }
         },
         "hash": {

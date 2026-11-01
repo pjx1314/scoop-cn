@@ -5,11 +5,11 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/airdcpp/airdcpp-windows/releases/download/4.30/airdcpp_4.30_x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/airdcpp/airdcpp-windows/releases/download/4.30/airdcpp_4.30_x64.7z",
             "hash": "558ea3f8c92818162925396e2dd7d250b1b5450e9f03b7771969a62b87386fff"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/airdcpp/airdcpp-windows/releases/download/4.30/airdcpp_4.30_x86.7z",
+            "url": "https://gh-proxy.org/https://github.com/airdcpp/airdcpp-windows/releases/download/4.30/airdcpp_4.30_x86.7z",
             "hash": "fabf0f043b6770fe565b66a7b534e1c4e7e024ef94564b5b8defef917783fe27"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/airdcpp/airdcpp-windows/releases/download/$version/airdcpp_$version_x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/airdcpp/airdcpp-windows/releases/download/$version/airdcpp_$version_x64.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/airdcpp/airdcpp-windows/releases/download/$version/airdcpp_$version_x86.7z"
+                "url": "https://gh-proxy.org/https://github.com/airdcpp/airdcpp-windows/releases/download/$version/airdcpp_$version_x86.7z"
             }
         }
     }

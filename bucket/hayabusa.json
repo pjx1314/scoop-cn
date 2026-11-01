@@ -5,15 +5,15 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Yamato-Security/hayabusa/releases/download/v4.3.1/hayabusa-4.3.1-win-x64-live-response.zip",
+            "url": "https://gh-proxy.org/https://github.com/Yamato-Security/hayabusa/releases/download/v4.3.1/hayabusa-4.3.1-win-x64-live-response.zip",
             "hash": "457185c17b0ce4919b566ee9ecf4ba9f2f78f6b786c2c7367ce5fd921a39cfdf"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/Yamato-Security/hayabusa/releases/download/v4.3.1/hayabusa-4.3.1-win-x86-live-response.zip",
+            "url": "https://gh-proxy.org/https://github.com/Yamato-Security/hayabusa/releases/download/v4.3.1/hayabusa-4.3.1-win-x86-live-response.zip",
             "hash": "6fc94cebedecfdd660b7f23c783b1dd49936ec4ca9d00d491730d51f8d9b2d75"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Yamato-Security/hayabusa/releases/download/v4.3.1/hayabusa-4.3.1-win-aarch64-live-response.zip",
+            "url": "https://gh-proxy.org/https://github.com/Yamato-Security/hayabusa/releases/download/v4.3.1/hayabusa-4.3.1-win-aarch64-live-response.zip",
             "hash": "a6a289e474fcca3d55aa7130b7ce7cb1b1224623a19725fd01b332b358e98bf1"
         }
     },
@@ -23,13 +23,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Yamato-Security/hayabusa/releases/download/v$version/hayabusa-$version-win-x64-live-response.zip"
+                "url": "https://gh-proxy.org/https://github.com/Yamato-Security/hayabusa/releases/download/v$version/hayabusa-$version-win-x64-live-response.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/Yamato-Security/hayabusa/releases/download/v$version/hayabusa-$version-win-x86-live-response.zip"
+                "url": "https://gh-proxy.org/https://github.com/Yamato-Security/hayabusa/releases/download/v$version/hayabusa-$version-win-x86-live-response.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Yamato-Security/hayabusa/releases/download/v$version/hayabusa-$version-win-aarch64-live-response.zip"
+                "url": "https://gh-proxy.org/https://github.com/Yamato-Security/hayabusa/releases/download/v$version/hayabusa-$version-win-aarch64-live-response.zip"
             }
         }
     }

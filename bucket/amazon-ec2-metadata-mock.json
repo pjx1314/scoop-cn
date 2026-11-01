@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/aws/amazon-ec2-metadata-mock/releases/download/v1.13.0/ec2-metadata-mock-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/aws/amazon-ec2-metadata-mock/releases/download/v1.13.0/ec2-metadata-mock-windows-amd64.zip",
             "hash": "a5c3a69e87e935b87e470081ec616bf5574b1193dc0587d3d006919fa8189ef2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/aws/amazon-ec2-metadata-mock/releases/download/v$version/ec2-metadata-mock-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/aws/amazon-ec2-metadata-mock/releases/download/v$version/ec2-metadata-mock-windows-amd64.zip"
             }
         }
     }

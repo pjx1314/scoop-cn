@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win64_4.0.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win64_4.0.0.zip",
             "hash": "140999c17f41c4eb4246c3844fba79e7f8c62812f7f5887a35c6d4bcdcd9a6bd"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win32_4.0.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win32_4.0.0.zip",
             "hash": "f551b0e5da45274ae2638aee5e583a7895b198e567f3b050f933d64cc2278e2e"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win64_$matchMain.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win64_$matchMain.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win32_$matchMain.zip"
+                "url": "https://gh-proxy.org/https://github.com/horsicq/DIE-engine/releases/download/Beta/die_win32_$matchMain.zip"
             }
         }
     }

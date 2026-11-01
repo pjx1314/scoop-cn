@@ -6,7 +6,7 @@
     "suggest": {
         "python": "uv"
     },
-    "url": "https://gh-proxy.com/https://github.com/hansmach1ne/lfimap/archive/refs/heads/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/hansmach1ne/lfimap/archive/refs/heads/master.zip",
     "hash": "fc1a93f0c3da139c7366919b173db8c398dcd25089af084e7525d708d21e9daf",
     "extract_dir": "lfimap-main",
     "pre_install": [
@@ -25,7 +25,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/hansmach1ne/lfimap/archive/refs/heads/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/hansmach1ne/lfimap/archive/refs/heads/master.zip"
     },
     "notes": [
         "【工具类型】: Python工具",

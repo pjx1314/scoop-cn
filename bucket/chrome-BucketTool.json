@@ -3,7 +3,7 @@
     "description": "BucketTool - 云存储桶安全漏洞检测浏览器扩展",
     "homepage": "https://github.com/libaibaia/BucketTool",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/libaibaia/BucketTool/archive/refs/heads/main.zip#/dl.zip1",
+    "url": "https://gh-proxy.org/https://github.com/libaibaia/BucketTool/archive/refs/heads/main.zip#/dl.zip1",
     "hash": "809cc58231e9e8c4ea8398976fe12b74411576f448b0dd4d8106b9641c049f43",
     "pre_install": [
         "7z x \"$dir\\dl.zip1\" -o\"$dir\" -y",
@@ -15,7 +15,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/libaibaia/BucketTool/archive/refs/heads/main.zip#/dl.zip1"
+        "url": "https://gh-proxy.org/https://github.com/libaibaia/BucketTool/archive/refs/heads/main.zip#/dl.zip1"
     },
     "notes": [
         "【工具类型】: 浏览器扩展/安全测试",

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/CycloneDX/cdxgen/releases/download/v13.6.0/cdxgen-windows-amd64.exe#/cdxgen.exe",
+            "url": "https://gh-proxy.org/https://github.com/CycloneDX/cdxgen/releases/download/v13.6.0/cdxgen-windows-amd64.exe#/cdxgen.exe",
             "hash": "71c49545872f881b7c27655329d6e381e8a5837caddcdb017e3a09161d21dcfd"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/CycloneDX/cdxgen/releases/download/v13.6.0/cdxgen-windows-arm64.exe#/cdxgen.exe",
+            "url": "https://gh-proxy.org/https://github.com/CycloneDX/cdxgen/releases/download/v13.6.0/cdxgen-windows-arm64.exe#/cdxgen.exe",
             "hash": "f7fe363cc86249ebda1de24deb0557234f64b87e5748075124bfeed6016d45f8"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/CycloneDX/cdxgen/releases/download/v$version/cdxgen-windows-amd64.exe#/cdxgen.exe"
+                "url": "https://gh-proxy.org/https://github.com/CycloneDX/cdxgen/releases/download/v$version/cdxgen-windows-amd64.exe#/cdxgen.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/CycloneDX/cdxgen/releases/download/v$version/cdxgen-windows-arm64.exe#/cdxgen.exe"
+                "url": "https://gh-proxy.org/https://github.com/CycloneDX/cdxgen/releases/download/v$version/cdxgen-windows-arm64.exe#/cdxgen.exe"
             }
         },
         "hash": {

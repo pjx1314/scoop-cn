@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tiann/hapi/releases/download/v0.33.5/hapi-win32-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tiann/hapi/releases/download/v0.33.5/hapi-win32-x64.zip",
             "hash": "5f7579365f59442eef45d9bd1e462d125003bd86f182976856a577a2f3eb3d1b"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tiann/hapi/releases/download/v$version/hapi-win32-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tiann/hapi/releases/download/v$version/hapi-win32-x64.zip"
             }
         },
         "hash": {

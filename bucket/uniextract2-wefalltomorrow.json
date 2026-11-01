@@ -3,7 +3,7 @@
     "description": "Decompress and extract files from any type of archive or installer.",
     "homepage": "https://github.com/wefalltomorrow/UniExtract2",
     "license": "GPL-2.0-or-later",
-    "url": "https://gh-proxy.com/https://github.com/wefalltomorrow/UniExtract2/releases/download/v3.1.9/UniExtract2-v3.1.9.zip",
+    "url": "https://gh-proxy.org/https://github.com/wefalltomorrow/UniExtract2/releases/download/v3.1.9/UniExtract2-v3.1.9.zip",
     "hash": "998ad9fa10ddd1a9d02c611fc3376405f7016a2f491a9f689ad5688f0e2bea90",
     "post_install": [
         "$ini = Get-Content \"$dir\\UniExtract.ini\" -Raw",
@@ -23,6 +23,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wefalltomorrow/UniExtract2/releases/download/v$version/UniExtract2-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/wefalltomorrow/UniExtract2/releases/download/v$version/UniExtract2-v$version.zip"
     }
 }

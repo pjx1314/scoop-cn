@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/darriousliu/PiPixiv/releases/download/v2.5.1/PiPixiv-v2.5.1-windows-x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/darriousliu/PiPixiv/releases/download/v2.5.1/PiPixiv-v2.5.1-windows-x86_64.msi",
             "hash": "bb1822ef80cb70caaa1a1688eb3b2e0b2d9628b8e0fff6605d1dfdba7cdd98f8"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/darriousliu/PiPixiv/releases/download/v$version/PiPixiv-v$version-windows-x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/darriousliu/PiPixiv/releases/download/v$version/PiPixiv-v$version-windows-x86_64.msi"
             }
         }
     }

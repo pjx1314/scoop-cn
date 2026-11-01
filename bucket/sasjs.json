@@ -2,7 +2,7 @@
     "version": "3.6.2",
     "license": "MIT",
     "homepage": "https://github.com/sasjs/server",
-    "url": "https://gh-proxy.com/https://github.com/sasjs/server/releases/download/v3.6.2/windows.zip",
+    "url": "https://gh-proxy.org/https://github.com/sasjs/server/releases/download/v3.6.2/windows.zip",
     "hash": "84abbff826723f43f2d1a1a095d24c87b36c876e751d551f0d6bdec039f76562",
     "persist": [
         "sasjs_root",
@@ -10,6 +10,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/sasjs/server/releases/download/v$version/windows.zip"
+        "url": "https://gh-proxy.org/https://github.com/sasjs/server/releases/download/v$version/windows.zip"
     }
 }

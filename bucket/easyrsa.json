@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenVPN/easy-rsa/releases/download/v3.2.7/EasyRSA-3.2.7-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenVPN/easy-rsa/releases/download/v3.2.7/EasyRSA-3.2.7-win64.zip",
             "hash": "2f20c7523fe37df91c578c35e7fe83301f3687792bb9bd1000d0e407ef70d368"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenVPN/easy-rsa/releases/download/v3.2.7/EasyRSA-3.2.7-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenVPN/easy-rsa/releases/download/v3.2.7/EasyRSA-3.2.7-win32.zip",
             "hash": "a050aca28bc4c240f897bdc56f5840c37f02bb308af37b3f624f7dce8f457c4b"
         }
     },
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenVPN/easy-rsa/releases/download/v$version/EasyRSA-$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/OpenVPN/easy-rsa/releases/download/v$version/EasyRSA-$version-win64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenVPN/easy-rsa/releases/download/v$version/EasyRSA-$version-win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/OpenVPN/easy-rsa/releases/download/v$version/EasyRSA-$version-win32.zip"
             }
         },
         "extract_dir": "EasyRSA-$version"

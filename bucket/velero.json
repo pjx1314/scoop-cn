@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-windows-amd64.tar.gz",
             "hash": "13a06e9b4772e2a3d7ba75df5f7190a9021c46d48d7ba057cf8df9db3bfad73f",
             "extract_dir": "velero-v1.18.4-windows-amd64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/velero-io/velero/releases/download/v$version/velero-v$version-windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/velero-io/velero/releases/download/v$version/velero-v$version-windows-amd64.tar.gz",
                 "extract_dir": "velero-v$version-windows-amd64"
             }
         },

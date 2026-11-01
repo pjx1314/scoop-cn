@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/xz-zone/Webpack_extract",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/xz-zone/Webpack_extract/archive/refs/heads/master.zip#/dl.zip1",
+    "url": "https://gh-proxy.org/https://github.com/xz-zone/Webpack_extract/archive/refs/heads/master.zip#/dl.zip1",
     "hash": "51706dfeb2b36ca43fdf4b6491c7196585da264d73ea68f7732c8554ce94f2b1",
     "pre_install": [
         "7z x \"$dir\\dl.zip1\" -o\"$dir\" -y",
@@ -21,6 +21,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/xz-zone/Webpack_extract/archive/refs/heads/master.zip#/dl.zip1"
+        "url": "https://gh-proxy.org/https://github.com/xz-zone/Webpack_extract/archive/refs/heads/master.zip#/dl.zip1"
     }
 }

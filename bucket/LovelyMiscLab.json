@@ -3,7 +3,7 @@
     "description": "面向取证的节点式可视化工作台，专为编码解密、隐写取证、图像分析、密码学而生",
     "homepage": "https://github.com/LovelyTeams/LovelyMiscLab",
     "license": "GPL-3.0",
-    "url": "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyMiscLab/releases/download/v0.3.2/LovelyMiscLab-0.3.2-windows-x64.exe#/LovelyMiscLab.exe",
+    "url": "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyMiscLab/releases/download/v0.3.2/LovelyMiscLab-0.3.2-windows-x64.exe#/LovelyMiscLab.exe",
     "hash": "da7993e8be05ba6466a7d8ede9c25b1d07642e0fde79c35b11ea6c57b48f3834",
     "bin": "LovelyMiscLab.exe",
     "shortcuts": [
@@ -14,7 +14,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/LovelyTeams/LovelyMiscLab/releases/download/v$version/LovelyMiscLab-$version-windows-x64.exe#/LovelyMiscLab.exe"
+        "url": "https://gh-proxy.org/https://github.com/LovelyTeams/LovelyMiscLab/releases/download/v$version/LovelyMiscLab-$version-windows-x64.exe#/LovelyMiscLab.exe"
     },
     "notes": [
         "【工具类型】: 取证工具",

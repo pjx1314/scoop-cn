@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-x64-CLI.zip",
+            "url": "https://gh-proxy.org/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-x64-CLI.zip",
             "hash": "cbf536a676997b10f2b5dd6e0a4dc2a8684ad9bb77d85b0d3a7e3226ad0385df"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-arm64-CLI.zip",
+            "url": "https://gh-proxy.org/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-arm64-CLI.zip",
             "hash": "458529e3924973da523d0f4def8bdfe415e6176275e9002d980096f97e219826"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-x64-CLI.zip"
+                "url": "https://gh-proxy.org/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-x64-CLI.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-arm64-CLI.zip"
+                "url": "https://gh-proxy.org/https://github.com/hihkm/DanmakuFactory/releases/download/dev/DanmakuFactory-dev-windows-arm64-CLI.zip"
             }
         }
     }

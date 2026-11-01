@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rkonfj/peerguard/releases/download/v0.12.0/pgcli-v0.12.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rkonfj/peerguard/releases/download/v0.12.0/pgcli-v0.12.0-windows-amd64.zip",
             "hash": "b99cb20f7017cfe53fc9eb81587b5b2dc1ee593dad11d90c23e9b4862fd85a50"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/rkonfj/peerguard/releases/download/v0.12.0/pgcli-v0.12.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rkonfj/peerguard/releases/download/v0.12.0/pgcli-v0.12.0-windows-arm64.zip",
             "hash": "faa4b4306580ebe102dff489e73dd86bf6f4e401994f7176d1a54f5508be5466"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rkonfj/peerguard/releases/download/v$version/pgcli-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rkonfj/peerguard/releases/download/v$version/pgcli-v$version-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/rkonfj/peerguard/releases/download/v$version/pgcli-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rkonfj/peerguard/releases/download/v$version/pgcli-v$version-windows-arm64.zip"
             }
         }
     }

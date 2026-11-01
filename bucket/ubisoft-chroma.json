@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ubisoft/Chroma/raw/c59a9ef9036a070bae98c93cc3258efe51e6d2dd/Releases/Chroma_setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/ubisoft/Chroma/raw/c59a9ef9036a070bae98c93cc3258efe51e6d2dd/Releases/Chroma_setup.exe",
             "hash": "c70b4b7767a1201a4963c4226006fcb576eb3050c95f73ce696789d8bda43ce8"
         }
     },

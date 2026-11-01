@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/deretame/Breeze/releases/download/v3.0.37/windows-installer-v3.0.37.exe",
+            "url": "https://gh-proxy.org/https://github.com/deretame/Breeze/releases/download/v3.0.37/windows-installer-v3.0.37.exe",
             "hash": "22c28005c5f2eacad9736302fb87b76cbbf57a085c04a11f703cd57123d1ef8a"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/deretame/Breeze/releases/download/v$version/windows-installer-v$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/deretame/Breeze/releases/download/v$version/windows-installer-v$version.exe"
             }
         }
     }

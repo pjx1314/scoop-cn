@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cubiix3/Kova-File-Manager/releases/download/v0.2.3/Kova-0.2.3-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cubiix3/Kova-File-Manager/releases/download/v0.2.3/Kova-0.2.3-x64.zip",
             "hash": "fe345df9fa1deb95622f9a0f5eaa0fd02b4014040b82b1a67678379c5fc407b9"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cubiix3/Kova-File-Manager/releases/download/v$version/Kova-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cubiix3/Kova-File-Manager/releases/download/v$version/Kova-$version-x64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vchain-us/immudb/releases/download/v1.11.2/immuclient-v1.11.2-windows-amd64.exe#/immuclient.exe",
+            "url": "https://gh-proxy.org/https://github.com/vchain-us/immudb/releases/download/v1.11.2/immuclient-v1.11.2-windows-amd64.exe#/immuclient.exe",
             "hash": "849d92293f378af214d177f62f6061a0f36c73c85ab3a1c2c2f8729493e01ca1"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vchain-us/immudb/releases/download/v$version/immuclient-v$version-windows-amd64.exe#/immuclient.exe"
+                "url": "https://gh-proxy.org/https://github.com/vchain-us/immudb/releases/download/v$version/immuclient-v$version-windows-amd64.exe#/immuclient.exe"
             }
         }
     }

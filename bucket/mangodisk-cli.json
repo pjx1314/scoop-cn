@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/harry0703/MangoDisk/releases/download/v1.2.2/MangoDisk-1.2.2-windows-cli.exe#/MangoDiskcli.exe",
+            "url": "https://gh-proxy.org/https://github.com/harry0703/MangoDisk/releases/download/v1.2.2/MangoDisk-1.2.2-windows-cli.exe#/MangoDiskcli.exe",
             "hash": "b2e35186429d09d8e28aa6229ebe00e0657ec3d338b009c3bdbdd89a314a6395"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/harry0703/MangoDisk/releases/download/v$version/MangoDisk-$version-windows-cli.exe#/MangoDiskcli.exe"
+                "url": "https://gh-proxy.org/https://github.com/harry0703/MangoDisk/releases/download/v$version/MangoDisk-$version-windows-cli.exe#/MangoDiskcli.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/zerx-lab/zap/releases/download/v2026.07.09.1/ZapSetup.exe",
+            "url": "https://gh-proxy.org/https://github.com/zerx-lab/zap/releases/download/v2026.07.09.1/ZapSetup.exe",
             "hash": "04989e6b795344018861a1e6d06780f786b4dade6bef9fa6eaaeab1287a7c212"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/zerx-lab/zap/releases/download/v$version/ZapSetup.exe"
+                "url": "https://gh-proxy.org/https://github.com/zerx-lab/zap/releases/download/v$version/ZapSetup.exe"
             }
         }
     }

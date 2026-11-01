@@ -5,7 +5,7 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hfiref0x/WinObjEx64/releases/download/v2.1.1/WinObjEx64_2.1.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/hfiref0x/WinObjEx64/releases/download/v2.1.1/WinObjEx64_2.1.1.zip",
             "hash": "b78199e9a0031566aefa2b94b3b4119566d94e443dabb1d252de7602bbff9ffc"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hfiref0x/WinObjEx64/releases/download/v$version/WinObjEx64_$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/hfiref0x/WinObjEx64/releases/download/v$version/WinObjEx64_$version.zip"
             }
         }
     }

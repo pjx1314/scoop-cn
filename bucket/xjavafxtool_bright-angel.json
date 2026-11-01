@@ -12,11 +12,11 @@
         "【适用场景】: 开发调试、代码编写、日常工具",
         "【技术特点】: JavaFx开发，图形化界面，集成多种实用工具"
     ],
-    "url": "https://gh-proxy.com/https://github.com/864381832/xJavaFxTool/releases/download/v1.0.1/xJavaFxTool-1.0.1-windows-x64.exe",
+    "url": "https://gh-proxy.org/https://github.com/864381832/xJavaFxTool/releases/download/v1.0.1/xJavaFxTool-1.0.1-windows-x64.exe",
     "hash": "6456f77d9d8b266f461be197a3e24564f4a9903f09ce7f60bee06461e95e5976",
     "persist": "logs",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/864381832/xJavaFxTool/releases/download/v$version/xJavaFxTool-$version-windows-x64.exe"
+        "url": "https://gh-proxy.org/https://github.com/864381832/xJavaFxTool/releases/download/v$version/xJavaFxTool-$version-windows-x64.exe"
     }
 }

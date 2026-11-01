@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/netcaty/SpaceTrans/releases/download/v0.5.1/SpaceTrans-Tray-v0.5.1-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/netcaty/SpaceTrans/releases/download/v0.5.1/SpaceTrans-Tray-v0.5.1-win-x64.zip",
             "hash": "f804d3d0be892dca5d3019f01b8145ae837a3e97cc50c4b61006606949d3bb2c"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/netcaty/SpaceTrans/releases/download/v$version/SpaceTrans-Tray-v$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/netcaty/SpaceTrans/releases/download/v$version/SpaceTrans-Tray-v$version-win-x64.zip"
             }
         }
     }

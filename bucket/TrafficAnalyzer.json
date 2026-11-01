@@ -3,7 +3,7 @@
     "description": "流量分析工具 - 面向安全分析、应急响应和流量排查的 Windows 桌面工具",
     "homepage": "https://github.com/RynezzZ/TrafficAnalyzer",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/RynezzZ/TrafficAnalyzer/releases/download/1.1.8/TrafficAnalyzer1.1.8.zip#/TrafficAnalyzer.zip",
+    "url": "https://gh-proxy.org/https://github.com/RynezzZ/TrafficAnalyzer/releases/download/1.1.8/TrafficAnalyzer1.1.8.zip#/TrafficAnalyzer.zip",
     "hash": "e8f2059b944cb2d23facbaf87ad0331bcf2bae66c122b143d4e75b80c294e454",
     "shortcuts": [
         [
@@ -13,7 +13,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/RynezzZ/TrafficAnalyzer/releases/download/$version/TrafficAnalyzer$version.zip#/TrafficAnalyzer.zip"
+        "url": "https://gh-proxy.org/https://github.com/RynezzZ/TrafficAnalyzer/releases/download/$version/TrafficAnalyzer$version.zip#/TrafficAnalyzer.zip"
     },
     "notes": [
         "【工具类型】: 安全测试/流量分析",

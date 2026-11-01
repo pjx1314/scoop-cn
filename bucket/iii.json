@@ -11,15 +11,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/iii-hq/iii/releases/download/iii/v0.25.0/iii-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/iii-hq/iii/releases/download/iii/v0.25.0/iii-x86_64-pc-windows-msvc.zip",
             "hash": "b80ea5c3408879380b6ce95f7b2855ce161d68642aeec8f7b54f104794cbb322"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/iii-hq/iii/releases/download/iii/v0.25.0/iii-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/iii-hq/iii/releases/download/iii/v0.25.0/iii-i686-pc-windows-msvc.zip",
             "hash": "fde2344bd922ee30fb55124a5829fc15fbcb114168de392c04faca1c79280a92"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/iii-hq/iii/releases/download/iii/v0.25.0/iii-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/iii-hq/iii/releases/download/iii/v0.25.0/iii-aarch64-pc-windows-msvc.zip",
             "hash": "2b1e222b90ee18ed143186e8b307d8ad2076f44ea00fa7a7d071bd3c87cde002"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/iii-hq/iii/releases/download/iii/v$version/iii-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/iii-hq/iii/releases/download/iii/v$version/iii-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/iii-hq/iii/releases/download/iii/v$version/iii-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/iii-hq/iii/releases/download/iii/v$version/iii-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/iii-hq/iii/releases/download/iii/v$version/iii-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/iii-hq/iii/releases/download/iii/v$version/iii-aarch64-pc-windows-msvc.zip"
             }
         }
     }

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/miniscruff/changie/releases/download/v1.26.0/changie_1.26.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/miniscruff/changie/releases/download/v1.26.0/changie_1.26.0_windows_amd64.zip",
             "hash": "86b1e2851d78be2b52b04c8129442d4fcc8b29edd839bcc893fe66486d72ae72"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/miniscruff/changie/releases/download/v1.26.0/changie_1.26.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/miniscruff/changie/releases/download/v1.26.0/changie_1.26.0_windows_386.zip",
             "hash": "13e3ff053d16bde50ab884d3dc2ea4a8b7ba745b6a3e3513fbd30a1ca7bcfb69"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/miniscruff/changie/releases/download/v1.26.0/changie_1.26.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/miniscruff/changie/releases/download/v1.26.0/changie_1.26.0_windows_arm64.zip",
             "hash": "c908e6afa5e355eef571c402a365735846445583d7f56a46d213104e60139d81"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/miniscruff/changie/releases/download/v$version/changie_$version_windows_arm64.zip"
             }
         },
         "hash": {

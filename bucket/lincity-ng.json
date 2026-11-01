@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only|CC-BY-SA-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/lincity-ng/lincity-ng/releases/download/lincity-ng-2.15.0/lincity-ng-2.15.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lincity-ng/lincity-ng/releases/download/lincity-ng-2.15.0/lincity-ng-2.15.0-win64.zip",
             "hash": "e77e6850d181e4324f4a0866aa8540dc7e1fbe07ab9f6b3364f107a032eb659d"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/lincity-ng/lincity-ng/releases/download/lincity-ng-$version/lincity-ng-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/lincity-ng/lincity-ng/releases/download/lincity-ng-$version/lincity-ng-$version-win64.zip",
                 "extract_dir": "lincity-ng-$version-win64"
             }
         },

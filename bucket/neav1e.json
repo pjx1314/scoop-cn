@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Alkl58/NotEnoughAV1Encodes/releases/download/v2.1.7/neav1e-portable-2.1.7.7z",
+            "url": "https://gh-proxy.org/https://github.com/Alkl58/NotEnoughAV1Encodes/releases/download/v2.1.7/neav1e-portable-2.1.7.7z",
             "hash": "671e969c8256b1ca720c179b17e9298900f83030a83e80f55f0f66ff87cdff19"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Alkl58/NotEnoughAV1Encodes/releases/download/v$version/neav1e-portable-$version.7z"
+                "url": "https://gh-proxy.org/https://github.com/Alkl58/NotEnoughAV1Encodes/releases/download/v$version/neav1e-portable-$version.7z"
             }
         }
     }

@@ -4,11 +4,11 @@
     "homepage": "https://github.com/TabbyML/tabby",
     "license": {
         "identifier": "Apache-2.0",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TabbyML/tabby/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/TabbyML/tabby/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TabbyML/tabby/releases/download/v0.32.0/tabby_x86_64-windows-msvc-vulkan.zip",
+            "url": "https://gh-proxy.org/https://github.com/TabbyML/tabby/releases/download/v0.32.0/tabby_x86_64-windows-msvc-vulkan.zip",
             "extract_dir": "tabby_x86_64-windows-msvc-vulkan",
             "hash": "2395d582418a45a6c607c4f47acfa42ca7df6dc16d2932a9ce507e2c77f4cccb"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TabbyML/tabby/releases/download/v$version/tabby_x86_64-windows-msvc-vulkan.zip"
+                "url": "https://gh-proxy.org/https://github.com/TabbyML/tabby/releases/download/v$version/tabby_x86_64-windows-msvc-vulkan.zip"
             }
         }
     }

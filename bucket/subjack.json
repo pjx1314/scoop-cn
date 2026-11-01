@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/haccer/subjack/releases/download/v3.1.0/subjack-windows-amd64.exe#/subjack.exe",
+            "url": "https://gh-proxy.org/https://github.com/haccer/subjack/releases/download/v3.1.0/subjack-windows-amd64.exe#/subjack.exe",
             "hash": "c53cd7de71f0fa3f5652fe9573828819224b507a73ff825264c8b9a9df63c1a7"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/haccer/subjack/releases/download/v$version/subjack-windows-amd64.exe#/subjack.exe"
+                "url": "https://gh-proxy.org/https://github.com/haccer/subjack/releases/download/v$version/subjack-windows-amd64.exe#/subjack.exe"
             }
         }
     }

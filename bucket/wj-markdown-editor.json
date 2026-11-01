@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/nlbwqmz/wj-markdown-editor/releases/download/3.0.1/wj-markdown-editor-win32-x64-3.0.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/nlbwqmz/wj-markdown-editor/releases/download/3.0.1/wj-markdown-editor-win32-x64-3.0.1.zip",
             "hash": "c4752afc70217c7b0c15f03c1f46bdc6657ea8a858563faf6e59e43e68e1d668"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/nlbwqmz/wj-markdown-editor/releases/download/$version/wj-markdown-editor-win32-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/nlbwqmz/wj-markdown-editor/releases/download/$version/wj-markdown-editor-win32-x64-$version.zip"
             }
         }
     }

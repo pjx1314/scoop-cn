@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-opencl-adreno-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/b5454/whisper-bin-win-opencl-adreno-arm64.zip",
             "hash": "915b48289f362c5f4cf33f3ffdd30f1f43de68f6103a3088858e346635719007"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-bin-win-opencl-adreno-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/whisper.cpp/releases/download/$matchBuild/whisper-bin-win-opencl-adreno-arm64.zip"
             }
         }
     }

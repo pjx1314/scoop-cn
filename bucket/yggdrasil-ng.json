@@ -5,12 +5,12 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Revertron/Yggdrasil-ng/releases/download/v0.3.2/yggdrasil-ng-0.3.2-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/Revertron/Yggdrasil-ng/releases/download/v0.3.2/yggdrasil-ng-0.3.2-x64.msi",
             "extract_dir": "PFiles64\\Yggdrasil-ng",
             "hash": "8a56c652edaa55647387fe11948862a64afc7eb48f87e67a2303a9febc7f3d04"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Revertron/Yggdrasil-ng/releases/download/v0.3.2/yggdrasil-ng-0.3.2-arm64.msi",
+            "url": "https://gh-proxy.org/https://github.com/Revertron/Yggdrasil-ng/releases/download/v0.3.2/yggdrasil-ng-0.3.2-arm64.msi",
             "extract_dir": "PFiles64\\Yggdrasil-ng",
             "hash": "631c9df6ba13f62a89668795e598db3c27ae5d4cdd0dfba6aff212af5b2635fb"
         }
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Revertron/Yggdrasil-ng/releases/download/v$version/yggdrasil-ng-$version-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/Revertron/Yggdrasil-ng/releases/download/v$version/yggdrasil-ng-$version-x64.msi"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Revertron/Yggdrasil-ng/releases/download/v$version/yggdrasil-ng-$version-arm64.msi"
+                "url": "https://gh-proxy.org/https://github.com/Revertron/Yggdrasil-ng/releases/download/v$version/yggdrasil-ng-$version-arm64.msi"
             }
         }
     }

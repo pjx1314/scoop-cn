@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/wassette/releases/download/v0.8.1/wassette_0.8.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/wassette/releases/download/v0.8.1/wassette_0.8.1_windows_amd64.zip",
             "hash": "c8061c97a5199a8ee113ac858732aed73d349497a3ce7aadc8e402679d1f3899"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/microsoft/wassette/releases/download/v0.8.1/wassette_0.8.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/wassette/releases/download/v0.8.1/wassette_0.8.1_windows_arm64.zip",
             "hash": "f8b3680a760cecb1fbe56dd9612ef6b03d72235406bd843b2a710bcbd50d5845"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/wassette/releases/download/v$version/wassette_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/wassette/releases/download/v$version/wassette_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/microsoft/wassette/releases/download/v$version/wassette_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/wassette/releases/download/v$version/wassette_$version_windows_arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vladimiry/ElectronMail/releases/download/v5.3.10/electron-mail-5.3.10-windows-x64-nsis-installer.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/vladimiry/ElectronMail/releases/download/v5.3.10/electron-mail-5.3.10-windows-x64-nsis-installer.exe#/dl.7z",
             "hash": "1b1ab30a86d21335d4e67cf807f0b808c1be2aa633d4dbaca1f9402de62ddfcb",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         }
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vladimiry/ElectronMail/releases/download/v$version/electron-mail-$version-windows-x64-nsis-installer.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/vladimiry/ElectronMail/releases/download/v$version/electron-mail-$version-windows-x64-nsis-installer.exe#/dl.7z",
                 "hash": {
                     "url": "https://github.com/vladimiry/ElectronMail/releases/tag/v$version",
                     "regex": "$sha256\\s+$basename"

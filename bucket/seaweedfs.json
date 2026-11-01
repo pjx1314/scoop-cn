@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/seaweedfs/seaweedfs/releases/download/4.51/windows_amd64_large_disk.zip",
+            "url": "https://gh-proxy.org/https://github.com/seaweedfs/seaweedfs/releases/download/4.51/windows_amd64_large_disk.zip",
             "hash": "md5:d5d17ed714c46b885f0506b7ae486892"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/seaweedfs/seaweedfs/releases/download/$version/windows_amd64_large_disk.zip"
+                "url": "https://gh-proxy.org/https://github.com/seaweedfs/seaweedfs/releases/download/$version/windows_amd64_large_disk.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/containerd/nerdctl/releases/download/v2.4.2/nerdctl-2.4.2-windows-amd64.tar.gz",
             "hash": "03891a599848e819dee0f79f1adb6bd3022df737980df7ea5ffe0649fec9cd80"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/containerd/nerdctl/releases/download/v$version/nerdctl-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/containerd/nerdctl/releases/download/v$version/nerdctl-$version-windows-amd64.tar.gz"
             }
         },
         "hash": {

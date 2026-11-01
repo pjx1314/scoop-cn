@@ -11,7 +11,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/sensepost/gowitness/releases/download/3.2.2/gowitness-3.2.2-windows-amd64.exe#/gowitness.exe",
+            "url": "https://gh-proxy.org/https://github.com/sensepost/gowitness/releases/download/3.2.2/gowitness-3.2.2-windows-amd64.exe#/gowitness.exe",
             "hash": "081edf246f12964b9e449698a1746642f61244710b24ca5d0df9edf1e1102d5b"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/sensepost/gowitness/releases/download/$version/gowitness-$version-windows-amd64.exe#/gowitness.exe"
+                "url": "https://gh-proxy.org/https://github.com/sensepost/gowitness/releases/download/$version/gowitness-$version-windows-amd64.exe#/gowitness.exe"
             }
         }
     }

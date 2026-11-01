@@ -9,11 +9,11 @@
         "【适用场景】: 域名资产探测、渗透测试、安全评估",
         "【技术特点】: 基于Go语言开发，无状态DNS查询，内存占用低，跨平台支持"
     ],
-    "url": "https://gh-proxy.com/https://github.com/boy-hack/ksubdomain/releases/download/v2.4.0/KSubdomain-v2.4.0-windows-amd64.zip",
+    "url": "https://gh-proxy.org/https://github.com/boy-hack/ksubdomain/releases/download/v2.4.0/KSubdomain-v2.4.0-windows-amd64.zip",
     "hash": "",
     "bin": "ksubdomain.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/boy-hack/ksubdomain/releases/download/v$version/KSubdomain-v$version-windows-amd64.zip"
+        "url": "https://gh-proxy.org/https://github.com/boy-hack/ksubdomain/releases/download/v$version/KSubdomain-v$version-windows-amd64.zip"
     }
 }

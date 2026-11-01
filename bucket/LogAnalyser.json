@@ -5,7 +5,7 @@
     "license": "UNKNOWN",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/abc123info/LogAnalyser/releases/download/v$version/logAnalyserV$version.jar#/logAnalyser.jar"
+        "url": "https://gh-proxy.org/https://github.com/abc123info/LogAnalyser/releases/download/v$version/logAnalyserV$version.jar#/logAnalyser.jar"
     },
     "shortcuts": [
         [
@@ -16,7 +16,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/abc123info/LogAnalyser/releases/download/v0.43/logAnalyserV0.43.jar#/logAnalyser.jar",
+    "url": "https://gh-proxy.org/https://github.com/abc123info/LogAnalyser/releases/download/v0.43/logAnalyserV0.43.jar#/logAnalyser.jar",
     "pre_install": [
         "Set-Content \"$dir\\logAnalyser.bat\" '@pushd %~dp0",
         "@call oraclejre8",

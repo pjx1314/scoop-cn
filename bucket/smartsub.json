@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/buxuku/SmartSub#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/buxuku/SmartSub/releases/download/v3.12.1/SmartSub_Windows_3.12.1_x64.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/buxuku/SmartSub/releases/download/v3.12.1/SmartSub_Windows_3.12.1_x64.exe#/dl.7z",
     "hash": "sha512:212772d3eae6005f06864a3e0f8f227f19d9402c21aa66537ebaf764018c62519910da54dcad97d5ee98b259b41378cbe4cbcb92a3cbb12e1c7ffdf61c9cea53",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -39,7 +39,7 @@
         "regex": "v([\\w.-]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/buxuku/SmartSub/releases/download/v$version/SmartSub_Windows_$version_x64.exe#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/buxuku/SmartSub/releases/download/v$version/SmartSub_Windows_$version_x64.exe#/dl.7z",
         "hash": {
             "url": "$baseurl/latest.yml",
             "regex": "sha512:\\s+$base64"

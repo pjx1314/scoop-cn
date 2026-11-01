@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/hwameistor/hwameistor/releases/download/v1.1.2/hwameictl-windows-amd64.exe#/hwameictl.exe",
+            "url": "https://gh-proxy.org/https://github.com/hwameistor/hwameistor/releases/download/v1.1.2/hwameictl-windows-amd64.exe#/hwameictl.exe",
             "hash": "c22aa73d197a5d8abd2279ed697e377c117089cbdc7ea034ada4f0e316b0694f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/hwameistor/hwameistor/releases/download/v1.1.2/hwameictl-windows-arm64.exe#/hwameictl.exe",
+            "url": "https://gh-proxy.org/https://github.com/hwameistor/hwameistor/releases/download/v1.1.2/hwameictl-windows-arm64.exe#/hwameictl.exe",
             "hash": "971b93c81bd4755c4b2da2b9f5964aaea24de17619231f475e5dc55384b29bcf"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/hwameistor/hwameistor/releases/download/v$version/hwameictl-windows-amd64.exe#/hwameictl.exe"
+                "url": "https://gh-proxy.org/https://github.com/hwameistor/hwameistor/releases/download/v$version/hwameictl-windows-amd64.exe#/hwameictl.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/hwameistor/hwameistor/releases/download/v$version/hwameictl-windows-arm64.exe#/hwameictl.exe"
+                "url": "https://gh-proxy.org/https://github.com/hwameistor/hwameistor/releases/download/v$version/hwameictl-windows-arm64.exe#/hwameictl.exe"
             }
         }
     }

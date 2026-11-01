@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BishopFox/cloudfox/releases/download/v2.0.5/cloudfox-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/BishopFox/cloudfox/releases/download/v2.0.5/cloudfox-windows-amd64.zip",
             "hash": "6c325e0697e5ba85b2cd321ca0fadf4fc926e31e0abab1d35771938ee88cf6e6"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BishopFox/cloudfox/releases/download/v$version/cloudfox-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/BishopFox/cloudfox/releases/download/v$version/cloudfox-windows-amd64.zip"
             }
         }
     }

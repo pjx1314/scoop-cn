@@ -5,17 +5,17 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/TurboWarp/desktop/releases/download/v1.17.1/TurboWarp-Setup-1.17.1-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/TurboWarp/desktop/releases/download/v1.17.1/TurboWarp-Setup-1.17.1-x64.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
             "hash": "4b29a4babe131265397f5ddd38911e61be7826df950903416aa2c119a75fa2b3"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/TurboWarp/desktop/releases/download/v1.17.1/TurboWarp-Setup-1.17.1-ia32.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/TurboWarp/desktop/releases/download/v1.17.1/TurboWarp-Setup-1.17.1-ia32.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
             "hash": "460d706a35f8f51d309f73cdeee27b8faecd93dcbe3746247c71c03f13ce9355"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/TurboWarp/desktop/releases/download/v1.17.1/TurboWarp-Setup-1.17.1-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/TurboWarp/desktop/releases/download/v1.17.1/TurboWarp-Setup-1.17.1-arm64.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
             "hash": "ec8fc84422535422d16e20219a8997b1818a8c89397d8b9154af99c995324785"
         }
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/TurboWarp/desktop/releases/download/v$version/TurboWarp-Setup-$version-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/TurboWarp/desktop/releases/download/v$version/TurboWarp-Setup-$version-x64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/TurboWarp/desktop/releases/download/v$version/TurboWarp-Setup-$version-ia32.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/TurboWarp/desktop/releases/download/v$version/TurboWarp-Setup-$version-ia32.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/TurboWarp/desktop/releases/download/v$version/TurboWarp-Setup-$version-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/TurboWarp/desktop/releases/download/v$version/TurboWarp-Setup-$version-arm64.exe#/dl.7z"
             }
         }
     }

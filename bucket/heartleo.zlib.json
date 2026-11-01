@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/heartleo/zlib/releases/download/v0.0.12/zlib_0.0.12_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/heartleo/zlib/releases/download/v0.0.12/zlib_0.0.12_windows_x86_64.zip",
             "hash": "7060b06e0f591f6d93e7e9a27a77259061a0f57b75579fd499fcc4ae0cf9df50"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/heartleo/zlib/releases/download/v0.0.12/zlib_0.0.12_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/heartleo/zlib/releases/download/v0.0.12/zlib_0.0.12_windows_arm64.zip",
             "hash": "a9e56441ebfc8272d2d98be0c70a26a44892084af3a5b3834f7f59b9df531580"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/heartleo/zlib/releases/download/v$version/zlib_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/heartleo/zlib/releases/download/v$version/zlib_$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/heartleo/zlib/releases/download/v$version/zlib_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/heartleo/zlib/releases/download/v$version/zlib_$version_windows_arm64.zip"
             }
         },
         "hash": {

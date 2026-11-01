@@ -3,7 +3,7 @@
     "description": "Useful Google Dorks for WebSecurity and Bug Bounty.",
     "homepage": "https://github.com/Proviesec/google-dorks",
     "license": "Unkown",
-    "url": "https://gh-proxy.com/https://github.com/Proviesec/google-dorks/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/Proviesec/google-dorks/archive/refs/heads/main.zip",
     "hash": "49648c15c4a72fd1d2c1f5a26b0e33f9c114309986dec2fea325a4065f490d43",
     "extract_dir": "google-dorks-main",
     "checkver": {
@@ -12,7 +12,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Proviesec/google-dorks/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/Proviesec/google-dorks/archive/refs/heads/main.zip"
     },
     "notes": [
         "【工具类型】: 安全资料",

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/tursodatabase/turso/releases/download/v0.8.3/turso_cli-x86_64-pc-windows-msvc.zip",
             "hash": "ab97196b2c942bccdfb6d1a991f4fa001e4116e0c9ca079215edf06ce97489f6"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tursodatabase/turso/releases/download/v$version/turso_cli-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/tursodatabase/turso/releases/download/v$version/turso_cli-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

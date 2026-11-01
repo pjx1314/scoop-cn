@@ -6,7 +6,7 @@
 	"depends": "main/webcodex",
 	"architecture": {
 		"64bit": {
-			"url": "https://gh-proxy.com/https://github.com/yyjeqhc/webcodex/releases/download/v0.4.6/webcodex-desktop-v0.4.6-win32-x64-setup.exe#/dl.7z",
+			"url": "https://gh-proxy.org/https://github.com/yyjeqhc/webcodex/releases/download/v0.4.6/webcodex-desktop-v0.4.6-win32-x64-setup.exe#/dl.7z",
 			"hash": "ceb4ac6a0261b31cf366c59af2ad5b29b9fdcfbce50b660b02a2563499fec599"
 		}
 	},
@@ -52,7 +52,7 @@
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
-				"url": "https://gh-proxy.com/https://github.com/yyjeqhc/webcodex/releases/download/v$version/webcodex-desktop-v$version-win32-x64-setup.exe#/dl.7z",
+				"url": "https://gh-proxy.org/https://github.com/yyjeqhc/webcodex/releases/download/v$version/webcodex-desktop-v$version-win32-x64-setup.exe#/dl.7z",
 				"hash": "$matchDesktopHash"
 			}
 		}

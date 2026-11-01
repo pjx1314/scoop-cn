@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/jely2002/youtube-dl-gui/releases/download/app-v3.2.1/Open.Video.Downloader_3.2.1_x64-portable.zip",
             "hash": "194aa37c9d82ea55014f5ddef3f772349bc342202a0513e4d4f40752a0eaf09b"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jely2002/youtube-dl-gui/releases/download/app-v$version/Open.Video.Downloader_$version_x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/jely2002/youtube-dl-gui/releases/download/app-v$version/Open.Video.Downloader_$version_x64-portable.zip"
             }
         }
     }

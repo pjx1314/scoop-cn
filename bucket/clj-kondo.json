@@ -6,7 +6,7 @@
     "depends": "main/vcredist2022",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/clj-kondo/clj-kondo/releases/download/v2026.10.26/clj-kondo-2026.10.26-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/clj-kondo/clj-kondo/releases/download/v2026.10.26/clj-kondo-2026.10.26-windows-amd64.zip",
             "hash": "fc97b2f72bd3aba45461f47a578cccedcbd31b91ae4023a703818f359595bfb7"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/clj-kondo/clj-kondo/releases/download/v$version/clj-kondo-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/clj-kondo/clj-kondo/releases/download/v$version/clj-kondo-$version-windows-amd64.zip"
             }
         }
     }

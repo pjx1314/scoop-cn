@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Azure/data-api-builder/releases/download/v2.1.5/dab_net10.0_win-x64-2.1.5.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/data-api-builder/releases/download/v2.1.5/dab_net10.0_win-x64-2.1.5.zip",
             "hash": "3e462efa109b7c89d21468b5025d490545da65cb84155acbd300bfbb431ad4af"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Azure/data-api-builder/releases/download/v$version/dab_net10.0_win-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/data-api-builder/releases/download/v$version/dab_net10.0_win-x64-$version.zip"
             }
         }
     }

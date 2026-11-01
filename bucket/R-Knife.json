@@ -3,7 +3,7 @@
     "description": "R-Knife 综合渗透工具箱",
     "homepage": "https://github.com/qianxiao996/R-Knife",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/qianxiao996/R-Knife/releases/download/v1.2/R-Knife-v1.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/qianxiao996/R-Knife/releases/download/v1.2/R-Knife-v1.2.zip",
     "hash": "eef2e2e56a8c9895d8020e2c762f8097c005668f45bb815f3e5b604cdbc91de9",
     "pre_install": [
         "Set-Content \"$dir\\R-Knife.bat\" '@pushd %~dp0",
@@ -22,7 +22,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/qianxiao996/R-Knife/releases/download/v$version/R-Knife-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/qianxiao996/R-Knife/releases/download/v$version/R-Knife-v$version.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

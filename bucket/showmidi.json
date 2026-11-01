@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gbevin/ShowMIDI/releases/download/1.0.1/ShowMIDI-Windows-1.0.1.exe",
+            "url": "https://gh-proxy.org/https://github.com/gbevin/ShowMIDI/releases/download/1.0.1/ShowMIDI-Windows-1.0.1.exe",
             "hash": "069e5ce0dc395c8d53111daa12c0f34d1425e2f39fa24a0222c727da04c46828"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gbevin/ShowMIDI/releases/download/$version/ShowMIDI-Windows-$version.exe"
+                "url": "https://gh-proxy.org/https://github.com/gbevin/ShowMIDI/releases/download/$version/ShowMIDI-Windows-$version.exe"
             }
         }
     }

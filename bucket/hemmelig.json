@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/HemmeligOrg/Hemmelig.app/releases/download/cli-v1.2.0/hemmelig-windows-amd64.exe#/hemmelig.exe",
+            "url": "https://gh-proxy.org/https://github.com/HemmeligOrg/Hemmelig.app/releases/download/cli-v1.2.0/hemmelig-windows-amd64.exe#/hemmelig.exe",
             "hash": "52a4a8ea44d76d157e534d4e7b2a20ef6801f2a7af5995ad2394f39708f64591"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/HemmeligOrg/Hemmelig.app/releases/download/$matchTag/hemmelig-windows-amd64.exe#/hemmelig.exe"
+                "url": "https://gh-proxy.org/https://github.com/HemmeligOrg/Hemmelig.app/releases/download/$matchTag/hemmelig-windows-amd64.exe#/hemmelig.exe"
             }
         },
         "hash": {

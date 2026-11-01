@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pickle-prick/ink/releases/download/v0.1.0-alpha/ink_win_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pickle-prick/ink/releases/download/v0.1.0-alpha/ink_win_x64.zip",
             "hash": "4d5b1d0ecd2a7eabf410847cbbba64c11126c49b7fee291e3cd36578c52aa9ed"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pickle-prick/ink/releases/download/v$version/ink_win_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pickle-prick/ink/releases/download/v$version/ink_win_x64.zip"
             }
         }
     }

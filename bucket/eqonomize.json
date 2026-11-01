@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Eqonomize/Eqonomize/releases/download/v1.5.13/eqonomize-1.5.13-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Eqonomize/Eqonomize/releases/download/v1.5.13/eqonomize-1.5.13-x64.zip",
             "hash": "0fd03d05f1402751b8be374d4ca23192b3dd213935af900406af27373ca239f5"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Eqonomize/Eqonomize/releases/download/v$version/eqonomize-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Eqonomize/Eqonomize/releases/download/v$version/eqonomize-$version-x64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v2.1.4/CodexPlusPlus-2.1.4-windows-x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v2.1.4/CodexPlusPlus-2.1.4-windows-x64-setup.exe#/dl.7z",
             "hash": "a05fde331e3bbeb4ed04da4c72d244e251561a70c0a631a88436a472392721f7"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v$version/CodexPlusPlus-$version-windows-x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v$version/CodexPlusPlus-$version-windows-x64-setup.exe#/dl.7z"
             }
         }
     }

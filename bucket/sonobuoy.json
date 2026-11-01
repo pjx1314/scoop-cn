@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_amd64.tar.gz",
             "hash": "041500d35af9720cb8e0ec3584b32243e6555c1e7413caadf9ddb8c336354f63"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_386.tar.gz",
             "hash": "5da31db5ea05279377ab00ef26d9534aeeae671f920a65d80aff9acdd2705b40"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/sonobuoy/releases/download/v$version/sonobuoy_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/sonobuoy/releases/download/v$version/sonobuoy_$version_windows_amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/vmware-tanzu/sonobuoy/releases/download/v$version/sonobuoy_$version_windows_386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/sonobuoy/releases/download/v$version/sonobuoy_$version_windows_386.tar.gz"
             }
         },
         "hash": {

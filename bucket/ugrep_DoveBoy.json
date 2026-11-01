@@ -3,7 +3,7 @@
     "description": "A faster, user-friendly and compatible grep replacement",
     "homepage": "https://github.com/Genivia/ugrep",
     "license": "BSD-3-Clause",
-    "url": "https://gh-proxy.com/https://github.com/Genivia/ugrep/releases/download/v7.8.5/ugrep-windows-x64.zip",
+    "url": "https://gh-proxy.org/https://github.com/Genivia/ugrep/releases/download/v7.8.5/ugrep-windows-x64.zip",
     "hash": "4887e305ff06e5510ee4e3c7da8b7928b59042b379717027aea1aec19b28204f",
     "bin": [
         "ug.exe",
@@ -11,6 +11,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Genivia/ugrep/releases/download/v$version/ugrep-windows-x64.zip"
+        "url": "https://gh-proxy.org/https://github.com/Genivia/ugrep/releases/download/v$version/ugrep-windows-x64.zip"
     }
 }

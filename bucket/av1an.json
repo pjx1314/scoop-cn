@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/rust-av/Av1an/releases/download/latest/av1an.exe",
+            "url": "https://gh-proxy.org/https://github.com/rust-av/Av1an/releases/download/latest/av1an.exe",
             "hash": "e79e345b5e7b5f3f0488284875f0a3d0110ccd53a9bf2fd2aac34433d47308d6"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rust-av/Av1an/releases/download/latest/av1an.exe"
+                "url": "https://gh-proxy.org/https://github.com/rust-av/Av1an/releases/download/latest/av1an.exe"
             }
         }
     }

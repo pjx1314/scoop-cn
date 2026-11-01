@@ -2,7 +2,7 @@
     "version": "1.22.0.0",
     "description": "DebugView++, collects, views, filters your application logs, and highlights information that is important to you!",
     "homepage": "https://github.com/CobaltFusion/DebugViewPP",
-    "url": "https://gh-proxy.com/https://github.com/CobaltFusion/DebugViewPP/releases/download/v1.22.0.0/Debugviewpp.exe",
+    "url": "https://gh-proxy.org/https://github.com/CobaltFusion/DebugViewPP/releases/download/v1.22.0.0/Debugviewpp.exe",
     "hash": "1cc172e16defc61c304f81072a0d7ff11b9db970a559cb8df74692e92e6b09ec",
     "shortcuts": [
         [
@@ -12,6 +12,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/CobaltFusion/DebugViewPP/releases/download/v$version/Debugviewpp.exe"
+        "url": "https://gh-proxy.org/https://github.com/CobaltFusion/DebugViewPP/releases/download/v$version/Debugviewpp.exe"
     }
 }

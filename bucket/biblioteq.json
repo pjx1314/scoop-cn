@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/textbrowser/biblioteq/releases/download/2026.09.15/BiblioteQ-2026.09.15.zip",
+            "url": "https://gh-proxy.org/https://github.com/textbrowser/biblioteq/releases/download/2026.09.15/BiblioteQ-2026.09.15.zip",
             "hash": "f59ff618d29cb2bcb2c91749e56bca06c9743376d9f6dc2479634d0ba730a3c8"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/textbrowser/biblioteq/releases/download/$version/BiblioteQ-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/textbrowser/biblioteq/releases/download/$version/BiblioteQ-$version.zip"
             }
         }
     }

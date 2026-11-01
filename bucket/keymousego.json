@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/taojy123/KeymouseGo/releases/download/v5.2.1/KeymouseGo_v5_2_1-win.exe#/KeymouseGo.exe",
+            "url": "https://gh-proxy.org/https://github.com/taojy123/KeymouseGo/releases/download/v5.2.1/KeymouseGo_v5_2_1-win.exe#/KeymouseGo.exe",
             "hash": "cc11d0ed3aae4a8ad5782386e4746cc7ce611535bc7e5b98b75eacd4b2e88f43"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/taojy123/KeymouseGo/releases/download/v$version/KeymouseGo_v$underscoreVersion-win.exe#/KeymouseGo.exe"
+                "url": "https://gh-proxy.org/https://github.com/taojy123/KeymouseGo/releases/download/v$version/KeymouseGo_v$underscoreVersion-win.exe#/KeymouseGo.exe"
             }
         }
     }

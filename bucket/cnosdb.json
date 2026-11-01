@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cnosdb/cnosdb/releases/download/v2.5.0/cnosdb-community-2.5.0-windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cnosdb/cnosdb/releases/download/v2.5.0/cnosdb-community-2.5.0-windows_x86_64.zip",
             "hash": "028c8f8003c64dedc2a8871d9bf6411a27f710bc3c7524409673898eb291ffaa"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cnosdb/cnosdb/releases/download/v$version/cnosdb-community-$version-windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cnosdb/cnosdb/releases/download/v$version/cnosdb-community-$version-windows_x86_64.zip"
             }
         }
     }

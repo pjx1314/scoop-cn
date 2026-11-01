@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenKH/OpenKh/releases/download/release2-1806/openkh.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenKH/OpenKh/releases/download/release2-1806/openkh.zip",
             "hash": "ae4c8b69a394d8fd8abc9cbd00c70fe8bdfcf333fd35073851b87af410cb8d64"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/OpenKH/OpenKh/releases/download/release$version/openkh.zip"
+                "url": "https://gh-proxy.org/https://github.com/OpenKH/OpenKh/releases/download/release$version/openkh.zip"
             }
         }
     }

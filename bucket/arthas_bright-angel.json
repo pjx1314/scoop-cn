@@ -6,7 +6,7 @@
     "suggest": {
         "JRE": "sec/oraclejre8"
     },
-    "url": "https://gh-proxy.com/https://github.com/alibaba/arthas/releases/download/arthas-all-4.3.5/arthas-bin.zip",
+    "url": "https://gh-proxy.org/https://github.com/alibaba/arthas/releases/download/arthas-all-4.3.5/arthas-bin.zip",
     "hash": "f4ea8e4ab4bb20a9925c21780bfb91331e73968eae881fd89b855cccaad21f1c",
     "pre_install": [
         "Set-Content \"$dir\\arthas-boot.bat\" '@pushd %~dp0",
@@ -21,7 +21,7 @@
         "regex": "arthas-all-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/alibaba/arthas/releases/download/arthas-all-$version/arthas-bin.zip"
+        "url": "https://gh-proxy.org/https://github.com/alibaba/arthas/releases/download/arthas-all-$version/arthas-bin.zip"
     },
     "notes": [
         "【工具类型】: 开发工具",

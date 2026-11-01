@@ -6,7 +6,7 @@
     "suggest": {
         "Clink": "clink"
     },
-    "url": "https://gh-proxy.com/https://github.com/chrisant996/clink-gizmos/archive/a7e90cc03ae783e69e8f9fd1c87062f97485e1b5.zip",
+    "url": "https://gh-proxy.org/https://github.com/chrisant996/clink-gizmos/archive/a7e90cc03ae783e69e8f9fd1c87062f97485e1b5.zip",
     "hash": "881820792ee23739bd1a4035332c310b733e46914df97e5851614a266a0c8df4",
     "extract_dir": "clink-gizmos-a7e90cc03ae783e69e8f9fd1c87062f97485e1b5",
     "installer": {
@@ -36,7 +36,7 @@
         "regex": "\"sha\": \"([a-f0-9]{40})\""
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/chrisant996/clink-gizmos/archive/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/chrisant996/clink-gizmos/archive/$version.zip",
         "extract_dir": "clink-gizmos-$version"
     }
 }

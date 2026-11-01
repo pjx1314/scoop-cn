@@ -10,11 +10,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v0.1.2569/magpie-windows-amd64.exe#/magpie.exe",
+            "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v0.1.2569/magpie-windows-amd64.exe#/magpie.exe",
             "hash": "d7d86138a4285d1c26fbedb6a01e1c122e2b3f7f9598a4c48b4ceee484b36613"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v0.1.2569/magpie-windows-arm64.exe#/magpie.exe",
+            "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v0.1.2569/magpie-windows-arm64.exe#/magpie.exe",
             "hash": "08a084c11ddc2a9fff2c34e033d6dbad4f695ec5080bb950c946a39c81d2a8c2"
         }
     },
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-windows-amd64.exe#/magpie.exe"
+                "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-windows-amd64.exe#/magpie.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-windows-arm64.exe#/magpie.exe"
+                "url": "https://gh-proxy.org/https://github.com/yetone/magpie-releases/releases/download/v$version/magpie-windows-arm64.exe#/magpie.exe"
             }
         },
         "hash": {

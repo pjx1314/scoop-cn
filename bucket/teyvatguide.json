@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/BTMuli/TeyvatGuide/releases/download/v0.12.5/TeyvatGuide_0.12.5_x64_zh-CN.msi",
+            "url": "https://gh-proxy.org/https://github.com/BTMuli/TeyvatGuide/releases/download/v0.12.5/TeyvatGuide_0.12.5_x64_zh-CN.msi",
             "hash": "9adca3d6ddcdf3a333e96f5808b3dcb9893837e40480164fab313a8b2a964340"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/BTMuli/TeyvatGuide/releases/download/v$version/TeyvatGuide_$version_x64_zh-CN.msi"
+                "url": "https://gh-proxy.org/https://github.com/BTMuli/TeyvatGuide/releases/download/v$version/TeyvatGuide_$version_x64_zh-CN.msi"
             }
         }
     }

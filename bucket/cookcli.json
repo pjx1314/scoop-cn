@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cooklang/cookcli/releases/download/v0.39.0/cook-0.39.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cooklang/cookcli/releases/download/v0.39.0/cook-0.39.0-windows-x86_64.zip",
             "hash": "d813e969724e6586922c20fd54b2de9c348212e9873943f5d3a15563192ff802"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/cooklang/cookcli/releases/download/v0.39.0/cook-0.39.0-windows-i686.zip",
+            "url": "https://gh-proxy.org/https://github.com/cooklang/cookcli/releases/download/v0.39.0/cook-0.39.0-windows-i686.zip",
             "hash": "ea244f1bad5d2c46a98416a81f2d4faab1d0a09896e309d12dabf19b462a1f14"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/cooklang/cookcli/releases/download/v0.39.0/cook-0.39.0-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cooklang/cookcli/releases/download/v0.39.0/cook-0.39.0-windows-aarch64.zip",
             "hash": "df3f1cd10420e54a977e30b9282c7750e21a6950b6df5144d6e3a383a359fe3a"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cooklang/cookcli/releases/download/v$version/cook-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cooklang/cookcli/releases/download/v$version/cook-$version-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/cooklang/cookcli/releases/download/v$version/cook-$version-windows-i686.zip"
+                "url": "https://gh-proxy.org/https://github.com/cooklang/cookcli/releases/download/v$version/cook-$version-windows-i686.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/cooklang/cookcli/releases/download/v$version/cook-$version-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cooklang/cookcli/releases/download/v$version/cook-$version-windows-aarch64.zip"
             }
         },
         "hash": {

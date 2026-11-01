@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Quad4-Software/Ren-Browser/releases/download/v0.5.1/renbrowser-windows-amd64.exe#/renbrowser.exe",
+            "url": "https://gh-proxy.org/https://github.com/Quad4-Software/Ren-Browser/releases/download/v0.5.1/renbrowser-windows-amd64.exe#/renbrowser.exe",
             "hash": "897a3fb77aeaf2db8a43d2acfc416df665f34513b4ff450cb57d67945563e92b"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Quad4-Software/Ren-Browser/releases/download/v$version/renbrowser-windows-amd64.exe#/renbrowser.exe"
+                "url": "https://gh-proxy.org/https://github.com/Quad4-Software/Ren-Browser/releases/download/v$version/renbrowser-windows-amd64.exe#/renbrowser.exe"
             }
         }
     }

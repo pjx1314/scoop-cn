@@ -4,14 +4,14 @@
     "homepage": "https://github.com/moonD4rk/HackBrowserData",
     "license": {
         "identifier": "MIT license",
-        "url": "https://gh-proxy.com/https://github.com/moonD4rk/HackBrowserData/raw/master/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/moonD4rk/HackBrowserData/raw/master/LICENSE"
     },
-    "url": "https://gh-proxy.com/https://github.com/moonD4rk/HackBrowserData/releases/download/v1.1.0/hack-browser-data-windows-64bit.zip",
+    "url": "https://gh-proxy.org/https://github.com/moonD4rk/HackBrowserData/releases/download/v1.1.0/hack-browser-data-windows-64bit.zip",
     "hash": "7c6ae319b2bb380027f93e99c88035478114de24d8eec04f88562a98a39aabad",
     "persist": "results",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/moonD4rk/HackBrowserData/releases/download/v$version/hack-browser-data-windows-64bit.zip"
+        "url": "https://gh-proxy.org/https://github.com/moonD4rk/HackBrowserData/releases/download/v$version/hack-browser-data-windows-64bit.zip"
     },
     "notes": [
         "【工具类型】: 安全工具",

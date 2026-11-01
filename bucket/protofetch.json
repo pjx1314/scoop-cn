@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/coralogix/protofetch/releases/download/v0.1.21/protofetch_x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/coralogix/protofetch/releases/download/v0.1.21/protofetch_x86_64-pc-windows-msvc.tar.gz",
             "hash": "590afdf9a0cb25f430426ffdca2887329005d6de9a5e26239446bfb57af3e113"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/coralogix/protofetch/releases/download/v$version/protofetch_x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/coralogix/protofetch/releases/download/v$version/protofetch_x86_64-pc-windows-msvc.tar.gz"
             }
         }
     }

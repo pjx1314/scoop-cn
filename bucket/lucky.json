@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/gdy666/lucky/releases/download/v3.5.0/lucky_3.5.0_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/gdy666/lucky/releases/download/v3.5.0/lucky_3.5.0_Windows_x86_64.tar.gz",
             "hash": "3409e86cd3d0f873db4ef3f132e41215a71110a4a349fdffc5048fbfb13f1f21"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/gdy666/lucky/releases/download/v$version/lucky_$version_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/gdy666/lucky/releases/download/v$version/lucky_$version_Windows_x86_64.tar.gz"
             }
         }
     }

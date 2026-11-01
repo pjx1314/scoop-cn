@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/f0ng/poc2jar/releases/download/0.68/poc2jar-WINDOWS.zip",
+    "url": "https://gh-proxy.org/https://github.com/f0ng/poc2jar/releases/download/0.68/poc2jar-WINDOWS.zip",
     "hash": "0f3d4b2770226136355da468705eefa96f7d82431d8e3ec71442e0da194c3421",
     "pre_install": [
         "Set-Content \"$dir\\poc2jar.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/f0ng/poc2jar/releases/download/$version/poc2jar-WINDOWS.zip"
+        "url": "https://gh-proxy.org/https://github.com/f0ng/poc2jar/releases/download/$version/poc2jar-WINDOWS.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

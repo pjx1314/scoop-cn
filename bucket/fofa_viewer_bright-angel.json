@@ -6,7 +6,7 @@
     "suggest": {
         "java": "sec/oraclejdk8"
     },
-    "url": "https://gh-proxy.com/https://github.com/wgpsec/fofa_viewer/releases/download/1.1.16/FofaViewer_1.1.16_JDK8.zip",
+    "url": "https://gh-proxy.org/https://github.com/wgpsec/fofa_viewer/releases/download/1.1.16/FofaViewer_1.1.16_JDK8.zip",
     "hash": "63b2cba3c0cd2d7e309d9a91146aa684c3400070389bb791a8404eac82382a17",
     "pre_install": [
         "Set-Content \"$dir\\fofa_viewer.bat\" '@pushd %~dp0",
@@ -27,7 +27,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/wgpsec/fofa_viewer/releases/download/$version/FofaViewer_$version_JDK8.zip"
+        "url": "https://gh-proxy.org/https://github.com/wgpsec/fofa_viewer/releases/download/$version/FofaViewer_$version_JDK8.zip"
     },
     "notes": [
         "【工具类型】: Java工具",

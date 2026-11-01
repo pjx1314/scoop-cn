@@ -4,15 +4,15 @@
     "homepage": "https://cnquery.io/",
     "license": {
         "identifier": "BUSL-1.1",
-        "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/raw/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/raw/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/releases/download/v12.23.1/cnquery_12.23.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/releases/download/v12.23.1/cnquery_12.23.1_windows_amd64.zip",
             "hash": "e59e308c002ebadc25465d89c6b6fd84e27e6a9994b8cea836020ec764888572"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/mondoohq/cnquery/releases/download/v12.23.1/cnquery_12.23.1_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mondoohq/cnquery/releases/download/v12.23.1/cnquery_12.23.1_windows_arm64.zip",
             "hash": "daf7446a330f7613f2a335dd37cbb9268030b3668fef5af71fb1b77d9619fda2"
         }
     },

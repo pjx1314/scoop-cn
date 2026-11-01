@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/spotDL/spotify-downloader/releases/download/v4.6.0/spotdl-4.6.0-win32.exe#/spotdl.exe",
+            "url": "https://gh-proxy.org/https://github.com/spotDL/spotify-downloader/releases/download/v4.6.0/spotdl-4.6.0-win32.exe#/spotdl.exe",
             "hash": "e674030c3337cd74120a3a086887ce1a5195765cfc17e1971a2807e0a398b505"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/spotDL/spotify-downloader/releases/download/v$version/spotdl-$version-win32.exe#/spotdl.exe"
+                "url": "https://gh-proxy.org/https://github.com/spotDL/spotify-downloader/releases/download/v$version/spotdl-$version-win32.exe#/spotdl.exe"
             }
         }
     }

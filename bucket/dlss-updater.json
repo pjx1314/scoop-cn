@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Recol/DLSS-Updater/releases/download/V5.2.0/DLSS.Updater.5.2.0.msi",
+            "url": "https://gh-proxy.org/https://github.com/Recol/DLSS-Updater/releases/download/V5.2.0/DLSS.Updater.5.2.0.msi",
             "extract_dir": "PFiles64\\DLSS Updater",
             "hash": "81fcf59a8c06cf8b074309e290ea58ffdb8c4fd7c1f9653a02171dade89f8dc3"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Recol/DLSS-Updater/releases/download/V$version/DLSS.Updater.$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/Recol/DLSS-Updater/releases/download/V$version/DLSS.Updater.$version.msi"
             }
         }
     }

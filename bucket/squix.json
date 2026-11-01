@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-windows-amd64.exe#/squix.exe",
+            "url": "https://gh-proxy.org/https://github.com/eduardofuncao/squix/releases/download/v0.5.4-beta/squix-windows-amd64.exe#/squix.exe",
             "hash": "d1a03315c7d534eb179ec2e67021ef668f80df73d7f544118b946d405b1f788b"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/eduardofuncao/squix/releases/download/v$version/squix-windows-amd64.exe#/squix.exe"
+                "url": "https://gh-proxy.org/https://github.com/eduardofuncao/squix/releases/download/v$version/squix-windows-amd64.exe#/squix.exe"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "description": "OSS Review Toolkit (ORT) is a suite of tools to automate software compliance checks.",
     "homepage": "https://oss-review-toolkit.org/",
     "license": "Apache-2.0",
-    "url": "https://gh-proxy.com/https://github.com/oss-review-toolkit/ort/releases/download/97.3.0/ort-97.3.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/oss-review-toolkit/ort/releases/download/97.3.0/ort-97.3.0.zip",
     "hash": "928223e8d3da7492fc91831a2a40d8b07cbd1bb87c7d28464382e794e9609dea",
     "extract_dir": "ort-97.3.0",
     "bin": "bin\\ort.bat",
@@ -17,7 +17,7 @@
         "github": "https://github.com/oss-review-toolkit/ort"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/oss-review-toolkit/ort/releases/download/$version/ort-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/oss-review-toolkit/ort/releases/download/$version/ort-$version.zip",
         "extract_dir": "ort-$version"
     }
 }

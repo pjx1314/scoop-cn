@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/caelansar/termirs/releases/download/v0.3.4/termirs-v0.3.4-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/caelansar/termirs/releases/download/v0.3.4/termirs-v0.3.4-x86_64-pc-windows-msvc.zip",
             "hash": "f785ce4a3f3bbf93947dce920dcc9dd55f980c7984f65df08de98ec28237ff99"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/caelansar/termirs/releases/download/v$version/termirs-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/caelansar/termirs/releases/download/v$version/termirs-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

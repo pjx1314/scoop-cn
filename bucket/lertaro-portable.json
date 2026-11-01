@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Portable.zip",
             "hash": "96e2eb11a2d1883348771d4c866e2796dcd293f206f1ac46d11686568edec606"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Portable-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v5.12.2/Lertaro-Portable-arm64.zip",
             "hash": "5eec7f4025d5dc59b9b4a1ed96ac840fd060fb58aaabcbde6fb47a17d94a1cdc"
         }
     },
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Portable.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Portable-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Lertaro/Lertaro/releases/download/v$version/Lertaro-Portable-arm64.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
             "sec/oraclejre8"
         ]
     },
-    "url": "https://gh-proxy.com/https://github.com/tpt11fb/AttackTomcat/releases/download/V1/TomcatPass.zip",
+    "url": "https://gh-proxy.org/https://github.com/tpt11fb/AttackTomcat/releases/download/V1/TomcatPass.zip",
     "hash": "80eaba28895940b3a060b16ef89b8236eaf4424025a6309056edd293dc6bf9b2",
     "pre_install": [
         "Set-Content \"$dir\\TomcatPass.bat\" '@pushd %~dp0",
@@ -25,7 +25,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/tpt11fb/AttackTomcat/releases/download/V$version/TomcatPass.zip"
+        "url": "https://gh-proxy.org/https://github.com/tpt11fb/AttackTomcat/releases/download/V$version/TomcatPass.zip"
     },
     "notes": [
         "【工具类型】: 安全测试工具",

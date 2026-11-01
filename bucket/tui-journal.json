@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip",
             "hash": "d54f332b9609bf30699d160f22891952b1bb1cf67a6b96c1276f3da41957dd5a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/AmmarAbouZor/tui-journal/releases/download/v$version/tjournal-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/AmmarAbouZor/tui-journal/releases/download/v$version/tjournal-win.zip"
             }
         }
     }

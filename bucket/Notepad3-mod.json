@@ -26,11 +26,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x64_Portable.zip",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/replace-windows-notepad.reg",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/restore-windows-notepad.reg",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/add-open-with-notepad3.reg",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/remove-open-with-notepad3.reg"
+                "https://gh-proxy.org/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x64_Portable.zip",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/replace-windows-notepad.reg",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/restore-windows-notepad.reg",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/add-open-with-notepad3.reg",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/remove-open-with-notepad3.reg"
             ],
             "hash": [
                 "4f8d02c5c1d5943cd0495c4322ee2e3d07c4734f15d29e2e24ae6f5fcbc1a9eb",
@@ -42,11 +42,11 @@
         },
         "32bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x86_Portable.zip",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/replace-windows-notepad.reg",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/restore-windows-notepad.reg",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/add-open-with-notepad3.reg",
-                "https://gh-proxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/remove-open-with-notepad3.reg"
+                "https://gh-proxy.org/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_7.26.602.1/Notepad3_7.26.602.1_x86_Portable.zip",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/replace-windows-notepad.reg",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/restore-windows-notepad.reg",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/add-open-with-notepad3.reg",
+                "https://gh-proxy.org/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/scripts/notepad3/remove-open-with-notepad3.reg"
             ],
             "hash": [
                 "08ba4efd7dbbb014e7605ca2d3348ea1d4320a7b168826e1e6fbf510fec88147",
@@ -85,10 +85,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x64_Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x64_Portable.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x86_Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x86_Portable.zip"
             }
         }
     }

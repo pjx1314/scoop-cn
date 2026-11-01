@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stenzek/duckstation/releases/download/v0.1-12083/duckstation-windows-x64-release.zip",
+            "url": "https://gh-proxy.org/https://github.com/stenzek/duckstation/releases/download/v0.1-12083/duckstation-windows-x64-release.zip",
             "hash": "c7b126b98c19a87fa5f7068adc26d8f59d8e3266cd7ec5d257d039c8984fbbb8",
             "bin": [
                 [

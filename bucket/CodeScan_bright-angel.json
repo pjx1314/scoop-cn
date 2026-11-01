@@ -9,11 +9,11 @@
     ],
     "homepage": "https://github.com/Zjackky/CodeScan",
     "license": "UNKNOWN",
-    "url": "https://gh-proxy.com/https://github.com/Zjackky/CodeScan/releases/download/v1.0.1/CodeScan_windows_amd64.exe#/CodeScan.exe",
+    "url": "https://gh-proxy.org/https://github.com/Zjackky/CodeScan/releases/download/v1.0.1/CodeScan_windows_amd64.exe#/CodeScan.exe",
     "hash": "",
     "bin": "CodeScan.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Zjackky/CodeScan/releases/download/v$version/CodeScan_windows_amd64.exe#/CodeScan.exe"
+        "url": "https://gh-proxy.org/https://github.com/Zjackky/CodeScan/releases/download/v$version/CodeScan_windows_amd64.exe#/CodeScan.exe"
     }
 }

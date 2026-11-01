@@ -10,7 +10,7 @@
     "suggest": {
         "vcredist": "main/vcredist2022"
     },
-    "url": "https://gh-proxy.com/https://github.com/microsoft/winget-cli/releases/download/v1.29.380/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/microsoft/winget-cli/releases/download/v1.29.380/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
     "hash": "65dea9c01ce08ee7b763366b27c0e651f97db857c11ca9b9c301826c10092f2e",
     "architecture": {
         "64bit": {
@@ -31,7 +31,7 @@
         "github": "https://github.com/microsoft/winget-cli"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/microsoft/winget-cli/releases/download/v$version/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/microsoft/winget-cli/releases/download/v$version/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
         "hash": {
             "url": "$urlNoExt.txt"
         }

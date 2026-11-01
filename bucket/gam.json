@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/GAM-team/GAM/releases/download/v7.50.00/gam-7.50.00-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/GAM-team/GAM/releases/download/v7.50.00/gam-7.50.00-windows-x86_64.zip",
             "hash": "dd05f84cf65fa9411f0cd85e94b958566a27a1856f28a63a7d88ab43cd56bf42"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/GAM-team/GAM/releases/download/v$version/gam-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/GAM-team/GAM/releases/download/v$version/gam-$version-windows-x86_64.zip"
             }
         }
     }

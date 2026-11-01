@@ -4,11 +4,11 @@
     "homepage": "https://github.com/shinyflvre/Mate-Engine",
     "license": {
         "identifier": "AGPL-3.0-only",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shinyflvre/Mate-Engine/refs/heads/main/LICENSE"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/shinyflvre/Mate-Engine/refs/heads/main/LICENSE"
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/shinyflvre/Mate-Engine/releases/download/Public-Release-X3.2.0/Public.Release.X3.2.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/shinyflvre/Mate-Engine/releases/download/Public-Release-X3.2.0/Public.Release.X3.2.0.zip",
             "hash": "2a22db853d411146e05228583e1045eb2fe42e1f4dee90a8f78a28eb0eedf8fe"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/shinyflvre/Mate-Engine/releases/download/Public-Release-$version/Public.Release.$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/shinyflvre/Mate-Engine/releases/download/Public-Release-$version/Public.Release.$version.zip"
             }
         }
     }

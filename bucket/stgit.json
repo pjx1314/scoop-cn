@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/stacked-git/stgit/releases/download/v2.7.0/stgit-2.7.0.msi",
+            "url": "https://gh-proxy.org/https://github.com/stacked-git/stgit/releases/download/v2.7.0/stgit-2.7.0.msi",
             "hash": "deebf4db69c6c135babd8e692577b962de3c52ebaa93d3b9be4178fecd0e1bae",
             "extract_dir": "PFiles64/StGit"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/stacked-git/stgit/releases/download/v$version/stgit-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/stacked-git/stgit/releases/download/v$version/stgit-$version.msi"
             }
         }
     }

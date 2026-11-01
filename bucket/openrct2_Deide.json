@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-windows-portable-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-windows-portable-x64.zip",
             "hash": "6c07393312a828f845c71c9c18cefe2da5b759fe2b17ee02fbb9e4540b396280"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-windows-portable-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.6/OpenRCT2-v0.5.6-windows-portable-win32.zip",
             "hash": "8909f8e87ccb8fd08840952101028a6d879b159d78a7c168148bf2c9ac0e2795"
         }
     },

@@ -6,7 +6,7 @@
         "identifier": "GPL-2.0-or-later",
         "url": "https://cytoscape.org/download.html"
     },
-    "url": "https://gh-proxy.com/https://github.com/cytoscape/cytoscape/releases/download/3.10.5/cytoscape-windows-3.10.5.zip",
+    "url": "https://gh-proxy.org/https://github.com/cytoscape/cytoscape/releases/download/3.10.5/cytoscape-windows-3.10.5.zip",
     "hash": "79c6668abb96bfe3750a53293f950544bdbe879f55d7108a3e3bf1f99eeef615",
     "suggest": {
         "java": "main/openjdk11"
@@ -22,7 +22,7 @@
         "github": "https://github.com/cytoscape/cytoscape"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/cytoscape/cytoscape/releases/download/$version/cytoscape-windows-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/cytoscape/cytoscape/releases/download/$version/cytoscape-windows-$version.zip",
         "extract_dir": "cytoscape-windows-$version"
     }
 }

@@ -6,7 +6,7 @@
     "notes": "config location: C:\\Users\\<your username>\\AppData\\Roaming\\notepad - https://github.com/viCrack",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cxasm/notepad--/releases/download/notepad-v3.9.1/Notepad--v3.9.1-win10-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/cxasm/notepad--/releases/download/notepad-v3.9.1/Notepad--v3.9.1-win10-portable.zip",
             "hash": "58affc3e9587f4bb437a85b6f24bf0e6f044cd827eb6e16ed61a5f74fd8aff9e",
             "extract_dir": "Notepad--v3.9.1-win10-portable"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cxasm/notepad--/releases/download/notepad-v$version/Notepad--v$version-win10-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/cxasm/notepad--/releases/download/notepad-v$version/Notepad--v$version-win10-portable.zip",
                 "extract_dir": "Notepad--v$version-win10-portable"
             }
         }

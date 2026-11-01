@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/pulumi/esc/releases/download/v0.26.0/esc-v0.26.0-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pulumi/esc/releases/download/v0.26.0/esc-v0.26.0-windows-x64.zip",
             "hash": "6a872be94c47590a6d1dc3663f2193b52e4bbb1e2b6263c8e55ab9f673c11a40"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/pulumi/esc/releases/download/v0.26.0/esc-v0.26.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pulumi/esc/releases/download/v0.26.0/esc-v0.26.0-windows-arm64.zip",
             "hash": "f7132cdb896f7f4371990c48f2761938c7e03aad7d90482feac6e7d8c1a665b1"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/pulumi/esc/releases/download/v$version/esc-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pulumi/esc/releases/download/v$version/esc-v$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/pulumi/esc/releases/download/v$version/esc-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pulumi/esc/releases/download/v$version/esc-v$version-windows-arm64.zip"
             }
         },
         "hash": {

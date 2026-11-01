@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/win32ss/supermium/releases/download/v150-r2.01/supermium_150_64_setup_win10_11.exe#/dl.zip",
+            "url": "https://gh-proxy.org/https://github.com/win32ss/supermium/releases/download/v150-r2.01/supermium_150_64_setup_win10_11.exe#/dl.zip",
             "hash": "e11192d87300a652854c3b28c1290a730509e5ad3c7c096579859dad6139b9cb"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/win32ss/supermium/releases/download/v150-r2.01/supermium_150_32_setup.exe#/dl.zip",
+            "url": "https://gh-proxy.org/https://github.com/win32ss/supermium/releases/download/v150-r2.01/supermium_150_32_setup.exe#/dl.zip",
             "hash": "e86f7fec4b55a8c65842e17252139a757d143a1210de5b8f8ff911a95be009c8"
         }
     },
@@ -51,10 +51,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_64_setup_win10_11.exe#/dl.zip"
+                "url": "https://gh-proxy.org/https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_64_setup_win10_11.exe#/dl.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_32_setup.exe#/dl.zip"
+                "url": "https://gh-proxy.org/https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_32_setup.exe#/dl.zip"
             }
         }
     }

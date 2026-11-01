@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-openvino-2026.4.1-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b12032/llama-b12032-bin-win-openvino-2026.4.1-x64.zip",
             "hash": "116e2d809824060ab555e522b86bb9d1f3f2ca9193f90aba25e03b7ad96ec175"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-openvino-$matchVino-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-openvino-$matchVino-x64.zip"
             }
         }
     }

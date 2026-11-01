@@ -11,9 +11,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v12.1.4/KCC_12.1.4.exe#/KCC.exe",
-                "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2e_12.1.4_AMD64.exe#/kcc-c2e.exe",
-                "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2p_12.1.4_AMD64.exe#/kcc-c2p.exe"
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v12.1.4/KCC_12.1.4.exe#/KCC.exe",
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2e_12.1.4_AMD64.exe#/kcc-c2e.exe",
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2p_12.1.4_AMD64.exe#/kcc-c2p.exe"
             ],
             "hash": [
                 "faad92efdb7810a652e1df7e8a754c4fefbc6610768b81205087bfd96ae4d6ff",
@@ -23,9 +23,9 @@
         },
         "arm64": {
             "url": [
-                "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v12.1.4/KCC_ARM64_12.1.4.exe#/KCC.exe",
-                "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2e_12.1.4_ARM64.exe#/kcc-c2e.exe",
-                "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2p_12.1.4_ARM64.exe#/kcc-c2p.exe"
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v12.1.4/KCC_ARM64_12.1.4.exe#/KCC.exe",
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2e_12.1.4_ARM64.exe#/kcc-c2e.exe",
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v12.1.4/tool_cli_c2p_12.1.4_ARM64.exe#/kcc-c2p.exe"
             ],
             "hash": [
                 "efb95890c2f918442450f47ae73f67fb2af9ffe01d88d0104ce1e0b31f3143dd",
@@ -49,16 +49,16 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_$version.exe#/KCC.exe",
-                    "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2e_$version_AMD64.exe#/kcc-c2e.exe",
-                    "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2p_$version_AMD64.exe#/kcc-c2p.exe"
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_$version.exe#/KCC.exe",
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2e_$version_AMD64.exe#/kcc-c2e.exe",
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2p_$version_AMD64.exe#/kcc-c2p.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_ARM64_$version.exe#/KCC.exe",
-                    "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2e_$version_ARM64.exe#/kcc-c2e.exe",
-                    "https://gh-proxy.com/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2p_$version_ARM64.exe#/kcc-c2p.exe"
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_ARM64_$version.exe#/KCC.exe",
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2e_$version_ARM64.exe#/kcc-c2e.exe",
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/tool_cli_c2p_$version_ARM64.exe#/kcc-c2p.exe"
                 ]
             }
         }

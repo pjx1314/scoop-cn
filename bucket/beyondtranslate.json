@@ -5,7 +5,7 @@
     "license": "Liteware",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/beyondtranslate/beyondtranslate-ce/releases/download/v0.6.0/beyondtranslate-0.6.0+19-windows-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/beyondtranslate/beyondtranslate-ce/releases/download/v0.6.0/beyondtranslate-0.6.0+19-windows-setup.exe",
             "hash": "c413ea8cd8a6ab0759b950c75592e05be2ae17edf808d713f2ed5b1bf83adf35"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/beyondtranslate/beyondtranslate-ce/releases/download/v$version/beyondtranslate-$version+$matchBuild-windows-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/beyondtranslate/beyondtranslate-ce/releases/download/v$version/beyondtranslate-$version+$matchBuild-windows-setup.exe"
             }
         }
     }

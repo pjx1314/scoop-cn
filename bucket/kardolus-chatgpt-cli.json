@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/kardolus/chatgpt-cli/releases/download/v1.11.0/chatgpt-windows-amd64.exe#/chatgpt.exe",
+            "url": "https://gh-proxy.org/https://github.com/kardolus/chatgpt-cli/releases/download/v1.11.0/chatgpt-windows-amd64.exe#/chatgpt.exe",
             "hash": "1a31cf9fec5cfad844e2da28e3ab7e2d66fa5a01598a9dbaeb17526c069b37a2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/kardolus/chatgpt-cli/releases/download/v$version/chatgpt-windows-amd64.exe#/chatgpt.exe"
+                "url": "https://gh-proxy.org/https://github.com/kardolus/chatgpt-cli/releases/download/v$version/chatgpt-windows-amd64.exe#/chatgpt.exe"
             }
         }
     }

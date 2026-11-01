@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin-windows-x64.zip",
             "hash": "7a6d18668b11324c3ee4ba80850f0997f9a943d8332fab18ee01113885beed11"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin-windows-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin-windows-x86.zip",
             "hash": "16739fc1cb5400cc5ceaf7fbcb9e1f544cf86b0f736cdf385faf34359fbc0f2e"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dragonflylee/switchfin/releases/download/0.9.4/Switchfin-windows-arm64.zip",
             "hash": "ea79989a8b2604e38cfd295d1c32a2d92c0f7fafbb494d0029ad60ca42ad9dd6"
         }
     },
@@ -27,13 +27,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x86.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-arm64.zip"
             }
         }
     }

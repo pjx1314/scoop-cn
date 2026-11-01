@@ -23,13 +23,13 @@
         }
     },
     "url": [
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_darwin_amd64",
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_darwin_arm64",
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_linux_386",
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_linux_amd64",
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_linux_arm64",
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_windows_386.exe",
-        "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_windows_amd64.exe"
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_darwin_amd64",
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_darwin_arm64",
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_linux_386",
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_linux_amd64",
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_linux_arm64",
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_windows_386.exe",
+        "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v0.3.2/spray_windows_amd64.exe"
     ],
     "hash": [
         "f27385bcaeb5f1ce2a886c229e5d58394d0a90c0ed6880772e6e62e9e8864294",
@@ -42,13 +42,13 @@
     ],
     "autoupdate": {
         "url": [
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_darwin_amd64",
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_darwin_arm64",
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_linux_386",
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_linux_amd64",
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_linux_arm64",
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_windows_386.exe",
-            "https://gh-proxy.com/https://github.com/chainreactors/spray/releases/download/v$version/spray_windows_amd64.exe"
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_darwin_amd64",
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_darwin_arm64",
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_linux_386",
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_linux_amd64",
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_linux_arm64",
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_windows_386.exe",
+            "https://gh-proxy.org/https://github.com/chainreactors/spray/releases/download/v$version/spray_windows_amd64.exe"
         ]
     }
 }

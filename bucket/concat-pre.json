@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/jub0t/Concat/releases/download/v0.2.0-alpha.21/WolfCut_0.2.0_x64-setup.exe",
+            "url": "https://gh-proxy.org/https://github.com/jub0t/Concat/releases/download/v0.2.0-alpha.21/WolfCut_0.2.0_x64-setup.exe",
             "hash": "b444aa7619df476d1f42b0da954ac358e8a44c55679bbe1448f042ab90ff0b15",
             "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninst*\" -Recurse"
         }
@@ -48,7 +48,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/jub0t/Concat/releases/download/v$version/WolfCut_$matchBuild_x64-setup.exe"
+                "url": "https://gh-proxy.org/https://github.com/jub0t/Concat/releases/download/v$version/WolfCut_$matchBuild_x64-setup.exe"
             }
         }
     }

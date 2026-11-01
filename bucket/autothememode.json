@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/tuyangJs/Windows_AutoTheme/releases/download/v1.6.0/AutoThemeMode_1.6.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/tuyangJs/Windows_AutoTheme/releases/download/v1.6.0/AutoThemeMode_1.6.0_x64-setup.exe#/dl.7z",
             "hash": "dc8947769a637309628118a7407ad8bcb5e8e4f5c98e52cffbc354523d3dcf63"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/tuyangJs/Windows_AutoTheme/releases/download/v$version/AutoThemeMode_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/tuyangJs/Windows_AutoTheme/releases/download/v$version/AutoThemeMode_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

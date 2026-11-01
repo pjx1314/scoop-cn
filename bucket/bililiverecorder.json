@@ -3,7 +3,7 @@
     "description": "BiliBili Stream Recorder",
     "license": "GPL-3.0-only",
     "version": "2.20.0",
-    "url": "https://gh-proxy.com/https://github.com/Bililive/BililiveRecorder/releases/download/v2.20.0/BililiveRecorder-WPF-Portable.zip",
+    "url": "https://gh-proxy.org/https://github.com/Bililive/BililiveRecorder/releases/download/v2.20.0/BililiveRecorder-WPF-Portable.zip",
     "hash": "bfdf8e9bb827f5721bc519d0207036f1f3582d447ca53900b6aa7eb8c0c7c65d",
     "shortcuts": [
         [
@@ -13,6 +13,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/Bililive/BililiveRecorder/releases/download/v$version/BililiveRecorder-WPF-Portable.zip"
+        "url": "https://gh-proxy.org/https://github.com/Bililive/BililiveRecorder/releases/download/v$version/BililiveRecorder-WPF-Portable.zip"
     }
 }

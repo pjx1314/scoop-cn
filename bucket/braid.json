@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/cscheid/braid/releases/download/v0.8.1/braid-0.8.1-windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cscheid/braid/releases/download/v0.8.1/braid-0.8.1-windows_amd64.zip",
             "hash": "891622bc837b76e57e63c9556d5614a56d881e6142ca6ffa1f74105275b9984b"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/cscheid/braid/releases/download/v$version/braid-$version-windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cscheid/braid/releases/download/v$version/braid-$version-windows_amd64.zip"
             }
         }
     }

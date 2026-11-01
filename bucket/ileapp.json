@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/abrignoni/iLEAPP/releases/download/v2026.4.5/iLEAPP-2026.4.5-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/abrignoni/iLEAPP/releases/download/v2026.4.5/iLEAPP-2026.4.5-windows-x64-portable.zip",
             "hash": "fb6ed9fad9e6aed631cf8415b3f09ae820bbd7aac1abfb497d07aaf0a00cd8da"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/abrignoni/iLEAPP/releases/download/v2026.4.5/iLEAPP-2026.4.5-windows-arm64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/abrignoni/iLEAPP/releases/download/v2026.4.5/iLEAPP-2026.4.5-windows-arm64-portable.zip",
             "hash": "c1cbf446e5831d89ab29553562005fa15f96ed9ca67f3364104c1b0474267312"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/abrignoni/iLEAPP/releases/download/v$version/iLEAPP-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/abrignoni/iLEAPP/releases/download/v$version/iLEAPP-$version-windows-x64-portable.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/abrignoni/iLEAPP/releases/download/v$version/iLEAPP-$version-windows-arm64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/abrignoni/iLEAPP/releases/download/v$version/iLEAPP-$version-windows-arm64-portable.zip"
             }
         },
         "hash": {

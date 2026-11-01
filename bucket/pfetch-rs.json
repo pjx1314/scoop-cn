@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/Gobidev/pfetch-rs/releases/download/v3.1.1/pfetch-windows-x86_64.exe#/pfetch.exe",
+            "url": "https://gh-proxy.org/https://github.com/Gobidev/pfetch-rs/releases/download/v3.1.1/pfetch-windows-x86_64.exe#/pfetch.exe",
             "hash": "395bd6f1a95947ed495f028cbda30ce284905856c9b21eb36bed70c5db54b563"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/Gobidev/pfetch-rs/releases/download/v$version/pfetch-windows-x86_64.exe#/pfetch.exe"
+                "url": "https://gh-proxy.org/https://github.com/Gobidev/pfetch-rs/releases/download/v$version/pfetch-windows-x86_64.exe#/pfetch.exe"
             }
         }
     }

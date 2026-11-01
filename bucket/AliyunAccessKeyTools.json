@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/NS-Sp4ce/AliyunAccessKeyTools",
     "license": "unknown",
-    "url": "https://gh-proxy.com/https://github.com/NS-Sp4ce/AliyunAccessKeyTools/releases/download/1.0/Release.zip",
+    "url": "https://gh-proxy.org/https://github.com/NS-Sp4ce/AliyunAccessKeyTools/releases/download/1.0/Release.zip",
     "hash": "4edfb37150bf2735387d5bd4c9cb0c9aac52e8e8392ff579f4dfc5cf0133cd66",
     "bin": "AliyunAkTools.exe",
     "shortcuts": [
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/NS-Sp4ce/AliyunAccessKeyTools/releases/download/$version/Release.zip"
+        "url": "https://gh-proxy.org/https://github.com/NS-Sp4ce/AliyunAccessKeyTools/releases/download/$version/Release.zip"
     }
 }

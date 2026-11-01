@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.windows-amd64.tar.gz",
             "extract_dir": "alertmanager-0.34.2.windows-amd64",
             "hash": "c00bdaf2b7442111a2333032ef38af0a3c9baed2275261c8ebe80da8a7f6fde6"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/alertmanager/releases/download/v0.34.2/alertmanager-0.34.2.windows-386.tar.gz",
             "extract_dir": "alertmanager-0.34.2.windows-386",
             "hash": "5975aa4b101e886733db955b551dd84390d35640acd7ef4a7350fb04bc69b29a"
         }
@@ -21,11 +21,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/alertmanager/releases/download/v$version/alertmanager-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/alertmanager/releases/download/v$version/alertmanager-$version.windows-amd64.tar.gz",
                 "extract_dir": "alertmanager-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/prometheus/alertmanager/releases/download/v$version/alertmanager-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/alertmanager/releases/download/v$version/alertmanager-$version.windows-386.tar.gz",
                 "extract_dir": "alertmanager-$version.windows-386"
             }
         },

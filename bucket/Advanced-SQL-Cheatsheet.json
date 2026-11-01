@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
     "license": "Unkown",
-    "url": "https://gh-proxy.com/https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/archive/refs/heads/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/archive/refs/heads/main.zip",
     "hash": "a1bc74744783283214f54ff0c109280da33fd345db5cd206e8e09517e0ed45a2",
     "extract_dir": "Advanced-SQL-Injection-Cheatsheet-main",
     "checkver": {
@@ -18,6 +18,6 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/archive/refs/heads/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/archive/refs/heads/main.zip"
     }
 }

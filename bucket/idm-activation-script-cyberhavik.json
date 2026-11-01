@@ -6,7 +6,7 @@
         "identifier": "MIT license",
         "url": "https://github.com/cyberhavik/IDM-Activation-Script#MIT-1-ov-file"
     },
-    "url": "https://gh-proxy.com/https://github.com/cyberhavik/IDM-Activation-Script/archive/main.zip",
+    "url": "https://gh-proxy.org/https://github.com/cyberhavik/IDM-Activation-Script/archive/main.zip",
     "hash": "fc0cca8890ff3e2803c7ac109893c2cffb4b87d2b0aaa31439d7cbedc062bfb3",
     "extract_dir": "IDM-Activation-Script-main",
     "bin": "IAS.cmd",
@@ -23,6 +23,6 @@
         "replace": "0.${1}.${2}.${3}.${4}${5}${6}"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/cyberhavik/IDM-Activation-Script/archive/main.zip"
+        "url": "https://gh-proxy.org/https://github.com/cyberhavik/IDM-Activation-Script/archive/main.zip"
     }
 }

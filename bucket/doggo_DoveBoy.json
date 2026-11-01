@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-x86_64.zip",
             "hash": "d3dcf3e3ff233acca443027f4cf072be6b331f0301f0ac3674d4de8802438791"
         },
         "32bit": {
-            "url": "https://gh-proxy.com/https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-i386.zip",
             "hash": "68fcd8b8d0bd6ce88f60660446ec71ebdbfe9a3e2890e3454511a5dc02c1f49b"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/mr-karan/doggo/releases/download/v$version/doggo-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mr-karan/doggo/releases/download/v$version/doggo-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.com/https://github.com/mr-karan/doggo/releases/download/v$version/doggo-windows-i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/mr-karan/doggo/releases/download/v$version/doggo-windows-i386.zip"
             }
         },
         "hash": {

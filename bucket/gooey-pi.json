@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/am-will/gooey-pi/releases/download/v1.1.21/GooeyPi-1.1.21-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/am-will/gooey-pi/releases/download/v1.1.21/GooeyPi-1.1.21-win-x64.zip",
             "hash": "42956bd49329766a2472b6b860fa31f564d9fd4c21daa26b90641c683d07f5d3"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/am-will/gooey-pi/releases/download/v$version/GooeyPi-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/am-will/gooey-pi/releases/download/v$version/GooeyPi-$version-win-x64.zip"
             }
         },
         "hash": {

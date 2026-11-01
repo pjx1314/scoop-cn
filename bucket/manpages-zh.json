@@ -3,7 +3,7 @@
     "description": "Chinese Manual Pages",
     "license": "GFDL-1.2-or-later",
     "version": "1.6.4.5",
-    "url": "https://gh-proxy.com/https://github.com/man-pages-zh/manpages-zh/archive/v1.6.4.5.zip",
+    "url": "https://gh-proxy.org/https://github.com/man-pages-zh/manpages-zh/archive/v1.6.4.5.zip",
     "hash": "63e990465b871658fa8b4f1c47c890771acba57a60e115dce71ef490f13cccf2",
     "extract_dir": "manpages-zh-1.6.4.5",
     "checkver": {
@@ -12,7 +12,7 @@
         "regex": "v?([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.com/https://github.com/man-pages-zh/manpages-zh/archive/v$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/man-pages-zh/manpages-zh/archive/v$version.zip",
         "extract_dir": "manpages-zh-$version"
     }
 }
